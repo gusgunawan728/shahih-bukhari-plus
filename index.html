@@ -3,33 +3,19 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>KelasKu+ | Guru Smart Academic — Platform Manajemen Akademik Madrasah</title>
-  <meta name="description" content="Platform Enterprise Manajemen Akademik Madrasah Multi-Tenant, Multi-User & Multi-Academic-Year. MTsN Kota Cimahi.">
-  <meta name="keywords" content="KelasKu+, Guru Smart Academic, MTsN Kota Cimahi, Rapor Madrasah, Kurikulum Merdeka, Presensi Siswa">
-  <meta name="theme-color" content="#2563eb">
+  <title>Shahih Bukhari Plus - Portal Digital Hadits Terlengkap</title>
+  <meta name="description" content="Portal digital ensiklopedia lengkap Kitab Shahih Al-Bukhari dengan 7.563 hadits utuh, silsilah sanad, dan Syarah Fathul Baari (36 Jilid) Maktabah Syamilah.">
+  <meta name="keywords" content="Shahih Bukhari Plus, Hadits Bukhari, Fathul Baari, Syarah Hadits, Kitab Hadits Online, Maktabah Syamilah">
+  <meta name="theme-color" content="#0ea570">
+  <link rel="icon" type="image/png" href="./images/app_emblem.png">
   
-  <!-- Google Fonts: Modern Sans -->
+  <!-- Google Fonts: Plus Jakarta Sans & Arabic Amiri -->
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-  <link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@300;400;500;600;700;800&display=swap" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css2?family=Amiri:ital,wght@0,400;0,700;1,400&family=Plus+Jakarta+Sans:wght@300;400;500;600;700;800&family=Scheherazade+New:wght@400;700&display=swap" rel="stylesheet">
 </head>
-<body class="bg-slate-50 text-slate-800 font-sans antialiased min-h-screen">
+<body class="bg-[#f8fafc] dark:bg-[#08120e] text-gray-800 dark:text-gray-100 font-sans antialiased min-h-screen">
   <div id="root"></div>
-  <script type="module" src="/src/main.jsx"></script>
-  <script>
-    // Clean up any stale Service Workers and caches from previous sessions
-    if ('serviceWorker' in navigator) {
-      navigator.serviceWorker.getRegistrations().then(function(registrations) {
-        for (let registration of registrations) {
-          registration.unregister();
-        }
-      });
-    }
-    if ('caches' in window) {
-      caches.keys().then(function(names) {
-        for (let name of names) caches.delete(name);
-      });
-    }
-  </script>
+  <script type="module" src="./src/main.jsx"></script>
 </body>
 </html>
