@@ -136,7 +136,7 @@ export default function Hero({
         {/* Gambar 1 Artwork */}
         <div className="relative w-full aspect-[16/9]">
           <img 
-            src="/images/shahih_bukhari_hero_banner.jpg" 
+            src="./images/shahih_bukhari_hero_banner.jpg" 
             alt="Shahih Bukhari Plus - Portal Digital Hadits Terlengkap" 
             className="w-full h-full object-cover select-none pointer-events-none"
           />

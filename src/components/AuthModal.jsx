@@ -49,7 +49,7 @@ export default function AuthModal({
         email: 'agus@digitab.id',
         role: 'premium',
         isPremium: true,
-        avatar: '/images/profile_agus.jpg',
+        avatar: './images/profile_agus.jpg',
         joinedDate: 'Januari 2026'
       };
     } else {
@@ -93,7 +93,7 @@ export default function AuthModal({
       email: email.trim(),
       role: 'premium',
       isPremium: true, // Bonus gratis premium untuk pendaftaran pertama
-      avatar: '/images/profile_agus.jpg',
+      avatar: './images/profile_agus.jpg',
       joinedDate: 'November 2026'
     };
 
@@ -141,7 +141,7 @@ export default function AuthModal({
           <div className="p-6 space-y-5">
             <div className="flex items-center gap-4 p-4 rounded-2xl bg-emerald-50 dark:bg-emerald-950/40 border border-emerald-200 dark:border-emerald-800">
               <img
-                src={currentUser.avatar || '/images/profile_agus.jpg'}
+                src={currentUser.avatar || './images/profile_agus.jpg'}
                 alt={currentUser.fullName}
                 className="w-14 h-14 rounded-full object-cover border-2 border-emerald-500 shadow-md"
               />

@@ -24,7 +24,7 @@ export default function SearchView({
 
   // Load quick index
   useEffect(() => {
-    fetch('/data/quick_search.json')
+    fetch('./data/quick_search.json')
       .then((res) => res.json())
       .then((data) => {
         setQuickIndex(data);

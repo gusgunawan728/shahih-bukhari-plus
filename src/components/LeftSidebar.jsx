@@ -70,7 +70,7 @@ export default function LeftSidebar({
                 {/* Gold Emblem */}
                 <div className="w-11 h-11 rounded-full overflow-hidden border border-amber-300/80 shadow-md bg-[#082e1f] shrink-0 p-0.5 group-hover:scale-105 transition-transform">
                   <img 
-                    src="/images/app_emblem.png" 
+                    src="./images/app_emblem.png" 
                     alt="Shahih Bukhari Plus Emblem" 
                     className="w-full h-full object-contain"
                   />

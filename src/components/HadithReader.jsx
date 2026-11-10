@@ -55,7 +55,7 @@ export default function HadithReader({
       }));
     } catch (e) {}
 
-    fetch(`/data/books/book_${bookId}.json`)
+    fetch(`./data/books/book_${bookId}.json`)
       .then((res) => {
         if (!res.ok) throw new Error(`Gagal memuat Kitab ${bookId}`);
         return res.json();
@@ -156,7 +156,7 @@ export default function HadithReader({
           {/* Cover Artwork Image Icon */}
           <div className="w-20 h-28 sm:w-24 sm:h-32 rounded-2xl overflow-hidden border-2 border-gold-400 shadow-2xl shrink-0">
             <img 
-              src="/images/shahih_bukhari_cover.jpg" 
+              src="./images/shahih_bukhari_cover.jpg" 
               alt={currentBookMeta.name_id}
               className="w-full h-full object-cover" 
             />

@@ -166,11 +166,11 @@ export default function Header({
                   {/* Circular Avatar */}
                   <div className="w-8 h-8 rounded-full overflow-hidden border-2 border-amber-400 shadow-xs shrink-0 bg-gray-200">
                     <img 
-                      src={currentUser?.avatar || "/images/profile_agus.jpg"} 
+                      src={currentUser?.avatar || "./images/profile_agus.jpg"} 
                       alt={currentUser?.fullName || "Agus Gunawan, M.Pd."}
                       className="w-full h-full object-cover"
                       onError={(e) => {
-                        e.target.src = "/images/profile_agus.jpg";
+                        e.target.src = "./images/profile_agus.jpg";
                       }}
                     />
                   </div>
@@ -197,7 +197,7 @@ export default function Header({
                     <div className="p-2.5 rounded-xl bg-gray-50 dark:bg-gray-800/60 flex items-center gap-3">
                       <div className="w-10 h-10 rounded-full overflow-hidden border border-amber-400 shrink-0">
                         <img 
-                          src={currentUser?.avatar || "/images/profile_agus.jpg"} 
+                          src={currentUser?.avatar || "./images/profile_agus.jpg"} 
                           alt="Avatar" 
                           className="w-full h-full object-cover"
                         />

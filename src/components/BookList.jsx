@@ -133,7 +133,7 @@ export default function BookList({ books, onSelectBook, onOpenFathulBariModal })
                 {/* Visual Cover Image (Icon Gambar Pertama Shahih Bukhari untuk Seluruh Bab) */}
                 <div className="h-44 sm:h-48 w-full relative overflow-hidden bg-emerald-950">
                   <img 
-                    src="/images/shahih_bukhari_cover.jpg" 
+                    src="./images/shahih_bukhari_cover.jpg" 
                     alt={`Kitab ${book.id}: ${book.name_id}`}
                     className="w-full h-full object-cover object-center group-hover:scale-105 transition-transform duration-500"
                     loading="lazy"

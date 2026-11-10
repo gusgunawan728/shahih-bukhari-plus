@@ -40,7 +40,7 @@ export default function App() {
       role: 'premium',
       plan: 'Paket Lifetime Pro',
       isPremium: true,
-      avatar: '/images/profile_agus.jpg'
+      avatar: './images/profile_agus.jpg'
     };
   });
   const [isAuthModalOpen, setIsAuthModalOpen] = useState(false);
@@ -69,8 +69,8 @@ export default function App() {
   // Load books metadata & gdrive library on mount
   useEffect(() => {
     Promise.all([
-      fetch('/data/books_metadata.json').then((r) => r.json()),
-      fetch('/data/gdrive_library.json').then((r) => r.json())
+      fetch('./data/books_metadata.json').then((r) => r.json()),
+      fetch('./data/gdrive_library.json').then((r) => r.json())
     ])
       .then(([bData, lData]) => {
         setBooks(bData);
@@ -266,7 +266,7 @@ export default function App() {
 
   const handleUpgradeSuccess = (plan) => {
     const updated = {
-      ...(currentUser || { username: 'agus', fullName: 'Agus Gunawan, M.Pd.', avatar: '/images/profile_agus.jpg' }),
+      ...(currentUser || { username: 'agus', fullName: 'Agus Gunawan, M.Pd.', avatar: './images/profile_agus.jpg' }),
       isPremium: true,
       plan: plan.name,
       role: 'premium'
