@@ -1,0 +1,744 @@
+{
+  "book": {
+    "id": 50,
+    "name_id": "Perjanjian Kemerdekaan Budak (Al-Makatib)",
+    "name_ar": "كتاب المكاتب",
+    "name_en": "Makaatib",
+    "hadith_count": 6,
+    "start_hadith": 2560,
+    "end_hadith": 2565,
+    "fathul_bari_jilid": "Jilid 14",
+    "fathul_bari_file": "Fathul Baari jilid 14.pdf",
+    "fathul_bari_url": "https://drive.google.com/file/d/1PIW4aezSMKmwjgumYRZLPw9qyYLkAkRc/preview",
+    "fathul_bari_preview": "https://drive.google.com/file/d/1PIW4aezSMKmwjgumYRZLPw9qyYLkAkRc/preview"
+  },
+  "hadiths": [
+    {
+      "number": 2560,
+      "arabic_number": 2560,
+      "book_id": 50,
+      "hadith_in_book": 1,
+      "text_ar": "وَقَالَ اللَّيْثُ حَدَّثَنِي يُونُسُ، عَنِ ابْنِ شِهَابٍ، قَالَ عُرْوَةُ قَالَتْ عَائِشَةُ ـ رضى الله عنها ـ إِنَّ بَرِيرَةَ دَخَلَتْ عَلَيْهَا تَسْتَعِينُهَا فِي كِتَابَتِهَا وَعَلَيْهَا خَمْسَةُ أَوَاقٍ، نُجِّمَتْ عَلَيْهَا فِي خَمْسِ سِنِينَ، فَقَالَتْ لَهَا عَائِشَةُ وَنَفِسَتْ فِيهَا أَرَأَيْتِ إِنْ عَدَدْتُ لَهُمْ عَدَّةً وَاحِدَةً، أَيَبِيعُكِ أَهْلُكِ، فَأُعْتِقَكِ، فَيَكُونَ وَلاَؤُكِ لِي فَذَهَبَتْ بَرِيرَةُ إِلَى أَهْلِهَا، فَعَرَضَتْ ذَلِكَ عَلَيْهِمْ فَقَالُوا لاَ إِلاَّ أَنْ يَكُونَ لَنَا الْوَلاَءُ‏.‏ قَالَتْ عَائِشَةُ فَدَخَلْتُ عَلَى رَسُولِ اللَّهِ صلى الله عليه وسلم فَذَكَرْتُ ذَلِكَ لَهُ‏.‏ فَقَالَ لَهَا رَسُولُ اللَّهِ صلى الله عليه وسلم ‏\"‏ اشْتَرِيهَا فَأَعْتِقِيهَا، فَإِنَّمَا الْوَلاَءُ لِمَنْ أَعْتَقَ ‏\"‏‏.‏ ثُمَّ قَامَ رَسُولُ اللَّهِ صلى الله عليه وسلم فَقَالَ ‏\"‏ مَا بَالُ رِجَالٍ يَشْتَرِطُونَ شُرُوطًا لَيْسَتْ فِي كِتَابِ اللَّهِ، مَنِ اشْتَرَطَ شَرْطًا لَيْسَ فِي كِتَابِ اللَّهِ فَهْوَ بَاطِلٌ، شَرْطُ اللَّهِ أَحَقُّ وَأَوْثَقُ ‏\"‏‏.‏",
+      "text_id": "",
+      "text_en": "Narrated 'Aishah (ra) that Barira came to seek her help in writing of emancipation and she had to pay five Uqiya (of gold) by five yearly installments. 'Aishah said to her, \"Do you think that if I pay the whole sum at once, your masters will sell you to me, and I will free you and your Wala' will be for me.\" Barira went to her masters and told them about that offer. They said that they would not agree to it unless her Wala' would be for them. 'Aishah further said, \"I went to Allah's Messenger (ﷺ) and told him about it.\" Allah's Messenger (ﷺ) said to her, \"Buy Barira and manumit her and the Wala' will be for the liberator.\" Allah's Messenger (ﷺ) then got up and said, \"What about those people who stipulate conditions that are not present in Allah's Laws? If anybody stipulates a condition which is not in Allah's Laws, then what he stipulates is invalid. Allah's Condition (Laws) are the truth and are more solid",
+      "text_ur": "لیث نے کہا کہ مجھ سے یونس نے بیان کیا، ان سے ابن شہاب نے، ان سے عروہ نے کہ عائشہ رضی اللہ عنہا نے کہا کہ بریرہ رضی اللہ عنہا ان کے پاس آئیں اپنے مکاتبت کے معاملہ میں ان کی مدد حاصل کرنے کے لیے۔ بریرہ رضی اللہ عنہا کو پانچ اوقیہ چاندی پانچ سال کے اندر پانچ قسطوں میں ادا کرنی تھی۔ عائشہ رضی اللہ عنہا نے کہا، انہیں خود بریرہ رضی اللہ عنہا کے آزاد کرانے میں دلچسپی ہو گئی تھی، ( عائشہ رضی اللہ عنہا نے فرمایا ) کہ یہ بتاؤ اگر میں انہیں ایک ہی مرتبہ ( چاندی کے یہ پانچ اوقیہ ) ادا کر دوں تو کیا تمہارے مالک تمہیں میرے ہاتھ بیچ دیں گے؟ پھر میں تمہیں آزاد کر دوں گی اور تمہاری ولاء میرے ساتھ قائم ہو جائے گی۔ بریرہ رضی اللہ عنہا اپنے مالکوں کے ہاں گئیں اور ان کے آگے یہ صورت رکھی۔ انہوں نے کہا کہ ہم یہ صورت اس وقت منظور کر سکتے ہیں کہ رشتہ ولاء ہمارے ساتھ رہے۔ عائشہ رضی اللہ عنہا نے کہا کہ پھر میرے پاس نبی کریم صلی اللہ علیہ وسلم تشریف لائے تو میں نے آپ صلی اللہ علیہ وسلم سے اس کا ذکر کیا آپ صلی اللہ علیہ وسلم نے فرمایا کہ تو خرید کر بریرہ رضی اللہ عنہا کو آزاد کر دے، ولاء تو اس کی ہوتی ہے جو آزاد کرے۔ پھر رسول اللہ صلی اللہ علیہ وسلم نے لوگوں کو خطاب فرمایا کہ کچھ لوگوں کو کیا ہو گیا ہے جو ( معاملات میں ) ایسی شرطیں لگاتے ہیں جن کی کوئی جڑ ( دلیل ) بنیاد کتاب اللہ میں نہیں ہے۔ پس جو شخص کوئی ایسی شرط لگائے جس کی کوئی اصل ( دلیل، بنیاد ) کتاب اللہ میں نہ ہو تو وہ شرط غلط ہے۔ اللہ تعالیٰ کی شرط ہی زیادہ حق اور زیادہ مضبوط ہے۔",
+      "text_fr": "Rapporté par 'Aishah رضي الله عنها : Barira est venue demander de l’aide pour son contrat d’affranchissement, qui était de cinq uqiya (d’or) à payer en cinq versements annuels. 'Aishah lui a dit : « Penses-tu que si je paie toute la somme d’un coup, tes maîtres accepteraient de te vendre à moi, et je te libérerais, et ton Wala’ serait pour moi ? » Barira en a parlé à ses maîtres, qui ont refusé à moins que le Wala’ soit pour eux. 'Aishah a raconté cela au Messager d’Allah (ﷺ), qui lui a dit : « Achète Barira, affranchis-la, et le Wala’ sera pour celui qui libère. » Puis le Messager d’Allah (ﷺ) s’est levé et a dit : « Que dire de ceux qui posent des conditions qui ne sont pas dans les lois d’Allah ? Si quelqu’un pose une condition qui n’est pas dans les lois d’Allah, cette condition est nulle. La condition d’Allah est la vérité et plus solide. »",
+      "fathul_bari": {
+        "jilid": "Jilid 14",
+        "scope": "Kitab #50 (Perjanjian Kemerdekaan Budak (Al-Makatib))",
+        "shamela_ref": {
+          "book_id": 1673,
+          "scope_ar": "صحيح البخاري - كتاب المكاتب"
+        },
+        "indonesia_ref": {
+          "jilid": "Jilid 14",
+          "sumber": "Kitab Fathul Baari Jilid 14 (Format Teks JSON)"
+        },
+        "ringkasan_syarah_id": "Al-Hafizh Ibnu Hajar Al-’Asqalani dalam Fathul Baari (Jilid 14) menjelaskan bahwa hadits nomor 2560 ini merupakan landasan utama dalam Perjanjian Kemerdekaan Budak (Al-Makatib). Keterangan syarah menetapkan: \"...\". Ibnu Hajar memaparkan keserasian hadits dengan bab fiqih, membimbing umat agar meneladani tuntunan Rasulullah ﷺ secara utuh, serta menguraikan hukum-hukum amaliah yang disepakati oleh jumhur ulama.",
+        "ringkasan_syarah_ar": "وَالْأَوْزَاعِيِّ، وَاللَّيْثِ، وَأَبِي ثَوْرٍ وَأَحَدُ قَوْلَيِ الشَّافِعِيِّ، وَمَالْكٍ، وَاخْتَارَهُ ابْنُ جُرَيْجٍ، وَابْنُ الْمُنْذِرِ وَغَيْرُهُمَا عَلَى تَفَاصِيلَ لَهُمْ فِي ذَلِكَ، وَمَنَعَهُ أَبُو حَنِيفَةَ، وَالشَّافِعِيُّ فِي أَصَحِّ الْقَوْلَيْنِ وَبَعْضُ الْمَالِكِيَّةِ، وَأَجَابُوا عَنْ قِصَّةِ بَرِيرَةَ بِأَنَّهَا عَجَّزَتْ نَفْسَهَا، وَاسْتَدَلُّوا بِاسْتِعَانَةِ بَرِيرَةَ عَائِشَةَ فِي ذَلِكَ، وَلَيْسَ فِي اسْتِعَانَتِهَا مَا يَسْتَلْزِمُ الْعَجْزَ، وَلَا سِيَّمَا مَعَ الْقَوْلِ بِجَوَازِ كِتَابَةِ مَنْ لَا مَالَ عِنْدَهُ وَلَا حِرْفَةَ لَهُ.قَالَ ابْنُ عَبْدِ الْبَرِّ: لَيْسَ فِي شَيْءٍ مِنْ طُرُقِ حَدِيثِ بَرِيرَةَ أَنَّهَا عَجَزَتْ عَنْ أَدَاءِ النَّجْمِ، وَلَا أَخْبَرَتْ بِأَنَّهُ قَدْ حَلَّ عَلَيْهَا شَيْءٌ، وَلَمْ يَرِدْ فِي شَيْءٍ مِنْ طُرُقِهِ اسْتِفْصَالُ النَّبِيِّ ﷺ لَهَا عَنْ شَيْءٍ مِنْ ذَلِكَ، وَمِنْهُمْ مَنْ أَوَّلَ قَوْلَهَا: كَاتَبْتُ أَهْلِي فَقَالَ: مَعْنَاهُ رَاوَدْتُهُمْ وَاتَّفَقْتُ مَعَهُمْ عَلَى هَذَا الْقَدْرِ وَلَمْ يَقَعِ الْعَقْدُ بَعْدُ، وَلِذَلِكَ بِيعَتْ، فَلَا حُجَّةَ فِيهِ عَلَى بَيْعِ الْمُكَاتَبِ مُطْلَقًا، وَهُوَ خِلَافُ ظَاهِرِ سِيَاقِ الْحَدِيثِ، قَالَهُ الْقُرْطُبِيُّ. وَيُقَوِّي الْجَوَازَ أَيْضًا أَنَّ الْكِتَابَةَ عِتْقٌ بِصِفَةٍ فَيَجِبُ أَنْ لَا يَعْتِقَ إِلَّا بَعْدَ أَدَاءِ جَمِيعِ النُّجُومِ، كَمَا لَوْ قَالَ: أَنْتَ حُرٌّ إِنْ دَخَلْتَ الدَّارَ فَلَا يَعْتِقُ إِلَّا بَعْدَ تَمَامِ دُخُولِهَا، وَلِسَيِّدِهِ بَيْعُهُ قَبْلَ دُخُولِهَا. وَمِنَ الْمَالِكِيَّةِ مَنْ زَعَمَ أَنَّ الَّذِي اشْتَرَتْهُ عَائِشَةُ كِتَابَةُ بَرِيرَةَ لَا رَقَبَتُهَا وَقَدْ تَقَدَّمَ رَدُّهُ، وَقِيلَ: إِنَّهُمْ بَاعُوا بَرِيرَةَ بِشَرْطِ الْعِتْقِ، وَإِذَا وَقَعَ الْبَيْعُ بِشَرْطِ الْعِتْقِ صَحَّ عَلَى أَصَحِّ الْقَوْلَيْنِ عِنْدَ الشَّافِعِيَّةِ وَالْمَالِكِيَّةِ، وَعَنِ الْحَنَفِيَّةِ يَبْطُلُ.قَوْلُهُ: (وَقَالَتْ عَائِشَةُ: هُوَ عَبْدٌ مَا بَقِيَ عَلَيْهِ شَيْءٌ. وَقَالَ زَيْدُ بْنُ ثَابِتٍ: مَا بَقِيَ عَلَيْهِ دِرْهَمٌ. وَقَالَ ابْنُ عُمَرَ: هُوَ عَبْدٌ إِنْ عَاشَ وَإِنْ مَاتَ وَإِنْ جَنَى مَا بَقِيَ عَلَيْهِ شَيْءٌ) أَمَّا قَوْلُ عَائِشَةَ فَوَصَلَهُ ابْنُ أَبِي شَيْبَةَ، وَابْنُ سَعْدٍ مِنْ طَرِيقِ عَمْرِو بْنِ مَيْمُونٍ عَنْ سُلَيْمَانَ بْنِ يَسَارٍ قَالَ: اسْتَأْذَنْتُ عَلَى عَائِشَةَ فَرَفَعْتُ صَوْتِي، فَقَالَتْ: سُلَيْمَانُ؟ فَقُلْتُ: سُلَيْمَانُ. فَقَالَتْ: أَدَّيْتَ مَا بَقِيَ عَلَيْكَ مِنْ كِتَابَتِكَ؟ قُلْتُ: نَعَمْ إِلَّا شَيْئًا يَسِيرًا. قَالَتِ: ادْخُلْ، فَإِنَّكَ عَبْدٌ مَا بَقِيَ عَلَيْكَ شَيْءٌ.وَرَوَى الطَّحَاوِيُّ مِنْ طَرِيقِ ابْنِ أَبِي ذِئْبٍ، عَنْ عِمْرَانَ بْنِ بَشِيرٍ عَنْ سَالِمٍ هُوَ مَوْلَى النَّضْرِيِّينَ أَنَّهُ قَالَ لِعَائِشَةَ: مَا أَرَاكِ إِلَّا سَتَحْتَجِبِينَ مِنِّي. فَقَالَتْ: مَا لَكَ؟ فَقَالَ: كَاتَبْتُ، فَقَالَتْ: إِنَّكَ عَبْدٌ مَا بَقِيَ عَلَيْكَ شَيْءٌ وَأَمَّا قَوْلُ زَيْدِ بْنِ ثَابِتٍ فَوَصَلَهُ الشَّافِعِيُّ، وَسَعِيدُ بْنُ مَنْصُورٍ مِنْ طَرِيقِ ابْنِ أَبِي نَجِيحٍ، عَنْ مُجَاهِدٍ أَنَّ زَيْدَ بْنَ ثَابِتٍ قَالَ فِي الْمُكَاتَبِ: هُوَ عَبْدٌ مَا بَقِيَ عَلَيْهِ دِرْهَمٌ.وَأَمَّا قَوْلُ ابْنِ عُمَرَ فَوَصَلَهُ مَالِكٌ، عَنْ نَافِعٍ أَنَّ عَبْدَ اللَّهِ بْنَ عُمَرَ كَانَ يَقُولُ فِي الْمُكَاتَبِ: هُوَ عَبْدٌ مَا بَقِيَ عَلَيْهِ شَيْءٌ وَوَصَلَهُ ابْنُ أَبِي شَيْبَةَ مِنْ طَرِيقِ عُبَيْدِ اللَّهِ بْنِ عُمَرَ، عَنْ نَافِعٍ عَنِ ابْنِ عُمَرَ قَالَ: الْمُكَاتَبُ عَبْدٌ مَا بَقِيَ عَلَيْهِ دِرْهَمٌ وَقَدْ رُوِيَ ذَلِكَ مَرْفُوعًا، أَخْرَجَهُ أَبُو دَاوُدَ، وَالنَّسَائِيُّ مِنْ طَرِيقِ عَمْرِو بْنِ شُعَيْبٍ عَنْ أَبِيهِ عَنْ جَدِّهِ وَصَحَّحَهُ الْحَاكِمُ، وَأَخْرَجَهُ ابْنُ حِبَّانَ مِنْ وَجْهٍ آخَرَ عَنْ عَبْدِ اللَّهِ بْنِ عَمْرٍو فِي أَثْنَاءِ حَدِيثٍ، وَهُوَ قَوْلُ الْجُمْهُورِ، وَيُؤَيِّدُهُ قِصَّةُ بَرِيرَةَ، لَكِنْ إِنَّمَا تَتِمُّ الدَّلَالَةُ مِنْهُ لَوْ كَانَتْ بَرِيرَةُ أَدَّتْ مِنْ كِتَابَتِهَا شَيْئًا فَقَدْ قَرَّرْنَا أَنَّهَا لَمْ تَكُنْ أَدَّتْ مِنْهَا شَيْئًا، وَكَانَ فِيهِ خِلَافٌ عَنِ السَّلَفِ: فَعَنْ عَلِيٍّ إِذَا أَدَّى الشَّطْرَ فَهُوَ غَرِيمٌ، وَعَنْهُ يَعْتِقُ مِنْهُ بِقَدْرِ مَا أَدَّى، وَعَنِ ابْنِ مَسْعُودٍ لَوْ كَاتَبَهُ عَلَى مِائَتَيْنِ وَقِيمَتُهُ مِائَةٌ فَأَدَّى الْمِائَةَ عَتَقَ، وَعَنْ عَطَاءٍ إِذَا أَدَّى ثَلَاثَةَ أَرْبَاعِ كِتَابَتِهِ عَتَقَ، وَرَوَى النَّسَائِيُّ، عَنِ ابْنِ عَبَّاسٍ مَرْفُوعًا الْمُكَاتَبُ يَعْتِقُ مِنْهُ بِقَدْرِ مَا أَدَّى، وَرِجَالُ إِسْنَادِهِ ثِقَاتٌ، لَكِنِ اخْتُلِفَ فِي إِرْسَالِهِ وَوَصْلِهِ، وَحُجَّةُ الْجُمْهُورِ حَدِيثُ عَائِشَةَ وَهُوَ أَقْوَى، وَوَجْهُ الدَّلَالَةِ مِنْهُ أَنَّ بَرِيرَةَ بِيعَتْ بَعْدَ أَنْ كَاتَبَتْ، وَلَوْ كَانَ الْمُكَاتَبُ يَصِيرُ بِنَفْسِ الْكِتَابَةِ حُرًّا لَامْتَنَعَ بَيْعُهَا.ثُمَّ سَاقَ الْمُصَنِّفُ قِصَّةَ بَرِيرَةَ مِنْ رِوَايَةِ يَحْيَى بْنِ سَعِيدٍ، عَنْ عَمْرَةَ بِنْتِ عَبْدِ الرَّحْمَنِ أَنَّ بَرِيرَةَ جَاءَتْ تَسْتَعِينُ عَائِشَةَ، وَصُورَةُ سِيَاقِهِ الْإِرْسَالُ، وَلَمْ تَخْتَلِفِ الرُّوَاةُ عَنْ مَالِكٍ فِي ذَلِكَ، لَكِنْ تَقَدَّمَ فِي أَبْوَابِ الْمَسَاجِدِ مِنْ وَجْهٍ آخَرَ عَنْ يَحْيَى بْنِ سَعِيدٍ عَنْ عَمْرَةَ عَنْ عَائِشَةَ، وَفِي رِوَايَةٍ هُنَاكَ عَنْ عَمْرَةَ سَمِعْتُ عَائِشَةَ، فَظَهَرَ أَنَّهُ مَوْصُولٌ، وَقَدْ وَصَلَهُ ابْنُ خُزَيْمَةَ مِنْ طَرِيقِ مُطَرِّفٍ، عَنْ مَالِكٍ كَذَلِكَ. وَقَوْلُهُ: إِلَّا أَنْ",
+        "ringkasan_syarah_en": "In Fath al-Bari (Jilid 14), Al-Hafiz Ibn Hajar al-Asqalani clarifies hadith no. 2560 under Makaatib. He highlights how the prophetic tradition substantiates the core legal principles and provides practical guidance for believers.",
+        "keterangan_lafal_trilingual": [
+          {
+            "lafal_arab": "‏\"‏‏.‏",
+            "makna_id": "Lafazh pokok dalam matan hadits",
+            "makna_en": "Core term in the prophetic narration",
+            "syarah_ar": "مِنَ الأَلْفَاظِ الَّتِي اعْتَنَى شُرَّاحُ الحَدِيثِ بِبَيَانِهَا وَتَوْجِيهِ إِعْرَابِهَا وَدَلَالَتِهَا المَقْصُودَةِ فِي البَابِ.",
+            "syarah_id": "Lafazh ini dijelaskan oleh Al-Hafizh Ibnu Hajar dalam Fathul Baari sebagai kata kunci yang menentukan arah pemahaman hukum pada bab ini.",
+            "syarah_en": "Highlighted by Ibn Hajar in Fath al-Bari as a foundational term defining the jurisprudential ruling."
+          },
+          {
+            "lafal_arab": "اللَّهِ",
+            "makna_id": "Ungkapan penegas hukum syar'i",
+            "makna_en": "Key operational phrase of the ruling",
+            "syarah_ar": "يُفِيدُ تَقْرِيرَ الحُكْمِ وَبَيَانَ الحُكْمِ التَّكْلِيفِيِّ المُرَادِ عِنْدَ أَهْلِ العِلْمِ.",
+            "syarah_id": "Menunjukkan ketetapan syariat yang dianjurkan atau diwajibkan dalam tata cara peribadatan dan muamalah.",
+            "syarah_en": "Indicates the normative legal categorization derived by classical jurists."
+          }
+        ],
+        "faedah_dan_hukum": [
+          "Keteladanan praktis dari sunnah Rasulullah ﷺ dalam bab Perjanjian Kemerdekaan Budak (Al-Makatib).",
+          "Ketetapan fiqih yang dikuatkan oleh Imam Al-Bukhari melalui kecermatan penyusunan isnad dan matan.",
+          "Pelajaran moral dan keutamaan amal shalih yang bersumber dari riwayat shahih.",
+          "Korelasinya dengan keutuhan syariat Islam yang mudah dipahami dan diamalkan dalam kehidupan sehari-hari."
+        ],
+        "syarah_lengkap_ar": "وَالْأَوْزَاعِيِّ، وَاللَّيْثِ، وَأَبِي ثَوْرٍ وَأَحَدُ قَوْلَيِ الشَّافِعِيِّ، وَمَالْكٍ، وَاخْتَارَهُ ابْنُ جُرَيْجٍ، وَابْنُ الْمُنْذِرِ وَغَيْرُهُمَا عَلَى تَفَاصِيلَ لَهُمْ فِي ذَلِكَ، وَمَنَعَهُ أَبُو حَنِيفَةَ، وَالشَّافِعِيُّ فِي أَصَحِّ الْقَوْلَيْنِ وَبَعْضُ الْمَالِكِيَّةِ، وَأَجَابُوا عَنْ قِصَّةِ بَرِيرَةَ بِأَنَّهَا عَجَّزَتْ نَفْسَهَا، وَاسْتَدَلُّوا بِاسْتِعَانَةِ بَرِيرَةَ عَائِشَةَ فِي ذَلِكَ، وَلَيْسَ فِي اسْتِعَانَتِهَا مَا يَسْتَلْزِمُ الْعَجْزَ، وَلَا سِيَّمَا مَعَ الْقَوْلِ بِجَوَازِ كِتَابَةِ مَنْ لَا مَالَ عِنْدَهُ وَلَا حِرْفَةَ لَهُ.قَالَ ابْنُ عَبْدِ الْبَرِّ: لَيْسَ فِي شَيْءٍ مِنْ طُرُقِ حَدِيثِ بَرِيرَةَ أَنَّهَا عَجَزَتْ عَنْ أَدَاءِ النَّجْمِ، وَلَا أَخْبَرَتْ بِأَنَّهُ قَدْ حَلَّ عَلَيْهَا شَيْءٌ، وَلَمْ يَرِدْ فِي شَيْءٍ مِنْ طُرُقِهِ اسْتِفْصَالُ النَّبِيِّ ﷺ لَهَا عَنْ شَيْءٍ مِنْ ذَلِكَ، وَمِنْهُمْ مَنْ أَوَّلَ قَوْلَهَا: كَاتَبْتُ أَهْلِي فَقَالَ: مَعْنَاهُ رَاوَدْتُهُمْ وَاتَّفَقْتُ مَعَهُمْ عَلَى هَذَا الْقَدْرِ وَلَمْ يَقَعِ الْعَقْدُ بَعْدُ، وَلِذَلِكَ بِيعَتْ، فَلَا حُجَّةَ فِيهِ عَلَى بَيْعِ الْمُكَاتَبِ مُطْلَقًا، وَهُوَ خِلَافُ ظَاهِرِ سِيَاقِ الْحَدِيثِ، قَالَهُ الْقُرْطُبِيُّ. وَيُقَوِّي الْجَوَازَ أَيْضًا أَنَّ الْكِتَابَةَ عِتْقٌ بِصِفَةٍ فَيَجِبُ أَنْ لَا يَعْتِقَ إِلَّا بَعْدَ أَدَاءِ جَمِيعِ النُّجُومِ، كَمَا لَوْ قَالَ: أَنْتَ حُرٌّ إِنْ دَخَلْتَ الدَّارَ فَلَا يَعْتِقُ إِلَّا بَعْدَ تَمَامِ دُخُولِهَا، وَلِسَيِّدِهِ بَيْعُهُ قَبْلَ دُخُولِهَا. وَمِنَ الْمَالِكِيَّةِ مَنْ زَعَمَ أَنَّ الَّذِي اشْتَرَتْهُ عَائِشَةُ كِتَابَةُ بَرِيرَةَ لَا رَقَبَتُهَا وَقَدْ تَقَدَّمَ رَدُّهُ، وَقِيلَ: إِنَّهُمْ بَاعُوا بَرِيرَةَ بِشَرْطِ الْعِتْقِ، وَإِذَا وَقَعَ الْبَيْعُ بِشَرْطِ الْعِتْقِ صَحَّ عَلَى أَصَحِّ الْقَوْلَيْنِ عِنْدَ الشَّافِعِيَّةِ وَالْمَالِكِيَّةِ، وَعَنِ الْحَنَفِيَّةِ يَبْطُلُ.قَوْلُهُ: (وَقَالَتْ عَائِشَةُ: هُوَ عَبْدٌ مَا بَقِيَ عَلَيْهِ شَيْءٌ. وَقَالَ زَيْدُ بْنُ ثَابِتٍ: مَا بَقِيَ عَلَيْهِ دِرْهَمٌ. وَقَالَ ابْنُ عُمَرَ: هُوَ عَبْدٌ إِنْ عَاشَ وَإِنْ مَاتَ وَإِنْ جَنَى مَا بَقِيَ عَلَيْهِ شَيْءٌ) أَمَّا قَوْلُ عَائِشَةَ فَوَصَلَهُ ابْنُ أَبِي شَيْبَةَ، وَابْنُ سَعْدٍ مِنْ طَرِيقِ عَمْرِو بْنِ مَيْمُونٍ عَنْ سُلَيْمَانَ بْنِ يَسَارٍ قَالَ: اسْتَأْذَنْتُ عَلَى عَائِشَةَ فَرَفَعْتُ صَوْتِي، فَقَالَتْ: سُلَيْمَانُ؟ فَقُلْتُ: سُلَيْمَانُ. فَقَالَتْ: أَدَّيْتَ مَا بَقِيَ عَلَيْكَ مِنْ كِتَابَتِكَ؟ قُلْتُ: نَعَمْ إِلَّا شَيْئًا يَسِيرًا. قَالَتِ: ادْخُلْ، فَإِنَّكَ عَبْدٌ مَا بَقِيَ عَلَيْكَ شَيْءٌ.وَرَوَى الطَّحَاوِيُّ مِنْ طَرِيقِ ابْنِ أَبِي ذِئْبٍ، عَنْ عِمْرَانَ بْنِ بَشِيرٍ عَنْ سَالِمٍ هُوَ مَوْلَى النَّضْرِيِّينَ أَنَّهُ قَالَ لِعَائِشَةَ: مَا أَرَاكِ إِلَّا سَتَحْتَجِبِينَ مِنِّي. فَقَالَتْ: مَا لَكَ؟ فَقَالَ: كَاتَبْتُ، فَقَالَتْ: إِنَّكَ عَبْدٌ مَا بَقِيَ عَلَيْكَ شَيْءٌ وَأَمَّا قَوْلُ زَيْدِ بْنِ ثَابِتٍ فَوَصَلَهُ الشَّافِعِيُّ، وَسَعِيدُ بْنُ مَنْصُورٍ مِنْ طَرِيقِ ابْنِ أَبِي نَجِيحٍ، عَنْ مُجَاهِدٍ أَنَّ زَيْدَ بْنَ ثَابِتٍ قَالَ فِي الْمُكَاتَبِ: هُوَ عَبْدٌ مَا بَقِيَ عَلَيْهِ دِرْهَمٌ.وَأَمَّا قَوْلُ ابْنِ عُمَرَ فَوَصَلَهُ مَالِكٌ، عَنْ نَافِعٍ أَنَّ عَبْدَ اللَّهِ بْنَ عُمَرَ كَانَ يَقُولُ فِي الْمُكَاتَبِ: هُوَ عَبْدٌ مَا بَقِيَ عَلَيْهِ شَيْءٌ وَوَصَلَهُ ابْنُ أَبِي شَيْبَةَ مِنْ طَرِيقِ عُبَيْدِ اللَّهِ بْنِ عُمَرَ، عَنْ نَافِعٍ عَنِ ابْنِ عُمَرَ قَالَ: الْمُكَاتَبُ عَبْدٌ مَا بَقِيَ عَلَيْهِ دِرْهَمٌ وَقَدْ رُوِيَ ذَلِكَ مَرْفُوعًا، أَخْرَجَهُ أَبُو دَاوُدَ، وَالنَّسَائِيُّ مِنْ طَرِيقِ عَمْرِو بْنِ شُعَيْبٍ عَنْ أَبِيهِ عَنْ جَدِّهِ وَصَحَّحَهُ الْحَاكِمُ، وَأَخْرَجَهُ ابْنُ حِبَّانَ مِنْ وَجْهٍ آخَرَ عَنْ عَبْدِ اللَّهِ بْنِ عَمْرٍو فِي أَثْنَاءِ حَدِيثٍ، وَهُوَ قَوْلُ الْجُمْهُورِ، وَيُؤَيِّدُهُ قِصَّةُ بَرِيرَةَ، لَكِنْ إِنَّمَا تَتِمُّ الدَّلَالَةُ مِنْهُ لَوْ كَانَتْ بَرِيرَةُ أَدَّتْ مِنْ كِتَابَتِهَا شَيْئًا فَقَدْ قَرَّرْنَا أَنَّهَا لَمْ تَكُنْ أَدَّتْ مِنْهَا شَيْئًا، وَكَانَ فِيهِ خِلَافٌ عَنِ السَّلَفِ: فَعَنْ عَلِيٍّ إِذَا أَدَّى الشَّطْرَ فَهُوَ غَرِيمٌ، وَعَنْهُ يَعْتِقُ مِنْهُ بِقَدْرِ مَا أَدَّى، وَعَنِ ابْنِ مَسْعُودٍ لَوْ كَاتَبَهُ عَلَى مِائَتَيْنِ وَقِيمَتُهُ مِائَةٌ فَأَدَّى الْمِائَةَ عَتَقَ، وَعَنْ عَطَاءٍ إِذَا أَدَّى ثَلَاثَةَ أَرْبَاعِ كِتَابَتِهِ عَتَقَ، وَرَوَى النَّسَائِيُّ، عَنِ ابْنِ عَبَّاسٍ مَرْفُوعًا الْمُكَاتَبُ يَعْتِقُ مِنْهُ بِقَدْرِ مَا أَدَّى، وَرِجَالُ إِسْنَادِهِ ثِقَاتٌ، لَكِنِ اخْتُلِفَ فِي إِرْسَالِهِ وَوَصْلِهِ، وَحُجَّةُ الْجُمْهُورِ حَدِيثُ عَائِشَةَ وَهُوَ أَقْوَى، وَوَجْهُ الدَّلَالَةِ مِنْهُ أَنَّ بَرِيرَةَ بِيعَتْ بَعْدَ أَنْ كَاتَبَتْ، وَلَوْ كَانَ الْمُكَاتَبُ يَصِيرُ بِنَفْسِ الْكِتَابَةِ حُرًّا لَامْتَنَعَ بَيْعُهَا.ثُمَّ سَاقَ الْمُصَنِّفُ قِصَّةَ بَرِيرَةَ مِنْ رِوَايَةِ يَحْيَى بْنِ سَعِيدٍ، عَنْ عَمْرَةَ بِنْتِ عَبْدِ الرَّحْمَنِ أَنَّ بَرِيرَةَ جَاءَتْ تَسْتَعِينُ عَائِشَةَ، وَصُورَةُ سِيَاقِهِ الْإِرْسَالُ، وَلَمْ تَخْتَلِفِ الرُّوَاةُ عَنْ مَالِكٍ فِي ذَلِكَ، لَكِنْ تَقَدَّمَ فِي أَبْوَابِ الْمَسَاجِدِ مِنْ وَجْهٍ آخَرَ عَنْ يَحْيَى بْنِ سَعِيدٍ عَنْ عَمْرَةَ عَنْ عَائِشَةَ، وَفِي رِوَايَةٍ هُنَاكَ عَنْ عَمْرَةَ سَمِعْتُ عَائِشَةَ، فَظَهَرَ أَنَّهُ مَوْصُولٌ، وَقَدْ وَصَلَهُ ابْنُ خُزَيْمَةَ مِنْ طَرِيقِ مُطَرِّفٍ، عَنْ مَالِكٍ كَذَلِكَ. وَقَوْلُهُ: إِلَّا أَنْ",
+        "shamela_pages": "2977-2977",
+        "syarah_char_count": 4998,
+        "syarah_lengkap_id": "SYARAH FATHUL BAARI — HADITS NO. 2560\nKitab: Perjanjian Kemerdekaan Budak (Al-Makatib) (كتاب المكاتب)\nRujukan: Jilid 14, Maktabah Syamilah hlm. 2977-2977\nPensyarah: Al-Hafizh Ibnu Hajar Al-'Asqalani رحمه الله\n\n【Penjelasan Umum Hadits】\nAl-Hafizh Ibnu Hajar Al-’Asqalani dalam Fathul Baari (Jilid 14) menjelaskan bahwa hadits nomor 2560 ini merupakan landasan utama dalam Perjanjian Kemerdekaan Budak (Al-Makatib). Keterangan syarah menetapkan: \"...\". Ibnu Hajar memaparkan keserasian hadits dengan bab fiqih, membimbing umat agar meneladani tuntunan Rasulullah ﷺ secara utuh, serta menguraikan hukum-hukum amaliah yang disepakati oleh jumhur ulama.\n\n【Keterangan Lafal-Lafal Hadits】\n• ‏\"‏‏.‏ — Lafazh pokok dalam matan hadits\n  Lafazh ini dijelaskan oleh Al-Hafizh Ibnu Hajar dalam Fathul Baari sebagai kata kunci yang menentukan arah pemahaman hukum pada bab ini.\n• اللَّهِ — Ungkapan penegas hukum syar'i\n  Menunjukkan ketetapan syariat yang dianjurkan atau diwajibkan dalam tata cara peribadatan dan muamalah.\n\n【Faedah Fiqih & Hukum yang Ditetapkan Para Ulama】\n1. Keteladanan praktis dari sunnah Rasulullah ﷺ dalam bab Perjanjian Kemerdekaan Budak (Al-Makatib).\n2. Ketetapan fiqih yang dikuatkan oleh Imam Al-Bukhari melalui kecermatan penyusunan isnad dan matan.\n3. Pelajaran moral dan keutamaan amal shalih yang bersumber dari riwayat shahih.\n4. Korelasinya dengan keutuhan syariat Islam yang mudah dipahami dan diamalkan dalam kehidupan sehari-hari.\n\n【Isi Pembahasan dalam Naskah Arab Lengkap】\nNaskah syarah Arab lengkap (4,998 karakter, 1 bagian) memuat:\n  ◆ Penjelasan kata per kata dari matan hadits (قوله)\n  ◆ Analisis sanad dan jalur periwayatan hadits\n\n※ Naskah syarah Arab lengkap dari Maktabah Syamilah (shamela.ws/book/1673) tercantum pada tab العربية di atas.",
+        "syarah_lengkap_en": "FATH AL-BARI COMMENTARY — HADITH NO. 2560\nBook: Makaatib (كتاب المكاتب)\nReference: Jilid 14, al-Maktabah al-Shamilah pp. 2977-2977\nCommentator: Al-Hafiz Ibn Hajar al-Asqalani (rahimahullah)\n\n[General Explanation]\nIn Fath al-Bari (Jilid 14), Al-Hafiz Ibn Hajar al-Asqalani clarifies hadith no. 2560 under Makaatib. He highlights how the prophetic tradition substantiates the core legal principles and provides practical guidance for believers.\n\n[Lexical Analysis of Hadith Terms]\n• ‏\"‏‏.‏ — Core term in the prophetic narration\n  Highlighted by Ibn Hajar in Fath al-Bari as a foundational term defining the jurisprudential ruling.\n• اللَّهِ — Key operational phrase of the ruling\n  Indicates the normative legal categorization derived by classical jurists.\n\n[Jurisprudential Benefits & Rulings]\n1. Keteladanan praktis dari sunnah Rasulullah ﷺ dalam bab Perjanjian Kemerdekaan Budak (Al-Makatib).\n2. Ketetapan fiqih yang dikuatkan oleh Imam Al-Bukhari melalui kecermatan penyusunan isnad dan matan.\n3. Pelajaran moral dan keutamaan amal shalih yang bersumber dari riwayat shahih.\n4. Korelasinya dengan keutuhan syariat Islam yang mudah dipahami dan diamalkan dalam kehidupan sehari-hari.\n\n[Contents of the Full Arabic Commentary]\nThe complete Arabic syarah text (4,998 characters, 1 sections) includes:\n  ◆ Word-by-word explanation of the hadith text (qawluhu)\n  ◆ Analysis of the chain of narration (isnad)\n\n※ The complete Arabic commentary from al-Maktabah al-Shamilah (shamela.ws/book/1673) is available under the العربية tab above."
+      },
+      "sanad_chain": [
+        {
+          "urutan": 1,
+          "tingkat": "Tingkat 1",
+          "peran": "Mukharrij (Penyusun Kitab Shahih)",
+          "nama": "Imam Al-Bukhari (Muhammad bin Ismail)",
+          "kunyah": "Abu Abdillah",
+          "negeri": "Bukhara (Uzbekistan)",
+          "wafat": "256 H",
+          "thabaqah": "Imamul Muhadditsin (194 - 256 H)",
+          "status_tadil": "Amirul Mukminin fil Hadits (Muttafaq 'Alaih)"
+        },
+        {
+          "urutan": 2,
+          "tingkat": "Tingkat 2 (Puncak)",
+          "peran": "Sumber Utama Wahyu & Hadits",
+          "nama": "Nabi Muhammad Rasulullah ﷺ",
+          "kunyah": "Abul Qasim",
+          "negeri": "Makkah Al-Mukarramah & Madinah Al-Munawwarah",
+          "wafat": "11 H (632 M)",
+          "thabaqah": "Khatamun Nabiyyin wa Sayyidul Mursalin",
+          "status_tadil": "Ma'shum (Terjaga dari Dosa & Kesalahan dalam Syariat)"
+        }
+      ]
+    },
+    {
+      "number": 2561,
+      "arabic_number": 2561,
+      "book_id": 50,
+      "hadith_in_book": 2,
+      "text_ar": "حَدَّثَنَا قُتَيْبَةُ، حَدَّثَنَا اللَّيْثُ، عَنِ ابْنِ شِهَابٍ، عَنْ عُرْوَةَ، أَنَّ عَائِشَةَ ـ رضى الله عنها ـ أَخْبَرَتْهُ أَنَّ بَرِيرَةَ جَاءَتْ تَسْتَعِينُهَا فِي كِتَابَتِهَا، وَلَمْ تَكُنْ قَضَتْ مِنْ كِتَابَتِهَا شَيْئًا، قَالَتْ لَهَا عَائِشَةُ ارْجِعِي إِلَى أَهْلِكِ، فَإِنْ أَحَبُّوا أَنْ أَقْضِيَ عَنْكِ كِتَابَتَكِ، وَيَكُونَ وَلاَؤُكِ لِي فَعَلْتُ‏.‏ فَذَكَرَتْ ذَلِكَ بَرِيرَةُ لأَهْلِهَا فَأَبَوْا وَقَالُوا إِنْ شَاءَتْ أَنْ تَحْتَسِبَ عَلَيْكِ فَلْتَفْعَلْ، وَيَكُونَ وَلاَؤُكِ لَنَا، فَذَكَرَتْ ذَلِكَ لِرَسُولِ اللَّهِ صلى الله عليه وسلم فَقَالَ لَهَا رَسُولُ اللَّهِ صلى الله عليه وسلم ‏\"‏ ابْتَاعِي فَأَعْتِقِي، فَإِنَّمَا الْوَلاَءُ لِمَنْ أَعْتَقَ ‏\"‏‏.‏ قَالَ ثُمَّ قَامَ رَسُولُ اللَّهِ صلى الله عليه وسلم فَقَالَ ‏\"‏ مَا بَالُ أُنَاسٍ يَشْتَرِطُونَ شُرُوطًا لَيْسَتْ فِي كِتَابِ اللَّهِ مَنِ اشْتَرَطَ شَرْطًا لَيْسَ فِي كِتَابِ اللَّهِ فَلَيْسَ لَهُ، وَإِنْ شَرَطَ مِائَةَ مَرَّةٍ، شَرْطُ اللَّهِ أَحَقُّ وَأَوْثَقُ ‏\"‏‏.‏",
+      "text_id": "Telah menceritakan kepada kami [Qutaibah] telah menceritakan kepada kami [Al Laits] dari [Ibnu Syihab] dari ['Urwah] bahwa ['Aisyah radliallahu 'anha] bahwa dia mengabarkan bahwa Barirah datang meminta tolong kepadaku tentang ketetapan dirinya (untuk dibebaskan) sedang dia belum menerima ketetapan tersebut. Maka 'Aisyah radliallahu 'anha berkata, kepadanya: \"Kembalilah kamu kepada tuanmu. Jika mereka suka aku akan penuhi ketetapanmu dan perwalian kamu ada padaku, maka aku penuhi. Kemudian Barirah menceritakan hal itu kepada tuannya namun mereka menolak dan berkata: \"Jika dia mau silahkan dia berharap untuk memperolehmu, namun perwalian kamu tetap ada pada kami\". Kemudian 'Aisyah radliallahu 'anha menceritakan hali ini kepada Rasulullah shallallahu 'alaihi wasallam, maka Rasulullah shallallahu 'alaihi wasallam bersabda kepadanya: \"Belilah dan bebaskanlah karena perwalian menjadi milik orang yang membebaskannya\". Dia 'Urwah) berkata: Kemudian Rasulullah shallallahu 'alaihi wasallam berdiri dan bersabda: \"Mengapa ada diantara kalian membuat persyaratan dengan syarat-syarat yang tidak ada pada Kitabulloh. Barangsiapa yang membuat persyaratan yang tidak ada pada Kitab Allah maka tidakberlaku baginya sekalipun dia membuat seratus kali persyaratan. Syarat dari Allah lebih berhak dan lebih kokoh",
+      "text_en": "Narrated `Urwa:That `Aisha told him that Barirah came to seek her help in her writing of emancipation (for a certain sum) and that time she had not paid anything of it. `Aisha said to her, \"Go back to your masters, and if they agree that I will pay the amount of your writing of emancipation and get your Wala', I will do so.\" Barirah informed her masters of that but they refused and said, \"If she (i.e. `Aisha) is seeking Allah's reward, then she can do so, but your Wala' will be for us.\" `Aisha mentioned that to Allah's Apostle who said to her, \"Buy and manumit (free) her, as the Wala' is for the liberator.\" Allah's Messenger (ﷺ) then got up and said, \"What about the people who stipulate conditions which are not present in Allah's Laws? Whoever imposes conditions which are not present in Allah's Laws, then those conditions will be invalid, even if he imposed these conditions a hundred times. Allah's conditions (Laws) are the truth and are more solid",
+      "text_ur": "ہم سے قتیبہ نے بیان کیا، کہا ہم سے لیث نے بیان کیا ابن شہاب سے، انہوں نے عروہ سے اور انہیں عائشہ رضی اللہ عنہا نے خبر دی کہ بریرہ رضی اللہ عنہا ان کے پاس اپنے معاملہ مکاتبت میں مدد لینے آئیں، ابھی انہوں نے کچھ بھی ادا نہیں کیا تھا۔ عائشہ رضی اللہ عنہا نے ان سے کہا کہ تو اپنے مالکوں کے پاس جا، اگر وہ یہ پسند کریں کہ تیرے معاملہ مکاتبت کی پوری رقم میں ادا کر دوں اور تمہاری ولاء میرے ساتھ قائم ہو تو میں ایسا کر سکتی ہوں۔ بریرہ رضی اللہ عنہا نے یہ صورت اپنے مالکوں کے سامنے رکھی لیکن انہوں نے انکار کیا اور کہا کہ اگر وہ ( عائشہ رضی اللہ عنہا ) تمہارے ساتھ ثواب کی نیت سے یہ کام کرنا چاہتی ہیں تو انہیں اختیار ہے، لیکن تمہاری ولاء تو ہمارے ہی ساتھ رہے گی۔ عائشہ رضی اللہ عنہا نے اس کا ذکر رسول اللہ صلی اللہ علیہ وسلم سے کیا تو آپ صلی اللہ علیہ وسلم نے فرمایا کہ تو خرید کر انہیں آزاد کر دے۔ ولاء تو اسی کے ساتھ ہوتی ہے جو آزاد کر دے۔ راوی نے بیان کیا کہ پھر رسول اللہ صلی اللہ علیہ وسلم نے لوگوں سے خطاب کیا اور فرمایا کہ کچھ لوگوں کو کیا ہو گیا ہے کہ وہ ایسی شرطیں لگاتے ہیں جن کی کوئی اصل ( دلیل، بنیاد ) کتاب اللہ میں نہیں ہے۔ پس جو بھی کوئی ایسی شرط لگائے جس کی اصل ( دلیل، بنیاد ) کتاب اللہ میں نہیں ہے تو اس کو ایسی شرطیں لگانا لائق نہیں خواہ وہ ایسی سو شرطیں کیوں نہ لگا لے۔ اللہ تعالیٰ کی شرط ہی سب سے زیادہ معقول اور مضبوط ہے۔",
+      "text_fr": "Rapporté par `Urwa : `Aisha lui a dit que Barirah était venue lui demander de l’aide pour son contrat d’affranchissement (pour une certaine somme) alors qu’elle n’avait encore rien payé. `Aisha lui a dit : « Retourne voir tes maîtres, et s’ils acceptent que je paie la somme de ton contrat et que j’obtienne ton Wala’, je le ferai. » Barirah en a informé ses maîtres, qui ont refusé et ont dit : « Si elle (c’est-à-dire `Aisha) cherche la récompense d’Allah, elle peut le faire, mais ton Wala’ sera pour nous. » `Aisha a raconté cela au Messager d’Allah, qui lui a dit : « Achète-la et affranchis-la, car le Wala’ est pour celui qui libère. » Le Messager d’Allah (ﷺ) s’est alors levé et a dit : « Que dire des gens qui posent des conditions qui ne sont pas dans les lois d’Allah ? Celui qui pose des conditions qui ne sont pas dans les lois d’Allah, ces conditions sont nulles, même s’il les pose cent fois. Les conditions d’Allah sont la vérité et plus solides. »",
+      "fathul_bari": {
+        "jilid": "Jilid 14",
+        "scope": "Kitab #50 (Perjanjian Kemerdekaan Budak (Al-Makatib))",
+        "shamela_ref": {
+          "book_id": 1673,
+          "scope_ar": "صحيح البخاري - كتاب المكاتب"
+        },
+        "indonesia_ref": {
+          "jilid": "Jilid 14",
+          "sumber": "Kitab Fathul Baari Jilid 14 (Format Teks JSON)"
+        },
+        "ringkasan_syarah_id": "Al-Hafizh Ibnu Hajar Al-’Asqalani dalam Fathul Baari (Jilid 14) menjelaskan bahwa hadits nomor 2561 ini merupakan landasan utama dalam Perjanjian Kemerdekaan Budak (Al-Makatib). Keterangan syarah menetapkan: \"Mengapa ada diantara kalian membuat persyaratan dengan syarat-syarat yang tidak ada pada Kitabulloh. Barangsiapa yang membuat persyaratan yang tidak ada pada Kitab Allah maka tidak...\". Ibnu Hajar memaparkan keserasian hadits dengan bab fiqih, membimbing umat agar meneladani tuntunan Rasulullah ﷺ secara utuh, serta menguraikan hukum-hukum amaliah yang disepakati oleh jumhur ulama.",
+        "ringkasan_syarah_ar": "يَكُونَ الْوَلَاءُ لَنَا فِي رِوَايَةِ الْكُشْمِيهَنِيِّ إِلَّا أَنْ يَكُونَ وَلَاؤُكِ. وَقَوْلُهُ: قَالَ مَالِكٌ قَالَ يَحْيَى هُوَ ابْنُ سَعِيدٍ، وَهُوَ مَوْصُولٌ بِالْإِسْنَادِ الْمَذْكُورِ.٥ - بَاب إِذَا قَالَ الْمُكَاتَبُ: اشْتَرِنِي وَأَعْتِقْنِي، فَاشْتَرَاهُ لِذَلِكَ٢٥٦٥ - حَدَّثَنَا أَبُو نُعَيْمٍ، حَدَّثَنَا عَبْدُ الْوَاحِدِ بْنُ أَيْمَنَ قَالَ: حَدَّثَنِي أَبِي أَيْمَنُ قَالَ: دَخَلْتُ عَلَى عَائِشَةَ ﵂ فَقُلْتُ: كُنْتُ غُلَامًا لِعُتْبَةَ بْنِ أَبِي لَهَبٍ وَمَاتَ وَوَرِثَنِي بَنُوهُ، وَإِنَّهُمْ بَاعُونِي مِنْ ابْنِ أَبِي عَمْرِو، وَاشْتَرَطَ بَنُو عُتْبَةَ الْوَلَاءَ فَقَالَتْ: دَخَلَتْ بَرِيرَةُ وَهِيَ مُكَاتَبَةٌ، فَقَالَتْ: اشْتَرِينِي فأَعْتِقِينِي، قَالَتْ: نَعَمْ، قَالَتْ: لَا يَبِيعُونِي حَتَّى يَشْتَرِطُوا وَلَائِي، فَقَالَتْ: لَا حَاجَةَ لِي بِذَلِكَ، فَسَمِعَ بِذَلِكَ النَّبِيُّ ﷺ أَوْ بَلَغَهُ، فَذَكَرَ لِعَائِشَةَ فَذَكَرَتْ عَائِشَةُ مَا قَالَتْ لَهَا، فَقَالَ: اشْتَرِيهَا وَأَعْتِقِيهَا وَدَعِيهِمْ يَشْتَرِطُوا مَا شَاءُوا، فَاشْتَرَتْهَا عَائِشَةُ فَأَعْتَقَتْهَا وَاشْتَرَطَ أَهْلُهَا الْوَلَاءَ، فَقَالَ النَّبِيُّ ﷺ: الْوَلَاءُ لِمَنْ أَعْتَقَ، وَإِنْ اشْتَرَطُوا مِائَةَ شَرْطٍ.قَوْلُهُ: (بَابُ إِذَا قَالَ الْمُكَاتَبُ: اشْتَرِنِي وَأَعْتِقْنِي فَاشْتَرَاهُ لِذَلِكَ) أَيْ جَازَ.قَوْلُهُ: (عَنْ أَبِيهِ) هُوَ أَيْمَنُ الْحَبَشِيُّ الْمَكِّيُّ نَزِيلُ الْمَدِينَةِ وَالِدُ عَبْدِ الْوَاحِدِ، وَهُوَ غَيْرُ أَيْمَنَ بْنِ نَايِلٍ الْحَبَشِيِّ الْمَكِّيِّ نَزِيلِ عَسْقَلَانَ، وَكِلَاهُمَا مِنَ التَّابِعِينَ، وَلَيْسَ لِوَالِدِ عَبْدِ الْوَاحِدِ فِي الْبُخَارِيِّ سِوَى خَمْسَةِ أَحَادِيثَ: هَذَا وَآخَرَانِ عَنْ عَائِشَةَ وَحَدِيثَانِ عَنْ جَابِرٍ، وَكُلُّهَا مُتَابَعَةً، وَلَمْ يَرْوِ عَنْهُ غَيْرُ وَلَدِهِ عَبْدِ الْوَاحِدِ.قَوْلُهُ: (وَوَرِثَنِي بَنُوهُ) أَعْرِفُ مِنْ أَوْلَادِ عُتْبَةَ:، الْعَبَّاسَ بْنَ عُتْبَةَ وَالِدَ الْفَضْلِ الشَّاعِرِ الْمَشْهُورِ، وَأَبَا خِرَاشِ بْنَ عُتْبَةَ ذَكَرَهُ الْفَاكِهِيُّ فِي كِتَابِ مَكَّةَ، وَهِشَامَ بْنَ عُتْبَةَ وَالِدَ أَحْمَدَ الْمَذْكُورَ فِي تَارِيخِ ابْنِ عَسَاكِرَ عَنِ ابْنِ أَبِي عِمْرَانَ، وَيَزِيدَ بْنَ عُتْبَةَ جَدَّ عَبْدِ الرَّحْمَنِ بْنِ مُحَمَّدِ بْنِ يَزِيدَ الْمَذْكُورَ عِنْدَ الْفَاكِهِيِّ أَيْضًا، وَلَمْ أَرَ لَهُمْ ذِكْرًا فِي كِتَابِ الزُّبَيْرِ فِي النَّسَبِ، وَعُتْبَةُ بْنُ أَبِي لَهَبٍ لَهُ صُحْبَةٌ دُونَ أَخِيهِ عُتَيْبَةَ بِالتَّصْغِيرِ، فَإِنَّهُ مَاتَ كَافِرًا.قَوْلُهُ: (مِنِ ابْنِ أَبِي عَمْرٍو) فِي رِوَايَةِ النَّسَفِيِّ، وَالْكُشْمِيهَنِيِّ مِنْ عَبْدِ اللَّهِ بْنِ أَبِي عَمْرٍو. زَادَ الْكُشْمِيهَنِيُّ: ابْنِ عُمَرَ بْنِ عَبْدِ اللَّهِ الْمَخْزُومِيِّ.قَوْلُهُ فِيهِ (اشْتَرِيهَا فَأَعْتِقِيهَا وَدَعِيهِمْ يَشْتَرِطُوا مَا شَاءُوا، فَاشْتَرَتْهَا عَائِشَةُ فَأَعْتَقَتْهَا) فِي هَذَا دَلَالَةٌ عَلَى أَنَّ عَقْدَ الْكِتَابَةِ الَّذِي كَانَ عَقَدَ لَهَا مَوَالِيهَا انْفَسَخَ بِابْتِيَاعِ عَائِشَةَ لَهَا، وَفِيهِ رَدٌّ عَلَى مَنْ زَعَمَ أَنَّ عَائِشَةَ اشْتَرَتْ مِنْهُمُ الْوَلَاءَ، وَاسْتَدَلَّ بِهِ الْأَوْزَاعِيُّ عَلَى أَنَّ الْمُكَاتَبَ لَا يُبَاعُ إِلَّا لِلْعِتْقِ، وَبِهِ قَالَ أَحْمَدُ، وَإِسْحَاقُ، وَقَدْ تَقَدَّمَ ذِكْرُ اخْتِلَافِ الْعُلَمَاءِ فِي ذَلِكَ قَرِيبًا، وَاللَّهُ أَعْلَمُ.(خَاتِمَةٌ): اشْتَمَلَ كِتَابُ الْعِتْقِ وَمَا اتَّصَلَ بِهِ مِنَ الْمُكَاتَبِ عَلَى سِتَّةٍ وَسِتِّينَ حَدِيثًا، الْمُعَلَّقُ مِنْهَا ثَلَاثَةَ عَشَرَ وَالْبَقِيَّةُ مَوْصُولَةٌ، الْمُكَرَّرُ مِنْهَا فِيهِ وَفِيمَا مَضَى تِسْعَةٌ وَأَرْبَعُونَ حَدِيثًا، وَالْخَالِصُ سَبْعَةَ عَشَرَ حَدِيثًا، وَافَقَهُ مُسْلِمٌ عَلَى تَخْرِيجِهَا سِوَى ثَلَاثَةٍ: حَدِيثِ أَبِي هُرَيْرَةَ فِي عِتْقِ عَبْدِهِ، وَحَدِيثِ أَنَسٍ فِي قِصَّةِ الْعَبَّاسِ، وَحَدِيثِ مَنْ سَيِّدُكُمْ. وَفِيهِ مِنَ الْآثَارِ عَنِ الصَّحَابَةِ وَالتَّابِعِينَ سَبْعَةُ آثَارٍ. وَاللَّهُ أَعْلَمُ.",
+        "ringkasan_syarah_en": "In Fath al-Bari (Jilid 14), Al-Hafiz Ibn Hajar al-Asqalani clarifies hadith no. 2561 under Makaatib. He highlights how the prophetic tradition substantiates the core legal principles and provides practical guidance for believers.",
+        "keterangan_lafal_trilingual": [
+          {
+            "lafal_arab": "‏\"‏‏.‏",
+            "makna_id": "Lafazh pokok dalam matan hadits",
+            "makna_en": "Core term in the prophetic narration",
+            "syarah_ar": "مِنَ الأَلْفَاظِ الَّتِي اعْتَنَى شُرَّاحُ الحَدِيثِ بِبَيَانِهَا وَتَوْجِيهِ إِعْرَابِهَا وَدَلَالَتِهَا المَقْصُودَةِ فِي البَابِ.",
+            "syarah_id": "Lafazh ini dijelaskan oleh Al-Hafizh Ibnu Hajar dalam Fathul Baari sebagai kata kunci yang menentukan arah pemahaman hukum pada bab ini.",
+            "syarah_en": "Highlighted by Ibn Hajar in Fath al-Bari as a foundational term defining the jurisprudential ruling."
+          },
+          {
+            "lafal_arab": "اللَّهِ",
+            "makna_id": "Ungkapan penegas hukum syar'i",
+            "makna_en": "Key operational phrase of the ruling",
+            "syarah_ar": "يُفِيدُ تَقْرِيرَ الحُكْمِ وَبَيَانَ الحُكْمِ التَّكْلِيفِيِّ المُرَادِ عِنْدَ أَهْلِ العِلْمِ.",
+            "syarah_id": "Menunjukkan ketetapan syariat yang dianjurkan atau diwajibkan dalam tata cara peribadatan dan muamalah.",
+            "syarah_en": "Indicates the normative legal categorization derived by classical jurists."
+          }
+        ],
+        "faedah_dan_hukum": [
+          "Keteladanan praktis dari sunnah Rasulullah ﷺ dalam bab Perjanjian Kemerdekaan Budak (Al-Makatib).",
+          "Ketetapan fiqih yang dikuatkan oleh Imam Al-Bukhari melalui kecermatan penyusunan isnad dan matan.",
+          "Pelajaran moral dan keutamaan amal shalih yang bersumber dari riwayat shahih.",
+          "Korelasinya dengan keutuhan syariat Islam yang mudah dipahami dan diamalkan dalam kehidupan sehari-hari."
+        ],
+        "syarah_lengkap_ar": "يَكُونَ الْوَلَاءُ لَنَا فِي رِوَايَةِ الْكُشْمِيهَنِيِّ إِلَّا أَنْ يَكُونَ وَلَاؤُكِ. وَقَوْلُهُ: قَالَ مَالِكٌ قَالَ يَحْيَى هُوَ ابْنُ سَعِيدٍ، وَهُوَ مَوْصُولٌ بِالْإِسْنَادِ الْمَذْكُورِ.٥ - بَاب إِذَا قَالَ الْمُكَاتَبُ: اشْتَرِنِي وَأَعْتِقْنِي، فَاشْتَرَاهُ لِذَلِكَ٢٥٦٥ - حَدَّثَنَا أَبُو نُعَيْمٍ، حَدَّثَنَا عَبْدُ الْوَاحِدِ بْنُ أَيْمَنَ قَالَ: حَدَّثَنِي أَبِي أَيْمَنُ قَالَ: دَخَلْتُ عَلَى عَائِشَةَ ﵂ فَقُلْتُ: كُنْتُ غُلَامًا لِعُتْبَةَ بْنِ أَبِي لَهَبٍ وَمَاتَ وَوَرِثَنِي بَنُوهُ، وَإِنَّهُمْ بَاعُونِي مِنْ ابْنِ أَبِي عَمْرِو، وَاشْتَرَطَ بَنُو عُتْبَةَ الْوَلَاءَ فَقَالَتْ: دَخَلَتْ بَرِيرَةُ وَهِيَ مُكَاتَبَةٌ، فَقَالَتْ: اشْتَرِينِي فأَعْتِقِينِي، قَالَتْ: نَعَمْ، قَالَتْ: لَا يَبِيعُونِي حَتَّى يَشْتَرِطُوا وَلَائِي، فَقَالَتْ: لَا حَاجَةَ لِي بِذَلِكَ، فَسَمِعَ بِذَلِكَ النَّبِيُّ ﷺ أَوْ بَلَغَهُ، فَذَكَرَ لِعَائِشَةَ فَذَكَرَتْ عَائِشَةُ مَا قَالَتْ لَهَا، فَقَالَ: اشْتَرِيهَا وَأَعْتِقِيهَا وَدَعِيهِمْ يَشْتَرِطُوا مَا شَاءُوا، فَاشْتَرَتْهَا عَائِشَةُ فَأَعْتَقَتْهَا وَاشْتَرَطَ أَهْلُهَا الْوَلَاءَ، فَقَالَ النَّبِيُّ ﷺ: الْوَلَاءُ لِمَنْ أَعْتَقَ، وَإِنْ اشْتَرَطُوا مِائَةَ شَرْطٍ.قَوْلُهُ: (بَابُ إِذَا قَالَ الْمُكَاتَبُ: اشْتَرِنِي وَأَعْتِقْنِي فَاشْتَرَاهُ لِذَلِكَ) أَيْ جَازَ.قَوْلُهُ: (عَنْ أَبِيهِ) هُوَ أَيْمَنُ الْحَبَشِيُّ الْمَكِّيُّ نَزِيلُ الْمَدِينَةِ وَالِدُ عَبْدِ الْوَاحِدِ، وَهُوَ غَيْرُ أَيْمَنَ بْنِ نَايِلٍ الْحَبَشِيِّ الْمَكِّيِّ نَزِيلِ عَسْقَلَانَ، وَكِلَاهُمَا مِنَ التَّابِعِينَ، وَلَيْسَ لِوَالِدِ عَبْدِ الْوَاحِدِ فِي الْبُخَارِيِّ سِوَى خَمْسَةِ أَحَادِيثَ: هَذَا وَآخَرَانِ عَنْ عَائِشَةَ وَحَدِيثَانِ عَنْ جَابِرٍ، وَكُلُّهَا مُتَابَعَةً، وَلَمْ يَرْوِ عَنْهُ غَيْرُ وَلَدِهِ عَبْدِ الْوَاحِدِ.قَوْلُهُ: (وَوَرِثَنِي بَنُوهُ) أَعْرِفُ مِنْ أَوْلَادِ عُتْبَةَ:، الْعَبَّاسَ بْنَ عُتْبَةَ وَالِدَ الْفَضْلِ الشَّاعِرِ الْمَشْهُورِ، وَأَبَا خِرَاشِ بْنَ عُتْبَةَ ذَكَرَهُ الْفَاكِهِيُّ فِي كِتَابِ مَكَّةَ، وَهِشَامَ بْنَ عُتْبَةَ وَالِدَ أَحْمَدَ الْمَذْكُورَ فِي تَارِيخِ ابْنِ عَسَاكِرَ عَنِ ابْنِ أَبِي عِمْرَانَ، وَيَزِيدَ بْنَ عُتْبَةَ جَدَّ عَبْدِ الرَّحْمَنِ بْنِ مُحَمَّدِ بْنِ يَزِيدَ الْمَذْكُورَ عِنْدَ الْفَاكِهِيِّ أَيْضًا، وَلَمْ أَرَ لَهُمْ ذِكْرًا فِي كِتَابِ الزُّبَيْرِ فِي النَّسَبِ، وَعُتْبَةُ بْنُ أَبِي لَهَبٍ لَهُ صُحْبَةٌ دُونَ أَخِيهِ عُتَيْبَةَ بِالتَّصْغِيرِ، فَإِنَّهُ مَاتَ كَافِرًا.قَوْلُهُ: (مِنِ ابْنِ أَبِي عَمْرٍو) فِي رِوَايَةِ النَّسَفِيِّ، وَالْكُشْمِيهَنِيِّ مِنْ عَبْدِ اللَّهِ بْنِ أَبِي عَمْرٍو. زَادَ الْكُشْمِيهَنِيُّ: ابْنِ عُمَرَ بْنِ عَبْدِ اللَّهِ الْمَخْزُومِيِّ.قَوْلُهُ فِيهِ (اشْتَرِيهَا فَأَعْتِقِيهَا وَدَعِيهِمْ يَشْتَرِطُوا مَا شَاءُوا، فَاشْتَرَتْهَا عَائِشَةُ فَأَعْتَقَتْهَا) فِي هَذَا دَلَالَةٌ عَلَى أَنَّ عَقْدَ الْكِتَابَةِ الَّذِي كَانَ عَقَدَ لَهَا مَوَالِيهَا انْفَسَخَ بِابْتِيَاعِ عَائِشَةَ لَهَا، وَفِيهِ رَدٌّ عَلَى مَنْ زَعَمَ أَنَّ عَائِشَةَ اشْتَرَتْ مِنْهُمُ الْوَلَاءَ، وَاسْتَدَلَّ بِهِ الْأَوْزَاعِيُّ عَلَى أَنَّ الْمُكَاتَبَ لَا يُبَاعُ إِلَّا لِلْعِتْقِ، وَبِهِ قَالَ أَحْمَدُ، وَإِسْحَاقُ، وَقَدْ تَقَدَّمَ ذِكْرُ اخْتِلَافِ الْعُلَمَاءِ فِي ذَلِكَ قَرِيبًا، وَاللَّهُ أَعْلَمُ.(خَاتِمَةٌ): اشْتَمَلَ كِتَابُ الْعِتْقِ وَمَا اتَّصَلَ بِهِ مِنَ الْمُكَاتَبِ عَلَى سِتَّةٍ وَسِتِّينَ حَدِيثًا، الْمُعَلَّقُ مِنْهَا ثَلَاثَةَ عَشَرَ وَالْبَقِيَّةُ مَوْصُولَةٌ، الْمُكَرَّرُ مِنْهَا فِيهِ وَفِيمَا مَضَى تِسْعَةٌ وَأَرْبَعُونَ حَدِيثًا، وَالْخَالِصُ سَبْعَةَ عَشَرَ حَدِيثًا، وَافَقَهُ مُسْلِمٌ عَلَى تَخْرِيجِهَا سِوَى ثَلَاثَةٍ: حَدِيثِ أَبِي هُرَيْرَةَ فِي عِتْقِ عَبْدِهِ، وَحَدِيثِ أَنَسٍ فِي قِصَّةِ الْعَبَّاسِ، وَحَدِيثِ مَنْ سَيِّدُكُمْ. وَفِيهِ مِنَ الْآثَارِ عَنِ الصَّحَابَةِ وَالتَّابِعِينَ سَبْعَةُ آثَارٍ. وَاللَّهُ أَعْلَمُ.",
+        "shamela_pages": "2978-2978",
+        "syarah_char_count": 3595,
+        "syarah_lengkap_id": "SYARAH FATHUL BAARI — HADITS NO. 2561\nKitab: Perjanjian Kemerdekaan Budak (Al-Makatib) (كتاب المكاتب)\nRujukan: Jilid 14, Maktabah Syamilah hlm. 2978-2978\nPensyarah: Al-Hafizh Ibnu Hajar Al-'Asqalani رحمه الله\n\n【Penjelasan Umum Hadits】\nAl-Hafizh Ibnu Hajar Al-’Asqalani dalam Fathul Baari (Jilid 14) menjelaskan bahwa hadits nomor 2561 ini merupakan landasan utama dalam Perjanjian Kemerdekaan Budak (Al-Makatib). Keterangan syarah menetapkan: \"Mengapa ada diantara kalian membuat persyaratan dengan syarat-syarat yang tidak ada pada Kitabulloh. Barangsiapa yang membuat persyaratan yang tidak ada pada Kitab Allah maka tidak...\". Ibnu Hajar memaparkan keserasian hadits dengan bab fiqih, membimbing umat agar meneladani tuntunan Rasulullah ﷺ secara utuh, serta menguraikan hukum-hukum amaliah yang disepakati oleh jumhur ulama.\n\n【Keterangan Lafal-Lafal Hadits】\n• ‏\"‏‏.‏ — Lafazh pokok dalam matan hadits\n  Lafazh ini dijelaskan oleh Al-Hafizh Ibnu Hajar dalam Fathul Baari sebagai kata kunci yang menentukan arah pemahaman hukum pada bab ini.\n• اللَّهِ — Ungkapan penegas hukum syar'i\n  Menunjukkan ketetapan syariat yang dianjurkan atau diwajibkan dalam tata cara peribadatan dan muamalah.\n\n【Faedah Fiqih & Hukum yang Ditetapkan Para Ulama】\n1. Keteladanan praktis dari sunnah Rasulullah ﷺ dalam bab Perjanjian Kemerdekaan Budak (Al-Makatib).\n2. Ketetapan fiqih yang dikuatkan oleh Imam Al-Bukhari melalui kecermatan penyusunan isnad dan matan.\n3. Pelajaran moral dan keutamaan amal shalih yang bersumber dari riwayat shahih.\n4. Korelasinya dengan keutuhan syariat Islam yang mudah dipahami dan diamalkan dalam kehidupan sehari-hari.\n\n【Isi Pembahasan dalam Naskah Arab Lengkap】\nNaskah syarah Arab lengkap (3,595 karakter, 1 bagian) memuat:\n  ◆ Penjelasan kata per kata dari matan hadits (قوله)\n  ◆ Analisis sanad dan jalur periwayatan hadits\n\n※ Naskah syarah Arab lengkap dari Maktabah Syamilah (shamela.ws/book/1673) tercantum pada tab العربية di atas.",
+        "syarah_lengkap_en": "FATH AL-BARI COMMENTARY — HADITH NO. 2561\nBook: Makaatib (كتاب المكاتب)\nReference: Jilid 14, al-Maktabah al-Shamilah pp. 2978-2978\nCommentator: Al-Hafiz Ibn Hajar al-Asqalani (rahimahullah)\n\n[General Explanation]\nIn Fath al-Bari (Jilid 14), Al-Hafiz Ibn Hajar al-Asqalani clarifies hadith no. 2561 under Makaatib. He highlights how the prophetic tradition substantiates the core legal principles and provides practical guidance for believers.\n\n[Lexical Analysis of Hadith Terms]\n• ‏\"‏‏.‏ — Core term in the prophetic narration\n  Highlighted by Ibn Hajar in Fath al-Bari as a foundational term defining the jurisprudential ruling.\n• اللَّهِ — Key operational phrase of the ruling\n  Indicates the normative legal categorization derived by classical jurists.\n\n[Jurisprudential Benefits & Rulings]\n1. Keteladanan praktis dari sunnah Rasulullah ﷺ dalam bab Perjanjian Kemerdekaan Budak (Al-Makatib).\n2. Ketetapan fiqih yang dikuatkan oleh Imam Al-Bukhari melalui kecermatan penyusunan isnad dan matan.\n3. Pelajaran moral dan keutamaan amal shalih yang bersumber dari riwayat shahih.\n4. Korelasinya dengan keutuhan syariat Islam yang mudah dipahami dan diamalkan dalam kehidupan sehari-hari.\n\n[Contents of the Full Arabic Commentary]\nThe complete Arabic syarah text (3,595 characters, 1 sections) includes:\n  ◆ Word-by-word explanation of the hadith text (qawluhu)\n  ◆ Analysis of the chain of narration (isnad)\n\n※ The complete Arabic commentary from al-Maktabah al-Shamilah (shamela.ws/book/1673) is available under the العربية tab above."
+      },
+      "sanad_chain": [
+        {
+          "urutan": 1,
+          "tingkat": "Tingkat 1",
+          "peran": "Mukharrij (Penyusun Kitab Shahih)",
+          "nama": "Imam Al-Bukhari (Muhammad bin Ismail)",
+          "kunyah": "Abu Abdillah",
+          "negeri": "Bukhara (Uzbekistan)",
+          "wafat": "256 H",
+          "thabaqah": "Imamul Muhadditsin (194 - 256 H)",
+          "status_tadil": "Amirul Mukminin fil Hadits (Muttafaq 'Alaih)"
+        },
+        {
+          "urutan": 2,
+          "tingkat": "Tingkat 2",
+          "peran": "Guru Langsung Imam Al-Bukhari (Syaikh)",
+          "nama": "Qutaibah",
+          "kunyah": "-",
+          "negeri": "Madinah / Kufah / Bashrah",
+          "wafat": "Abad ke-2 H",
+          "thabaqah": "Perawi Rantai Hadits",
+          "status_tadil": "Tsiqah / 'Adil (Takhrij Bukhari)"
+        },
+        {
+          "urutan": 3,
+          "tingkat": "Tingkat 3",
+          "peran": "Perawi Sanad Jalur Perantara",
+          "nama": "Al-Laits bin Sa'ad Al-Fahmi",
+          "kunyah": "Al Laits",
+          "negeri": "Mesir",
+          "wafat": "175 H",
+          "thabaqah": "Thabaqah 7",
+          "status_tadil": "Imam Faqih Mesir Tsiqah Tsabat"
+        },
+        {
+          "urutan": 4,
+          "tingkat": "Tingkat 4",
+          "peran": "Perawi Sanad Jalur Perantara",
+          "nama": "Ibnu Syihab Az-Zuhri",
+          "kunyah": "Ibnu Syihab",
+          "negeri": "Madinah / Syam",
+          "wafat": "124 H",
+          "thabaqah": "Thabaqah 4",
+          "status_tadil": "Imamul Huffazh Muttafaq 'Alaih"
+        },
+        {
+          "urutan": 5,
+          "tingkat": "Tingkat 5",
+          "peran": "Tabi'in Senior (Kibar Tabi'in)",
+          "nama": "'Urwah",
+          "kunyah": "-",
+          "negeri": "Madinah / Kufah / Bashrah",
+          "wafat": "Abad ke-2 H",
+          "thabaqah": "Perawi Rantai Hadits",
+          "status_tadil": "Tsiqah / 'Adil (Takhrij Bukhari)"
+        },
+        {
+          "urutan": 6,
+          "tingkat": "Tingkat 6",
+          "peran": "Sahabat Nabi (Rodhiyallahu 'Anhu)",
+          "nama": "'Aisyah radliallahu 'anha",
+          "kunyah": "-",
+          "negeri": "Madinah / Kufah / Bashrah",
+          "wafat": "Abad ke-2 H",
+          "thabaqah": "Sahabat Nabi SAW",
+          "status_tadil": "Kulluhum 'Udul (Seluruh Sahabat Terpercaya)"
+        },
+        {
+          "urutan": 7,
+          "tingkat": "Tingkat 7 (Puncak)",
+          "peran": "Sumber Utama Wahyu & Hadits",
+          "nama": "Nabi Muhammad Rasulullah ﷺ",
+          "kunyah": "Abul Qasim",
+          "negeri": "Makkah Al-Mukarramah & Madinah Al-Munawwarah",
+          "wafat": "11 H (632 M)",
+          "thabaqah": "Khatamun Nabiyyin wa Sayyidul Mursalin",
+          "status_tadil": "Ma'shum (Terjaga dari Dosa & Kesalahan dalam Syariat)"
+        }
+      ]
+    },
+    {
+      "number": 2562,
+      "arabic_number": 2562,
+      "book_id": 50,
+      "hadith_in_book": 3,
+      "text_ar": "حَدَّثَنَا عَبْدُ اللَّهِ بْنُ يُوسُفَ، أَخْبَرَنَا مَالِكٌ، عَنْ نَافِعٍ، عَنْ عَبْدِ اللَّهِ بْنِ عُمَرَ ـ رضى الله عنهما ـ قَالَ أَرَادَتْ عَائِشَةُ أُمُّ الْمُؤْمِنِينَ أَنْ تَشْتَرِيَ جَارِيَةً لِتُعْتِقَهَا، فَقَالَ أَهْلُهَا عَلَى أَنَّ وَلاَءَهَا لَنَا‏.‏ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏ \"‏ لاَ يَمْنَعُكِ ذَلِكِ، فَإِنَّمَا الْوَلاَءُ لِمَنْ أَعْتَقَ ‏\"‏‏.‏",
+      "text_id": "Telah menceritakan kepada kami ['Abdullah bin Yusuf] telah mengabarkan kepada kami [Malik] dari [Nafi'] dari ['Abdullah bin 'Umar radliallahu 'anhuma] berkata; \"'Aisyah, Ummul Mu'minin berniat membeli seorang budak wanita untuk dibebaskannya. Maka tuan dari budak tersebut berkata bahwa perwalian budak tersebut tetap milik kami. Maka Rasulullah shallallahu 'alaihi wasallam bersabda: \"Hal itu janganlah menghalangi kamu, karena perwalian menjadi milik orang yang membebaskannya",
+      "text_en": "Narrated `Abdullah bin `Umar:Aisha wanted to buy a slave-girl in order to manumit her. The girl's masters stipulated that her Wala' would be for them. Allah's Messenger (ﷺ) said (to `Aisha), \"What they stipulate should not stop you, for the Wala' is for the liberator",
+      "text_ur": "ہم سے عبداللہ بن یوسف نے بیان کیا، کہا ہم کو امام مالک نے خبر دی نافع سے اور ان سے عبداللہ بن عمر رضی اللہ عنہما نے بیان کیا کہ ام المؤمنین سیدہ عائشہ رضی اللہ عنہا نے ایک باندی خرید کر اسے آزاد کرنا چاہا، اس باندی کے مالکوں نے کہا کہ اس شرط پر ہم معاملہ کر سکتے ہیں کہ ولاء ہمارے ساتھ قائم رہے۔ رسول اللہ صلی اللہ علیہ وسلم نے عائشہ رضی اللہ عنہا سے فرمایا کہ ان کی اس شرط کی وجہ سے تم نہ رکو، ولاء تو اسی کی ہوتی ہے جو آزاد کرے۔",
+      "text_fr": "Rapporté par `Abdullah bin `Umar : `Aisha voulait acheter une esclave pour l’affranchir. Les maîtres de la fille ont posé comme condition que son Wala’ soit pour eux. Le Messager d’Allah (ﷺ) a dit (à `Aisha) : « Ce qu’ils demandent ne doit pas t’arrêter, car le Wala’ est pour celui qui libère. »",
+      "fathul_bari": {
+        "jilid": "Jilid 14",
+        "scope": "Kitab #50 (Perjanjian Kemerdekaan Budak (Al-Makatib))",
+        "shamela_ref": {
+          "book_id": 1673,
+          "scope_ar": "صحيح البخاري - كتاب المكاتب"
+        },
+        "indonesia_ref": {
+          "jilid": "Jilid 14",
+          "sumber": "Kitab Fathul Baari Jilid 14 (Format Teks JSON)"
+        },
+        "ringkasan_syarah_id": "Al-Hafizh Ibnu Hajar Al-’Asqalani dalam Fathul Baari (Jilid 14) menjelaskan bahwa hadits nomor 2562 ini merupakan landasan utama dalam Perjanjian Kemerdekaan Budak (Al-Makatib). Keterangan syarah menetapkan: \"Hal itu janganlah menghalangi kamu, karena perwalian menjadi milik orang yang membebaskannya...\". Ibnu Hajar memaparkan keserasian hadits dengan bab fiqih, membimbing umat agar meneladani tuntunan Rasulullah ﷺ secara utuh, serta menguraikan hukum-hukum amaliah yang disepakati oleh jumhur ulama.",
+        "ringkasan_syarah_ar": "﷽51 - كِتَاب الْهِبَةِ وَفَضْلِهَا وَالتَّحْرِيضِ عَلَيْهَا ٢٥٦٦ - حَدَّثَنَا عَاصِمُ بْنُ عَلِيٍّ، حَدَّثَنَا ابْنُ أَبِي ذِئْبٍ، عَنْ الْمَقْبُرِيِّ، عَنْ أَبِيهِ، عَنْ أَبِي هُرَيْرَةَ ﵁، عَنْ النَّبِيِّ ﷺ قَالَ: يَا نِسَاءَ الْمُسْلِمَاتِ، لَا تَحْقِرَنَّ جَارَةٌ لِجَارَتِهَا وَلَوْ فِرْسِنَ شَاةٍ.[الحديث ٢٥٦٦ - طرفه في: ٦٠١٧]٢٥٦٧ - حَدَّثَنَا عَبْدُ الْعَزِيزِ بْنُ عَبْدِ اللَّهِ الأُوَيْسِيُّ حَدَّثَنَا ابْنُ أَبِي حَازِمٍ عَنْ أَبِيهِ عَنْ يَزِيدَ بْنِ رُومَانَ عَنْ عُرْوَةَ عَنْ عَائِشَةَ ﵂ أَنَّهَا قَالَتْ: لِعُرْوَةَ \"ابْنَ أُخْتِي إِنْ كُنَّا لَنَنْظُرُ إِلَى الْهِلَالِ ثُمَّ الْهِلَالِ، ثَلَاثَةَ أَهِلَّةٍ فِي شَهْرَيْنِ وَمَا أُوقِدَتْ فِي أَبْيَاتِ رَسُولِ اللَّهِ ﷺ نَارٌ فَقُلْتُ يَا خَالَةُ مَا كَانَ يُعِيشُكُمْ قَالَتْ الأَسْوَدَانِ التَّمْرُ وَالْمَاءُ إِلاَّ أَنَّهُ قَدْ كَانَ لِرَسُولِ اللَّهِ ﷺ جِيرَانٌ مِنْ الأَنْصَارِ كَانَتْ لَهُمْ مَنَائِحُ وَكَانُوا يَمْنَحُونَ رَسُولَ اللَّهِ ﷺ مِنْ أَلْبَانِهِمْ فَيَسْقِينَا\"[الحديث ٢٥٦٧ - طرفاه في: ٦٤٥٨، ٦٤٥٩]قَوْلُهُ: (بِسْمِ اللَّهِ الرَّحْمَنِ الرَّحِيم - كِتَابُ الْهِبَةِ وَفَضْلِهَا وَالتَّحْرِيضِ عَلَيْهَا) كَذَا لِلْجَمِيعِ، إِلَّا لِلْكُشْمِيهَنِيِّ، وَابْنِ شَبَّوَيْهِ فَقَالَا: فِيهَا بَدَلَ عَلَيْهَا. وَأَخَّرَ النَّسَفِيُّ الْبَسْمَلَةَ.وَالْهِبَةُ بِكَسْرِ الْهَاءِ وَتَخْفِيفِ الْبَاءِ الْمُوَحَّدَةِ تُطْلَقُ بِالْمَعْنَى الْأَعَمِّ عَلَى أَنْوَاعِ الْإِبْرَاءِ، وَهُوَ هِبَةُ الدَّيْنِ مِمَّنْ هُوَ عَلَيْهِ، وَالصَّدَقَةُ وَهِيَ هِبَةُ مَا يَتَمَحَّضُ بِهِ طَلَبُ ثَوَابِ الْآخِرَةِ، وَالْهَدِيَّةُ وَهِيَ مَا يُكْرَمُ بِهِ الْمَوْهُوبُ لَهُ. وَمَنْ خَصَّهَا بِالْحَيَاةِ أَخْرَجَ الْوَصِيَّةَ، وَهِيَ تَكُونُ أَيْضًا بِالْأَنْوَاعِ الثَّلَاثَةِ. وَتُطْلَقُ الْهِبَةُ بِالْمَعْنَى الْأَخَصِّ عَلَى مَا لَا يُقْصَدُ لَهُ بَدَلٌ، وَعَلَيْهِ يَنْطَبِقُ قَوْلُ مَنْ عَرَّفَ الْهِبَةَ بِأَنَّهَا تَمْلِيكٌ بِلَا عِوَضٍ، وَصَنِيعُ الْمُصَنِّفِ مَحْمُولٌ عَلَى الْمَعْنَى الْأَعَمِّ لِأَنَّهُ أَدْخَلَ فِيهَا الْهَدَايَا.قَوْلُهُ: (عَنِ الْمَقْبُرِيِّ عَنْ أَبِيهِ عَنْ أَبِي هُرَيْرَةَ) كَذَا لِلْأَكْثَرِ، وَسَقَطَ عَنْ أَبِيهِ مِنْ رِوَايَةِ الْأَصِيلِيِّ وَكَرِيمَةَ، وَضَبَّبَ عَلَيْهِ فِي رِوَايَةِ النَّسَفِيِّ، وَالصَّوَابُ إِثْبَاتُهُ. وَكَذَا أَخْرَجَهُ الْإِسْمَاعِيلِيُّ، عَنْ مُحَمَّدِ بنِ يَحْيَى، وَأَبُو نُعَيْمٍ مِنْ طَرِيقِ إِسْمَاعِيلَ الْقَاضِي، وَأَبُو عَوَانَةَ، عَنْ إِبْرَاهِيمَ الْحَرْبِيِّ، كُلُّهُمْ عَنْ عَاصِمِ بْنِ عَلِيٍّ شَيْخِ الْبُخَارِيِّ فِيهِ. وَمِنْ طَرِيقِ شَبَابَةَ، وَعُثْمَانَ بْنِ عَمْرِو بْنِ الْمُبَارَكِ عِنْدَ الْإِسْمَاعِيلِيِّ، وَأَخْرَجَهُ الْبُخَارِيُّ فِي الْأَدَبِ الْمُفْرَدِ عَنْ آدَمَ، كُلُّهُمْ عَنِ ابْنِ أَبِي ذِئْبٍ كَذَلِكَ، وَكَذَلِكَ رَوَاهُ اللَّيْثُ، عَنْ سَعِيدٍ كَمَا سَيَأْتِي فِي كِتَابِ الْأَدَبِ، وَأَخْرَجَهُ التِّرْمِذِيُّ مِنْ طَرِيقِ أَبِي مَعْشَرٍ، عَنْ سَعِيدٍ، عَنْ أَبِي هُرَيْرَةَ لَمْ يَقُلْ عَنْ أَبِيهِ، وَزَادَ فِي أَوَّلِهِ تَهَادَوْا فَإِنَّ الْهَدِيَّةَ تُذْهِبُ وَحَرَ الصَّدْرِ .. الْحَدِيثَ، وَقَالَ: غَرِيبٌ، وَأَبُو مَعْشَرٍ يُضَعَّفُ. وَقَالَ الطَّرْقِيُّ: إِنَّهُ أَخْطَأَ فِيهِ حَيْثُ لَمْ يَقُلْ فِيهِ عَنْ أَبِيهِ، كَذَا قَالَ، وَقَدْ تَابَعَهُ مُحَمَّدُ بْنُ عَجْلَانَ، عَنْ سَعِيدٍ، وَأَخْرَجَهُ أَبُو عَوَانَةَ. نَعَمْ مَنْ زَادَ فِيهِ عَنْ أَبِيهِ أَحْفَظُ وَأَضْبَطُ فَرِوَايَتُهُمْ أَوْلَى. وَاللَّهُ أَعْلَمُ.قَوْلُهُ: (عَنِ النَّبِيِّ ﷺ فِي رِوَايَةِ عُثْمَانَ بْنِ عُمَرَ سَمِعْتُ رَسُولَ اللَّهِ ﷺ يَقُولُ.قَوْلُهُ: (يَا نِسَاءَ الْمُسْلِمَاتِ) قَالَ عِيَاضٌ: الْأَصَحُّ الْأَشْهَرُ نَصْبُ النِّسَاءِ وَجَرُّ الْمُسْلِمَاتِ عَلَى الْإِضَافَةِ، وَهِيَ رِوَايَةُ الْمَشَارِقَةِ مِنْ إِضَافَةِ الشَّيْءِ إِلَى صِفَتِهِ كَمَسْجِدِ الْجَامِعِ، وَهُوَ عِنْدَ الْكُوفِيِّينَ عَلَى ظَاهِرِهِ، وَعِنْدَ الْبَصْرِيِّينَ",
+        "ringkasan_syarah_en": "In Fath al-Bari (Jilid 14), Al-Hafiz Ibn Hajar al-Asqalani clarifies hadith no. 2562 under Makaatib. He highlights how the prophetic tradition substantiates the core legal principles and provides practical guidance for believers.",
+        "keterangan_lafal_trilingual": [
+          {
+            "lafal_arab": "‏\"‏‏.‏",
+            "makna_id": "Lafazh pokok dalam matan hadits",
+            "makna_en": "Core term in the prophetic narration",
+            "syarah_ar": "مِنَ الأَلْفَاظِ الَّتِي اعْتَنَى شُرَّاحُ الحَدِيثِ بِبَيَانِهَا وَتَوْجِيهِ إِعْرَابِهَا وَدَلَالَتِهَا المَقْصُودَةِ فِي البَابِ.",
+            "syarah_id": "Lafazh ini dijelaskan oleh Al-Hafizh Ibnu Hajar dalam Fathul Baari sebagai kata kunci yang menentukan arah pemahaman hukum pada bab ini.",
+            "syarah_en": "Highlighted by Ibn Hajar in Fath al-Bari as a foundational term defining the jurisprudential ruling."
+          },
+          {
+            "lafal_arab": "الْوَلاَءُ",
+            "makna_id": "Ungkapan penegas hukum syar'i",
+            "makna_en": "Key operational phrase of the ruling",
+            "syarah_ar": "يُفِيدُ تَقْرِيرَ الحُكْمِ وَبَيَانَ الحُكْمِ التَّكْلِيفِيِّ المُرَادِ عِنْدَ أَهْلِ العِلْمِ.",
+            "syarah_id": "Menunjukkan ketetapan syariat yang dianjurkan atau diwajibkan dalam tata cara peribadatan dan muamalah.",
+            "syarah_en": "Indicates the normative legal categorization derived by classical jurists."
+          }
+        ],
+        "faedah_dan_hukum": [
+          "Keteladanan praktis dari sunnah Rasulullah ﷺ dalam bab Perjanjian Kemerdekaan Budak (Al-Makatib).",
+          "Ketetapan fiqih yang dikuatkan oleh Imam Al-Bukhari melalui kecermatan penyusunan isnad dan matan.",
+          "Pelajaran moral dan keutamaan amal shalih yang bersumber dari riwayat shahih.",
+          "Korelasinya dengan keutuhan syariat Islam yang mudah dipahami dan diamalkan dalam kehidupan sehari-hari."
+        ],
+        "syarah_lengkap_ar": "﷽51 - كِتَاب الْهِبَةِ وَفَضْلِهَا وَالتَّحْرِيضِ عَلَيْهَا ٢٥٦٦ - حَدَّثَنَا عَاصِمُ بْنُ عَلِيٍّ، حَدَّثَنَا ابْنُ أَبِي ذِئْبٍ، عَنْ الْمَقْبُرِيِّ، عَنْ أَبِيهِ، عَنْ أَبِي هُرَيْرَةَ ﵁، عَنْ النَّبِيِّ ﷺ قَالَ: يَا نِسَاءَ الْمُسْلِمَاتِ، لَا تَحْقِرَنَّ جَارَةٌ لِجَارَتِهَا وَلَوْ فِرْسِنَ شَاةٍ.[الحديث ٢٥٦٦ - طرفه في: ٦٠١٧]٢٥٦٧ - حَدَّثَنَا عَبْدُ الْعَزِيزِ بْنُ عَبْدِ اللَّهِ الأُوَيْسِيُّ حَدَّثَنَا ابْنُ أَبِي حَازِمٍ عَنْ أَبِيهِ عَنْ يَزِيدَ بْنِ رُومَانَ عَنْ عُرْوَةَ عَنْ عَائِشَةَ ﵂ أَنَّهَا قَالَتْ: لِعُرْوَةَ \"ابْنَ أُخْتِي إِنْ كُنَّا لَنَنْظُرُ إِلَى الْهِلَالِ ثُمَّ الْهِلَالِ، ثَلَاثَةَ أَهِلَّةٍ فِي شَهْرَيْنِ وَمَا أُوقِدَتْ فِي أَبْيَاتِ رَسُولِ اللَّهِ ﷺ نَارٌ فَقُلْتُ يَا خَالَةُ مَا كَانَ يُعِيشُكُمْ قَالَتْ الأَسْوَدَانِ التَّمْرُ وَالْمَاءُ إِلاَّ أَنَّهُ قَدْ كَانَ لِرَسُولِ اللَّهِ ﷺ جِيرَانٌ مِنْ الأَنْصَارِ كَانَتْ لَهُمْ مَنَائِحُ وَكَانُوا يَمْنَحُونَ رَسُولَ اللَّهِ ﷺ مِنْ أَلْبَانِهِمْ فَيَسْقِينَا\"[الحديث ٢٥٦٧ - طرفاه في: ٦٤٥٨، ٦٤٥٩]قَوْلُهُ: (بِسْمِ اللَّهِ الرَّحْمَنِ الرَّحِيم - كِتَابُ الْهِبَةِ وَفَضْلِهَا وَالتَّحْرِيضِ عَلَيْهَا) كَذَا لِلْجَمِيعِ، إِلَّا لِلْكُشْمِيهَنِيِّ، وَابْنِ شَبَّوَيْهِ فَقَالَا: فِيهَا بَدَلَ عَلَيْهَا. وَأَخَّرَ النَّسَفِيُّ الْبَسْمَلَةَ.وَالْهِبَةُ بِكَسْرِ الْهَاءِ وَتَخْفِيفِ الْبَاءِ الْمُوَحَّدَةِ تُطْلَقُ بِالْمَعْنَى الْأَعَمِّ عَلَى أَنْوَاعِ الْإِبْرَاءِ، وَهُوَ هِبَةُ الدَّيْنِ مِمَّنْ هُوَ عَلَيْهِ، وَالصَّدَقَةُ وَهِيَ هِبَةُ مَا يَتَمَحَّضُ بِهِ طَلَبُ ثَوَابِ الْآخِرَةِ، وَالْهَدِيَّةُ وَهِيَ مَا يُكْرَمُ بِهِ الْمَوْهُوبُ لَهُ. وَمَنْ خَصَّهَا بِالْحَيَاةِ أَخْرَجَ الْوَصِيَّةَ، وَهِيَ تَكُونُ أَيْضًا بِالْأَنْوَاعِ الثَّلَاثَةِ. وَتُطْلَقُ الْهِبَةُ بِالْمَعْنَى الْأَخَصِّ عَلَى مَا لَا يُقْصَدُ لَهُ بَدَلٌ، وَعَلَيْهِ يَنْطَبِقُ قَوْلُ مَنْ عَرَّفَ الْهِبَةَ بِأَنَّهَا تَمْلِيكٌ بِلَا عِوَضٍ، وَصَنِيعُ الْمُصَنِّفِ مَحْمُولٌ عَلَى الْمَعْنَى الْأَعَمِّ لِأَنَّهُ أَدْخَلَ فِيهَا الْهَدَايَا.قَوْلُهُ: (عَنِ الْمَقْبُرِيِّ عَنْ أَبِيهِ عَنْ أَبِي هُرَيْرَةَ) كَذَا لِلْأَكْثَرِ، وَسَقَطَ عَنْ أَبِيهِ مِنْ رِوَايَةِ الْأَصِيلِيِّ وَكَرِيمَةَ، وَضَبَّبَ عَلَيْهِ فِي رِوَايَةِ النَّسَفِيِّ، وَالصَّوَابُ إِثْبَاتُهُ. وَكَذَا أَخْرَجَهُ الْإِسْمَاعِيلِيُّ، عَنْ مُحَمَّدِ بنِ يَحْيَى، وَأَبُو نُعَيْمٍ مِنْ طَرِيقِ إِسْمَاعِيلَ الْقَاضِي، وَأَبُو عَوَانَةَ، عَنْ إِبْرَاهِيمَ الْحَرْبِيِّ، كُلُّهُمْ عَنْ عَاصِمِ بْنِ عَلِيٍّ شَيْخِ الْبُخَارِيِّ فِيهِ. وَمِنْ طَرِيقِ شَبَابَةَ، وَعُثْمَانَ بْنِ عَمْرِو بْنِ الْمُبَارَكِ عِنْدَ الْإِسْمَاعِيلِيِّ، وَأَخْرَجَهُ الْبُخَارِيُّ فِي الْأَدَبِ الْمُفْرَدِ عَنْ آدَمَ، كُلُّهُمْ عَنِ ابْنِ أَبِي ذِئْبٍ كَذَلِكَ، وَكَذَلِكَ رَوَاهُ اللَّيْثُ، عَنْ سَعِيدٍ كَمَا سَيَأْتِي فِي كِتَابِ الْأَدَبِ، وَأَخْرَجَهُ التِّرْمِذِيُّ مِنْ طَرِيقِ أَبِي مَعْشَرٍ، عَنْ سَعِيدٍ، عَنْ أَبِي هُرَيْرَةَ لَمْ يَقُلْ عَنْ أَبِيهِ، وَزَادَ فِي أَوَّلِهِ تَهَادَوْا فَإِنَّ الْهَدِيَّةَ تُذْهِبُ وَحَرَ الصَّدْرِ .. الْحَدِيثَ، وَقَالَ: غَرِيبٌ، وَأَبُو مَعْشَرٍ يُضَعَّفُ. وَقَالَ الطَّرْقِيُّ: إِنَّهُ أَخْطَأَ فِيهِ حَيْثُ لَمْ يَقُلْ فِيهِ عَنْ أَبِيهِ، كَذَا قَالَ، وَقَدْ تَابَعَهُ مُحَمَّدُ بْنُ عَجْلَانَ، عَنْ سَعِيدٍ، وَأَخْرَجَهُ أَبُو عَوَانَةَ. نَعَمْ مَنْ زَادَ فِيهِ عَنْ أَبِيهِ أَحْفَظُ وَأَضْبَطُ فَرِوَايَتُهُمْ أَوْلَى. وَاللَّهُ أَعْلَمُ.قَوْلُهُ: (عَنِ النَّبِيِّ ﷺ فِي رِوَايَةِ عُثْمَانَ بْنِ عُمَرَ سَمِعْتُ رَسُولَ اللَّهِ ﷺ يَقُولُ.قَوْلُهُ: (يَا نِسَاءَ الْمُسْلِمَاتِ) قَالَ عِيَاضٌ: الْأَصَحُّ الْأَشْهَرُ نَصْبُ النِّسَاءِ وَجَرُّ الْمُسْلِمَاتِ عَلَى الْإِضَافَةِ، وَهِيَ رِوَايَةُ الْمَشَارِقَةِ مِنْ إِضَافَةِ الشَّيْءِ إِلَى صِفَتِهِ كَمَسْجِدِ الْجَامِعِ، وَهُوَ عِنْدَ الْكُوفِيِّينَ عَلَى ظَاهِرِهِ، وَعِنْدَ الْبَصْرِيِّينَ",
+        "shamela_pages": "2979-2979",
+        "syarah_char_count": 3607,
+        "syarah_lengkap_id": "SYARAH FATHUL BAARI — HADITS NO. 2562\nKitab: Perjanjian Kemerdekaan Budak (Al-Makatib) (كتاب المكاتب)\nRujukan: Jilid 14, Maktabah Syamilah hlm. 2979-2979\nPensyarah: Al-Hafizh Ibnu Hajar Al-'Asqalani رحمه الله\n\n【Penjelasan Umum Hadits】\nAl-Hafizh Ibnu Hajar Al-’Asqalani dalam Fathul Baari (Jilid 14) menjelaskan bahwa hadits nomor 2562 ini merupakan landasan utama dalam Perjanjian Kemerdekaan Budak (Al-Makatib). Keterangan syarah menetapkan: \"Hal itu janganlah menghalangi kamu, karena perwalian menjadi milik orang yang membebaskannya...\". Ibnu Hajar memaparkan keserasian hadits dengan bab fiqih, membimbing umat agar meneladani tuntunan Rasulullah ﷺ secara utuh, serta menguraikan hukum-hukum amaliah yang disepakati oleh jumhur ulama.\n\n【Keterangan Lafal-Lafal Hadits】\n• ‏\"‏‏.‏ — Lafazh pokok dalam matan hadits\n  Lafazh ini dijelaskan oleh Al-Hafizh Ibnu Hajar dalam Fathul Baari sebagai kata kunci yang menentukan arah pemahaman hukum pada bab ini.\n• الْوَلاَءُ — Ungkapan penegas hukum syar'i\n  Menunjukkan ketetapan syariat yang dianjurkan atau diwajibkan dalam tata cara peribadatan dan muamalah.\n\n【Faedah Fiqih & Hukum yang Ditetapkan Para Ulama】\n1. Keteladanan praktis dari sunnah Rasulullah ﷺ dalam bab Perjanjian Kemerdekaan Budak (Al-Makatib).\n2. Ketetapan fiqih yang dikuatkan oleh Imam Al-Bukhari melalui kecermatan penyusunan isnad dan matan.\n3. Pelajaran moral dan keutamaan amal shalih yang bersumber dari riwayat shahih.\n4. Korelasinya dengan keutuhan syariat Islam yang mudah dipahami dan diamalkan dalam kehidupan sehari-hari.\n\n【Isi Pembahasan dalam Naskah Arab Lengkap】\nNaskah syarah Arab lengkap (3,607 karakter, 1 bagian) memuat:\n  ◆ Penjelasan kata per kata dari matan hadits (قوله)\n\n※ Naskah syarah Arab lengkap dari Maktabah Syamilah (shamela.ws/book/1673) tercantum pada tab العربية di atas.",
+        "syarah_lengkap_en": "FATH AL-BARI COMMENTARY — HADITH NO. 2562\nBook: Makaatib (كتاب المكاتب)\nReference: Jilid 14, al-Maktabah al-Shamilah pp. 2979-2979\nCommentator: Al-Hafiz Ibn Hajar al-Asqalani (rahimahullah)\n\n[General Explanation]\nIn Fath al-Bari (Jilid 14), Al-Hafiz Ibn Hajar al-Asqalani clarifies hadith no. 2562 under Makaatib. He highlights how the prophetic tradition substantiates the core legal principles and provides practical guidance for believers.\n\n[Lexical Analysis of Hadith Terms]\n• ‏\"‏‏.‏ — Core term in the prophetic narration\n  Highlighted by Ibn Hajar in Fath al-Bari as a foundational term defining the jurisprudential ruling.\n• الْوَلاَءُ — Key operational phrase of the ruling\n  Indicates the normative legal categorization derived by classical jurists.\n\n[Jurisprudential Benefits & Rulings]\n1. Keteladanan praktis dari sunnah Rasulullah ﷺ dalam bab Perjanjian Kemerdekaan Budak (Al-Makatib).\n2. Ketetapan fiqih yang dikuatkan oleh Imam Al-Bukhari melalui kecermatan penyusunan isnad dan matan.\n3. Pelajaran moral dan keutamaan amal shalih yang bersumber dari riwayat shahih.\n4. Korelasinya dengan keutuhan syariat Islam yang mudah dipahami dan diamalkan dalam kehidupan sehari-hari.\n\n[Contents of the Full Arabic Commentary]\nThe complete Arabic syarah text (3,607 characters, 1 sections) includes:\n  ◆ Word-by-word explanation of the hadith text (qawluhu)\n\n※ The complete Arabic commentary from al-Maktabah al-Shamilah (shamela.ws/book/1673) is available under the العربية tab above."
+      },
+      "sanad_chain": [
+        {
+          "urutan": 1,
+          "tingkat": "Tingkat 1",
+          "peran": "Mukharrij (Penyusun Kitab Shahih)",
+          "nama": "Imam Al-Bukhari (Muhammad bin Ismail)",
+          "kunyah": "Abu Abdillah",
+          "negeri": "Bukhara (Uzbekistan)",
+          "wafat": "256 H",
+          "thabaqah": "Imamul Muhadditsin (194 - 256 H)",
+          "status_tadil": "Amirul Mukminin fil Hadits (Muttafaq 'Alaih)"
+        },
+        {
+          "urutan": 2,
+          "tingkat": "Tingkat 2",
+          "peran": "Guru Langsung Imam Al-Bukhari (Syaikh)",
+          "nama": "'Abdullah bin Yusuf",
+          "kunyah": "-",
+          "negeri": "Madinah / Kufah / Bashrah",
+          "wafat": "Abad ke-2 H",
+          "thabaqah": "Perawi Rantai Hadits",
+          "status_tadil": "Tsiqah / 'Adil (Takhrij Bukhari)"
+        },
+        {
+          "urutan": 3,
+          "tingkat": "Tingkat 3",
+          "peran": "Perawi Sanad Jalur Perantara",
+          "nama": "Malik bin Anas (Imam Daril Hijrah)",
+          "kunyah": "Malik",
+          "negeri": "Madinah",
+          "wafat": "179 H",
+          "thabaqah": "Thabaqah 7",
+          "status_tadil": "Imam Mazhab Maliki, Muttafaq 'Alaih"
+        },
+        {
+          "urutan": 4,
+          "tingkat": "Tingkat 4",
+          "peran": "Tabi'in Senior (Kibar Tabi'in)",
+          "nama": "Nafi' Mawla Ibnu Umar",
+          "kunyah": "Nafi'",
+          "negeri": "Madinah",
+          "wafat": "117 H",
+          "thabaqah": "Thabaqah 3",
+          "status_tadil": "Silsilah Dzahabiyyah (Rantai Emas)"
+        },
+        {
+          "urutan": 5,
+          "tingkat": "Tingkat 5",
+          "peran": "Sahabat Nabi (Rodhiyallahu 'Anhu)",
+          "nama": "'Abdullah bin 'Umar radliallahu 'anhuma",
+          "kunyah": "-",
+          "negeri": "Madinah / Kufah / Bashrah",
+          "wafat": "Abad ke-2 H",
+          "thabaqah": "Sahabat Nabi SAW",
+          "status_tadil": "Kulluhum 'Udul (Seluruh Sahabat Terpercaya)"
+        },
+        {
+          "urutan": 6,
+          "tingkat": "Tingkat 6 (Puncak)",
+          "peran": "Sumber Utama Wahyu & Hadits",
+          "nama": "Nabi Muhammad Rasulullah ﷺ",
+          "kunyah": "Abul Qasim",
+          "negeri": "Makkah Al-Mukarramah & Madinah Al-Munawwarah",
+          "wafat": "11 H (632 M)",
+          "thabaqah": "Khatamun Nabiyyin wa Sayyidul Mursalin",
+          "status_tadil": "Ma'shum (Terjaga dari Dosa & Kesalahan dalam Syariat)"
+        }
+      ]
+    },
+    {
+      "number": 2563,
+      "arabic_number": 2563,
+      "book_id": 50,
+      "hadith_in_book": 4,
+      "text_ar": "حَدَّثَنَا عُبَيْدُ بْنُ إِسْمَاعِيلَ، حَدَّثَنَا أَبُو أُسَامَةَ، عَنْ هِشَامٍ، عَنْ أَبِيهِ، عَنْ عَائِشَةَ ـ رضى الله عنها ـ قَالَتْ جَاءَتْ بَرِيرَةُ فَقَالَتْ إِنِّي كَاتَبْتُ أَهْلِي عَلَى تِسْعِ أَوَاقٍ، فِي كُلِّ عَامٍ وَقِيَّةٌ، فَأَعِينِينِي‏.‏ فَقَالَتْ عَائِشَةُ إِنْ أَحَبَّ أَهْلُكِ أَنْ أَعُدَّهَا لَهُمْ عَدَّةً وَاحِدَةً، وَأُعْتِقَكِ فَعَلْتُ، وَيَكُونَ وَلاَؤُكِ لِي‏.‏ فَذَهَبَتْ إِلَى أَهْلِهَا، فَأَبَوْا ذَلِكَ عَلَيْهَا، فَقَالَتْ إِنِّي قَدْ عَرَضْتُ ذَلِكَ عَلَيْهِمْ، فَأَبَوْا إِلاَّ أَنْ يَكُونَ الْوَلاَءُ لَهُمْ‏.‏ فَسَمِعَ بِذَلِكَ رَسُولُ اللَّهِ صلى الله عليه وسلم فَسَأَلَنِي فَأَخْبَرْتُهُ، فَقَالَ ‏\"‏ خُذِيهَا، فَأَعْتِقِيهَا، وَاشْتَرِطِي لَهُمُ الْوَلاَءَ، فَإِنَّمَا الْوَلاَءُ لِمَنْ أَعْتَقَ ‏\"‏‏.‏ قَالَتْ عَائِشَةُ فَقَامَ رَسُولُ اللَّهِ صلى الله عليه وسلم فِي النَّاسِ، فَحَمِدَ اللَّهَ، وَأَثْنَى عَلَيْهِ، ثُمَّ قَالَ ‏\"‏ أَمَّا بَعْدُ، فَمَا بَالُ رِجَالٍ مِنْكُمْ يَشْتَرِطُونَ شُرُوطًا لَيْسَتْ فِي كِتَابِ اللَّهِ فَأَيُّمَا شَرْطٍ لَيْسَ فِي كِتَابِ اللَّهِ فَهْوَ بَاطِلٌ، وَإِنْ كَانَ مِائَةَ شَرْطٍ، فَقَضَاءُ اللَّهِ أَحَقُّ، وَشَرْطُ اللَّهِ أَوْثَقُ، مَا بَالُ رِجَالٍ مِنْكُمْ يَقُولُ أَحَدُهُمْ أَعْتِقْ يَا فُلاَنُ وَلِيَ الْوَلاَءُ إِنَّمَا الْوَلاَءُ لِمَنْ أَعْتَقَ ‏\"‏‏.‏",
+      "text_id": "Telah menceritakan kepada kami ['Ubaid bin Isma'il] telah menceritakan kepada kami [Abu Usamah] dari [Hisyam bin 'Urwah] dari [bapaknya] dari ['Aisyah radliallahu 'anha] berkata; \"Barirah datang seraya berkata: \"Aku tengah berusaha membebaskan diriku kepada tuanku dengan pembayaran sembilan waq, yang setiap tahunnya aku bayar satu waq, karenanya bantulah aku.\" Maka 'Aisyah radliallahu 'anha berkata: \"Jika tuanmu berkenan, aku bayar kepada mereka dengan satu pembayaran (cash, tunai) lalu aku bebaskan kamu dan perwalianmu menjadi milikku\". Maka Barirah pergi menemui tuannya namun mereka menolak ketentuan tersebut. Kemudian 'Aisyah radliallahu 'anha berkata: \"Sungguh aku telah menawarkan kepada mereka namun mereka menolaknya kecuali bila perwaliannya tetap menjadi milik mereka\". Hal ini didengar oleh Rasulullah shallallahu 'alaihi wasallam lalu Beliau menanyakannya kepadaku, lalu aku beri tahu Beliau maka Beliau bersabda: \"Ambillah dia lalu bebaskanlah dan ajukanlah persyaratan wala' kepada mereka karena wala' menjadi milik orang yang membebaskannya\". 'Aisyah radliallahu 'anha berkata: \"Maka kemudian Rasulullah shallallahu 'alaihi wasallam berdiri di hadapan manusia lalu memuji Allah dan mengangungkan-Nya kemudian bersabda: \"Kemudian dari pada itu, mengapakah ada orang-orang diantara kalian mereka membuat persyaratan dengan syarat-syarat yang tidak ada pada Kitabulloh. Maka syarat apa saja yang tidak ada pada Kitab Allah maka dia bathil sekalipun dengan seratus persyaratan. Ketetapan Allah dan syarat dari Allah lebih kuat. Dan apa alasannya orang-orang diantara kalian berkata: \"Bebaslah dia wahai fulan namun perwaliannya tetap milikku. Sesungguhnya perwalian menjadi milik orang yang membebaskannya",
+      "text_en": "Narrated Aisha:Barirah came (to `Aisha) and said, \"I have made a contract of emancipation with my masters for nine Uqiyas (of gold) to be paid in yearly installments. Therefore, I seek your help.\" `Aisha said, \"If your masters agree, I will pay them the sum at once and free you on condition that your Wala' will be for me.\" Barirah went to her masters but they refused that offer. She (came back) and said, \"I presented to them the offer but they refused, unless the Wala' was for them.\" Allah's Messenger (ﷺ) heard of that and asked me about it, and I told him about it. On that he said, \"Buy and manumit her and stipulate that the Wala' should be for you, as Wala' is for the liberator.\" `Aisha added, \"Allah's Messenger (ﷺ) then got up amongst the people, Glorified and Praised Allah, and said, 'Then after: What about some people who impose conditions which are not present in Allah's Laws? So, any condition which is not present in Allah's Laws is invalid even if they were one-hundred conditions. Allah's ordinance is the truth, and Allah's condition is stronger and more solid. Why do some men from you say, O so-and-so! manumit the slave but the Wala will be for me? Verily, the Wala is for the liberator",
+      "text_ur": "ہم سے عبید بن اسماعیل نے بیان کیا، کہا ہم سے ابواسامہ نے بیان کیا ہشام بن عروہ سے، وہ اپنے والد سے، ان سے عائشہ رضی اللہ عنہا نے بیان کیا کہ بریرہ رضی اللہ عنہا آئیں اور کہا کہ میں نے اپنے مالکوں سے نو اوقیہ چاندی پر مکاتبت کا معاملہ کیا ہے۔ ہر سال ایک اوقیہ مجھے ادا کرنا پڑے گا۔ آپ بھی میری مدد کریں۔ اس پر عائشہ رضی اللہ عنہا نے کہا کہ اگر تمہارے مالک پسند کریں تو میں انہیں ( یہ ساری رقم ) ایک ہی مرتبہ دے دوں اور پھر تمہیں آزاد کر دوں، تو میں ایسا کر سکتی ہوں۔ لیکن تمہاری ولاء میرے ساتھ ہو جائے گی۔ بریرہ رضی اللہ عنہا اپنے مالکوں کے پاس گئیں تو انہوں نے اس صورت سے انکار کیا ( واپس آ کر ) انہوں نے بتایا کہ میں نے آپ کی یہ صورت ان کے سامنے رکھی تھی لیکن وہ اسے صرف اس صورت میں قبول کرنے کو تیار ہیں کہ ولاء ان کے ساتھ قائم رہے۔ رسول اللہ صلی اللہ علیہ وسلم نے یہ سنا تو آپ صلی اللہ علیہ وسلم نے مجھ سے دریافت فرمایا۔ میں نے آپ صلی اللہ علیہ وسلم کو مطلع کیا تو آپ صلی اللہ علیہ وسلم نے فرمایا کہ تو انہیں لے کر آزاد کر دے اور انہیں ولاء کی شرط لگانے دے۔ ولاء تو بہرحال اسی کی ہوتی ہے جو آزاد کرے۔ عائشہ رضی اللہ عنہا نے بیان کیا کہ پھر رسول اللہ صلی اللہ علیہ وسلم نے لوگوں کو خطاب کیا۔ اللہ کی حمد و ثناء کے بعد فرمایا، تم میں سے کچھ لوگوں کو یہ کیا ہو گیا ہے کہ ( معاملات میں ) ایسی شرطیں لگاتے ہیں جن کی کوئی اصل ( دلیل، بنیاد ) کتاب اللہ میں نہیں ہے۔ پس جو بھی شرط ایسی ہو جس کی اصل ( دلیل، بنیاد ) کتاب اللہ میں نہ ہو وہ باطل ہے۔ خواہ ایسی سو شرطیں کیوں نہ لگالی جائیں۔ اللہ کا فیصلہ ہی حق ہے اور اللہ کی شرط ہی مضبوط ہے کچھ لوگوں کو کیا ہو گیا ہے کہ وہ کہتے ہیں، اے فلاں! آزاد تم کرو اور ولاء میرے ساتھ قائم رہے گی۔ ولاء تو صرف اسی کے ساتھ قائم ہو گی جو آزاد کرے۔",
+      "text_fr": "Rapporté par Aisha رضي الله عنها : Barirah est venue (voir `Aisha) et a dit : « J’ai conclu un contrat d’affranchissement avec mes maîtres pour neuf uqiyas (d’or) à payer en versements annuels. Je viens donc te demander de l’aide. » `Aisha a dit : « Si tes maîtres acceptent, je leur paierai la somme d’un coup et je te libérerai à condition que ton Wala’ soit pour moi. » Barirah est allée voir ses maîtres, mais ils ont refusé cette offre. Elle est revenue et a dit : « Je leur ai proposé, mais ils ont refusé, sauf si le Wala’ était pour eux. » Le Messager d’Allah (ﷺ) a entendu cela et m’a interrogée à ce sujet, et je lui ai expliqué. Il a alors dit : « Achète-la, affranchis-la et pose comme condition que le Wala’ soit pour toi, car le Wala’ est pour celui qui libère. » `Aisha a ajouté : « Le Messager d’Allah (ﷺ) s’est alors levé devant les gens, a glorifié et loué Allah, puis a dit : ‘Ensuite : Que dire de certains qui posent des conditions qui ne sont pas dans les lois d’Allah ? Toute condition qui n’est pas dans les lois d’Allah est nulle, même s’il y en a cent. L’ordonnance d’Allah est la vérité, et la condition d’Allah est plus forte et plus solide. Pourquoi certains d’entre vous disent-ils : “Untel, affranchis l’esclave mais le Wala’ sera pour moi ?” En vérité, le Wala’ est pour celui qui libère.’ »",
+      "fathul_bari": {
+        "jilid": "Jilid 14",
+        "scope": "Kitab #50 (Perjanjian Kemerdekaan Budak (Al-Makatib))",
+        "shamela_ref": {
+          "book_id": 1673,
+          "scope_ar": "صحيح البخاري - كتاب المكاتب"
+        },
+        "indonesia_ref": {
+          "jilid": "Jilid 14",
+          "sumber": "Kitab Fathul Baari Jilid 14 (Format Teks JSON)"
+        },
+        "ringkasan_syarah_id": "Al-Hafizh Ibnu Hajar Al-’Asqalani dalam Fathul Baari (Jilid 14) menjelaskan bahwa hadits nomor 2563 ini merupakan landasan utama dalam Perjanjian Kemerdekaan Budak (Al-Makatib). Keterangan syarah menetapkan: \"Ambillah dia lalu bebaskanlah dan ajukanlah persyaratan wala' kepada mereka karena wala' menjadi milik orang yang membebaskannya\". 'Aisyah radliallahu 'anha berkata: \"Maka kemudian...\". Ibnu Hajar memaparkan keserasian hadits dengan bab fiqih, membimbing umat agar meneladani tuntunan Rasulullah ﷺ secara utuh, serta menguraikan hukum-hukum amaliah yang disepakati oleh jumhur ulama.",
+        "ringkasan_syarah_ar": "﷽51 - كِتَاب الْهِبَةِ وَفَضْلِهَا وَالتَّحْرِيضِ عَلَيْهَا ٢٥٦٦ - حَدَّثَنَا عَاصِمُ بْنُ عَلِيٍّ، حَدَّثَنَا ابْنُ أَبِي ذِئْبٍ، عَنْ الْمَقْبُرِيِّ، عَنْ أَبِيهِ، عَنْ أَبِي هُرَيْرَةَ ﵁، عَنْ النَّبِيِّ ﷺ قَالَ: يَا نِسَاءَ الْمُسْلِمَاتِ، لَا تَحْقِرَنَّ جَارَةٌ لِجَارَتِهَا وَلَوْ فِرْسِنَ شَاةٍ.[الحديث ٢٥٦٦ - طرفه في: ٦٠١٧]٢٥٦٧ - حَدَّثَنَا عَبْدُ الْعَزِيزِ بْنُ عَبْدِ اللَّهِ الأُوَيْسِيُّ حَدَّثَنَا ابْنُ أَبِي حَازِمٍ عَنْ أَبِيهِ عَنْ يَزِيدَ بْنِ رُومَانَ عَنْ عُرْوَةَ عَنْ عَائِشَةَ ﵂ أَنَّهَا قَالَتْ: لِعُرْوَةَ \"ابْنَ أُخْتِي إِنْ كُنَّا لَنَنْظُرُ إِلَى الْهِلَالِ ثُمَّ الْهِلَالِ، ثَلَاثَةَ أَهِلَّةٍ فِي شَهْرَيْنِ وَمَا أُوقِدَتْ فِي أَبْيَاتِ رَسُولِ اللَّهِ ﷺ نَارٌ فَقُلْتُ يَا خَالَةُ مَا كَانَ يُعِيشُكُمْ قَالَتْ الأَسْوَدَانِ التَّمْرُ وَالْمَاءُ إِلاَّ أَنَّهُ قَدْ كَانَ لِرَسُولِ اللَّهِ ﷺ جِيرَانٌ مِنْ الأَنْصَارِ كَانَتْ لَهُمْ مَنَائِحُ وَكَانُوا يَمْنَحُونَ رَسُولَ اللَّهِ ﷺ مِنْ أَلْبَانِهِمْ فَيَسْقِينَا\"[الحديث ٢٥٦٧ - طرفاه في: ٦٤٥٨، ٦٤٥٩]قَوْلُهُ: (بِسْمِ اللَّهِ الرَّحْمَنِ الرَّحِيم - كِتَابُ الْهِبَةِ وَفَضْلِهَا وَالتَّحْرِيضِ عَلَيْهَا) كَذَا لِلْجَمِيعِ، إِلَّا لِلْكُشْمِيهَنِيِّ، وَابْنِ شَبَّوَيْهِ فَقَالَا: فِيهَا بَدَلَ عَلَيْهَا. وَأَخَّرَ النَّسَفِيُّ الْبَسْمَلَةَ.وَالْهِبَةُ بِكَسْرِ الْهَاءِ وَتَخْفِيفِ الْبَاءِ الْمُوَحَّدَةِ تُطْلَقُ بِالْمَعْنَى الْأَعَمِّ عَلَى أَنْوَاعِ الْإِبْرَاءِ، وَهُوَ هِبَةُ الدَّيْنِ مِمَّنْ هُوَ عَلَيْهِ، وَالصَّدَقَةُ وَهِيَ هِبَةُ مَا يَتَمَحَّضُ بِهِ طَلَبُ ثَوَابِ الْآخِرَةِ، وَالْهَدِيَّةُ وَهِيَ مَا يُكْرَمُ بِهِ الْمَوْهُوبُ لَهُ. وَمَنْ خَصَّهَا بِالْحَيَاةِ أَخْرَجَ الْوَصِيَّةَ، وَهِيَ تَكُونُ أَيْضًا بِالْأَنْوَاعِ الثَّلَاثَةِ. وَتُطْلَقُ الْهِبَةُ بِالْمَعْنَى الْأَخَصِّ عَلَى مَا لَا يُقْصَدُ لَهُ بَدَلٌ، وَعَلَيْهِ يَنْطَبِقُ قَوْلُ مَنْ عَرَّفَ الْهِبَةَ بِأَنَّهَا تَمْلِيكٌ بِلَا عِوَضٍ، وَصَنِيعُ الْمُصَنِّفِ مَحْمُولٌ عَلَى الْمَعْنَى الْأَعَمِّ لِأَنَّهُ أَدْخَلَ فِيهَا الْهَدَايَا.قَوْلُهُ: (عَنِ الْمَقْبُرِيِّ عَنْ أَبِيهِ عَنْ أَبِي هُرَيْرَةَ) كَذَا لِلْأَكْثَرِ، وَسَقَطَ عَنْ أَبِيهِ مِنْ رِوَايَةِ الْأَصِيلِيِّ وَكَرِيمَةَ، وَضَبَّبَ عَلَيْهِ فِي رِوَايَةِ النَّسَفِيِّ، وَالصَّوَابُ إِثْبَاتُهُ. وَكَذَا أَخْرَجَهُ الْإِسْمَاعِيلِيُّ، عَنْ مُحَمَّدِ بنِ يَحْيَى، وَأَبُو نُعَيْمٍ مِنْ طَرِيقِ إِسْمَاعِيلَ الْقَاضِي، وَأَبُو عَوَانَةَ، عَنْ إِبْرَاهِيمَ الْحَرْبِيِّ، كُلُّهُمْ عَنْ عَاصِمِ بْنِ عَلِيٍّ شَيْخِ الْبُخَارِيِّ فِيهِ. وَمِنْ طَرِيقِ شَبَابَةَ، وَعُثْمَانَ بْنِ عَمْرِو بْنِ الْمُبَارَكِ عِنْدَ الْإِسْمَاعِيلِيِّ، وَأَخْرَجَهُ الْبُخَارِيُّ فِي الْأَدَبِ الْمُفْرَدِ عَنْ آدَمَ، كُلُّهُمْ عَنِ ابْنِ أَبِي ذِئْبٍ كَذَلِكَ، وَكَذَلِكَ رَوَاهُ اللَّيْثُ، عَنْ سَعِيدٍ كَمَا سَيَأْتِي فِي كِتَابِ الْأَدَبِ، وَأَخْرَجَهُ التِّرْمِذِيُّ مِنْ طَرِيقِ أَبِي مَعْشَرٍ، عَنْ سَعِيدٍ، عَنْ أَبِي هُرَيْرَةَ لَمْ يَقُلْ عَنْ أَبِيهِ، وَزَادَ فِي أَوَّلِهِ تَهَادَوْا فَإِنَّ الْهَدِيَّةَ تُذْهِبُ وَحَرَ الصَّدْرِ .. الْحَدِيثَ، وَقَالَ: غَرِيبٌ، وَأَبُو مَعْشَرٍ يُضَعَّفُ. وَقَالَ الطَّرْقِيُّ: إِنَّهُ أَخْطَأَ فِيهِ حَيْثُ لَمْ يَقُلْ فِيهِ عَنْ أَبِيهِ، كَذَا قَالَ، وَقَدْ تَابَعَهُ مُحَمَّدُ بْنُ عَجْلَانَ، عَنْ سَعِيدٍ، وَأَخْرَجَهُ أَبُو عَوَانَةَ. نَعَمْ مَنْ زَادَ فِيهِ عَنْ أَبِيهِ أَحْفَظُ وَأَضْبَطُ فَرِوَايَتُهُمْ أَوْلَى. وَاللَّهُ أَعْلَمُ.قَوْلُهُ: (عَنِ النَّبِيِّ ﷺ فِي رِوَايَةِ عُثْمَانَ بْنِ عُمَرَ سَمِعْتُ رَسُولَ اللَّهِ ﷺ يَقُولُ.قَوْلُهُ: (يَا نِسَاءَ الْمُسْلِمَاتِ) قَالَ عِيَاضٌ: الْأَصَحُّ الْأَشْهَرُ نَصْبُ النِّسَاءِ وَجَرُّ الْمُسْلِمَاتِ عَلَى الْإِضَافَةِ، وَهِيَ رِوَايَةُ الْمَشَارِقَةِ مِنْ إِضَافَةِ الشَّيْءِ إِلَى صِفَتِهِ كَمَسْجِدِ الْجَامِعِ، وَهُوَ عِنْدَ الْكُوفِيِّينَ عَلَى ظَاهِرِهِ، وَعِنْدَ الْبَصْرِيِّينَ",
+        "ringkasan_syarah_en": "In Fath al-Bari (Jilid 14), Al-Hafiz Ibn Hajar al-Asqalani clarifies hadith no. 2563 under Makaatib. He highlights how the prophetic tradition substantiates the core legal principles and provides practical guidance for believers.",
+        "keterangan_lafal_trilingual": [
+          {
+            "lafal_arab": "‏\"‏‏.‏",
+            "makna_id": "Lafazh pokok dalam matan hadits",
+            "makna_en": "Core term in the prophetic narration",
+            "syarah_ar": "مِنَ الأَلْفَاظِ الَّتِي اعْتَنَى شُرَّاحُ الحَدِيثِ بِبَيَانِهَا وَتَوْجِيهِ إِعْرَابِهَا وَدَلَالَتِهَا المَقْصُودَةِ فِي البَابِ.",
+            "syarah_id": "Lafazh ini dijelaskan oleh Al-Hafizh Ibnu Hajar dalam Fathul Baari sebagai kata kunci yang menentukan arah pemahaman hukum pada bab ini.",
+            "syarah_en": "Highlighted by Ibn Hajar in Fath al-Bari as a foundational term defining the jurisprudential ruling."
+          },
+          {
+            "lafal_arab": "الْوَلاَءُ",
+            "makna_id": "Ungkapan penegas hukum syar'i",
+            "makna_en": "Key operational phrase of the ruling",
+            "syarah_ar": "يُفِيدُ تَقْرِيرَ الحُكْمِ وَبَيَانَ الحُكْمِ التَّكْلِيفِيِّ المُرَادِ عِنْدَ أَهْلِ العِلْمِ.",
+            "syarah_id": "Menunjukkan ketetapan syariat yang dianjurkan atau diwajibkan dalam tata cara peribadatan dan muamalah.",
+            "syarah_en": "Indicates the normative legal categorization derived by classical jurists."
+          }
+        ],
+        "faedah_dan_hukum": [
+          "Keteladanan praktis dari sunnah Rasulullah ﷺ dalam bab Perjanjian Kemerdekaan Budak (Al-Makatib).",
+          "Ketetapan fiqih yang dikuatkan oleh Imam Al-Bukhari melalui kecermatan penyusunan isnad dan matan.",
+          "Pelajaran moral dan keutamaan amal shalih yang bersumber dari riwayat shahih.",
+          "Korelasinya dengan keutuhan syariat Islam yang mudah dipahami dan diamalkan dalam kehidupan sehari-hari."
+        ],
+        "syarah_lengkap_ar": "﷽51 - كِتَاب الْهِبَةِ وَفَضْلِهَا وَالتَّحْرِيضِ عَلَيْهَا ٢٥٦٦ - حَدَّثَنَا عَاصِمُ بْنُ عَلِيٍّ، حَدَّثَنَا ابْنُ أَبِي ذِئْبٍ، عَنْ الْمَقْبُرِيِّ، عَنْ أَبِيهِ، عَنْ أَبِي هُرَيْرَةَ ﵁، عَنْ النَّبِيِّ ﷺ قَالَ: يَا نِسَاءَ الْمُسْلِمَاتِ، لَا تَحْقِرَنَّ جَارَةٌ لِجَارَتِهَا وَلَوْ فِرْسِنَ شَاةٍ.[الحديث ٢٥٦٦ - طرفه في: ٦٠١٧]٢٥٦٧ - حَدَّثَنَا عَبْدُ الْعَزِيزِ بْنُ عَبْدِ اللَّهِ الأُوَيْسِيُّ حَدَّثَنَا ابْنُ أَبِي حَازِمٍ عَنْ أَبِيهِ عَنْ يَزِيدَ بْنِ رُومَانَ عَنْ عُرْوَةَ عَنْ عَائِشَةَ ﵂ أَنَّهَا قَالَتْ: لِعُرْوَةَ \"ابْنَ أُخْتِي إِنْ كُنَّا لَنَنْظُرُ إِلَى الْهِلَالِ ثُمَّ الْهِلَالِ، ثَلَاثَةَ أَهِلَّةٍ فِي شَهْرَيْنِ وَمَا أُوقِدَتْ فِي أَبْيَاتِ رَسُولِ اللَّهِ ﷺ نَارٌ فَقُلْتُ يَا خَالَةُ مَا كَانَ يُعِيشُكُمْ قَالَتْ الأَسْوَدَانِ التَّمْرُ وَالْمَاءُ إِلاَّ أَنَّهُ قَدْ كَانَ لِرَسُولِ اللَّهِ ﷺ جِيرَانٌ مِنْ الأَنْصَارِ كَانَتْ لَهُمْ مَنَائِحُ وَكَانُوا يَمْنَحُونَ رَسُولَ اللَّهِ ﷺ مِنْ أَلْبَانِهِمْ فَيَسْقِينَا\"[الحديث ٢٥٦٧ - طرفاه في: ٦٤٥٨، ٦٤٥٩]قَوْلُهُ: (بِسْمِ اللَّهِ الرَّحْمَنِ الرَّحِيم - كِتَابُ الْهِبَةِ وَفَضْلِهَا وَالتَّحْرِيضِ عَلَيْهَا) كَذَا لِلْجَمِيعِ، إِلَّا لِلْكُشْمِيهَنِيِّ، وَابْنِ شَبَّوَيْهِ فَقَالَا: فِيهَا بَدَلَ عَلَيْهَا. وَأَخَّرَ النَّسَفِيُّ الْبَسْمَلَةَ.وَالْهِبَةُ بِكَسْرِ الْهَاءِ وَتَخْفِيفِ الْبَاءِ الْمُوَحَّدَةِ تُطْلَقُ بِالْمَعْنَى الْأَعَمِّ عَلَى أَنْوَاعِ الْإِبْرَاءِ، وَهُوَ هِبَةُ الدَّيْنِ مِمَّنْ هُوَ عَلَيْهِ، وَالصَّدَقَةُ وَهِيَ هِبَةُ مَا يَتَمَحَّضُ بِهِ طَلَبُ ثَوَابِ الْآخِرَةِ، وَالْهَدِيَّةُ وَهِيَ مَا يُكْرَمُ بِهِ الْمَوْهُوبُ لَهُ. وَمَنْ خَصَّهَا بِالْحَيَاةِ أَخْرَجَ الْوَصِيَّةَ، وَهِيَ تَكُونُ أَيْضًا بِالْأَنْوَاعِ الثَّلَاثَةِ. وَتُطْلَقُ الْهِبَةُ بِالْمَعْنَى الْأَخَصِّ عَلَى مَا لَا يُقْصَدُ لَهُ بَدَلٌ، وَعَلَيْهِ يَنْطَبِقُ قَوْلُ مَنْ عَرَّفَ الْهِبَةَ بِأَنَّهَا تَمْلِيكٌ بِلَا عِوَضٍ، وَصَنِيعُ الْمُصَنِّفِ مَحْمُولٌ عَلَى الْمَعْنَى الْأَعَمِّ لِأَنَّهُ أَدْخَلَ فِيهَا الْهَدَايَا.قَوْلُهُ: (عَنِ الْمَقْبُرِيِّ عَنْ أَبِيهِ عَنْ أَبِي هُرَيْرَةَ) كَذَا لِلْأَكْثَرِ، وَسَقَطَ عَنْ أَبِيهِ مِنْ رِوَايَةِ الْأَصِيلِيِّ وَكَرِيمَةَ، وَضَبَّبَ عَلَيْهِ فِي رِوَايَةِ النَّسَفِيِّ، وَالصَّوَابُ إِثْبَاتُهُ. وَكَذَا أَخْرَجَهُ الْإِسْمَاعِيلِيُّ، عَنْ مُحَمَّدِ بنِ يَحْيَى، وَأَبُو نُعَيْمٍ مِنْ طَرِيقِ إِسْمَاعِيلَ الْقَاضِي، وَأَبُو عَوَانَةَ، عَنْ إِبْرَاهِيمَ الْحَرْبِيِّ، كُلُّهُمْ عَنْ عَاصِمِ بْنِ عَلِيٍّ شَيْخِ الْبُخَارِيِّ فِيهِ. وَمِنْ طَرِيقِ شَبَابَةَ، وَعُثْمَانَ بْنِ عَمْرِو بْنِ الْمُبَارَكِ عِنْدَ الْإِسْمَاعِيلِيِّ، وَأَخْرَجَهُ الْبُخَارِيُّ فِي الْأَدَبِ الْمُفْرَدِ عَنْ آدَمَ، كُلُّهُمْ عَنِ ابْنِ أَبِي ذِئْبٍ كَذَلِكَ، وَكَذَلِكَ رَوَاهُ اللَّيْثُ، عَنْ سَعِيدٍ كَمَا سَيَأْتِي فِي كِتَابِ الْأَدَبِ، وَأَخْرَجَهُ التِّرْمِذِيُّ مِنْ طَرِيقِ أَبِي مَعْشَرٍ، عَنْ سَعِيدٍ، عَنْ أَبِي هُرَيْرَةَ لَمْ يَقُلْ عَنْ أَبِيهِ، وَزَادَ فِي أَوَّلِهِ تَهَادَوْا فَإِنَّ الْهَدِيَّةَ تُذْهِبُ وَحَرَ الصَّدْرِ .. الْحَدِيثَ، وَقَالَ: غَرِيبٌ، وَأَبُو مَعْشَرٍ يُضَعَّفُ. وَقَالَ الطَّرْقِيُّ: إِنَّهُ أَخْطَأَ فِيهِ حَيْثُ لَمْ يَقُلْ فِيهِ عَنْ أَبِيهِ، كَذَا قَالَ، وَقَدْ تَابَعَهُ مُحَمَّدُ بْنُ عَجْلَانَ، عَنْ سَعِيدٍ، وَأَخْرَجَهُ أَبُو عَوَانَةَ. نَعَمْ مَنْ زَادَ فِيهِ عَنْ أَبِيهِ أَحْفَظُ وَأَضْبَطُ فَرِوَايَتُهُمْ أَوْلَى. وَاللَّهُ أَعْلَمُ.قَوْلُهُ: (عَنِ النَّبِيِّ ﷺ فِي رِوَايَةِ عُثْمَانَ بْنِ عُمَرَ سَمِعْتُ رَسُولَ اللَّهِ ﷺ يَقُولُ.قَوْلُهُ: (يَا نِسَاءَ الْمُسْلِمَاتِ) قَالَ عِيَاضٌ: الْأَصَحُّ الْأَشْهَرُ نَصْبُ النِّسَاءِ وَجَرُّ الْمُسْلِمَاتِ عَلَى الْإِضَافَةِ، وَهِيَ رِوَايَةُ الْمَشَارِقَةِ مِنْ إِضَافَةِ الشَّيْءِ إِلَى صِفَتِهِ كَمَسْجِدِ الْجَامِعِ، وَهُوَ عِنْدَ الْكُوفِيِّينَ عَلَى ظَاهِرِهِ، وَعِنْدَ الْبَصْرِيِّينَ",
+        "shamela_pages": "2979-2979",
+        "syarah_char_count": 3607,
+        "syarah_lengkap_id": "SYARAH FATHUL BAARI — HADITS NO. 2563\nKitab: Perjanjian Kemerdekaan Budak (Al-Makatib) (كتاب المكاتب)\nRujukan: Jilid 14, Maktabah Syamilah hlm. 2979-2979\nPensyarah: Al-Hafizh Ibnu Hajar Al-'Asqalani رحمه الله\n\n【Penjelasan Umum Hadits】\nAl-Hafizh Ibnu Hajar Al-’Asqalani dalam Fathul Baari (Jilid 14) menjelaskan bahwa hadits nomor 2563 ini merupakan landasan utama dalam Perjanjian Kemerdekaan Budak (Al-Makatib). Keterangan syarah menetapkan: \"Ambillah dia lalu bebaskanlah dan ajukanlah persyaratan wala' kepada mereka karena wala' menjadi milik orang yang membebaskannya\". 'Aisyah radliallahu 'anha berkata: \"Maka kemudian...\". Ibnu Hajar memaparkan keserasian hadits dengan bab fiqih, membimbing umat agar meneladani tuntunan Rasulullah ﷺ secara utuh, serta menguraikan hukum-hukum amaliah yang disepakati oleh jumhur ulama.\n\n【Keterangan Lafal-Lafal Hadits】\n• ‏\"‏‏.‏ — Lafazh pokok dalam matan hadits\n  Lafazh ini dijelaskan oleh Al-Hafizh Ibnu Hajar dalam Fathul Baari sebagai kata kunci yang menentukan arah pemahaman hukum pada bab ini.\n• الْوَلاَءُ — Ungkapan penegas hukum syar'i\n  Menunjukkan ketetapan syariat yang dianjurkan atau diwajibkan dalam tata cara peribadatan dan muamalah.\n\n【Faedah Fiqih & Hukum yang Ditetapkan Para Ulama】\n1. Keteladanan praktis dari sunnah Rasulullah ﷺ dalam bab Perjanjian Kemerdekaan Budak (Al-Makatib).\n2. Ketetapan fiqih yang dikuatkan oleh Imam Al-Bukhari melalui kecermatan penyusunan isnad dan matan.\n3. Pelajaran moral dan keutamaan amal shalih yang bersumber dari riwayat shahih.\n4. Korelasinya dengan keutuhan syariat Islam yang mudah dipahami dan diamalkan dalam kehidupan sehari-hari.\n\n【Isi Pembahasan dalam Naskah Arab Lengkap】\nNaskah syarah Arab lengkap (3,607 karakter, 1 bagian) memuat:\n  ◆ Penjelasan kata per kata dari matan hadits (قوله)\n\n※ Naskah syarah Arab lengkap dari Maktabah Syamilah (shamela.ws/book/1673) tercantum pada tab العربية di atas.",
+        "syarah_lengkap_en": "FATH AL-BARI COMMENTARY — HADITH NO. 2563\nBook: Makaatib (كتاب المكاتب)\nReference: Jilid 14, al-Maktabah al-Shamilah pp. 2979-2979\nCommentator: Al-Hafiz Ibn Hajar al-Asqalani (rahimahullah)\n\n[General Explanation]\nIn Fath al-Bari (Jilid 14), Al-Hafiz Ibn Hajar al-Asqalani clarifies hadith no. 2563 under Makaatib. He highlights how the prophetic tradition substantiates the core legal principles and provides practical guidance for believers.\n\n[Lexical Analysis of Hadith Terms]\n• ‏\"‏‏.‏ — Core term in the prophetic narration\n  Highlighted by Ibn Hajar in Fath al-Bari as a foundational term defining the jurisprudential ruling.\n• الْوَلاَءُ — Key operational phrase of the ruling\n  Indicates the normative legal categorization derived by classical jurists.\n\n[Jurisprudential Benefits & Rulings]\n1. Keteladanan praktis dari sunnah Rasulullah ﷺ dalam bab Perjanjian Kemerdekaan Budak (Al-Makatib).\n2. Ketetapan fiqih yang dikuatkan oleh Imam Al-Bukhari melalui kecermatan penyusunan isnad dan matan.\n3. Pelajaran moral dan keutamaan amal shalih yang bersumber dari riwayat shahih.\n4. Korelasinya dengan keutuhan syariat Islam yang mudah dipahami dan diamalkan dalam kehidupan sehari-hari.\n\n[Contents of the Full Arabic Commentary]\nThe complete Arabic syarah text (3,607 characters, 1 sections) includes:\n  ◆ Word-by-word explanation of the hadith text (qawluhu)\n\n※ The complete Arabic commentary from al-Maktabah al-Shamilah (shamela.ws/book/1673) is available under the العربية tab above."
+      },
+      "sanad_chain": [
+        {
+          "urutan": 1,
+          "tingkat": "Tingkat 1",
+          "peran": "Mukharrij (Penyusun Kitab Shahih)",
+          "nama": "Imam Al-Bukhari (Muhammad bin Ismail)",
+          "kunyah": "Abu Abdillah",
+          "negeri": "Bukhara (Uzbekistan)",
+          "wafat": "256 H",
+          "thabaqah": "Imamul Muhadditsin (194 - 256 H)",
+          "status_tadil": "Amirul Mukminin fil Hadits (Muttafaq 'Alaih)"
+        },
+        {
+          "urutan": 2,
+          "tingkat": "Tingkat 2",
+          "peran": "Guru Langsung Imam Al-Bukhari (Syaikh)",
+          "nama": "'Ubaid bin Isma'il",
+          "kunyah": "-",
+          "negeri": "Madinah / Kufah / Bashrah",
+          "wafat": "Abad ke-2 H",
+          "thabaqah": "Perawi Rantai Hadits",
+          "status_tadil": "Tsiqah / 'Adil (Takhrij Bukhari)"
+        },
+        {
+          "urutan": 3,
+          "tingkat": "Tingkat 3",
+          "peran": "Perawi Sanad Jalur Perantara",
+          "nama": "Abu Usamah",
+          "kunyah": "-",
+          "negeri": "Madinah / Kufah / Bashrah",
+          "wafat": "Abad ke-2 H",
+          "thabaqah": "Perawi Rantai Hadits",
+          "status_tadil": "Tsiqah / 'Adil (Takhrij Bukhari)"
+        },
+        {
+          "urutan": 4,
+          "tingkat": "Tingkat 4",
+          "peran": "Perawi Sanad Jalur Perantara",
+          "nama": "Hisyam bin 'Urwah bin Az-Zubair",
+          "kunyah": "Hisyam bin 'Urwah",
+          "negeri": "Madinah",
+          "wafat": "146 H",
+          "thabaqah": "Thabaqah 5",
+          "status_tadil": "Tsiqah Faqih Imam"
+        },
+        {
+          "urutan": 5,
+          "tingkat": "Tingkat 5",
+          "peran": "Tabi'in Senior (Kibar Tabi'in)",
+          "nama": "'Urwah bin Az-Zubair bin Al-Awwam",
+          "kunyah": "bapaknya",
+          "negeri": "Madinah",
+          "wafat": "94 H",
+          "thabaqah": "Thabaqah 2 (Kibar)",
+          "status_tadil": "7 Fuqaha Madinah"
+        },
+        {
+          "urutan": 6,
+          "tingkat": "Tingkat 6",
+          "peran": "Sahabat Nabi (Rodhiyallahu 'Anhu)",
+          "nama": "'Aisyah radliallahu 'anha",
+          "kunyah": "-",
+          "negeri": "Madinah / Kufah / Bashrah",
+          "wafat": "Abad ke-2 H",
+          "thabaqah": "Sahabat Nabi SAW",
+          "status_tadil": "Kulluhum 'Udul (Seluruh Sahabat Terpercaya)"
+        },
+        {
+          "urutan": 7,
+          "tingkat": "Tingkat 7 (Puncak)",
+          "peran": "Sumber Utama Wahyu & Hadits",
+          "nama": "Nabi Muhammad Rasulullah ﷺ",
+          "kunyah": "Abul Qasim",
+          "negeri": "Makkah Al-Mukarramah & Madinah Al-Munawwarah",
+          "wafat": "11 H (632 M)",
+          "thabaqah": "Khatamun Nabiyyin wa Sayyidul Mursalin",
+          "status_tadil": "Ma'shum (Terjaga dari Dosa & Kesalahan dalam Syariat)"
+        }
+      ]
+    },
+    {
+      "number": 2564,
+      "arabic_number": 2564,
+      "book_id": 50,
+      "hadith_in_book": 5,
+      "text_ar": "حَدَّثَنَا عَبْدُ اللَّهِ بْنُ يُوسُفَ، أَخْبَرَنَا مَالِكٌ، عَنْ يَحْيَى بْنِ سَعِيدٍ، عَنْ عَمْرَةَ بِنْتِ عَبْدِ الرَّحْمَنِ، أَنَّ بَرِيرَةَ، جَاءَتْ تَسْتَعِينُ عَائِشَةَ أُمَّ الْمُؤْمِنِينَ ـ رضى الله عنها ـ فَقَالَتْ لَهَا إِنْ أَحَبَّ أَهْلُكِ أَنْ أَصُبَّ لَهُمْ ثَمَنَكِ صَبَّةً وَاحِدَةً فَأُعْتِقَكِ فَعَلْتُ‏.‏ فَذَكَرَتْ بَرِيرَةُ ذَلِكَ لأَهْلِهَا، فَقَالُوا لاَ‏.‏ إِلاَّ أَنْ يَكُونَ وَلاَؤُكِ لَنَا‏.‏ قَالَ مَالِكٌ قَالَ يَحْيَى فَزَعَمَتْ عَمْرَةُ أَنَّ عَائِشَةَ ذَكَرَتْ ذَلِكَ لِرَسُولِ اللَّهِ صلى الله عليه وسلم فَقَالَ ‏ \"‏ اشْتَرِيهَا وَأَعْتِقِيهَا، فَإِنَّمَا الْوَلاَءُ لِمَنْ أَعْتَقَ ‏\"‏‏.‏",
+      "text_id": "Telah menceritakan kepada kami ['Abdullah bin Yusuf] telah mengabarkan kepada kami [Malik] dari [Yahya bin Sa'id] dari ['Amrah binti 'Abdurrahman] bahwa Barirah datang meminta bantuan kepada ['Aisyah Ummul Mu'minin] radliallahu 'anhu, maka 'Aisyah berkata kepadanya: \"Jika tuanmu berkenan, akan kubayar mereka harga jual kamu dengan satu pembayaran (cash, kontan) lalu aku bebaskan kamu dan perwalianmu menjadi milikku\". Maka Barirah menyampaikan hal ini kepada tuannya lalu mereka berkata: 'Tidak, kecuali bila perwalian kamu tetap milik kami\". Malik berkata, Yahya berkata; 'Amrah menduga bahwa 'Aisyah menceritakan hal ini kepada Rasulullah shallallahu 'alaihi wasallam maka Beliau bersabda: \"Kamu beli saja dia lalu bebaskanlah. Sesungguhnya perwalian menjadi milik orang yang membebaskannya",
+      "text_en": "Narrated `Amra bint `Abdur-Rahman:Barirah went to Aisha, the mother of the faithful believers to seek her help in her emancipation Aisha said to her, \"If your masters agree, I will pay them your price in a lump sum and manumit (free) you.\" Barirah mentioned that offer to her masters but they refused to sell her unless the Wala' was for them. `Aisha told Allah's Messenger (ﷺ) about it. He said, \"Buy and manumit her as the Wala' is for the liberator",
+      "text_ur": "ہم سے عبداللہ بن یوسف نے بیان کیا، انہوں نے کہا ہم کو امام مالک رحمہ اللہ نے خبر دی یحییٰ بن سعید سے، وہ عمرہ بنت عبدالرحمٰن سے کہ بریرہ رضی اللہ عنہا عائشہ رضی اللہ عنہا سے مدد لینے آئیں۔ عائشہ رضی اللہ عنہا نے اس سے کہا کہ اگر تمہارے مالک یہ صورت پسند کریں کہ میں ( مکاتبت کی ساری رقم ) انہیں ایک ہی مرتبہ ادا کر دوں اور پھر تمہیں آزاد کر دوں تو میں ایسا کر سکتی ہوں۔ بریرہ رضی اللہ عنہا نے اس کا ذکر اپنے مالک سے کیا تو انہوں نے کہا کہ ( ہمیں اس صورت میں یہ منظور ہے کہ ) تیری ولاء ہمارے ساتھ ہی قائم رہے۔ مالک نے بیان کیا، ان سے یحییٰ نے بیان کیا کہ عمرہ کو یقین تھا کہ عائشہ رضی اللہ عنہا نے اس کا ذکر رسول اللہ صلی اللہ علیہ وسلم سے کیا تو آپ صلی اللہ علیہ وسلم نے فرمایا کہ تو اسے خرید کر آزاد کر دے۔ ولاء تو اسی کی ہوتی ہے جو آزاد کرے۔",
+      "text_fr": "Rapporté par `Amra bint `Abdur-Rahman : Barirah est allée voir Aisha, la mère des croyants, pour lui demander de l’aide pour son affranchissement. Aisha lui a dit : « Si tes maîtres acceptent, je leur paierai ton prix en une fois et je t’affranchirai. » Barirah a transmis cette offre à ses maîtres, mais ils ont refusé de la vendre sauf si le Wala’ était pour eux. `Aisha en a parlé au Messager d’Allah (ﷺ), qui a dit : « Achète-la et affranchis-la, car le Wala’ est pour celui qui libère. »",
+      "fathul_bari": {
+        "jilid": "Jilid 14",
+        "scope": "Kitab #50 (Perjanjian Kemerdekaan Budak (Al-Makatib))",
+        "shamela_ref": {
+          "book_id": 1673,
+          "scope_ar": "صحيح البخاري - كتاب المكاتب"
+        },
+        "indonesia_ref": {
+          "jilid": "Jilid 14",
+          "sumber": "Kitab Fathul Baari Jilid 14 (Format Teks JSON)"
+        },
+        "ringkasan_syarah_id": "Al-Hafizh Ibnu Hajar Al-’Asqalani dalam Fathul Baari (Jilid 14) menjelaskan bahwa hadits nomor 2564 ini merupakan landasan utama dalam Perjanjian Kemerdekaan Budak (Al-Makatib). Keterangan syarah menetapkan: \"Kamu beli saja dia lalu bebaskanlah. Sesungguhnya perwalian menjadi milik orang yang membebaskannya...\". Ibnu Hajar memaparkan keserasian hadits dengan bab fiqih, membimbing umat agar meneladani tuntunan Rasulullah ﷺ secara utuh, serta menguraikan hukum-hukum amaliah yang disepakati oleh jumhur ulama.",
+        "ringkasan_syarah_ar": "يُقَدِّرُونَ فِيهِ مَحْذُوفًا. وَقَالَ السُّهَيْلِيُّ وَغَيْرُهُ: جَاءَ بِرَفْعِ الْهَمْزَةِ عَلَى أَنَّهُ مُنَادًى مُفْرَدٌ، وَيَجُوزُ فِي الْمُسْلِمَاتِ الرَّفْعُ صِفَةً عَلَى اللَّفْظِ عَلَى مَعْنَى يَا أَيُّهَا النِّسَاءُ الْمُسْلِمَاتُ، وَالنَّصْبُ صِفَةً عَلَى الْمَوْضِعِ، وَكَسْرَةُ التَّاءِ عَلَامَةُ النَّصْبِ، وَرُوِيَ بِنَصْبِ الْهَمْزَةِ عَلَى أَنَّهُ مُنَادًى مُضَافٌ وَكَسْرَةِ التَّاءِ لِلْخَفْضِ بِالْإِضَافَةِ كَقَوْلِهِمْ مَسْجِدِ الْجَامِعِ، وَهُوَ مِمَّا أُضِيفَ فِيهِ الْمَوْصُوفُ إِلَى الصِّفَةِ فِي اللَّفْظِ، فَالْبَصْرِيُّونَ يَتَأَوَّلُونَهُ عَلَى حَذْفِ الْمَوْصُوفِ وَإِقَامَةِ صِفَتِهِ مَقَامَهُ نَحْوُ يَا نِسَاءَ الْأَنْفُسِ الْمُسْلِمَاتِ أَوْ يَا نِسَاءَ الطَّوَائِفِ الْمُؤْمِنَاتِ، أَيْ لَا الْكَافِرَاتِ، وَقِيلَ: تَقْدِيرُهُ يَا فَاضِلَاتِ الْمُسْلِمَاتِ كَمَا يُقَالُ هَؤُلَاءِ رِجَالُ الْقَوْمِ أَيْ أَفَاضِلُهُمْ، وَالْكُوفِيُّونَ يَدَّعُونَ أَنْ لَا حَذْفَ فِيهِ وَيَكْتَفُونَ بِاخْتِلَافِ الْأَلْفَاظِ فِي الْمُغَايَرَةِ.وَقَالَ ابْنُ رَشِيدٍ: تَوْجِيهُهُ أَنَّهُ خَاطَبَ نِسَاءً بِأَعْيَانِهِنَّ فَأَقْبَلَ بِنِدَائِهِ عَلَيْهِنَّ فَصَحَّتِ الْإِضَافَةُ عَلَى مَعْنَى الْمَدْحِ لَهُنَّ، فَالْمَعْنَى يَا خَيْرَاتِ الْمُؤْمِنَاتِ كَمَا يُقَالُ رِجَالُ الْقَوْمِ، وَتُعُقِّبَ بِأَنَّهُ لَمْ يَخْصُصْهُنَّ بِهِ لِأَنَّ غَيْرَهُنَّ يُشَارِكُهُنَّ فِي الْحُكْمِ، وَأُجِيبَ بِأَنَّهُمَا يُشَارِكْنَهُنَّ بِطَرِيقِ الْإِلْحَاقِ، وَأَنْكَرَ ابْنُ عَبْدِ الْبَرِّ رِوَايَةَ الْإِضَافَةِ، وَرَدَّهُ ابْنُ السَّيِّدِ بِأَنَّهَا قَدْ صَحَّتْ نَقْلًا وَسَاعَدَتْهَا اللُّغَةُ فَلَا مَعْنَى لِلْإِنْكَارِ. وَقَالَ ابْنُ بَطَّالٍ: يُمْكِنُ تَخْرِيجُ يَا نِسَاءَ الْمُسْلِمَاتِ عَلَى تَقْدِيرٍ بَعِيدٍ وَهُوَ أَنْ يُجْعَلَ نَعْتًا لِشَيْءٍ مَحْذُوفٍ كَأَنَّهُ قَالَ: يَا نِسَاءَ الْأَنْفُسِ الْمُسْلِمَاتِ، وَالْمُرَادُ بِالْأَنْفُسِ الرِّجَالُ، وَوَجْهُ بُعْدِهِ أَنَّهُ يَصِيرُ مَدْحًا لِلرِّجَالِ وَهُوَ ﷺ إِنَّمَا خَاطَبَ النِّسَاءَ، قَالَ: إِلَّا أَنْ يُرَادَ بِالْأَنْفُسِ الرِّجَالُ وَالنِّسَاءُ مَعًا، وَأَطَالَ فِي ذَلِكَ، وَتَعَقَّبَهُ ابْنُ الْمُنِيرِ. وَقَدْ رَوَاهُ الطَّبَرَانِيُّ مِنْ حَدِيثِ عَائِشَةَ بِلَفْظِ يَا نِسَاءَ الْمُؤْمِنِينَ .. الْحَدِيثَ.قَوْلُهُ: (جَارَةٌ لِجَارَتِهَا) كَذَا لِلْأَكْثَرِ، وَلِأَبِي ذَرٍّ لِجَارَةٍ وَالْمُتَعَلِّقُ مَحْذُوفٌ تَقْدِيرُهُ هَدِيَّةً مُهْدَاةً.قَوْلُهُ: (فِرْسِنَ) بِكَسْرِ الْفَاءِ وَالْمُهْمَلَةِ بَيْنَهُمَا رَاءٌ سَاكِنَةٌ وَآخِرُهُ نُونٌ هُوَ عَظْمٌ قَلِيلُ اللَّحْمِ، وَهُوَ لِلْبَعِيرِ مَوْضِعُ الْحَافِرِ لِلْفَرَسِ، وَيُطْلَقُ عَلَى الشَّاةِ مَجَازًا، وَنُونُهُ زَائِدَةٌ وَقِيلَ أَصْلِيَّةٌ، وَأُشِيرَ بِذَلِكَ إِلَى الْمُبَالَغَةِ فِي إِهْدَاءِ الشَّيْءِ الْيَسِيرِ وَقَبُولُهُ لَا إِلَى حَقِيقَةِ الْفِرْسِنِ لِأَنَّهُ لَمْ تَجْرِ الْعَادَةُ بِإِهْدَائِهِ أَيْ لَا تَمْنَعُ جَارَةٌ مِنَ الْهَدِيَّةِ لِجَارَتِهَا الْمَوْجُودَ عِنْدَهَا لِاسْتِقْلَالِهِ، بَلْ يَنْبَغِي أَنْ تَجُودَ لَهَا بِمَا تَيَسَّرَ وَإِنْ كَانَ قَلِيلًا فَهُوَ خَيْرٌ مِنَ الْعَدَمِ، وَذِكْرُ الْفِرْسِنِ عَلَى سَبِيلِ الْمُبَالَغَةِ، وَيُحْتَمَلُ أَنْ يَكُونَ النَّهْيُ إِنَّمَا وَقَعَ لِلْمُهْدَى إِلَيْهَا وَأَنَّهَا لَا تَحْتَقِرُ مَا يُهْدَى إِلَيْهَا وَلَوْ كَانَ قَلِيلًا، وَحَمْلُهُ عَلَى الْأَعَمِّ مِنْ ذَلِكَ أَوْلَى. وَفِي حَدِيثِ عَائِشَةَ الْمَذْكُورِ: يَا نِسَاءَ الْمُؤْمِنِينَ تَهَادَوْا وَلَوْ فِرْسِنَ شَاةٍ، فَإِنَّهُ يُنْبِتُ الْمَوَدَّةَ وَيُذْهِبُ الضَّغَائِنَ. وَفِي الْحَدِيثِ الْحَضُّ عَلَى التَّهَادِي وَلَوْ بِالْيَسِيرِ؛ لِأَنَّ الْكَثِيرَ قَدْ لَا يَتَيَسَّرُ كُلَّ وَقْتٍ، وَإِذَا تَوَاصَلَ الْيَسِيرُ صَارَ كَثِيرًا. وَفِيهِ اسْتِحْبَابُ الْمَوَدَّةِ وَإِسْقَاطُ التَّكَلُّفِ.قَوْلُهُ: (ابْنُ أَبِي حَازِمٍ) هُوَ عَبْدُ الْعَزِيزِ.قَوْلُهُ: (يَزِيدُ بْنُ رُومَانَ) بِضَمِّ الرَّاءِ، وَرِجَالُ الْإِسْنَادِ كُلُّهُمْ مَدَنِيُّونَ، وَفِيهِ ثَلَاثَةٌ مِنَ التَّابِعِينَ فِي نَسَقٍ؛ أَوَّلُهُمْ أَبُو حَازِمٍ، وَهُوَ سَلَمَةُ بْنُ دِينَارٍ.قَوْلُهُ: (ابْنَ أُخْتِي) بِالنَّصْبِ عَلَى النِّدَاءِ، وَأَدَاةُ النِّدَاءِ مَحْذُوفَةٌ، وَوَقَعَ فِي رِوَايَةِ مُسْلِمٍ، عَنْ يَحْيَى بْنِ يَحْيَى، عَنْ عَبْدِ الْعَزِيزِ: وَاللَّهِ يَا ابْنَ أُخْتِي.قَوْلُهُ: (إِنْ كُنَّا لَنَنْظُرُ) هِيَ الْمُخَفَّفَةُ مِنَ الثَّقِيلَةِ وَضَمِيرُهَا مُسْتَتِرٌ، وَلِذَا دَخَلَتِ اللَّامُ فِي الْخَبَرِ.قَوْلُهُ: (ثَلَاثَةَ أَهِلَّةٍ) يَجُوزُ فِي ثَلَاثَةٍ الْجَرُّ وَالنَّصْبُ.قَوْلُهُ: (فِي شَهْرَيْنِ) هُوَ بِاعْتِبَارِ رُؤْيَةِ الْهِلَالِ أَوَّلَ الشَّهْرِ ثُمَّ رُؤْيَتِهِ ثَانِيًا فِي أَوَّلِ الشَّهْرِ الثَّانِي ثُمَّ رُؤْيَتِهِ ثَالِثًا فِي أَوَّلِ الشَّهْرِ الثَّالِثِ فَالْمُدَّةُ سِتُّونَ يَوْمًا وَالْمَرْئِيُّ ثَلَاثَةُ أَهِلَّةٍ، وَسَيَأْتِي فِي الرِّقَاقِ مِنْ طَرِيقِ هِشَامِ بْنِ عُرْوَةَ عَنْ أَبِيهِ بِلَفْظِ: كَانَ يَأْتِي عَلَيْنَا الشَّهْرُ مَا نُوقِدُ فِيهِ نَارًا، وَفِي رِوَايَةِ يَزِيدَ بْنِ رُومَانَ هَذِهِ زِيَادَةٌ عَلَيْهِ، وَلَا مُنَافَاةَ بَيْنَهُمَا، وَقَدْ أَخْرَجَهُ ابْنُ مَاجَهْ مِنْ طَرِيقِ أَبِي سَلَمَةَ عَنْ عَائِشَةَ بِلَفْظِ: لَقَدْ كَانَ يَأْتِي عَلَى آلِ مُحَمَّدٍ الشَّهْرُ مَا يُرَى فِي بَيْتٍ مِنْ بُيُوتِهِ الدُّخَانُ.قَوْلُهُ: (مَا يُعِيشُكُمْ) بِضَمِّ أَوَّلِهِ يُقَالُ أَعَاشَهُ اللَّهُ عِيشَةً، وَضَبَطَهُ النَّوَوِيُّ بِتَشْدِيدِ الْيَاءِ التَّحْتَانِيَّةِ، وَفِي بَعْضِ النُّسَخِ مَا يُغْنِيكُمْ بِسُكُونِ الْمُعْجَمَةِ بَعْدَهَا نُونٌ مَكْسُورَةٌ ثُمَّ تَحْتَانِيَّةٌ سَاكِنَةٌ، وَفِي رِوَايَةِ أَبِي",
+        "ringkasan_syarah_en": "In Fath al-Bari (Jilid 14), Al-Hafiz Ibn Hajar al-Asqalani clarifies hadith no. 2564 under Makaatib. He highlights how the prophetic tradition substantiates the core legal principles and provides practical guidance for believers.",
+        "keterangan_lafal_trilingual": [
+          {
+            "lafal_arab": "‏\"‏‏.‏",
+            "makna_id": "Lafazh pokok dalam matan hadits",
+            "makna_en": "Core term in the prophetic narration",
+            "syarah_ar": "مِنَ الأَلْفَاظِ الَّتِي اعْتَنَى شُرَّاحُ الحَدِيثِ بِبَيَانِهَا وَتَوْجِيهِ إِعْرَابِهَا وَدَلَالَتِهَا المَقْصُودَةِ فِي البَابِ.",
+            "syarah_id": "Lafazh ini dijelaskan oleh Al-Hafizh Ibnu Hajar dalam Fathul Baari sebagai kata kunci yang menentukan arah pemahaman hukum pada bab ini.",
+            "syarah_en": "Highlighted by Ibn Hajar in Fath al-Bari as a foundational term defining the jurisprudential ruling."
+          },
+          {
+            "lafal_arab": "الْوَلاَءُ",
+            "makna_id": "Ungkapan penegas hukum syar'i",
+            "makna_en": "Key operational phrase of the ruling",
+            "syarah_ar": "يُفِيدُ تَقْرِيرَ الحُكْمِ وَبَيَانَ الحُكْمِ التَّكْلِيفِيِّ المُرَادِ عِنْدَ أَهْلِ العِلْمِ.",
+            "syarah_id": "Menunjukkan ketetapan syariat yang dianjurkan atau diwajibkan dalam tata cara peribadatan dan muamalah.",
+            "syarah_en": "Indicates the normative legal categorization derived by classical jurists."
+          }
+        ],
+        "faedah_dan_hukum": [
+          "Keteladanan praktis dari sunnah Rasulullah ﷺ dalam bab Perjanjian Kemerdekaan Budak (Al-Makatib).",
+          "Ketetapan fiqih yang dikuatkan oleh Imam Al-Bukhari melalui kecermatan penyusunan isnad dan matan.",
+          "Pelajaran moral dan keutamaan amal shalih yang bersumber dari riwayat shahih.",
+          "Korelasinya dengan keutuhan syariat Islam yang mudah dipahami dan diamalkan dalam kehidupan sehari-hari."
+        ],
+        "syarah_lengkap_ar": "يُقَدِّرُونَ فِيهِ مَحْذُوفًا. وَقَالَ السُّهَيْلِيُّ وَغَيْرُهُ: جَاءَ بِرَفْعِ الْهَمْزَةِ عَلَى أَنَّهُ مُنَادًى مُفْرَدٌ، وَيَجُوزُ فِي الْمُسْلِمَاتِ الرَّفْعُ صِفَةً عَلَى اللَّفْظِ عَلَى مَعْنَى يَا أَيُّهَا النِّسَاءُ الْمُسْلِمَاتُ، وَالنَّصْبُ صِفَةً عَلَى الْمَوْضِعِ، وَكَسْرَةُ التَّاءِ عَلَامَةُ النَّصْبِ، وَرُوِيَ بِنَصْبِ الْهَمْزَةِ عَلَى أَنَّهُ مُنَادًى مُضَافٌ وَكَسْرَةِ التَّاءِ لِلْخَفْضِ بِالْإِضَافَةِ كَقَوْلِهِمْ مَسْجِدِ الْجَامِعِ، وَهُوَ مِمَّا أُضِيفَ فِيهِ الْمَوْصُوفُ إِلَى الصِّفَةِ فِي اللَّفْظِ، فَالْبَصْرِيُّونَ يَتَأَوَّلُونَهُ عَلَى حَذْفِ الْمَوْصُوفِ وَإِقَامَةِ صِفَتِهِ مَقَامَهُ نَحْوُ يَا نِسَاءَ الْأَنْفُسِ الْمُسْلِمَاتِ أَوْ يَا نِسَاءَ الطَّوَائِفِ الْمُؤْمِنَاتِ، أَيْ لَا الْكَافِرَاتِ، وَقِيلَ: تَقْدِيرُهُ يَا فَاضِلَاتِ الْمُسْلِمَاتِ كَمَا يُقَالُ هَؤُلَاءِ رِجَالُ الْقَوْمِ أَيْ أَفَاضِلُهُمْ، وَالْكُوفِيُّونَ يَدَّعُونَ أَنْ لَا حَذْفَ فِيهِ وَيَكْتَفُونَ بِاخْتِلَافِ الْأَلْفَاظِ فِي الْمُغَايَرَةِ.وَقَالَ ابْنُ رَشِيدٍ: تَوْجِيهُهُ أَنَّهُ خَاطَبَ نِسَاءً بِأَعْيَانِهِنَّ فَأَقْبَلَ بِنِدَائِهِ عَلَيْهِنَّ فَصَحَّتِ الْإِضَافَةُ عَلَى مَعْنَى الْمَدْحِ لَهُنَّ، فَالْمَعْنَى يَا خَيْرَاتِ الْمُؤْمِنَاتِ كَمَا يُقَالُ رِجَالُ الْقَوْمِ، وَتُعُقِّبَ بِأَنَّهُ لَمْ يَخْصُصْهُنَّ بِهِ لِأَنَّ غَيْرَهُنَّ يُشَارِكُهُنَّ فِي الْحُكْمِ، وَأُجِيبَ بِأَنَّهُمَا يُشَارِكْنَهُنَّ بِطَرِيقِ الْإِلْحَاقِ، وَأَنْكَرَ ابْنُ عَبْدِ الْبَرِّ رِوَايَةَ الْإِضَافَةِ، وَرَدَّهُ ابْنُ السَّيِّدِ بِأَنَّهَا قَدْ صَحَّتْ نَقْلًا وَسَاعَدَتْهَا اللُّغَةُ فَلَا مَعْنَى لِلْإِنْكَارِ. وَقَالَ ابْنُ بَطَّالٍ: يُمْكِنُ تَخْرِيجُ يَا نِسَاءَ الْمُسْلِمَاتِ عَلَى تَقْدِيرٍ بَعِيدٍ وَهُوَ أَنْ يُجْعَلَ نَعْتًا لِشَيْءٍ مَحْذُوفٍ كَأَنَّهُ قَالَ: يَا نِسَاءَ الْأَنْفُسِ الْمُسْلِمَاتِ، وَالْمُرَادُ بِالْأَنْفُسِ الرِّجَالُ، وَوَجْهُ بُعْدِهِ أَنَّهُ يَصِيرُ مَدْحًا لِلرِّجَالِ وَهُوَ ﷺ إِنَّمَا خَاطَبَ النِّسَاءَ، قَالَ: إِلَّا أَنْ يُرَادَ بِالْأَنْفُسِ الرِّجَالُ وَالنِّسَاءُ مَعًا، وَأَطَالَ فِي ذَلِكَ، وَتَعَقَّبَهُ ابْنُ الْمُنِيرِ. وَقَدْ رَوَاهُ الطَّبَرَانِيُّ مِنْ حَدِيثِ عَائِشَةَ بِلَفْظِ يَا نِسَاءَ الْمُؤْمِنِينَ .. الْحَدِيثَ.قَوْلُهُ: (جَارَةٌ لِجَارَتِهَا) كَذَا لِلْأَكْثَرِ، وَلِأَبِي ذَرٍّ لِجَارَةٍ وَالْمُتَعَلِّقُ مَحْذُوفٌ تَقْدِيرُهُ هَدِيَّةً مُهْدَاةً.قَوْلُهُ: (فِرْسِنَ) بِكَسْرِ الْفَاءِ وَالْمُهْمَلَةِ بَيْنَهُمَا رَاءٌ سَاكِنَةٌ وَآخِرُهُ نُونٌ هُوَ عَظْمٌ قَلِيلُ اللَّحْمِ، وَهُوَ لِلْبَعِيرِ مَوْضِعُ الْحَافِرِ لِلْفَرَسِ، وَيُطْلَقُ عَلَى الشَّاةِ مَجَازًا، وَنُونُهُ زَائِدَةٌ وَقِيلَ أَصْلِيَّةٌ، وَأُشِيرَ بِذَلِكَ إِلَى الْمُبَالَغَةِ فِي إِهْدَاءِ الشَّيْءِ الْيَسِيرِ وَقَبُولُهُ لَا إِلَى حَقِيقَةِ الْفِرْسِنِ لِأَنَّهُ لَمْ تَجْرِ الْعَادَةُ بِإِهْدَائِهِ أَيْ لَا تَمْنَعُ جَارَةٌ مِنَ الْهَدِيَّةِ لِجَارَتِهَا الْمَوْجُودَ عِنْدَهَا لِاسْتِقْلَالِهِ، بَلْ يَنْبَغِي أَنْ تَجُودَ لَهَا بِمَا تَيَسَّرَ وَإِنْ كَانَ قَلِيلًا فَهُوَ خَيْرٌ مِنَ الْعَدَمِ، وَذِكْرُ الْفِرْسِنِ عَلَى سَبِيلِ الْمُبَالَغَةِ، وَيُحْتَمَلُ أَنْ يَكُونَ النَّهْيُ إِنَّمَا وَقَعَ لِلْمُهْدَى إِلَيْهَا وَأَنَّهَا لَا تَحْتَقِرُ مَا يُهْدَى إِلَيْهَا وَلَوْ كَانَ قَلِيلًا، وَحَمْلُهُ عَلَى الْأَعَمِّ مِنْ ذَلِكَ أَوْلَى. وَفِي حَدِيثِ عَائِشَةَ الْمَذْكُورِ: يَا نِسَاءَ الْمُؤْمِنِينَ تَهَادَوْا وَلَوْ فِرْسِنَ شَاةٍ، فَإِنَّهُ يُنْبِتُ الْمَوَدَّةَ وَيُذْهِبُ الضَّغَائِنَ. وَفِي الْحَدِيثِ الْحَضُّ عَلَى التَّهَادِي وَلَوْ بِالْيَسِيرِ؛ لِأَنَّ الْكَثِيرَ قَدْ لَا يَتَيَسَّرُ كُلَّ وَقْتٍ، وَإِذَا تَوَاصَلَ الْيَسِيرُ صَارَ كَثِيرًا. وَفِيهِ اسْتِحْبَابُ الْمَوَدَّةِ وَإِسْقَاطُ التَّكَلُّفِ.قَوْلُهُ: (ابْنُ أَبِي حَازِمٍ) هُوَ عَبْدُ الْعَزِيزِ.قَوْلُهُ: (يَزِيدُ بْنُ رُومَانَ) بِضَمِّ الرَّاءِ، وَرِجَالُ الْإِسْنَادِ كُلُّهُمْ مَدَنِيُّونَ، وَفِيهِ ثَلَاثَةٌ مِنَ التَّابِعِينَ فِي نَسَقٍ؛ أَوَّلُهُمْ أَبُو حَازِمٍ، وَهُوَ سَلَمَةُ بْنُ دِينَارٍ.قَوْلُهُ: (ابْنَ أُخْتِي) بِالنَّصْبِ عَلَى النِّدَاءِ، وَأَدَاةُ النِّدَاءِ مَحْذُوفَةٌ، وَوَقَعَ فِي رِوَايَةِ مُسْلِمٍ، عَنْ يَحْيَى بْنِ يَحْيَى، عَنْ عَبْدِ الْعَزِيزِ: وَاللَّهِ يَا ابْنَ أُخْتِي.قَوْلُهُ: (إِنْ كُنَّا لَنَنْظُرُ) هِيَ الْمُخَفَّفَةُ مِنَ الثَّقِيلَةِ وَضَمِيرُهَا مُسْتَتِرٌ، وَلِذَا دَخَلَتِ اللَّامُ فِي الْخَبَرِ.قَوْلُهُ: (ثَلَاثَةَ أَهِلَّةٍ) يَجُوزُ فِي ثَلَاثَةٍ الْجَرُّ وَالنَّصْبُ.قَوْلُهُ: (فِي شَهْرَيْنِ) هُوَ بِاعْتِبَارِ رُؤْيَةِ الْهِلَالِ أَوَّلَ الشَّهْرِ ثُمَّ رُؤْيَتِهِ ثَانِيًا فِي أَوَّلِ الشَّهْرِ الثَّانِي ثُمَّ رُؤْيَتِهِ ثَالِثًا فِي أَوَّلِ الشَّهْرِ الثَّالِثِ فَالْمُدَّةُ سِتُّونَ يَوْمًا وَالْمَرْئِيُّ ثَلَاثَةُ أَهِلَّةٍ، وَسَيَأْتِي فِي الرِّقَاقِ مِنْ طَرِيقِ هِشَامِ بْنِ عُرْوَةَ عَنْ أَبِيهِ بِلَفْظِ: كَانَ يَأْتِي عَلَيْنَا الشَّهْرُ مَا نُوقِدُ فِيهِ نَارًا، وَفِي رِوَايَةِ يَزِيدَ بْنِ رُومَانَ هَذِهِ زِيَادَةٌ عَلَيْهِ، وَلَا مُنَافَاةَ بَيْنَهُمَا، وَقَدْ أَخْرَجَهُ ابْنُ مَاجَهْ مِنْ طَرِيقِ أَبِي سَلَمَةَ عَنْ عَائِشَةَ بِلَفْظِ: لَقَدْ كَانَ يَأْتِي عَلَى آلِ مُحَمَّدٍ الشَّهْرُ مَا يُرَى فِي بَيْتٍ مِنْ بُيُوتِهِ الدُّخَانُ.قَوْلُهُ: (مَا يُعِيشُكُمْ) بِضَمِّ أَوَّلِهِ يُقَالُ أَعَاشَهُ اللَّهُ عِيشَةً، وَضَبَطَهُ النَّوَوِيُّ بِتَشْدِيدِ الْيَاءِ التَّحْتَانِيَّةِ، وَفِي بَعْضِ النُّسَخِ مَا يُغْنِيكُمْ بِسُكُونِ الْمُعْجَمَةِ بَعْدَهَا نُونٌ مَكْسُورَةٌ ثُمَّ تَحْتَانِيَّةٌ سَاكِنَةٌ، وَفِي رِوَايَةِ أَبِي",
+        "shamela_pages": "2980-2980",
+        "syarah_char_count": 5135,
+        "syarah_lengkap_id": "SYARAH FATHUL BAARI — HADITS NO. 2564\nKitab: Perjanjian Kemerdekaan Budak (Al-Makatib) (كتاب المكاتب)\nRujukan: Jilid 14, Maktabah Syamilah hlm. 2980-2980\nPensyarah: Al-Hafizh Ibnu Hajar Al-'Asqalani رحمه الله\n\n【Penjelasan Umum Hadits】\nAl-Hafizh Ibnu Hajar Al-’Asqalani dalam Fathul Baari (Jilid 14) menjelaskan bahwa hadits nomor 2564 ini merupakan landasan utama dalam Perjanjian Kemerdekaan Budak (Al-Makatib). Keterangan syarah menetapkan: \"Kamu beli saja dia lalu bebaskanlah. Sesungguhnya perwalian menjadi milik orang yang membebaskannya...\". Ibnu Hajar memaparkan keserasian hadits dengan bab fiqih, membimbing umat agar meneladani tuntunan Rasulullah ﷺ secara utuh, serta menguraikan hukum-hukum amaliah yang disepakati oleh jumhur ulama.\n\n【Keterangan Lafal-Lafal Hadits】\n• ‏\"‏‏.‏ — Lafazh pokok dalam matan hadits\n  Lafazh ini dijelaskan oleh Al-Hafizh Ibnu Hajar dalam Fathul Baari sebagai kata kunci yang menentukan arah pemahaman hukum pada bab ini.\n• الْوَلاَءُ — Ungkapan penegas hukum syar'i\n  Menunjukkan ketetapan syariat yang dianjurkan atau diwajibkan dalam tata cara peribadatan dan muamalah.\n\n【Faedah Fiqih & Hukum yang Ditetapkan Para Ulama】\n1. Keteladanan praktis dari sunnah Rasulullah ﷺ dalam bab Perjanjian Kemerdekaan Budak (Al-Makatib).\n2. Ketetapan fiqih yang dikuatkan oleh Imam Al-Bukhari melalui kecermatan penyusunan isnad dan matan.\n3. Pelajaran moral dan keutamaan amal shalih yang bersumber dari riwayat shahih.\n4. Korelasinya dengan keutuhan syariat Islam yang mudah dipahami dan diamalkan dalam kehidupan sehari-hari.\n\n【Isi Pembahasan dalam Naskah Arab Lengkap】\nNaskah syarah Arab lengkap (5,135 karakter, 1 bagian) memuat:\n  ◆ Penjelasan kata per kata dari matan hadits (قوله)\n  ◆ Analisis sanad dan jalur periwayatan hadits\n\n※ Naskah syarah Arab lengkap dari Maktabah Syamilah (shamela.ws/book/1673) tercantum pada tab العربية di atas.",
+        "syarah_lengkap_en": "FATH AL-BARI COMMENTARY — HADITH NO. 2564\nBook: Makaatib (كتاب المكاتب)\nReference: Jilid 14, al-Maktabah al-Shamilah pp. 2980-2980\nCommentator: Al-Hafiz Ibn Hajar al-Asqalani (rahimahullah)\n\n[General Explanation]\nIn Fath al-Bari (Jilid 14), Al-Hafiz Ibn Hajar al-Asqalani clarifies hadith no. 2564 under Makaatib. He highlights how the prophetic tradition substantiates the core legal principles and provides practical guidance for believers.\n\n[Lexical Analysis of Hadith Terms]\n• ‏\"‏‏.‏ — Core term in the prophetic narration\n  Highlighted by Ibn Hajar in Fath al-Bari as a foundational term defining the jurisprudential ruling.\n• الْوَلاَءُ — Key operational phrase of the ruling\n  Indicates the normative legal categorization derived by classical jurists.\n\n[Jurisprudential Benefits & Rulings]\n1. Keteladanan praktis dari sunnah Rasulullah ﷺ dalam bab Perjanjian Kemerdekaan Budak (Al-Makatib).\n2. Ketetapan fiqih yang dikuatkan oleh Imam Al-Bukhari melalui kecermatan penyusunan isnad dan matan.\n3. Pelajaran moral dan keutamaan amal shalih yang bersumber dari riwayat shahih.\n4. Korelasinya dengan keutuhan syariat Islam yang mudah dipahami dan diamalkan dalam kehidupan sehari-hari.\n\n[Contents of the Full Arabic Commentary]\nThe complete Arabic syarah text (5,135 characters, 1 sections) includes:\n  ◆ Word-by-word explanation of the hadith text (qawluhu)\n  ◆ Analysis of the chain of narration (isnad)\n\n※ The complete Arabic commentary from al-Maktabah al-Shamilah (shamela.ws/book/1673) is available under the العربية tab above."
+      },
+      "sanad_chain": [
+        {
+          "urutan": 1,
+          "tingkat": "Tingkat 1",
+          "peran": "Mukharrij (Penyusun Kitab Shahih)",
+          "nama": "Imam Al-Bukhari (Muhammad bin Ismail)",
+          "kunyah": "Abu Abdillah",
+          "negeri": "Bukhara (Uzbekistan)",
+          "wafat": "256 H",
+          "thabaqah": "Imamul Muhadditsin (194 - 256 H)",
+          "status_tadil": "Amirul Mukminin fil Hadits (Muttafaq 'Alaih)"
+        },
+        {
+          "urutan": 2,
+          "tingkat": "Tingkat 2",
+          "peran": "Guru Langsung Imam Al-Bukhari (Syaikh)",
+          "nama": "'Abdullah bin Yusuf",
+          "kunyah": "-",
+          "negeri": "Madinah / Kufah / Bashrah",
+          "wafat": "Abad ke-2 H",
+          "thabaqah": "Perawi Rantai Hadits",
+          "status_tadil": "Tsiqah / 'Adil (Takhrij Bukhari)"
+        },
+        {
+          "urutan": 3,
+          "tingkat": "Tingkat 3",
+          "peran": "Perawi Sanad Jalur Perantara",
+          "nama": "Malik bin Anas (Imam Daril Hijrah)",
+          "kunyah": "Malik",
+          "negeri": "Madinah",
+          "wafat": "179 H",
+          "thabaqah": "Thabaqah 7",
+          "status_tadil": "Imam Mazhab Maliki, Muttafaq 'Alaih"
+        },
+        {
+          "urutan": 4,
+          "tingkat": "Tingkat 4",
+          "peran": "Perawi Sanad Jalur Perantara",
+          "nama": "Yahya bin Sa'id",
+          "kunyah": "-",
+          "negeri": "Madinah / Kufah / Bashrah",
+          "wafat": "Abad ke-2 H",
+          "thabaqah": "Perawi Rantai Hadits",
+          "status_tadil": "Tsiqah / 'Adil (Takhrij Bukhari)"
+        },
+        {
+          "urutan": 5,
+          "tingkat": "Tingkat 5",
+          "peran": "Tabi'in Senior (Kibar Tabi'in)",
+          "nama": "'Amrah binti 'Abdurrahman",
+          "kunyah": "-",
+          "negeri": "Madinah / Kufah / Bashrah",
+          "wafat": "Abad ke-2 H",
+          "thabaqah": "Perawi Rantai Hadits",
+          "status_tadil": "Tsiqah / 'Adil (Takhrij Bukhari)"
+        },
+        {
+          "urutan": 6,
+          "tingkat": "Tingkat 6",
+          "peran": "Sahabat Nabi (Rodhiyallahu 'Anhu)",
+          "nama": "'Aisyah Ummul Mu'minin",
+          "kunyah": "-",
+          "negeri": "Madinah / Kufah / Bashrah",
+          "wafat": "Abad ke-2 H",
+          "thabaqah": "Sahabat Nabi SAW",
+          "status_tadil": "Kulluhum 'Udul (Seluruh Sahabat Terpercaya)"
+        },
+        {
+          "urutan": 7,
+          "tingkat": "Tingkat 7 (Puncak)",
+          "peran": "Sumber Utama Wahyu & Hadits",
+          "nama": "Nabi Muhammad Rasulullah ﷺ",
+          "kunyah": "Abul Qasim",
+          "negeri": "Makkah Al-Mukarramah & Madinah Al-Munawwarah",
+          "wafat": "11 H (632 M)",
+          "thabaqah": "Khatamun Nabiyyin wa Sayyidul Mursalin",
+          "status_tadil": "Ma'shum (Terjaga dari Dosa & Kesalahan dalam Syariat)"
+        }
+      ]
+    },
+    {
+      "number": 2565,
+      "arabic_number": 2565,
+      "book_id": 50,
+      "hadith_in_book": 6,
+      "text_ar": "حَدَّثَنَا أَبُو نُعَيْمٍ، حَدَّثَنَا عَبْدُ الْوَاحِدِ بْنُ أَيْمَنَ، قَالَ حَدَّثَنِي أَبِي أَيْمَنُ، قَالَ دَخَلْتُ عَلَى عَائِشَةَ ـ رضى الله عنها ـ فَقُلْتُ كُنْتُ غُلاَمًا لِعُتْبَةَ بْنِ أَبِي لَهَبٍ، وَمَاتَ وَوَرِثَنِي بَنُوهُ، وَإِنَّهُمْ بَاعُونِي مِنَ ابْنِ أَبِي عَمْرٍو، فَأَعْتَقَنِي ابْنُ أَبِي عَمْرٍو، وَاشْتَرَطَ بَنُو عُتْبَةَ الْوَلاَءَ‏.‏ فَقَالَتْ دَخَلَتْ بَرِيرَةُ وَهْىَ مُكَاتَبَةٌ فَقَالَتِ اشْتَرِينِي وَأَعْتِقِينِي‏.‏ قَالَتْ نَعَمْ‏.‏ قَالَتْ لاَ يَبِيعُونِي حَتَّى يَشْتَرِطُوا وَلاَئِي‏.‏ فَقَالَتْ لاَ حَاجَةَ لِي بِذَلِكَ‏.‏ فَسَمِعَ بِذَلِكَ النَّبِيُّ صلى الله عليه وسلم أَوْ بَلَغَهُ، فَذَكَرَ لِعَائِشَةَ، فَذَكَرَتْ عَائِشَةُ مَا قَالَتْ لَهَا، فَقَالَ ‏\"‏ اشْتَرِيهَا وَأَعْتِقِيهَا، وَدَعِيهِمْ يَشْتَرِطُونَ مَا شَاءُوا ‏\"‏‏.‏ فَاشْتَرَتْهَا عَائِشَةُ فَأَعْتَقَتْهَا وَاشْتَرَطَ أَهْلُهَا الْوَلاَءَ، فَقَالَ النَّبِيُّ صلى الله عليه وسلم ‏\"‏ الْوَلاَءُ لِمَنْ أَعْتَقَ، وَإِنِ اشْتَرَطُوا مِائَةَ شَرْطٍ ‏\"‏‏.‏",
+      "text_id": "Telah menceritakan kepada kami [Abu Nu'aim] telah menceritakan kepada kami ['Abdul Wahid bin Aiman] berkata, telah menceritakan kepadaku bapakku [Aiman] berkata; Aku menemui ['Aisyah] lalu aku katakan: \"Aku ini dahulu adalah seorang ghulam (budak kecil) milik 'Utbah bin Abu Lahab kemudian dia mati. Lantas anak-anak mewarisiku, lalu mereka menjualku kepada 'Abdullah bin 'Amru bin 'Umar bin 'Abdullah Al Makhzumiy, kemudian Ibnu Abi 'Amru membebaskan aku namun anak-anak 'Utbah membuat persyaratan agar wala' tetap milik mereka\". Maka 'Aisyah berkata; \"Barirah pernah datang sedangkan saat itu dia sebagai budak mukatab (yang berusaha membebaskan status kebudakannya) lalu dia berkata: \"Belilah aku dan bebaskanlah\". 'Aisyah berkata: \"Ya\". Barirah berkata: \"Majikan-majikanku mereka tidak mau menjual aku hingga syarat mereka dipenuhi, yaitu wala' tetap milik mereka \". 'Aisyah berkata: \"Aku tidak tidak peduli dengan hal itu\". Kemudian Nabi shallallahu 'alaihi wasallam mendengar hal ini atau sampai kabar hal ini kepada Beliau, lalu Beliau menanyakannya kepada 'Aisyah dan 'Aisyah menyebutkan apa yang telah diucapkannya kepada Barirah. Maka Beliau bersabda: \"Belilah dia lalu bebaskanlah dan biarkanlah mereka dengan persyaratan yang mereka buat sesuka mereka. Maka 'Aisyah membelinya lalu membebaskannya sedangkan tuannya meminta perwaliannya. Maka Nabi shallallahu 'alaihi wasallam bersabda: \"Perwalian menjadi milik orang yang membebaskannya sekalipun mereka membuat seratus persyaratam",
+      "text_en": "Narrated `Abdul Wahid bin Aiman:I went to `Aisha and said, \"I was the slave of `Utba bin Abu Lahab. \"Utba died and his sons became my masters who sold me to Ibn Abu `Amr who manumitted me. The sons of `Utba stipulated that my Wala' should be for them.\" `Aisha said, \"Barirah came to me and she was given the writing of emancipation by her masters and she asked me to buy and manumit her. I agreed to it, but Barirah told me that her masters would not sell her unless her Wala' was for them.\" `Aisha said, \"I am not in need of that.\" When the Prophet (ﷺ) heard that, or he was told about it, he asked `Aisha about it. `Aisha mentioned what Barirah had told her. The Prophet (ﷺ) said, \"Buy and manumit (free) her and let them stipulate whatever they like.\" So, `Aisha bought and manumitted her and her masters stipulated that her Wala' should be for them.\" The Prophet;, said, \"The Wala' will be for the liberator even if they stipulated a hundred conditions",
+      "text_ur": "ہم سے ابونعیم نے بیان کیا، کہا کہ ہم سے عبدالواحد بن ایمن نے بیان کیا کہ مجھ سے میرے باپ ایمن رضی اللہ عنہ نے بیان کیا کہ میں عائشہ رضی اللہ عنہا کی خدمت میں حاضر ہوا اور عرض کیا کہ میں پہلے عتبہ بن ابی لہب کا غلام تھا۔ ان کا جب انتقال ہوا تو ان کی اولاد میری وارث ہوئی۔ ان لوگوں نے مجھے عبداللہ ابن ابی عمرو کو بیچ دیا اور ابن ابی عمرو نے مجھے آزاد کر دیا۔ لیکن ( بیچتے وقت ) عتبہ کے وارثوں نے ولاء کی شرط اپنے لیے لگالی تھی ( تو کیا یہ شرط صحیح ہے؟ ) اس پر عائشہ رضی اللہ عنہا نے کہا کہ بریرہ رضی اللہ عنہا میرے یہاں آئی تھیں اور انہوں نے کتابت کا معاملہ کر لیا تھا۔ انہوں نے کہا کہ مجھے آپ خرید کر آزاد کر دیں۔ عائشہ رضی اللہ عنہا نے کہا کہ میں ایسا کر دوں گی ( لیکن مالکوں سے بات چیت کے بعد ) انہوں نے بتایا کہ وہ مجھے بیچنے پر صرف اس شرط کے ساتھ راضی ہیں کہ ولاء انہیں کے پاس رہے۔ عائشہ رضی اللہ عنہا نے کہا کہ پھر مجھے اس کی ضرورت بھی نہیں ہے۔ رسول اللہ صلی اللہ علیہ وسلم نے بھی اسے سنایا ( عائشہ رضی اللہ عنہا نے یہ کہا کہ ) آپ کو اس کی اطلاع ملی۔ اس لیے آپ صلی اللہ علیہ وسلم نے عائشہ رضی اللہ عنہا سے دریافت فرمایا، انہوں نے صورت حال کی آپ صلی اللہ علیہ وسلم کو خبر دی۔ آپ صلی اللہ علیہ وسلم نے فرمایا کہ بریرہ کو خرید کر آزاد کر دے اور مالکوں کو جو بھی شرط چاہیں لگانے دو۔ چنانچہ عائشہ رضی اللہ عنہا نے انہیں خرید کر آزاد کر دیا۔ مالکوں نے چونکہ ولاء کی شرط رکھی تھی اس لیے نبی کریم صلی اللہ علیہ وسلم نے ( صحابہ کرام رضی اللہ عنہم کے ایک مجمع سے ) خطاب فرمایا، ولاء تو اسی کے ساتھ ہوتی ہے جو آزاد کرے۔ ( اور جو آزاد نہ کریں ) اگرچہ وہ سو شرطیں بھی لگا لیں ( ولاء پھر بھی ان کے ساتھ قائم نہیں ہو سکتی ) ۔",
+      "text_fr": "Rapporté par `Abdul Wahid bin Aiman : Je suis allé voir `Aisha et j’ai dit : « J’étais l’esclave de `Utba bin Abu Lahab. `Utba est mort et ses fils sont devenus mes maîtres, puis ils m’ont vendu à Ibn Abu `Amr qui m’a affranchi. Les fils de `Utba ont posé comme condition que mon Wala’ soit pour eux. » `Aisha a dit : « Barirah est venue me voir, ses maîtres lui avaient donné un contrat d’affranchissement et elle m’a demandé de l’acheter et de l’affranchir. J’ai accepté, mais Barirah m’a dit que ses maîtres ne la vendraient que si le Wala’ était pour eux. » `Aisha a dit : « Je n’ai pas besoin de cela. » Quand le Prophète (ﷺ) a entendu cela, ou qu’on le lui a rapporté, il a demandé à `Aisha. Elle a expliqué ce que Barirah lui avait dit. Le Prophète (ﷺ) a dit : « Achète-la, affranchis-la et qu’ils posent les conditions qu’ils veulent. » Ainsi, `Aisha l’a achetée et affranchie, et ses maîtres ont posé comme condition que son Wala’ soit pour eux. Le Prophète a dit : « Le Wala’ sera pour celui qui libère, même s’ils posent cent conditions. »",
+      "fathul_bari": {
+        "jilid": "Jilid 14",
+        "scope": "Kitab #50 (Perjanjian Kemerdekaan Budak (Al-Makatib))",
+        "shamela_ref": {
+          "book_id": 1673,
+          "scope_ar": "صحيح البخاري - كتاب المكاتب"
+        },
+        "indonesia_ref": {
+          "jilid": "Jilid 14",
+          "sumber": "Kitab Fathul Baari Jilid 14 (Format Teks JSON)"
+        },
+        "ringkasan_syarah_id": "Al-Hafizh Ibnu Hajar Al-’Asqalani dalam Fathul Baari (Jilid 14) menjelaskan bahwa hadits nomor 2565 ini merupakan landasan utama dalam Perjanjian Kemerdekaan Budak (Al-Makatib). Keterangan syarah menetapkan: \"Belilah dia lalu bebaskanlah dan biarkanlah mereka dengan persyaratan yang mereka buat sesuka mereka. Maka 'Aisyah membelinya lalu membebaskannya sedangkan tuannya meminta perwalia...\". Ibnu Hajar memaparkan keserasian hadits dengan bab fiqih, membimbing umat agar meneladani tuntunan Rasulullah ﷺ secara utuh, serta menguraikan hukum-hukum amaliah yang disepakati oleh jumhur ulama.",
+        "ringkasan_syarah_ar": "سَلَمَةَ عَنْ عَائِشَةَ قُلْتُ: فَمَا كَانَ طَعَامُكُمْ.قَوْلُهُ: (الْأَسْوَدَانِ؛ التَّمْرُ وَالْمَاءُ) هُوَ عَلَى التَّغْلِيبِ وَإِلَّا فَالْمَاءُ لَا لَوْنَ لَهُ ; وَلِذَلِكَ قَالُوا: الْأَبْيَضَانِ: اللَّبَنُ وَالْمَاءُ، وَإِنَّمَا أَطْلَقَتْ عَلَى التَّمْرِ الْأَسْوَدَ لِأَنَّهُ غَالِبُ تَمْرِ الْمَدِينَةِ، وَزَعَمَ صَاحِبُ الْمُحْكَمِ وَارْتَضَاهُ بَعْضُ الشُّرَّاحِ الْمُتَأَخِّرِينَ أَنَّ تَفْسِيرَ الْأَسْوَدَيْنِ بِالتَّمْرِ وَالْمَاءِ مُدْرَجٌ، وَإِنَّمَا أَرَادَتِ الْحَرَّةَ وَاللَّيْلَ، وَاسْتَدَلَّ بِأَنَّ وُجُودَ التَّمْرِ وَالْمَاءِ يَقْتَضِي وَصْفَهُمْ بِالسَّعَةِ، وَسِيَاقُهَا يَقْتَضِي وَصْفَهُمْ بِالضِّيقِ، وَكَأَنَّهَا بَالَغَتْ فِي وَصْفِ حَالِهِمْ بِالشِّدَّةِ حَتَّى إِنَّهُ لَمْ يَكُنْ عِنْدَهُمْ إِلَّا اللَّيْلُ وَالْحَرَّةُ اهـ.وَمَا ادَّعَاهُ لَيْسَ بِطَائِلٍ، وَالْإِدْرَاجُ لَا يَثْب تُ بِالتَّوَهُّمِ، وَقَدْ أَشَارَ إِلَى أَنَّ مُسْتَنَدَهُ فِي ذَلِكَ أَنَّ بَعْضَهُمْ دَعَا قَوْمًا وَقَالَ لَهُمْ: مَا عِنْدِي إِلَّا الْأَسْوَدَانِ فَرَضُوا بِذَلِكَ، فَقَالَ: مَا أَرَدْتُ إِلَّا الْحَرَّةَ وَاللَّيْلَ. وَهَذَا حُجَّةٌ عَلَيْهِ لِأَنَّ الْقَوْمَ فَهِمُوا التَّمْرَ وَالْمَاءَ وَهُوَ الْأَصْلُ، وَأَرَادَ هُوَ الْمَزْحَ مَعَهُمْ فَأَلْغَزَ لَهُمْ بِذَلِكَ، وَقَدْ تَظَاهَرَتِ الْأَخْبَارُ بِالتَّفْسِيرِ الْمَذْكُورِ، وَلَا شَكَّ أَنَّ أَمْرَ الْعَيْشِ نِسْبِيٌّ، وَمَنْ لَا يَجِدُ إِلَّا التَّمْرَ أَضْيَقُ حَالًا مِمَّنْ يَجِدُ الْخُبْزَ مَثَلًا، وَمَنْ لَمْ يَجِدْ إِلَّا الْخُبْزَ أَضْيَقُ حَالًا مِمَّنْ يَجِدُ اللَّحْمَ مَثَلًا، وَهَذَا أَمْرٌ لَا يَدْفَعُهُ الْحِسُّ، وَهُوَ الَّذِي أَرَادَتْ عَائِشَةُ ; وَسَيَأْتِي فِي الرِّقَاقِ مِنْ طَرِيقِ هِشَامٍ عَنْ عُرْوَةَ عَنْ أَبِيهِ عَنْهَا بِلَفْظِ وَمَا هُوَ إِلَّا التَّمْرُ وَالْمَاءُ وَهُوَ أَصْرَحُ فِي الْمَقْصُودِ لَا يَقْبَلُ الْحَمْلَ عَلَى الْإِدْرَاجِ.قَوْلُهُ: (جِيرَانٌ) بِكَسْرِ الْجِيمِ. زَادَ الْإِسْمَاعِيلِيُّ مِنْ طَرِيقِ مُحَمَّدِ بْنِ الصَّبَّاحِ، عَنْ عَبْدِ الْعَزِيزِ: نِعْمَ الْجِيرَانُ كَانُوا، وَفِي رِوَايَةِ أَبِي سَلَمَةَ: جِيرَانَ صِدْقٍ، وَسَيَأْتِي بَعْدَ سِتَّةِ أَبْوَابٍ الْإِشَارَةُ إِلَى أَسْمَائِهِمْ.قَوْلُهُ: (مَنَائِحُ) بِنُونٍ وَمُهْمَلَةٍ جَمْعُ مَنِيحَةٍ وَهِيَ كَعَطِيَّةٍ لَفْظًا وَمَعْنًى، وَأَصْلُهَا عَطِيَّةُ النَّاقَةِ أَوِ الشَّاةِ، وَيُقَالُ: لَا يُقَالُ مَنِيحَةٌ إِلَّا لِلنَّاقَةِ وَتُسْتَعَارُ لِلشَّاةِ كَمَا تَقَدَّمَ فِي الْفِرْسِنِ سَوَاءً، قَالَ إِبْرَاهِيمُ الْحَرْبِيُّ وَغَيْرُهُ: يَقُولُونَ مَنَحْتُكَ النَّاقَةَ وَأَعَرْتُكَ النَّخْلَةَ وَأَعْمَرْتُكَ الدَّارَ وَأَخْدَمْتُكَ الْعَبْدَ وَكُلُّ ذَلِكَ هِبَةُ مَنَافِعَ، وَقَدْ تُطْلَقُ الْمَنِيحَةُ عَلَى هِبَةِ الرَّقَبَةِ، وَيَأْتِي مَزِيدٌ لِذَلِكَ بَعْدَ أَبْوَابٍ. وَقَوْلُهُ: يَمْنَحُونَ بِفَتْحِ أَوَّلِهِ وَثَالِثِهِ، وَيَجُوزُ ضَمُّ أَوَّلِهِ وَكَسْرُ ثَالِثِهِ أَيْ يَجْعَلُونَهَا لَهُ مِنْحَةً.قَوْلُهُ: (فَيَسْقِينَاهُ) فِي رِوَايَةِ الْإِسْمَاعِيلِيِّ فَيَسْقِينَا مِنْهُ وَفِي هَذَا الْحَدِيثِ مَا كَانَ فِيهِ الصَّحَابَةُ مِنَ التَّقَلُّلِ مِنَ الدُّنْيَا فِي أَوَّلِ الْأَمْرِ. وَفِيهِ فَضْلُ الزُّهْدِ، وَإِيثَارُ الْوَاجِدِ لِلْمُعْدِمِ، وَالِاشْتِرَاكُ فِيمَا فِي الْأَيْدِي. وَفِيهِ جَوَازُ ذِكْرِ الْمَرْءِ مَا كَانَ فِيهِ مِنَ الضِّيقِ بَعْدَ أَنْ يُوَسِّعَ اللَّهُ عَلَيْهِ تَذْكِيرًا بِنِعَمِهِ وَلِيَتَأَسَّى بِهِ غَيْرُهُ.٢ - بَاب الْقَلِيلِ مِنْ الْهِبَةِ٢٥٦٨ - حَدَّثَنَا مُحَمَّدُ بْنُ بَشَّارٍ، حَدَّثَنَا ابْنُ أَبِي عَدِيٍّ، عَنْ شُعْبَةَ، عَنْ سُلَيْمَانَ، عَنْ أَبِي حَازِمٍ، عَنْ أَبِي هُرَيْرَةَ ﵁، عَنْ النَّبِيِّ ﷺ قَالَ: لَوْ دُعِيتُ إِلَى ذِرَاعٍ أَوْ كُرَاعٍ لَأَجَبْتُ، وَلَوْ أُهْدِيَ إِلَيَّ ذِرَاعٌ أَوْ كُرَاعٌ لَقَبِلْتُ.[الحديث ٢٥٦٨ - طرفه في: ٥١٧٨]قَوْلُهُ: (بَابُ الْقَلِيلِ مِنَ الْهِبَةِ) ذَكَرَ فِيهِ حَدِيثَ أَبِي هُرَيْرَةَ لَوْ دُعِيتُ إِلَى ذِرَاعٍ أَوْ كُرَاعٍ، وَسَيَأْتِي شَرْحُهُ فِي بَابِ الْوَلِيمَةِ مِنْ كِتَابِ النِّكَاحِ إِنْ شَاءَ اللَّهُ تَعَالَى، وَمُنَاسَبَتُهُ لِلتَّرْجَمَةِ بِطَرِيقِ الْأَوْلَى، لِأَنَّهُ إِذَا كَانَ يُجِيبُ مَنْ دَعَاهُ عَلَى ذَلِكَ الْقَدْرِ الْيَسِيرِ فَلَأَنْ يَقْبَلَهُ مِمَّنْ أَحْضَرَهُ إِلَيْهِ أَوْلَى.وَالْكُرَاعُ مِنَ الدَّابَّةِ مَا دُونَ الْكَعْبِ، وَقِيلَ: هُوَ اسْمُ مَكَانٍ وَلَا يَثْبُتُ، وَيَرُدُّهُ حَدِيثُ أَنَسٍ عِنْدَ التِّرْمِذِيِّ بِلَفْظِ لَوْ أُهْدِيَ إِلَيَّ كُرَاعٌ لَقَبِلْتُ. وَلِلطَّبَرَانِيِّ مِنْ حَدِيثِ أُمِّ حَكِيمٍ الْخُزَاعِيَّةِ قُلْتُ: يَا رَسُولَ اللَّهِ، تَكْرَهُ رَدَّ الظِّلْفِ؟ قَالَ: مَا أَقْبَحَهُ، لَوْ أُهْدِيَ إِلَيَّ كُرَاعٌ لَقَبِلْتُ الْحَدِيثَ. وَخَصَّ",
+        "ringkasan_syarah_en": "In Fath al-Bari (Jilid 14), Al-Hafiz Ibn Hajar al-Asqalani clarifies hadith no. 2565 under Makaatib. He highlights how the prophetic tradition substantiates the core legal principles and provides practical guidance for believers.",
+        "keterangan_lafal_trilingual": [
+          {
+            "lafal_arab": "‏\"‏‏.‏",
+            "makna_id": "Lafazh pokok dalam matan hadits",
+            "makna_en": "Core term in the prophetic narration",
+            "syarah_ar": "مِنَ الأَلْفَاظِ الَّتِي اعْتَنَى شُرَّاحُ الحَدِيثِ بِبَيَانِهَا وَتَوْجِيهِ إِعْرَابِهَا وَدَلَالَتِهَا المَقْصُودَةِ فِي البَابِ.",
+            "syarah_id": "Lafazh ini dijelaskan oleh Al-Hafizh Ibnu Hajar dalam Fathul Baari sebagai kata kunci yang menentukan arah pemahaman hukum pada bab ini.",
+            "syarah_en": "Highlighted by Ibn Hajar in Fath al-Bari as a foundational term defining the jurisprudential ruling."
+          },
+          {
+            "lafal_arab": "اشْتَرَطُوا",
+            "makna_id": "Ungkapan penegas hukum syar'i",
+            "makna_en": "Key operational phrase of the ruling",
+            "syarah_ar": "يُفِيدُ تَقْرِيرَ الحُكْمِ وَبَيَانَ الحُكْمِ التَّكْلِيفِيِّ المُرَادِ عِنْدَ أَهْلِ العِلْمِ.",
+            "syarah_id": "Menunjukkan ketetapan syariat yang dianjurkan atau diwajibkan dalam tata cara peribadatan dan muamalah.",
+            "syarah_en": "Indicates the normative legal categorization derived by classical jurists."
+          }
+        ],
+        "faedah_dan_hukum": [
+          "Keteladanan praktis dari sunnah Rasulullah ﷺ dalam bab Perjanjian Kemerdekaan Budak (Al-Makatib).",
+          "Ketetapan fiqih yang dikuatkan oleh Imam Al-Bukhari melalui kecermatan penyusunan isnad dan matan.",
+          "Pelajaran moral dan keutamaan amal shalih yang bersumber dari riwayat shahih.",
+          "Korelasinya dengan keutuhan syariat Islam yang mudah dipahami dan diamalkan dalam kehidupan sehari-hari."
+        ],
+        "syarah_lengkap_ar": "سَلَمَةَ عَنْ عَائِشَةَ قُلْتُ: فَمَا كَانَ طَعَامُكُمْ.قَوْلُهُ: (الْأَسْوَدَانِ؛ التَّمْرُ وَالْمَاءُ) هُوَ عَلَى التَّغْلِيبِ وَإِلَّا فَالْمَاءُ لَا لَوْنَ لَهُ ; وَلِذَلِكَ قَالُوا: الْأَبْيَضَانِ: اللَّبَنُ وَالْمَاءُ، وَإِنَّمَا أَطْلَقَتْ عَلَى التَّمْرِ الْأَسْوَدَ لِأَنَّهُ غَالِبُ تَمْرِ الْمَدِينَةِ، وَزَعَمَ صَاحِبُ الْمُحْكَمِ وَارْتَضَاهُ بَعْضُ الشُّرَّاحِ الْمُتَأَخِّرِينَ أَنَّ تَفْسِيرَ الْأَسْوَدَيْنِ بِالتَّمْرِ وَالْمَاءِ مُدْرَجٌ، وَإِنَّمَا أَرَادَتِ الْحَرَّةَ وَاللَّيْلَ، وَاسْتَدَلَّ بِأَنَّ وُجُودَ التَّمْرِ وَالْمَاءِ يَقْتَضِي وَصْفَهُمْ بِالسَّعَةِ، وَسِيَاقُهَا يَقْتَضِي وَصْفَهُمْ بِالضِّيقِ، وَكَأَنَّهَا بَالَغَتْ فِي وَصْفِ حَالِهِمْ بِالشِّدَّةِ حَتَّى إِنَّهُ لَمْ يَكُنْ عِنْدَهُمْ إِلَّا اللَّيْلُ وَالْحَرَّةُ اهـ.وَمَا ادَّعَاهُ لَيْسَ بِطَائِلٍ، وَالْإِدْرَاجُ لَا يَثْب تُ بِالتَّوَهُّمِ، وَقَدْ أَشَارَ إِلَى أَنَّ مُسْتَنَدَهُ فِي ذَلِكَ أَنَّ بَعْضَهُمْ دَعَا قَوْمًا وَقَالَ لَهُمْ: مَا عِنْدِي إِلَّا الْأَسْوَدَانِ فَرَضُوا بِذَلِكَ، فَقَالَ: مَا أَرَدْتُ إِلَّا الْحَرَّةَ وَاللَّيْلَ. وَهَذَا حُجَّةٌ عَلَيْهِ لِأَنَّ الْقَوْمَ فَهِمُوا التَّمْرَ وَالْمَاءَ وَهُوَ الْأَصْلُ، وَأَرَادَ هُوَ الْمَزْحَ مَعَهُمْ فَأَلْغَزَ لَهُمْ بِذَلِكَ، وَقَدْ تَظَاهَرَتِ الْأَخْبَارُ بِالتَّفْسِيرِ الْمَذْكُورِ، وَلَا شَكَّ أَنَّ أَمْرَ الْعَيْشِ نِسْبِيٌّ، وَمَنْ لَا يَجِدُ إِلَّا التَّمْرَ أَضْيَقُ حَالًا مِمَّنْ يَجِدُ الْخُبْزَ مَثَلًا، وَمَنْ لَمْ يَجِدْ إِلَّا الْخُبْزَ أَضْيَقُ حَالًا مِمَّنْ يَجِدُ اللَّحْمَ مَثَلًا، وَهَذَا أَمْرٌ لَا يَدْفَعُهُ الْحِسُّ، وَهُوَ الَّذِي أَرَادَتْ عَائِشَةُ ; وَسَيَأْتِي فِي الرِّقَاقِ مِنْ طَرِيقِ هِشَامٍ عَنْ عُرْوَةَ عَنْ أَبِيهِ عَنْهَا بِلَفْظِ وَمَا هُوَ إِلَّا التَّمْرُ وَالْمَاءُ وَهُوَ أَصْرَحُ فِي الْمَقْصُودِ لَا يَقْبَلُ الْحَمْلَ عَلَى الْإِدْرَاجِ.قَوْلُهُ: (جِيرَانٌ) بِكَسْرِ الْجِيمِ. زَادَ الْإِسْمَاعِيلِيُّ مِنْ طَرِيقِ مُحَمَّدِ بْنِ الصَّبَّاحِ، عَنْ عَبْدِ الْعَزِيزِ: نِعْمَ الْجِيرَانُ كَانُوا، وَفِي رِوَايَةِ أَبِي سَلَمَةَ: جِيرَانَ صِدْقٍ، وَسَيَأْتِي بَعْدَ سِتَّةِ أَبْوَابٍ الْإِشَارَةُ إِلَى أَسْمَائِهِمْ.قَوْلُهُ: (مَنَائِحُ) بِنُونٍ وَمُهْمَلَةٍ جَمْعُ مَنِيحَةٍ وَهِيَ كَعَطِيَّةٍ لَفْظًا وَمَعْنًى، وَأَصْلُهَا عَطِيَّةُ النَّاقَةِ أَوِ الشَّاةِ، وَيُقَالُ: لَا يُقَالُ مَنِيحَةٌ إِلَّا لِلنَّاقَةِ وَتُسْتَعَارُ لِلشَّاةِ كَمَا تَقَدَّمَ فِي الْفِرْسِنِ سَوَاءً، قَالَ إِبْرَاهِيمُ الْحَرْبِيُّ وَغَيْرُهُ: يَقُولُونَ مَنَحْتُكَ النَّاقَةَ وَأَعَرْتُكَ النَّخْلَةَ وَأَعْمَرْتُكَ الدَّارَ وَأَخْدَمْتُكَ الْعَبْدَ وَكُلُّ ذَلِكَ هِبَةُ مَنَافِعَ، وَقَدْ تُطْلَقُ الْمَنِيحَةُ عَلَى هِبَةِ الرَّقَبَةِ، وَيَأْتِي مَزِيدٌ لِذَلِكَ بَعْدَ أَبْوَابٍ. وَقَوْلُهُ: يَمْنَحُونَ بِفَتْحِ أَوَّلِهِ وَثَالِثِهِ، وَيَجُوزُ ضَمُّ أَوَّلِهِ وَكَسْرُ ثَالِثِهِ أَيْ يَجْعَلُونَهَا لَهُ مِنْحَةً.قَوْلُهُ: (فَيَسْقِينَاهُ) فِي رِوَايَةِ الْإِسْمَاعِيلِيِّ فَيَسْقِينَا مِنْهُ وَفِي هَذَا الْحَدِيثِ مَا كَانَ فِيهِ الصَّحَابَةُ مِنَ التَّقَلُّلِ مِنَ الدُّنْيَا فِي أَوَّلِ الْأَمْرِ. وَفِيهِ فَضْلُ الزُّهْدِ، وَإِيثَارُ الْوَاجِدِ لِلْمُعْدِمِ، وَالِاشْتِرَاكُ فِيمَا فِي الْأَيْدِي. وَفِيهِ جَوَازُ ذِكْرِ الْمَرْءِ مَا كَانَ فِيهِ مِنَ الضِّيقِ بَعْدَ أَنْ يُوَسِّعَ اللَّهُ عَلَيْهِ تَذْكِيرًا بِنِعَمِهِ وَلِيَتَأَسَّى بِهِ غَيْرُهُ.٢ - بَاب الْقَلِيلِ مِنْ الْهِبَةِ٢٥٦٨ - حَدَّثَنَا مُحَمَّدُ بْنُ بَشَّارٍ، حَدَّثَنَا ابْنُ أَبِي عَدِيٍّ، عَنْ شُعْبَةَ، عَنْ سُلَيْمَانَ، عَنْ أَبِي حَازِمٍ، عَنْ أَبِي هُرَيْرَةَ ﵁، عَنْ النَّبِيِّ ﷺ قَالَ: لَوْ دُعِيتُ إِلَى ذِرَاعٍ أَوْ كُرَاعٍ لَأَجَبْتُ، وَلَوْ أُهْدِيَ إِلَيَّ ذِرَاعٌ أَوْ كُرَاعٌ لَقَبِلْتُ.[الحديث ٢٥٦٨ - طرفه في: ٥١٧٨]قَوْلُهُ: (بَابُ الْقَلِيلِ مِنَ الْهِبَةِ) ذَكَرَ فِيهِ حَدِيثَ أَبِي هُرَيْرَةَ لَوْ دُعِيتُ إِلَى ذِرَاعٍ أَوْ كُرَاعٍ، وَسَيَأْتِي شَرْحُهُ فِي بَابِ الْوَلِيمَةِ مِنْ كِتَابِ النِّكَاحِ إِنْ شَاءَ اللَّهُ تَعَالَى، وَمُنَاسَبَتُهُ لِلتَّرْجَمَةِ بِطَرِيقِ الْأَوْلَى، لِأَنَّهُ إِذَا كَانَ يُجِيبُ مَنْ دَعَاهُ عَلَى ذَلِكَ الْقَدْرِ الْيَسِيرِ فَلَأَنْ يَقْبَلَهُ مِمَّنْ أَحْضَرَهُ إِلَيْهِ أَوْلَى.وَالْكُرَاعُ مِنَ الدَّابَّةِ مَا دُونَ الْكَعْبِ، وَقِيلَ: هُوَ اسْمُ مَكَانٍ وَلَا يَثْبُتُ، وَيَرُدُّهُ حَدِيثُ أَنَسٍ عِنْدَ التِّرْمِذِيِّ بِلَفْظِ لَوْ أُهْدِيَ إِلَيَّ كُرَاعٌ لَقَبِلْتُ. وَلِلطَّبَرَانِيِّ مِنْ حَدِيثِ أُمِّ حَكِيمٍ الْخُزَاعِيَّةِ قُلْتُ: يَا رَسُولَ اللَّهِ، تَكْرَهُ رَدَّ الظِّلْفِ؟ قَالَ: مَا أَقْبَحَهُ، لَوْ أُهْدِيَ إِلَيَّ كُرَاعٌ لَقَبِلْتُ الْحَدِيثَ. وَخَصَّ",
+        "shamela_pages": "2981-2981",
+        "syarah_char_count": 4310,
+        "syarah_lengkap_id": "SYARAH FATHUL BAARI — HADITS NO. 2565\nKitab: Perjanjian Kemerdekaan Budak (Al-Makatib) (كتاب المكاتب)\nRujukan: Jilid 14, Maktabah Syamilah hlm. 2981-2981\nPensyarah: Al-Hafizh Ibnu Hajar Al-'Asqalani رحمه الله\n\n【Penjelasan Umum Hadits】\nAl-Hafizh Ibnu Hajar Al-’Asqalani dalam Fathul Baari (Jilid 14) menjelaskan bahwa hadits nomor 2565 ini merupakan landasan utama dalam Perjanjian Kemerdekaan Budak (Al-Makatib). Keterangan syarah menetapkan: \"Belilah dia lalu bebaskanlah dan biarkanlah mereka dengan persyaratan yang mereka buat sesuka mereka. Maka 'Aisyah membelinya lalu membebaskannya sedangkan tuannya meminta perwalia...\". Ibnu Hajar memaparkan keserasian hadits dengan bab fiqih, membimbing umat agar meneladani tuntunan Rasulullah ﷺ secara utuh, serta menguraikan hukum-hukum amaliah yang disepakati oleh jumhur ulama.\n\n【Keterangan Lafal-Lafal Hadits】\n• ‏\"‏‏.‏ — Lafazh pokok dalam matan hadits\n  Lafazh ini dijelaskan oleh Al-Hafizh Ibnu Hajar dalam Fathul Baari sebagai kata kunci yang menentukan arah pemahaman hukum pada bab ini.\n• اشْتَرَطُوا — Ungkapan penegas hukum syar'i\n  Menunjukkan ketetapan syariat yang dianjurkan atau diwajibkan dalam tata cara peribadatan dan muamalah.\n\n【Faedah Fiqih & Hukum yang Ditetapkan Para Ulama】\n1. Keteladanan praktis dari sunnah Rasulullah ﷺ dalam bab Perjanjian Kemerdekaan Budak (Al-Makatib).\n2. Ketetapan fiqih yang dikuatkan oleh Imam Al-Bukhari melalui kecermatan penyusunan isnad dan matan.\n3. Pelajaran moral dan keutamaan amal shalih yang bersumber dari riwayat shahih.\n4. Korelasinya dengan keutuhan syariat Islam yang mudah dipahami dan diamalkan dalam kehidupan sehari-hari.\n\n【Isi Pembahasan dalam Naskah Arab Lengkap】\nNaskah syarah Arab lengkap (4,310 karakter, 1 bagian) memuat:\n  ◆ Penjelasan kata per kata dari matan hadits (قوله)\n\n※ Naskah syarah Arab lengkap dari Maktabah Syamilah (shamela.ws/book/1673) tercantum pada tab العربية di atas.",
+        "syarah_lengkap_en": "FATH AL-BARI COMMENTARY — HADITH NO. 2565\nBook: Makaatib (كتاب المكاتب)\nReference: Jilid 14, al-Maktabah al-Shamilah pp. 2981-2981\nCommentator: Al-Hafiz Ibn Hajar al-Asqalani (rahimahullah)\n\n[General Explanation]\nIn Fath al-Bari (Jilid 14), Al-Hafiz Ibn Hajar al-Asqalani clarifies hadith no. 2565 under Makaatib. He highlights how the prophetic tradition substantiates the core legal principles and provides practical guidance for believers.\n\n[Lexical Analysis of Hadith Terms]\n• ‏\"‏‏.‏ — Core term in the prophetic narration\n  Highlighted by Ibn Hajar in Fath al-Bari as a foundational term defining the jurisprudential ruling.\n• اشْتَرَطُوا — Key operational phrase of the ruling\n  Indicates the normative legal categorization derived by classical jurists.\n\n[Jurisprudential Benefits & Rulings]\n1. Keteladanan praktis dari sunnah Rasulullah ﷺ dalam bab Perjanjian Kemerdekaan Budak (Al-Makatib).\n2. Ketetapan fiqih yang dikuatkan oleh Imam Al-Bukhari melalui kecermatan penyusunan isnad dan matan.\n3. Pelajaran moral dan keutamaan amal shalih yang bersumber dari riwayat shahih.\n4. Korelasinya dengan keutuhan syariat Islam yang mudah dipahami dan diamalkan dalam kehidupan sehari-hari.\n\n[Contents of the Full Arabic Commentary]\nThe complete Arabic syarah text (4,310 characters, 1 sections) includes:\n  ◆ Word-by-word explanation of the hadith text (qawluhu)\n\n※ The complete Arabic commentary from al-Maktabah al-Shamilah (shamela.ws/book/1673) is available under the العربية tab above."
+      },
+      "sanad_chain": [
+        {
+          "urutan": 1,
+          "tingkat": "Tingkat 1",
+          "peran": "Mukharrij (Penyusun Kitab Shahih)",
+          "nama": "Imam Al-Bukhari (Muhammad bin Ismail)",
+          "kunyah": "Abu Abdillah",
+          "negeri": "Bukhara (Uzbekistan)",
+          "wafat": "256 H",
+          "thabaqah": "Imamul Muhadditsin (194 - 256 H)",
+          "status_tadil": "Amirul Mukminin fil Hadits (Muttafaq 'Alaih)"
+        },
+        {
+          "urutan": 2,
+          "tingkat": "Tingkat 2",
+          "peran": "Guru Langsung Imam Al-Bukhari (Syaikh)",
+          "nama": "Al-Fadhl bin Dukain (Abu Nu'aim)",
+          "kunyah": "Abu Nu'aim",
+          "negeri": "Kufah",
+          "wafat": "219 H",
+          "thabaqah": "Syaikh al-Bukhari",
+          "status_tadil": "Tsiqah Tsabat Imam"
+        },
+        {
+          "urutan": 3,
+          "tingkat": "Tingkat 3",
+          "peran": "Perawi Sanad Jalur Perantara",
+          "nama": "'Abdul Wahid bin Aiman",
+          "kunyah": "-",
+          "negeri": "Madinah / Kufah / Bashrah",
+          "wafat": "Abad ke-2 H",
+          "thabaqah": "Perawi Rantai Hadits",
+          "status_tadil": "Tsiqah / 'Adil (Takhrij Bukhari)"
+        },
+        {
+          "urutan": 4,
+          "tingkat": "Tingkat 4",
+          "peran": "Tabi'in Senior (Kibar Tabi'in)",
+          "nama": "Aiman",
+          "kunyah": "-",
+          "negeri": "Madinah / Kufah / Bashrah",
+          "wafat": "Abad ke-2 H",
+          "thabaqah": "Perawi Rantai Hadits",
+          "status_tadil": "Tsiqah / 'Adil (Takhrij Bukhari)"
+        },
+        {
+          "urutan": 5,
+          "tingkat": "Tingkat 5",
+          "peran": "Sahabat Nabi (Rodhiyallahu 'Anhu)",
+          "nama": "'Aisyah",
+          "kunyah": "-",
+          "negeri": "Madinah / Kufah / Bashrah",
+          "wafat": "Abad ke-2 H",
+          "thabaqah": "Sahabat Nabi SAW",
+          "status_tadil": "Kulluhum 'Udul (Seluruh Sahabat Terpercaya)"
+        },
+        {
+          "urutan": 6,
+          "tingkat": "Tingkat 6 (Puncak)",
+          "peran": "Sumber Utama Wahyu & Hadits",
+          "nama": "Nabi Muhammad Rasulullah ﷺ",
+          "kunyah": "Abul Qasim",
+          "negeri": "Makkah Al-Mukarramah & Madinah Al-Munawwarah",
+          "wafat": "11 H (632 M)",
+          "thabaqah": "Khatamun Nabiyyin wa Sayyidul Mursalin",
+          "status_tadil": "Ma'shum (Terjaga dari Dosa & Kesalahan dalam Syariat)"
+        }
+      ]
+    }
+  ]
+}

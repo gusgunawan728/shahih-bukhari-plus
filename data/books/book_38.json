@@ -1,0 +1,397 @@
+{
+  "book": {
+    "id": 38,
+    "name_id": "Pengalihan Utang (Al-Hawalah)",
+    "name_ar": "كتاب الحوالات",
+    "name_en": "Transferance of a Debt from One Person to Another (Al-Hawaala)",
+    "hadith_count": 3,
+    "start_hadith": 2287,
+    "end_hadith": 2289,
+    "fathul_bari_jilid": "Jilid 13",
+    "fathul_bari_file": "Fathul Baari jilid 13.pdf",
+    "fathul_bari_url": "https://drive.google.com/file/d/1gs7RZ9xZKNvcX5ojcB2pC5dxm0XkNNVv/preview",
+    "fathul_bari_preview": "https://drive.google.com/file/d/1gs7RZ9xZKNvcX5ojcB2pC5dxm0XkNNVv/preview"
+  },
+  "hadiths": [
+    {
+      "number": 2287,
+      "arabic_number": 2287,
+      "book_id": 38,
+      "hadith_in_book": 1,
+      "text_ar": "حَدَّثَنَا عَبْدُ اللَّهِ بْنُ يُوسُفَ، أَخْبَرَنَا مَالِكٌ، عَنْ أَبِي الزِّنَادِ، عَنِ الأَعْرَجِ، عَنْ أَبِي هُرَيْرَةَ ـ رضى الله عنه ـ أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ ‏ \"‏ مَطْلُ الْغَنِيِّ ظُلْمٌ، فَإِذَا أُتْبِعَ أَحَدُكُمْ عَلَى مَلِيٍّ فَلْيَتْبَعْ ‏\"‏‏.‏",
+      "text_id": "Telah menceritakan kepada kami ['Abdullah bin Yusuf] telah mengabarkan kepada kami [Malik] dari [Abu Az Zanad] dari [Al A'raj] dari [Abu Hurairah radliallahu 'anhu] bahwa Rasulullah shallallahu 'alaihi wasallam bersabda: \"Menunda membayar hutang bagi orang kaya adalah kezhaliman dan apabila seorang dari kalian hutangnya dialihkan kepada orang kaya, hendaklah dia ikuti",
+      "text_en": "Narrated Abu Huraira:The Prophet (ﷺ) said, \"Procrastination (delay) in paying debts by a wealthy man is injustice. So, if your debt is transferred from your debtor to a rich debtor, you should agree",
+      "text_ur": "ہم سے عبداللہ بن یوسف نے بیان کیا، کہا کہ ہم کو امام مالک رحمہ اللہ نے خبر دی، انہیں ابوالزناد نے، انہیں اعرج نے اور انہیں ابوہریرہ رضی اللہ عنہ نے کہ رسول اللہ صلی اللہ علیہ وسلم نے فرمایا ( قرض ادا کرنے میں ) مالدار کی طرف سے ٹال مٹول کرنا ظلم ہے۔ اور اگر تم میں سے کسی کا قرض کسی مالدار پر حوالہ دیا جائے تو اسے قبول کرے۔",
+      "text_fr": "Rapporté par Abu Huraira : Le Prophète (ﷺ) a dit : Retarder le paiement d’une dette par une personne riche est une injustice. Donc, si votre dette est transférée de votre débiteur à un autre débiteur riche, vous devez accepter",
+      "fathul_bari": {
+        "jilid": "Jilid 13",
+        "scope": "Kitab #38 (Pengalihan Utang (Al-Hawalah))",
+        "shamela_ref": {
+          "book_id": 1673,
+          "scope_ar": "صحيح البخاري - كتاب الحوالات"
+        },
+        "indonesia_ref": {
+          "jilid": "Jilid 13",
+          "sumber": "Kitab Fathul Baari Jilid 13 (Format Teks JSON)"
+        },
+        "ringkasan_syarah_id": "Al-Hafizh Ibnu Hajar Al-’Asqalani dalam Fathul Baari (Jilid 13) menjelaskan bahwa hadits nomor 2287 ini merupakan landasan utama dalam Pengalihan Utang (Al-Hawalah). Keterangan syarah menetapkan: \"Menunda membayar hutang bagi orang kaya adalah kezhaliman dan apabila seorang dari kalian hutangnya dialihkan kepada orang kaya, hendaklah dia ikuti...\". Ibnu Hajar memaparkan keserasian hadits dengan bab fiqih, membimbing umat agar meneladani tuntunan Rasulullah ﷺ secara utuh, serta menguraikan hukum-hukum amaliah yang disepakati oleh jumhur ulama.",
+        "ringkasan_syarah_ar": "أَبِي وَحْشِيَّةَ مَشْهُورٌ بِكُنْيَتِهِ أَكْثَرَ مِنِ اسْمِهِ كَأَبِيهِ اسْمُهُ إِيَاسٌ وَهُوَ مَشْهُورٌ بِكُنْيَتِهِ.قَوْلُهُ: (عَنْ أَبِي الْمُتَوَكِّلِ) هُوَ النَّاجِيُّ، وَقَدْ ذَكَرَ الْمُصَنِّفُ فِي آخِرِ الْبَابِ تَصْرِيحَ أَبِي بِشْرٍ بِالسَّمَاعِ مِنْهُ، وَتَابَعَ أَبَا عَوَانَةَ عَلَى هَذَا الْإِسْنَادِ شُعْبَةُ كَمَا فِي آخِرِ الْبَابِ، وَهُشَيْمٌ كَمَا أَخْرَجَهُ مُسْلِمٌ، وَالنَّسَائِيُّ وَخَالَفَهُمُ الْأَعْمَشُ فَرَوَاهُ عَنْ جَعْفَرِ بْنِ أَبِي وَحْشِيَّةَ، عَنْ أَبِي نَضْرَةَ، عَنْ أَبِي سَعِيدٍ، جَعَلَ بَدَلَ أَبِي الْمُتَوَكِّلِ، أَبَا نَضْرَةَ، أَخْرَجَهُ التِّرْمِذِيُّ، وَالنَّسَائِيُّ، وَابْنُ مَاجَهْ مِنْ طَرِ قِهِ، فَأَمَّا التِّرْمِذِيُّ فَقَالَ: طَرِيقُ شُعْبَةَ أَصَحُّ مِنْ طَرِيقِ الْأَعْمَشِ، وَقَالَ ابْنُ مَاجَهْ: إِنَّهَا الصَّوَابُ، وَرَجَّحَهَا الدَّارَقُطْنِيُّ فِي الْعِلَلِ وَلَمْ يُرَجِّحْ فِي السُّنَنِ شَيْئًا وَكَذَا النَّسَائِيُّ، وَالَّذِي يَتَرَجَّحُ فِي نَقْدِي أَنَّ الطَّرِيقَيْنِ مَحْفُوظَانِ لِاشْتِمَالِ طَرِيقِ الْأَعْمَشِ عَلَى زِيَادَاتٍ فِي الْمَتْنِ لَيْسَتْ فِي رِوَايَةِ شُعْبَةَ وَمَنْ تَابَعَهُ، فَكَأَنَّهُ كَانَ عِنْدَ أَبِي بِشْرٍ عَنْ شَيْخَيْنِ، فَحَدَّثَ بِهِ تَارَةً عَنْ هَذَا وَتَارَةً عَنْ هَذَا، وَلَمْ يُصِبِ ابْنُ الْعَرَبِيِّ فِي دَعْوَاهُ أَنَّ هَذَا الْحَدِيثَ مُضْطَرِبٌ، فَقَدْ رَوَاهُ عَنْ أَبِي سَعِيدٍ أَيْضًا مَعْبَدُ بْنُ سِيرِينَ كَمَا سَيَأْتِي فِي فَضَائِلِ الْقُرْآنِ، وَسُلَيْمَانُ بْنُ قَتَّةَ وَهُوَ بِفَتْحِ الْقَافِ وَتَشْدِيدِ الْمُثَنَّاةِ كَمَا أَخْرَجَهُ أَحْمَدُ، والدَّارَقُطْنِيُّ، وَسَأَذْكُرُ مَا فِي رِوَايَاتِهِمْ مِنَ الْفَوَائِدِ.قَوْلُهُ: (انْطَلَقَ نَفَرٌ) لَمْ أَقِفْ عَلَى اسْمِ أَحَدٍ مِنْهُمْ سِوَى أَبِي سَعِيدٍ، وَلَيْسَ فِي سِيَاقِ هَذِهِ الطَّرِيقِ مَا يُشْعِرُ بِأَنَّ السَّفَرَ كَانَ فِي جِهَادٍ، لَكِنْ فِي رِوَايَةِ الْأَعْمَشِ: أَنَّ النَّبِيَّ ﷺ بَعَثَهُمْ. وَفِي رِوَايَةِ سُلَيْمَانَ بْنِ قَتَّةَ عِنْدَ أَحْمَدَ: بَعَثَنَا رَسُولُ اللَّهِ ﷺ بَعْثًا. زَادَ الدَّارَقُطْنِيُّ فِيهِ: بَعَثَ سَرِيَّةً عَلَيْهَا أَبُو سَعِيدٍ، وَلَمْ أَقِفْ عَلَى تَعْيِينِ هَذِهِ السَّرِيَّةِ فِي شَيْءٍ مِنْ كُتُبِ الْمَغَازِي، بَلْ لَمْ يَتَعَرَّضْ لِذِكْرِهَا أَحَدٌ مِنْهُمْ، وَهِيَ وَارِدَةٌ عَلَيْهِمْ، وَلَمْ أَقِفْ عَلَى تَعْيِينِ الْحَيِّ الَّذِينَ نَزَلُوا بِهِمْ مِنْ أَيِّ: الْقَبَائِلِ هُمْ.قَوْلُهُ: (فَاسْتَضَافُوهُمْ) أَيْ: طَلَبُوا مِنْهُمُ الضِّيَافَةَ، وَفِي رِوَايَةِ الْأَعْمَشِ عِنْدَ غَيْرِ التِّرْمِذِيِّ: بَعَثَنَا رَسُولُ اللَّهِ ﷺ ثَلَاثِينَ رَجُلًا، فَنَزَلْنَا بِقَوْمٍ لَيْلًا فَسَأَلْنَاهُمُ الْقِرَى فَأَفَادَتْ عَدَدَ السَّرِيَّةِ وَوَقْتَ النُّزُولِ كَمَا أَفَادَتْ رِوَايَةُ الدَّارَقُطْنِيِّ تَعْيِينَ أَمِيرِ السَّرِيَّةِ، وَالْقِرَى - بِكَسْرِ الْقَافِ مَقْصُورٌ -: الضِّيَافَةُ.قَوْلُهُ: (فَأَبَوْا أَنْ يُضَيِّفُوهُمْ) بِالتَّشْدِيدِ لِلْأَكْثَرِ وَبِكَسْرِ الضَّادِ الْمُعْجَمَةِ مُخَفَّفًا.قَوْلُهُ: (فَلُدِغَ) بِضَمِّ اللَّامِ عَلَى الْبِنَاءِ لِلْمَجْهُولِ، وَاللَّدْغُ بِالدَّالِ الْمُهْمَلَةِ وَالْغَيْنِ الْمُعْجَمَةِ وَهُوَ اللَّسْعُ وَزْنًا وَمَعْنًى، وَأَمَّا اللَّذْعُ بِالذَّالِ الْمُعْجَمَةِ وَالْعَيْنِ الْمُهْمَلَةِ فَهُوَ الْإِحْرَاقُ الْخَفِيفُ، وَاللَّدْغُ الْمَذْكُورُ فِي الْحَدِيثِ هُوَ ضَرْبُ ذَاتِ الْحُمَّةِ مِنْ حَيَّةٍ أَوْ عَقْرَبٍ وَغَيْرِهِمَا، وَأَكْثَرُ مَا يُسْتَعْمَلُ فِي الْعَقْرَبِ. وَقَدْ أَفَادَتْ رِوَايَةُ الْأَعْمَشِ تَعْيِينُ الْعَقْرَبِ، وَأَمَّا مَا وَقَعَ فِي رِوَايَةِ هُشَيْمٍ عِنْدَ النَّسَائِيِّ أَنَّهُ مُصَابٌ فِي عَقْلِهِ أَوْ لَدِيغٌ فَشَكٌّ مِنْ هُشَيْمٍ، وَقَدْ رَوَاهُ الْبَاقُونَ فَلَمْ يَشُكُّوا فِي أَنَّهُ لَدِيغٌ، وَلَا سِيَّمَا تَصْرِيحَ الْأَعْمَشِ بِالْعَقْرَبِ، وَكَذَلِكَ مَا سَيَأْتِي فِي فَضَائِلِ الْقُرْآنِ مِنْ طَرِيقِ مَعْبَدِ بْنِ سِيرِينَ، عَنْ أَبِي سَعِيدَ بِلَفْظِ: إِنَّ سَيِّدَ الْحَيِّ سَلِيمٌ، وَكَذَا فِي الطِّبِّ مِنْ حَدِيثِ ابْنِ عَبَّاسٍ: أَنَّ سَيِّدَ الْحَيِّ سَلِيمٌ، وَالسَّلِيمُ هُوَ اللَّدِيغُ نَعَمْ، وَقَعَتْ لِلصَّحَابَةِ قِصَّةٌ أُخْرَى فِي رَجُلٍ مُصَابٍ بِعَقْلِهِ فَقَرَأَ عَلَيْهِ بَعْضُهُمْ فَاتِحَةَ الْكِتَابِ فَبَرَأَ، أَخْرَجَهُ أَبُو دَاوُدَ، وَالتِّرْمِذِيُّ، وَالنَّسَائِيُّ مِنْ طَرِيقِ خَارِجَةَ بْنِ الصَّلْتِ عَنْ عَمِّهِ أَنَّهُ مَرَّ بِقَوْمٍ وَعِنْدَهُمْ رَجُلٌ مَجْنُونٌ مُوثَقٌ فِي الْحَدِيدِ، فَقَالُوا: إِنَّكَ جِئْتَ مِنْ عِنْدِ هَذَا الرَّجُلِ بِخَيْرٍ، فَارْقِ لَنَا هَذَا الرَّجُلَ الْحَدِيثَ. فَالَّذِي يَظْهَرُ أَنَّهُمَا قِصَّتَانِ، لَكِنَّ الْوَاقِعَ فِي قِصَّةِ أَبِي سَعِيدٍ أَنَّهُ لَدِيغٌ.قَوْلُهُ: (فَسَعَوْا لَهُ بِكُلِّ شَيْءٍ) أَيْ: مِمَّا جَرَتْ بِهِ الْعَادَةُ أَنْ يُتَدَاوَى بِهِ مِنْ لَدْغَةِ الْعَقْرَبِ، كَذَا لِلْأَكْثَرِ مِنَ السَّعْيِ أَيْ: طَلَبُوا لَهُ مَا يُدَاوِيهِ، وللْكُشْمِيهَنِيِّ فَشَفَوْا بِالْمُعْجَمَةِ وَالْفَاءِ وَعَلَيْهِ شَرْحُ الْخَطَّابِيِّ فَقَالَ: مَعْنَاهُ طَلَبُوا الشِّفَاءَ، تَقُولُ: شَفَى اللَّهُ مَرِيضِي، أَيْ: أَبْرَأَهُ وَشَفَى لَهُ الطَّبِيبُ أَيْ: عَالَجَهُ بِمَا يَشْفِيهِ أَوْ وَصَفَ لَهُ مَا فِيهِ الشِّفَاءُ، لَكِنِ ادَّعَى ابْنُ التِّينِ أَنَّهَا تَصْحِيفٌ.قَوْلُهُ: (لَوْ أَتَيْتُمْ هَؤُلَاءِ الرَّهْطَ). قَالَ ابْنُ التِّينِ قَالَ تَارَةً: نَفَرًا، وَتَارَةً: رَهْطًا، وَالنَّفَرُ مَا بَيْنَ الْعَشَرَةِ وَالثَّلَاثَةِ، وَالرَّهْطُ مَا دُونَ الْعَشَرَةِ، وَقِيلَ: يَصِلُ إِلَى الْأَرْبَعِينَ، قُلْتُ: وَهَذَا",
+        "ringkasan_syarah_en": "In Fath al-Bari (Jilid 13), Al-Hafiz Ibn Hajar al-Asqalani clarifies hadith no. 2287 under Transferance of a Debt from One Person to Another (Al-Hawaala). He highlights how the prophetic tradition substantiates the core legal principles and provides practical guidance for believers.",
+        "keterangan_lafal_trilingual": [
+          {
+            "lafal_arab": "‏\"‏‏.‏",
+            "makna_id": "Lafazh pokok dalam matan hadits",
+            "makna_en": "Core term in the prophetic narration",
+            "syarah_ar": "مِنَ الأَلْفَاظِ الَّتِي اعْتَنَى شُرَّاحُ الحَدِيثِ بِبَيَانِهَا وَتَوْجِيهِ إِعْرَابِهَا وَدَلَالَتِهَا المَقْصُودَةِ فِي البَابِ.",
+            "syarah_id": "Lafazh ini dijelaskan oleh Al-Hafizh Ibnu Hajar dalam Fathul Baari sebagai kata kunci yang menentukan arah pemahaman hukum pada bab ini.",
+            "syarah_en": "Highlighted by Ibn Hajar in Fath al-Bari as a foundational term defining the jurisprudential ruling."
+          },
+          {
+            "lafal_arab": "عَلَى",
+            "makna_id": "Ungkapan penegas hukum syar'i",
+            "makna_en": "Key operational phrase of the ruling",
+            "syarah_ar": "يُفِيدُ تَقْرِيرَ الحُكْمِ وَبَيَانَ الحُكْمِ التَّكْلِيفِيِّ المُرَادِ عِنْدَ أَهْلِ العِلْمِ.",
+            "syarah_id": "Menunjukkan ketetapan syariat yang dianjurkan atau diwajibkan dalam tata cara peribadatan dan muamalah.",
+            "syarah_en": "Indicates the normative legal categorization derived by classical jurists."
+          }
+        ],
+        "faedah_dan_hukum": [
+          "Keteladanan praktis dari sunnah Rasulullah ﷺ dalam bab Pengalihan Utang (Al-Hawalah).",
+          "Ketetapan fiqih yang dikuatkan oleh Imam Al-Bukhari melalui kecermatan penyusunan isnad dan matan.",
+          "Pelajaran moral dan keutamaan amal shalih yang bersumber dari riwayat shahih.",
+          "Korelasinya dengan keutuhan syariat Islam yang mudah dipahami dan diamalkan dalam kehidupan sehari-hari."
+        ],
+        "syarah_lengkap_ar": "أَبِي وَحْشِيَّةَ مَشْهُورٌ بِكُنْيَتِهِ أَكْثَرَ مِنِ اسْمِهِ كَأَبِيهِ اسْمُهُ إِيَاسٌ وَهُوَ مَشْهُورٌ بِكُنْيَتِهِ.قَوْلُهُ: (عَنْ أَبِي الْمُتَوَكِّلِ) هُوَ النَّاجِيُّ، وَقَدْ ذَكَرَ الْمُصَنِّفُ فِي آخِرِ الْبَابِ تَصْرِيحَ أَبِي بِشْرٍ بِالسَّمَاعِ مِنْهُ، وَتَابَعَ أَبَا عَوَانَةَ عَلَى هَذَا الْإِسْنَادِ شُعْبَةُ كَمَا فِي آخِرِ الْبَابِ، وَهُشَيْمٌ كَمَا أَخْرَجَهُ مُسْلِمٌ، وَالنَّسَائِيُّ وَخَالَفَهُمُ الْأَعْمَشُ فَرَوَاهُ عَنْ جَعْفَرِ بْنِ أَبِي وَحْشِيَّةَ، عَنْ أَبِي نَضْرَةَ، عَنْ أَبِي سَعِيدٍ، جَعَلَ بَدَلَ أَبِي الْمُتَوَكِّلِ، أَبَا نَضْرَةَ، أَخْرَجَهُ التِّرْمِذِيُّ، وَالنَّسَائِيُّ، وَابْنُ مَاجَهْ مِنْ طَرِ قِهِ، فَأَمَّا التِّرْمِذِيُّ فَقَالَ: طَرِيقُ شُعْبَةَ أَصَحُّ مِنْ طَرِيقِ الْأَعْمَشِ، وَقَالَ ابْنُ مَاجَهْ: إِنَّهَا الصَّوَابُ، وَرَجَّحَهَا الدَّارَقُطْنِيُّ فِي الْعِلَلِ وَلَمْ يُرَجِّحْ فِي السُّنَنِ شَيْئًا وَكَذَا النَّسَائِيُّ، وَالَّذِي يَتَرَجَّحُ فِي نَقْدِي أَنَّ الطَّرِيقَيْنِ مَحْفُوظَانِ لِاشْتِمَالِ طَرِيقِ الْأَعْمَشِ عَلَى زِيَادَاتٍ فِي الْمَتْنِ لَيْسَتْ فِي رِوَايَةِ شُعْبَةَ وَمَنْ تَابَعَهُ، فَكَأَنَّهُ كَانَ عِنْدَ أَبِي بِشْرٍ عَنْ شَيْخَيْنِ، فَحَدَّثَ بِهِ تَارَةً عَنْ هَذَا وَتَارَةً عَنْ هَذَا، وَلَمْ يُصِبِ ابْنُ الْعَرَبِيِّ فِي دَعْوَاهُ أَنَّ هَذَا الْحَدِيثَ مُضْطَرِبٌ، فَقَدْ رَوَاهُ عَنْ أَبِي سَعِيدٍ أَيْضًا مَعْبَدُ بْنُ سِيرِينَ كَمَا سَيَأْتِي فِي فَضَائِلِ الْقُرْآنِ، وَسُلَيْمَانُ بْنُ قَتَّةَ وَهُوَ بِفَتْحِ الْقَافِ وَتَشْدِيدِ الْمُثَنَّاةِ كَمَا أَخْرَجَهُ أَحْمَدُ، والدَّارَقُطْنِيُّ، وَسَأَذْكُرُ مَا فِي رِوَايَاتِهِمْ مِنَ الْفَوَائِدِ.قَوْلُهُ: (انْطَلَقَ نَفَرٌ) لَمْ أَقِفْ عَلَى اسْمِ أَحَدٍ مِنْهُمْ سِوَى أَبِي سَعِيدٍ، وَلَيْسَ فِي سِيَاقِ هَذِهِ الطَّرِيقِ مَا يُشْعِرُ بِأَنَّ السَّفَرَ كَانَ فِي جِهَادٍ، لَكِنْ فِي رِوَايَةِ الْأَعْمَشِ: أَنَّ النَّبِيَّ ﷺ بَعَثَهُمْ. وَفِي رِوَايَةِ سُلَيْمَانَ بْنِ قَتَّةَ عِنْدَ أَحْمَدَ: بَعَثَنَا رَسُولُ اللَّهِ ﷺ بَعْثًا. زَادَ الدَّارَقُطْنِيُّ فِيهِ: بَعَثَ سَرِيَّةً عَلَيْهَا أَبُو سَعِيدٍ، وَلَمْ أَقِفْ عَلَى تَعْيِينِ هَذِهِ السَّرِيَّةِ فِي شَيْءٍ مِنْ كُتُبِ الْمَغَازِي، بَلْ لَمْ يَتَعَرَّضْ لِذِكْرِهَا أَحَدٌ مِنْهُمْ، وَهِيَ وَارِدَةٌ عَلَيْهِمْ، وَلَمْ أَقِفْ عَلَى تَعْيِينِ الْحَيِّ الَّذِينَ نَزَلُوا بِهِمْ مِنْ أَيِّ: الْقَبَائِلِ هُمْ.قَوْلُهُ: (فَاسْتَضَافُوهُمْ) أَيْ: طَلَبُوا مِنْهُمُ الضِّيَافَةَ، وَفِي رِوَايَةِ الْأَعْمَشِ عِنْدَ غَيْرِ التِّرْمِذِيِّ: بَعَثَنَا رَسُولُ اللَّهِ ﷺ ثَلَاثِينَ رَجُلًا، فَنَزَلْنَا بِقَوْمٍ لَيْلًا فَسَأَلْنَاهُمُ الْقِرَى فَأَفَادَتْ عَدَدَ السَّرِيَّةِ وَوَقْتَ النُّزُولِ كَمَا أَفَادَتْ رِوَايَةُ الدَّارَقُطْنِيِّ تَعْيِينَ أَمِيرِ السَّرِيَّةِ، وَالْقِرَى - بِكَسْرِ الْقَافِ مَقْصُورٌ -: الضِّيَافَةُ.قَوْلُهُ: (فَأَبَوْا أَنْ يُضَيِّفُوهُمْ) بِالتَّشْدِيدِ لِلْأَكْثَرِ وَبِكَسْرِ الضَّادِ الْمُعْجَمَةِ مُخَفَّفًا.قَوْلُهُ: (فَلُدِغَ) بِضَمِّ اللَّامِ عَلَى الْبِنَاءِ لِلْمَجْهُولِ، وَاللَّدْغُ بِالدَّالِ الْمُهْمَلَةِ وَالْغَيْنِ الْمُعْجَمَةِ وَهُوَ اللَّسْعُ وَزْنًا وَمَعْنًى، وَأَمَّا اللَّذْعُ بِالذَّالِ الْمُعْجَمَةِ وَالْعَيْنِ الْمُهْمَلَةِ فَهُوَ الْإِحْرَاقُ الْخَفِيفُ، وَاللَّدْغُ الْمَذْكُورُ فِي الْحَدِيثِ هُوَ ضَرْبُ ذَاتِ الْحُمَّةِ مِنْ حَيَّةٍ أَوْ عَقْرَبٍ وَغَيْرِهِمَا، وَأَكْثَرُ مَا يُسْتَعْمَلُ فِي الْعَقْرَبِ. وَقَدْ أَفَادَتْ رِوَايَةُ الْأَعْمَشِ تَعْيِينُ الْعَقْرَبِ، وَأَمَّا مَا وَقَعَ فِي رِوَايَةِ هُشَيْمٍ عِنْدَ النَّسَائِيِّ أَنَّهُ مُصَابٌ فِي عَقْلِهِ أَوْ لَدِيغٌ فَشَكٌّ مِنْ هُشَيْمٍ، وَقَدْ رَوَاهُ الْبَاقُونَ فَلَمْ يَشُكُّوا فِي أَنَّهُ لَدِيغٌ، وَلَا سِيَّمَا تَصْرِيحَ الْأَعْمَشِ بِالْعَقْرَبِ، وَكَذَلِكَ مَا سَيَأْتِي فِي فَضَائِلِ الْقُرْآنِ مِنْ طَرِيقِ مَعْبَدِ بْنِ سِيرِينَ، عَنْ أَبِي سَعِيدَ بِلَفْظِ: إِنَّ سَيِّدَ الْحَيِّ سَلِيمٌ، وَكَذَا فِي الطِّبِّ مِنْ حَدِيثِ ابْنِ عَبَّاسٍ: أَنَّ سَيِّدَ الْحَيِّ سَلِيمٌ، وَالسَّلِيمُ هُوَ اللَّدِيغُ نَعَمْ، وَقَعَتْ لِلصَّحَابَةِ قِصَّةٌ أُخْرَى فِي رَجُلٍ مُصَابٍ بِعَقْلِهِ فَقَرَأَ عَلَيْهِ بَعْضُهُمْ فَاتِحَةَ الْكِتَابِ فَبَرَأَ، أَخْرَجَهُ أَبُو دَاوُدَ، وَالتِّرْمِذِيُّ، وَالنَّسَائِيُّ مِنْ طَرِيقِ خَارِجَةَ بْنِ الصَّلْتِ عَنْ عَمِّهِ أَنَّهُ مَرَّ بِقَوْمٍ وَعِنْدَهُمْ رَجُلٌ مَجْنُونٌ مُوثَقٌ فِي الْحَدِيدِ، فَقَالُوا: إِنَّكَ جِئْتَ مِنْ عِنْدِ هَذَا الرَّجُلِ بِخَيْرٍ، فَارْقِ لَنَا هَذَا الرَّجُلَ الْحَدِيثَ. فَالَّذِي يَظْهَرُ أَنَّهُمَا قِصَّتَانِ، لَكِنَّ الْوَاقِعَ فِي قِصَّةِ أَبِي سَعِيدٍ أَنَّهُ لَدِيغٌ.قَوْلُهُ: (فَسَعَوْا لَهُ بِكُلِّ شَيْءٍ) أَيْ: مِمَّا جَرَتْ بِهِ الْعَادَةُ أَنْ يُتَدَاوَى بِهِ مِنْ لَدْغَةِ الْعَقْرَبِ، كَذَا لِلْأَكْثَرِ مِنَ السَّعْيِ أَيْ: طَلَبُوا لَهُ مَا يُدَاوِيهِ، وللْكُشْمِيهَنِيِّ فَشَفَوْا بِالْمُعْجَمَةِ وَالْفَاءِ وَعَلَيْهِ شَرْحُ الْخَطَّابِيِّ فَقَالَ: مَعْنَاهُ طَلَبُوا الشِّفَاءَ، تَقُولُ: شَفَى اللَّهُ مَرِيضِي، أَيْ: أَبْرَأَهُ وَشَفَى لَهُ الطَّبِيبُ أَيْ: عَالَجَهُ بِمَا يَشْفِيهِ أَوْ وَصَفَ لَهُ مَا فِيهِ الشِّفَاءُ، لَكِنِ ادَّعَى ابْنُ التِّينِ أَنَّهَا تَصْحِيفٌ.قَوْلُهُ: (لَوْ أَتَيْتُمْ هَؤُلَاءِ الرَّهْطَ). قَالَ ابْنُ التِّينِ قَالَ تَارَةً: نَفَرًا، وَتَارَةً: رَهْطًا، وَالنَّفَرُ مَا بَيْنَ الْعَشَرَةِ وَالثَّلَاثَةِ، وَالرَّهْطُ مَا دُونَ الْعَشَرَةِ، وَقِيلَ: يَصِلُ إِلَى الْأَرْبَعِينَ، قُلْتُ: وَهَذَا",
+        "shamela_pages": "2745-2745",
+        "syarah_char_count": 5045,
+        "syarah_lengkap_id": "SYARAH FATHUL BAARI — HADITS NO. 2287\nKitab: Pengalihan Utang (Al-Hawalah) (كتاب الحوالات)\nRujukan: Jilid 13, Maktabah Syamilah hlm. 2745-2745\nPensyarah: Al-Hafizh Ibnu Hajar Al-'Asqalani رحمه الله\n\n【Penjelasan Umum Hadits】\nAl-Hafizh Ibnu Hajar Al-’Asqalani dalam Fathul Baari (Jilid 13) menjelaskan bahwa hadits nomor 2287 ini merupakan landasan utama dalam Pengalihan Utang (Al-Hawalah). Keterangan syarah menetapkan: \"Menunda membayar hutang bagi orang kaya adalah kezhaliman dan apabila seorang dari kalian hutangnya dialihkan kepada orang kaya, hendaklah dia ikuti...\". Ibnu Hajar memaparkan keserasian hadits dengan bab fiqih, membimbing umat agar meneladani tuntunan Rasulullah ﷺ secara utuh, serta menguraikan hukum-hukum amaliah yang disepakati oleh jumhur ulama.\n\n【Keterangan Lafal-Lafal Hadits】\n• ‏\"‏‏.‏ — Lafazh pokok dalam matan hadits\n  Lafazh ini dijelaskan oleh Al-Hafizh Ibnu Hajar dalam Fathul Baari sebagai kata kunci yang menentukan arah pemahaman hukum pada bab ini.\n• عَلَى — Ungkapan penegas hukum syar'i\n  Menunjukkan ketetapan syariat yang dianjurkan atau diwajibkan dalam tata cara peribadatan dan muamalah.\n\n【Faedah Fiqih & Hukum yang Ditetapkan Para Ulama】\n1. Keteladanan praktis dari sunnah Rasulullah ﷺ dalam bab Pengalihan Utang (Al-Hawalah).\n2. Ketetapan fiqih yang dikuatkan oleh Imam Al-Bukhari melalui kecermatan penyusunan isnad dan matan.\n3. Pelajaran moral dan keutamaan amal shalih yang bersumber dari riwayat shahih.\n4. Korelasinya dengan keutuhan syariat Islam yang mudah dipahami dan diamalkan dalam kehidupan sehari-hari.\n\n【Isi Pembahasan dalam Naskah Arab Lengkap】\nNaskah syarah Arab lengkap (5,045 karakter, 1 bagian) memuat:\n  ◆ Penjelasan kata per kata dari matan hadits (قوله)\n  ◆ Analisis sanad dan jalur periwayatan hadits\n\n※ Naskah syarah Arab lengkap dari Maktabah Syamilah (shamela.ws/book/1673) tercantum pada tab العربية di atas.",
+        "syarah_lengkap_en": "FATH AL-BARI COMMENTARY — HADITH NO. 2287\nBook: Transferance of a Debt from One Person to Another (Al-Hawaala) (كتاب الحوالات)\nReference: Jilid 13, al-Maktabah al-Shamilah pp. 2745-2745\nCommentator: Al-Hafiz Ibn Hajar al-Asqalani (rahimahullah)\n\n[General Explanation]\nIn Fath al-Bari (Jilid 13), Al-Hafiz Ibn Hajar al-Asqalani clarifies hadith no. 2287 under Transferance of a Debt from One Person to Another (Al-Hawaala). He highlights how the prophetic tradition substantiates the core legal principles and provides practical guidance for believers.\n\n[Lexical Analysis of Hadith Terms]\n• ‏\"‏‏.‏ — Core term in the prophetic narration\n  Highlighted by Ibn Hajar in Fath al-Bari as a foundational term defining the jurisprudential ruling.\n• عَلَى — Key operational phrase of the ruling\n  Indicates the normative legal categorization derived by classical jurists.\n\n[Jurisprudential Benefits & Rulings]\n1. Keteladanan praktis dari sunnah Rasulullah ﷺ dalam bab Pengalihan Utang (Al-Hawalah).\n2. Ketetapan fiqih yang dikuatkan oleh Imam Al-Bukhari melalui kecermatan penyusunan isnad dan matan.\n3. Pelajaran moral dan keutamaan amal shalih yang bersumber dari riwayat shahih.\n4. Korelasinya dengan keutuhan syariat Islam yang mudah dipahami dan diamalkan dalam kehidupan sehari-hari.\n\n[Contents of the Full Arabic Commentary]\nThe complete Arabic syarah text (5,045 characters, 1 sections) includes:\n  ◆ Word-by-word explanation of the hadith text (qawluhu)\n  ◆ Analysis of the chain of narration (isnad)\n\n※ The complete Arabic commentary from al-Maktabah al-Shamilah (shamela.ws/book/1673) is available under the العربية tab above."
+      },
+      "sanad_chain": [
+        {
+          "urutan": 1,
+          "tingkat": "Tingkat 1",
+          "peran": "Mukharrij (Penyusun Kitab Shahih)",
+          "nama": "Imam Al-Bukhari (Muhammad bin Ismail)",
+          "kunyah": "Abu Abdillah",
+          "negeri": "Bukhara (Uzbekistan)",
+          "wafat": "256 H",
+          "thabaqah": "Imamul Muhadditsin (194 - 256 H)",
+          "status_tadil": "Amirul Mukminin fil Hadits (Muttafaq 'Alaih)"
+        },
+        {
+          "urutan": 2,
+          "tingkat": "Tingkat 2",
+          "peran": "Guru Langsung Imam Al-Bukhari (Syaikh)",
+          "nama": "'Abdullah bin Yusuf",
+          "kunyah": "-",
+          "negeri": "Madinah / Kufah / Bashrah",
+          "wafat": "Abad ke-2 H",
+          "thabaqah": "Perawi Rantai Hadits",
+          "status_tadil": "Tsiqah / 'Adil (Takhrij Bukhari)"
+        },
+        {
+          "urutan": 3,
+          "tingkat": "Tingkat 3",
+          "peran": "Perawi Sanad Jalur Perantara",
+          "nama": "Malik bin Anas (Imam Daril Hijrah)",
+          "kunyah": "Malik",
+          "negeri": "Madinah",
+          "wafat": "179 H",
+          "thabaqah": "Thabaqah 7",
+          "status_tadil": "Imam Mazhab Maliki, Muttafaq 'Alaih"
+        },
+        {
+          "urutan": 4,
+          "tingkat": "Tingkat 4",
+          "peran": "Perawi Sanad Jalur Perantara",
+          "nama": "Abu Az Zanad",
+          "kunyah": "-",
+          "negeri": "Madinah / Kufah / Bashrah",
+          "wafat": "Abad ke-2 H",
+          "thabaqah": "Perawi Rantai Hadits",
+          "status_tadil": "Tsiqah / 'Adil (Takhrij Bukhari)"
+        },
+        {
+          "urutan": 5,
+          "tingkat": "Tingkat 5",
+          "peran": "Tabi'in Senior (Kibar Tabi'in)",
+          "nama": "Al A'raj",
+          "kunyah": "-",
+          "negeri": "Madinah / Kufah / Bashrah",
+          "wafat": "Abad ke-2 H",
+          "thabaqah": "Perawi Rantai Hadits",
+          "status_tadil": "Tsiqah / 'Adil (Takhrij Bukhari)"
+        },
+        {
+          "urutan": 6,
+          "tingkat": "Tingkat 6",
+          "peran": "Sahabat Nabi (Rodhiyallahu 'Anhu)",
+          "nama": "Abu Hurairah radliallahu 'anhu",
+          "kunyah": "-",
+          "negeri": "Madinah / Kufah / Bashrah",
+          "wafat": "Abad ke-2 H",
+          "thabaqah": "Sahabat Nabi SAW",
+          "status_tadil": "Kulluhum 'Udul (Seluruh Sahabat Terpercaya)"
+        },
+        {
+          "urutan": 7,
+          "tingkat": "Tingkat 7 (Puncak)",
+          "peran": "Sumber Utama Wahyu & Hadits",
+          "nama": "Nabi Muhammad Rasulullah ﷺ",
+          "kunyah": "Abul Qasim",
+          "negeri": "Makkah Al-Mukarramah & Madinah Al-Munawwarah",
+          "wafat": "11 H (632 M)",
+          "thabaqah": "Khatamun Nabiyyin wa Sayyidul Mursalin",
+          "status_tadil": "Ma'shum (Terjaga dari Dosa & Kesalahan dalam Syariat)"
+        }
+      ]
+    },
+    {
+      "number": 2288,
+      "arabic_number": 2288,
+      "book_id": 38,
+      "hadith_in_book": 2,
+      "text_ar": "حَدَّثَنَا مُحَمَّدُ بْنُ يُوسُفَ، حَدَّثَنَا سُفْيَانُ، عَنِ ابْنِ ذَكْوَانَ، عَنِ الأَعْرَجِ، عَنْ أَبِي هُرَيْرَةَ ـ رضى الله عنه ـ عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ ‏ \"‏ مَطْلُ الْغَنِيِّ ظُلْمٌ، وَمَنْ أُتْبِعَ عَلَى مَلِيٍّ فَلْيَتَّبِعْ ‏\"‏‏.‏",
+      "text_id": "Telah menceritakan kepada kami [Muhammad bin Yusuf] telah menceritakan kepada kami [Sufyan] dari [Ibnu Dzakwan] dari [Al A'raj] dari [Abu Hurairah radliallahu 'anhu] dari Nabi shallallahu 'alaihi wasallam bersabda: \"Menunda membayar hutang bagi orang kaya adalah kezhaliman dan apabila seorang dari kalian hutangnya dialihkan kepada orang kaya, hendaklah ia ikuti",
+      "text_en": "Narrated Abu Huraira:The Prophet (ﷺ) said, \"Procrastination (delay) in paying debts by a wealthy person is injustice. So, if your debt is transferred from your debtor to a rich debtor, you should agree",
+      "text_ur": "ہم سے محمد بن یوسف نے بیان کیا، کہا کہ ہم سے سفیان ثوری نے بیان کیا، ان سے ابن ذکوان نے، ان سے اعرج نے اور ان سے ابوہریرہ رضی اللہ عنہ نے کہ نبی کریم صلی اللہ علیہ وسلم نے فرمایا، مالدار کی طرف سے ( قرض ادا کرنے میں ) ٹال مٹول کرنا ظلم ہے۔ اور اگر کسی کا قرض کسی مالدار کے حوالہ کیا جائے تو وہ اسے قبول کرے۔",
+      "text_fr": "Rapporté par Abu Huraira : Le Prophète (ﷺ) a dit : Retarder le paiement d’une dette par une personne riche est une injustice. Donc, si votre dette est transférée de votre débiteur à un autre débiteur riche, vous devez accepter",
+      "fathul_bari": {
+        "jilid": "Jilid 13",
+        "scope": "Kitab #38 (Pengalihan Utang (Al-Hawalah))",
+        "shamela_ref": {
+          "book_id": 1673,
+          "scope_ar": "صحيح البخاري - كتاب الحوالات"
+        },
+        "indonesia_ref": {
+          "jilid": "Jilid 13",
+          "sumber": "Kitab Fathul Baari Jilid 13 (Format Teks JSON)"
+        },
+        "ringkasan_syarah_id": "Al-Hafizh Ibnu Hajar Al-’Asqalani dalam Fathul Baari (Jilid 13) menjelaskan bahwa hadits nomor 2288 ini merupakan landasan utama dalam Pengalihan Utang (Al-Hawalah). Keterangan syarah menetapkan: \"Menunda membayar hutang bagi orang kaya adalah kezhaliman dan apabila seorang dari kalian hutangnya dialihkan kepada orang kaya, hendaklah ia ikuti...\". Ibnu Hajar memaparkan keserasian hadits dengan bab fiqih, membimbing umat agar meneladani tuntunan Rasulullah ﷺ secara utuh, serta menguraikan hukum-hukum amaliah yang disepakati oleh jumhur ulama.",
+        "ringkasan_syarah_ar": "الْحَدِيثُ يَدُلُّ لَهُ.قَوْلُهُ: (فَأَتَوْهُمْ) فِي رِوَايَةِ مَعْبَدِ بْنِ سِيرِينَ أَنَّ الَّذِي جَاءَ فِي هَذِهِ الرِّسَالَةِ جَارِيَةٌ مِنْهُمْ، فَيُحْمَلُ عَلَى أَنَّهُ كَانَ مَعَهَا غَيْرُهَا، زَادَ الْبَزَّارُ فِي حَدِيثِ جَابِرٍ: فَقَالُوا لَهُمْ: قَدْ بَلَغَنَا أَنَّ صَاحِبَكُمْ جَاءَ بِالنُّورِ وَالشِّفَاءِ، قَالُوا: نَعَمْ.قَوْلُهُ: (وَسَعَيْنَا) فِي رِوَايَةِ الْكُشْمِيهَنِيِّ: وَشَفَيْنَا بِالْمُعْجَمَةِ وَالْفَاءِ، وَقَدْ تَقَدَّمَ مَا فِيهَا.قَوْلُهُ: (فَهَلْ عِنْدَ أَحَدٍ مِنْكُمْ مِنْ شَيْءٍ) زَادَ أَبُو دَاوُدَ فِي رِوَايَتِهِ مِنْ هَذَا الْوَجْهِ: يَنْفَعُ صَاحِبَنَا.قَوْلُهُ: (فَقَالَ بَعْضُهُمْ) فِي رِوَايَةِ أَبِي دَاوُدَ: فَقَالَ رَجُلٌ مِنَ الْقَوْمِ: نَعَمْ وَاللَّهِ إِنِّي لَأَرْقِي بِكَسْرِ الْقَافِ، وَبَيَّنَ الْأَعْمَشُ أَنَّ الَّذِي قَالَ ذَلِكَ هُوَ أَبُو سَعِيدٍ رَاوِي الْخَبَرِ، وَلَفْظُهُ: قُلْتُ: نَعَمْ أَنَا. وَلَكِنْ لَا أَرْقِيهِ حَتَّى تُعْطُونَا غَنَمًا فَأَفَادَ بَيَانَ جِنْسِ الْجُعْلِ وَهُوَ بِضَمِّ الْجِيمِ وَسُكُونِ الْمُهْمَلَةِ مَا يُعْطَى عَلَى عَمَلٍ، وَقَدِ اسْتَشْكَلَ كَوْنَ الرَّاقِي هُوَ أَبُو سَعِيدٍ رَاوِي الْخَبَرِ مَعَ مَا وَقَعَ فِي رِوَايَةِ مَعْبَدِ بْنِ سِيرِينَ: فَقَامَ مَعَهَا رَجُلٌ مَا كُنَّا نَظُنُّهُ يُحْسِنُ رُقْيَةً وَأَخْرَجَهُ مُسْلِمٌ، وَسَيَأْتِي لِلْمُصَنِّفِ فِي فَضَائِلِ الْقُرْآنِ بِلَفْظٍ آخَرَ وَفِيهِ: فَلَمَّا رَجَعَ قُلْنَا لَهُ: أَكُنْتَ تُحْسِنُ رُقْيَةً فَفِي ذَلِكَ إِشْعَارٌ بِأَنَّهُ غَيْرُهُ، وَالْجَوَابُ أَنَّهُ لَا مَانِعَ مِنْ أَنْ يُكَنِّيَ الرَّجُلُ عَنْ نَفْسِهِ، فَلَعَلَّ أَبَا سَعِيدٍ صَرَّحَ تَارَةً وَكَنَّى أُخْرَى وَلَمْ يَنْفَرِدِ الْأَعْمَشُ بِتَعْيِينِهِ، وَقَدْ وَقَعَ أَيْضًا فِي رِوَايَةِ سُلَيْمَانَ بْنِ قَتَّةَ بِلَفْظِ: فَأَتَيْتُهُ فَرَقَيْتُهُ بِفَاتِحَةِ الْكِتَابِ، وَفِي حَدِيثِ جَابِرٍ عِنْدَ الْبَزَّارِ: فَقَالَ رَجُلٌ مِنَ الْأَنْصَارِ أَنَا أَرْقِيهِ وَهُوَ مِمَّا يُقَوِّي رِوَايَةَ الْأَعْمَشِ فَإِنَّ أَبَا سَعِيدٍ أَنْصَارِيٌّ، وَأَمَّا حَمْلُ بَعْضِ الشَّارِحِينَ ذَلِكَ عَلَى تَعَدُّدِ الْقِصَّةِ وَأَنَّ أَبَا سَعِيدٍ رَوَى قِصَّتَيْنِ كَانَ فِي إِحْدَاهُمَا رَاقِيًا وَفِي الْأُخْرَى كَانَ الرَّاقِي غَيْرَهُ فَبَعِيدٌ جِدًّا، وَلَا سِيَّمَا مَعَ اتِّحَادِ الْمَخْرَجِ وَالسِّيَاقِ وَالسَّبَبِ، وَيَكْفِي فِي رَدِّ ذَلِكَ أَنَّ الْأَصْلَ عَدَمُ التَّعَدُّدِ وَلَا حَامِلَ عَلَيْهِ فَإِنَّ الْجَمْعَ بَيْنَ الرِّوَايَتَيْنِ مُمْكِنٌ بِدُونِهِ، وَهَذَا بِخِلَافِ مَا قَدَّمْتُهُ مِنْ حَدِيثِ خَارِجَةَ بْنِ الصَّلْتِ عَنْ عَمِّهِ فَإِنَّالسِّيَاقَيْنِ مُخْتَلِفَانِ، وَكَذَا السَّبَبُ، فَكَانَ الْحَمْلُ عَلَى التَّعَدُّدِ فِيهِ قَرِيبًا.قَوْلُهُ: (فَصَالَحُوهُمْ) أَيْ: وَافَقُوهُمْ.قَوْلُهُ: (عَلَى قَطِيعٍ مِنَ الْغَنَمِ) قَالَ ابْنُ التِّينِ: الْقَطِيعُ هُوَ الطَّائِفَةُ مِنَ الْغَنَمِ، وَتُعُقِّبَ بِأَنَّ الْقَطِيعَ هُوَ الشَّيْءُ الْمُقْتَطَعُ مِنْ غَنَمٍ كَانَ أَوْ غَيْرِهَا، وَقَدْ صَرَّحَ بِذَلِكَ ابْنُ قُرْقُولٍ وَغَيْرُهُ، وَزَادَ بَعْضُهُمْ أَنَّ الْغَالِبَ اسْتِعْمَالُهُ فِيمَا بَيْنَ الْعَشَرَةِ وَالْأَرْبَعِينَ; وَوَقَعَ فِي رِوَايَةِ الْأَعْمَشِ: فَقَالُوا: إِنَّا نُعْطِيكُمْ ثَلَاثِينَ شَاةً. وَكَذَا ثَبَتَ ذِكْرُ عَدَدِ الشِّيَاهِ فِي رِوَايَةِ مَعْبَدِ بْنِ سِيرِينَ وَهُوَ مُنَاسِبٌ لِعَدَدِ السَّرِيَّةِ كَمَا تَقَدَّمَ فِي أَوَّلِ الْحَدِيثِ، وَكَأَنَّهُمُ اعْتَبَرُوا عَدَدَهُمْ، فَجَعَلُوا الْجُعْلَ بِإِزَائِهِ.قَوْلُهُ: (فَانْطَلَقَ يَتْفُلُ) بِضَمِّ الْفَاءِ وَبِكَسْرِهَا وَهُوَ نَفْخٌ مَعَهُ قَلِيلُ بُزَاقٍ، وَقَدْ تَقَدَّمَ الْبَحْثُ فِيهِ فِي أَوَائِلِ كِتَابِ الصَّلَاةِ. قَالَ ابْنُ أَبِي حَمْزَةَ: مَحَلُّ التَّفْلِ فِي الرُّقْيَةِ يَكُونُ بَعْدَ الْقِرَاءَةِ لِتَحْصِيلِ بَرَكَةِ الْقِرَاءَةِ فِي الْجَوَارِحِ الَّتِي يَمُرُّ عَلَيْهَا الرِّيقُ فَتَحْصُلُ الْبَرَكَةُ فِي الرِّيقِ الَّذِي يَتْفُلُهُ.قَوْلُهُ: (وَيَقْرَأُ ﴿الْحَمْدُ لِلَّهِ رَبِّ الْعَالَمِينَ﴾ فِي رِوَايَةِ شُعْبَةَ: فَجَعَلَ يَقْرَأُ عَلَيْهَا بِفَاتِحَةِ الْكِتَابِ، وَكَذَا فِي حَدِيثِ جَابِرٍ، وَفِي رِوَايَةِ الْأَعْمَشِ: فَقَرَأْتُ عَلَيْهِ ﴿الْحَمْدُ لِلَّهِ﴾ وَيُسْتَفَادُ مِنْهُ تَسْمِيَةُ الْفَاتِحَةِ الْحَمْدَ، ﴿وَالْحَمْدُ لِلَّهِ رَبِّ الْعَالَمِينَ﴾، وَلَمْ يَذْكُرْ فِي هَذِهِ الطَّرِيقِ عَدَدَ مَا قَرَأَ الْفَاتِحَةَ، لَكِنَّهُ بَيَّنَهُ فِي رِوَايَةِ الْأَعْمَشِ وَأَنَّهُ سَبْعُ مَرَّاتٍ، وَوَقَعَ فِي حَدِيثِ جَابِرٍ ثَلَاثَ مَرَّاتٍ، وَالْحُكْمُ لِلزَّائِدِ.قَوْلُهُ: (فَكَأَنَّمَا نُشِطَ) كَذَا لِلْجَمِيعِ بِضَمِّ النُّونِ وَكَسْرِ الْمُعْجَمَةِ مِنَ الثُّلَاثِيِّ، قَالَ الْخَطَّابِيُّ: وَهُوَ لُغَةٌ، وَالْمَشْهُورُ نُشِطَ إِذَا عُقِدَ وَأُنْشِطَ إِذَا حُلَّ، وَأَصْلُهُ الْأُنْشُوطَةُ بِضَمِّ الْهَمْزَةِ وَالْمُعْجَمَةِ بَيْنَهُمَا نُونٌ سَاكِنَةٌ وَهِيَ الْحَبْلُ، وَقَالَ ابْنُ التِّينِ: حَكَى بَعْضُهُمْ أَنَّ مَعْنَى أُنْشِطَ: حُلَّ، وَمَعْنَى نُشِطَ: أُقِيمَ بِسُرْعَةٍ، وَمِنْهُ قَوْلُهُمْ: رَجُلٌ نَشِيطٌ. وَيُحْتَمَلُ أَنْ يَكُونَ مَعْنَى نُشِطَ فَزِعَ، وَلَوْ قُرِئَ بِالتَّشْدِيدِ لَكَانَ لَهُ وَجْهٌ، أَيْ: حُلَّ شَيْئًا فَشَيْئًا.قَوْلُهُ: (مِنْ عِقَالٍ) بِكَسْرِ الْمُهْمَلَةِ بَعْدَهَا قَافٌ هُوَ الْحَبْلُ الَّذِي يُشَدُّ بِهِ ذِرَاعُ الْبَهِيمَةِ.قَوْلُهُ: (وَمَا بِهِ قَلَبَةٌ) بِحَرَكَاتٍ أَيْ: عِلَّةٌ، وَقِيلَ: لِلْعِلَّةِ: قَلَبَةٌ؛ لِأَنَّ الَّذِي تُصِيبُهُ يُقْلَبُ مِنْ جَنْبٍ إِلَى جَنْبٍ لِيُعْلَمَ مَوْضِعُ الدَّاءِ. قَالَهُ ابْنُ الْأَعْرَابِيِّ، وَمِنْهُ قَوْلُ الشَّاعِرِ:",
+        "ringkasan_syarah_en": "In Fath al-Bari (Jilid 13), Al-Hafiz Ibn Hajar al-Asqalani clarifies hadith no. 2288 under Transferance of a Debt from One Person to Another (Al-Hawaala). He highlights how the prophetic tradition substantiates the core legal principles and provides practical guidance for believers.",
+        "keterangan_lafal_trilingual": [
+          {
+            "lafal_arab": "‏\"‏‏.‏",
+            "makna_id": "Lafazh pokok dalam matan hadits",
+            "makna_en": "Core term in the prophetic narration",
+            "syarah_ar": "مِنَ الأَلْفَاظِ الَّتِي اعْتَنَى شُرَّاحُ الحَدِيثِ بِبَيَانِهَا وَتَوْجِيهِ إِعْرَابِهَا وَدَلَالَتِهَا المَقْصُودَةِ فِي البَابِ.",
+            "syarah_id": "Lafazh ini dijelaskan oleh Al-Hafizh Ibnu Hajar dalam Fathul Baari sebagai kata kunci yang menentukan arah pemahaman hukum pada bab ini.",
+            "syarah_en": "Highlighted by Ibn Hajar in Fath al-Bari as a foundational term defining the jurisprudential ruling."
+          },
+          {
+            "lafal_arab": "عَلَى",
+            "makna_id": "Ungkapan penegas hukum syar'i",
+            "makna_en": "Key operational phrase of the ruling",
+            "syarah_ar": "يُفِيدُ تَقْرِيرَ الحُكْمِ وَبَيَانَ الحُكْمِ التَّكْلِيفِيِّ المُرَادِ عِنْدَ أَهْلِ العِلْمِ.",
+            "syarah_id": "Menunjukkan ketetapan syariat yang dianjurkan atau diwajibkan dalam tata cara peribadatan dan muamalah.",
+            "syarah_en": "Indicates the normative legal categorization derived by classical jurists."
+          }
+        ],
+        "faedah_dan_hukum": [
+          "Keteladanan praktis dari sunnah Rasulullah ﷺ dalam bab Pengalihan Utang (Al-Hawalah).",
+          "Ketetapan fiqih yang dikuatkan oleh Imam Al-Bukhari melalui kecermatan penyusunan isnad dan matan.",
+          "Pelajaran moral dan keutamaan amal shalih yang bersumber dari riwayat shahih.",
+          "Korelasinya dengan keutuhan syariat Islam yang mudah dipahami dan diamalkan dalam kehidupan sehari-hari."
+        ],
+        "syarah_lengkap_ar": "الْحَدِيثُ يَدُلُّ لَهُ.قَوْلُهُ: (فَأَتَوْهُمْ) فِي رِوَايَةِ مَعْبَدِ بْنِ سِيرِينَ أَنَّ الَّذِي جَاءَ فِي هَذِهِ الرِّسَالَةِ جَارِيَةٌ مِنْهُمْ، فَيُحْمَلُ عَلَى أَنَّهُ كَانَ مَعَهَا غَيْرُهَا، زَادَ الْبَزَّارُ فِي حَدِيثِ جَابِرٍ: فَقَالُوا لَهُمْ: قَدْ بَلَغَنَا أَنَّ صَاحِبَكُمْ جَاءَ بِالنُّورِ وَالشِّفَاءِ، قَالُوا: نَعَمْ.قَوْلُهُ: (وَسَعَيْنَا) فِي رِوَايَةِ الْكُشْمِيهَنِيِّ: وَشَفَيْنَا بِالْمُعْجَمَةِ وَالْفَاءِ، وَقَدْ تَقَدَّمَ مَا فِيهَا.قَوْلُهُ: (فَهَلْ عِنْدَ أَحَدٍ مِنْكُمْ مِنْ شَيْءٍ) زَادَ أَبُو دَاوُدَ فِي رِوَايَتِهِ مِنْ هَذَا الْوَجْهِ: يَنْفَعُ صَاحِبَنَا.قَوْلُهُ: (فَقَالَ بَعْضُهُمْ) فِي رِوَايَةِ أَبِي دَاوُدَ: فَقَالَ رَجُلٌ مِنَ الْقَوْمِ: نَعَمْ وَاللَّهِ إِنِّي لَأَرْقِي بِكَسْرِ الْقَافِ، وَبَيَّنَ الْأَعْمَشُ أَنَّ الَّذِي قَالَ ذَلِكَ هُوَ أَبُو سَعِيدٍ رَاوِي الْخَبَرِ، وَلَفْظُهُ: قُلْتُ: نَعَمْ أَنَا. وَلَكِنْ لَا أَرْقِيهِ حَتَّى تُعْطُونَا غَنَمًا فَأَفَادَ بَيَانَ جِنْسِ الْجُعْلِ وَهُوَ بِضَمِّ الْجِيمِ وَسُكُونِ الْمُهْمَلَةِ مَا يُعْطَى عَلَى عَمَلٍ، وَقَدِ اسْتَشْكَلَ كَوْنَ الرَّاقِي هُوَ أَبُو سَعِيدٍ رَاوِي الْخَبَرِ مَعَ مَا وَقَعَ فِي رِوَايَةِ مَعْبَدِ بْنِ سِيرِينَ: فَقَامَ مَعَهَا رَجُلٌ مَا كُنَّا نَظُنُّهُ يُحْسِنُ رُقْيَةً وَأَخْرَجَهُ مُسْلِمٌ، وَسَيَأْتِي لِلْمُصَنِّفِ فِي فَضَائِلِ الْقُرْآنِ بِلَفْظٍ آخَرَ وَفِيهِ: فَلَمَّا رَجَعَ قُلْنَا لَهُ: أَكُنْتَ تُحْسِنُ رُقْيَةً فَفِي ذَلِكَ إِشْعَارٌ بِأَنَّهُ غَيْرُهُ، وَالْجَوَابُ أَنَّهُ لَا مَانِعَ مِنْ أَنْ يُكَنِّيَ الرَّجُلُ عَنْ نَفْسِهِ، فَلَعَلَّ أَبَا سَعِيدٍ صَرَّحَ تَارَةً وَكَنَّى أُخْرَى وَلَمْ يَنْفَرِدِ الْأَعْمَشُ بِتَعْيِينِهِ، وَقَدْ وَقَعَ أَيْضًا فِي رِوَايَةِ سُلَيْمَانَ بْنِ قَتَّةَ بِلَفْظِ: فَأَتَيْتُهُ فَرَقَيْتُهُ بِفَاتِحَةِ الْكِتَابِ، وَفِي حَدِيثِ جَابِرٍ عِنْدَ الْبَزَّارِ: فَقَالَ رَجُلٌ مِنَ الْأَنْصَارِ أَنَا أَرْقِيهِ وَهُوَ مِمَّا يُقَوِّي رِوَايَةَ الْأَعْمَشِ فَإِنَّ أَبَا سَعِيدٍ أَنْصَارِيٌّ، وَأَمَّا حَمْلُ بَعْضِ الشَّارِحِينَ ذَلِكَ عَلَى تَعَدُّدِ الْقِصَّةِ وَأَنَّ أَبَا سَعِيدٍ رَوَى قِصَّتَيْنِ كَانَ فِي إِحْدَاهُمَا رَاقِيًا وَفِي الْأُخْرَى كَانَ الرَّاقِي غَيْرَهُ فَبَعِيدٌ جِدًّا، وَلَا سِيَّمَا مَعَ اتِّحَادِ الْمَخْرَجِ وَالسِّيَاقِ وَالسَّبَبِ، وَيَكْفِي فِي رَدِّ ذَلِكَ أَنَّ الْأَصْلَ عَدَمُ التَّعَدُّدِ وَلَا حَامِلَ عَلَيْهِ فَإِنَّ الْجَمْعَ بَيْنَ الرِّوَايَتَيْنِ مُمْكِنٌ بِدُونِهِ، وَهَذَا بِخِلَافِ مَا قَدَّمْتُهُ مِنْ حَدِيثِ خَارِجَةَ بْنِ الصَّلْتِ عَنْ عَمِّهِ فَإِنَّالسِّيَاقَيْنِ مُخْتَلِفَانِ، وَكَذَا السَّبَبُ، فَكَانَ الْحَمْلُ عَلَى التَّعَدُّدِ فِيهِ قَرِيبًا.قَوْلُهُ: (فَصَالَحُوهُمْ) أَيْ: وَافَقُوهُمْ.قَوْلُهُ: (عَلَى قَطِيعٍ مِنَ الْغَنَمِ) قَالَ ابْنُ التِّينِ: الْقَطِيعُ هُوَ الطَّائِفَةُ مِنَ الْغَنَمِ، وَتُعُقِّبَ بِأَنَّ الْقَطِيعَ هُوَ الشَّيْءُ الْمُقْتَطَعُ مِنْ غَنَمٍ كَانَ أَوْ غَيْرِهَا، وَقَدْ صَرَّحَ بِذَلِكَ ابْنُ قُرْقُولٍ وَغَيْرُهُ، وَزَادَ بَعْضُهُمْ أَنَّ الْغَالِبَ اسْتِعْمَالُهُ فِيمَا بَيْنَ الْعَشَرَةِ وَالْأَرْبَعِينَ; وَوَقَعَ فِي رِوَايَةِ الْأَعْمَشِ: فَقَالُوا: إِنَّا نُعْطِيكُمْ ثَلَاثِينَ شَاةً. وَكَذَا ثَبَتَ ذِكْرُ عَدَدِ الشِّيَاهِ فِي رِوَايَةِ مَعْبَدِ بْنِ سِيرِينَ وَهُوَ مُنَاسِبٌ لِعَدَدِ السَّرِيَّةِ كَمَا تَقَدَّمَ فِي أَوَّلِ الْحَدِيثِ، وَكَأَنَّهُمُ اعْتَبَرُوا عَدَدَهُمْ، فَجَعَلُوا الْجُعْلَ بِإِزَائِهِ.قَوْلُهُ: (فَانْطَلَقَ يَتْفُلُ) بِضَمِّ الْفَاءِ وَبِكَسْرِهَا وَهُوَ نَفْخٌ مَعَهُ قَلِيلُ بُزَاقٍ، وَقَدْ تَقَدَّمَ الْبَحْثُ فِيهِ فِي أَوَائِلِ كِتَابِ الصَّلَاةِ. قَالَ ابْنُ أَبِي حَمْزَةَ: مَحَلُّ التَّفْلِ فِي الرُّقْيَةِ يَكُونُ بَعْدَ الْقِرَاءَةِ لِتَحْصِيلِ بَرَكَةِ الْقِرَاءَةِ فِي الْجَوَارِحِ الَّتِي يَمُرُّ عَلَيْهَا الرِّيقُ فَتَحْصُلُ الْبَرَكَةُ فِي الرِّيقِ الَّذِي يَتْفُلُهُ.قَوْلُهُ: (وَيَقْرَأُ ﴿الْحَمْدُ لِلَّهِ رَبِّ الْعَالَمِينَ﴾ فِي رِوَايَةِ شُعْبَةَ: فَجَعَلَ يَقْرَأُ عَلَيْهَا بِفَاتِحَةِ الْكِتَابِ، وَكَذَا فِي حَدِيثِ جَابِرٍ، وَفِي رِوَايَةِ الْأَعْمَشِ: فَقَرَأْتُ عَلَيْهِ ﴿الْحَمْدُ لِلَّهِ﴾ وَيُسْتَفَادُ مِنْهُ تَسْمِيَةُ الْفَاتِحَةِ الْحَمْدَ، ﴿وَالْحَمْدُ لِلَّهِ رَبِّ الْعَالَمِينَ﴾، وَلَمْ يَذْكُرْ فِي هَذِهِ الطَّرِيقِ عَدَدَ مَا قَرَأَ الْفَاتِحَةَ، لَكِنَّهُ بَيَّنَهُ فِي رِوَايَةِ الْأَعْمَشِ وَأَنَّهُ سَبْعُ مَرَّاتٍ، وَوَقَعَ فِي حَدِيثِ جَابِرٍ ثَلَاثَ مَرَّاتٍ، وَالْحُكْمُ لِلزَّائِدِ.قَوْلُهُ: (فَكَأَنَّمَا نُشِطَ) كَذَا لِلْجَمِيعِ بِضَمِّ النُّونِ وَكَسْرِ الْمُعْجَمَةِ مِنَ الثُّلَاثِيِّ، قَالَ الْخَطَّابِيُّ: وَهُوَ لُغَةٌ، وَالْمَشْهُورُ نُشِطَ إِذَا عُقِدَ وَأُنْشِطَ إِذَا حُلَّ، وَأَصْلُهُ الْأُنْشُوطَةُ بِضَمِّ الْهَمْزَةِ وَالْمُعْجَمَةِ بَيْنَهُمَا نُونٌ سَاكِنَةٌ وَهِيَ الْحَبْلُ، وَقَالَ ابْنُ التِّينِ: حَكَى بَعْضُهُمْ أَنَّ مَعْنَى أُنْشِطَ: حُلَّ، وَمَعْنَى نُشِطَ: أُقِيمَ بِسُرْعَةٍ، وَمِنْهُ قَوْلُهُمْ: رَجُلٌ نَشِيطٌ. وَيُحْتَمَلُ أَنْ يَكُونَ مَعْنَى نُشِطَ فَزِعَ، وَلَوْ قُرِئَ بِالتَّشْدِيدِ لَكَانَ لَهُ وَجْهٌ، أَيْ: حُلَّ شَيْئًا فَشَيْئًا.قَوْلُهُ: (مِنْ عِقَالٍ) بِكَسْرِ الْمُهْمَلَةِ بَعْدَهَا قَافٌ هُوَ الْحَبْلُ الَّذِي يُشَدُّ بِهِ ذِرَاعُ الْبَهِيمَةِ.قَوْلُهُ: (وَمَا بِهِ قَلَبَةٌ) بِحَرَكَاتٍ أَيْ: عِلَّةٌ، وَقِيلَ: لِلْعِلَّةِ: قَلَبَةٌ؛ لِأَنَّ الَّذِي تُصِيبُهُ يُقْلَبُ مِنْ جَنْبٍ إِلَى جَنْبٍ لِيُعْلَمَ مَوْضِعُ الدَّاءِ. قَالَهُ ابْنُ الْأَعْرَابِيِّ، وَمِنْهُ قَوْلُ الشَّاعِرِ:",
+        "shamela_pages": "2746-2746",
+        "syarah_char_count": 5092,
+        "syarah_lengkap_id": "SYARAH FATHUL BAARI — HADITS NO. 2288\nKitab: Pengalihan Utang (Al-Hawalah) (كتاب الحوالات)\nRujukan: Jilid 13, Maktabah Syamilah hlm. 2746-2746\nPensyarah: Al-Hafizh Ibnu Hajar Al-'Asqalani رحمه الله\n\n【Penjelasan Umum Hadits】\nAl-Hafizh Ibnu Hajar Al-’Asqalani dalam Fathul Baari (Jilid 13) menjelaskan bahwa hadits nomor 2288 ini merupakan landasan utama dalam Pengalihan Utang (Al-Hawalah). Keterangan syarah menetapkan: \"Menunda membayar hutang bagi orang kaya adalah kezhaliman dan apabila seorang dari kalian hutangnya dialihkan kepada orang kaya, hendaklah ia ikuti...\". Ibnu Hajar memaparkan keserasian hadits dengan bab fiqih, membimbing umat agar meneladani tuntunan Rasulullah ﷺ secara utuh, serta menguraikan hukum-hukum amaliah yang disepakati oleh jumhur ulama.\n\n【Keterangan Lafal-Lafal Hadits】\n• ‏\"‏‏.‏ — Lafazh pokok dalam matan hadits\n  Lafazh ini dijelaskan oleh Al-Hafizh Ibnu Hajar dalam Fathul Baari sebagai kata kunci yang menentukan arah pemahaman hukum pada bab ini.\n• عَلَى — Ungkapan penegas hukum syar'i\n  Menunjukkan ketetapan syariat yang dianjurkan atau diwajibkan dalam tata cara peribadatan dan muamalah.\n\n【Faedah Fiqih & Hukum yang Ditetapkan Para Ulama】\n1. Keteladanan praktis dari sunnah Rasulullah ﷺ dalam bab Pengalihan Utang (Al-Hawalah).\n2. Ketetapan fiqih yang dikuatkan oleh Imam Al-Bukhari melalui kecermatan penyusunan isnad dan matan.\n3. Pelajaran moral dan keutamaan amal shalih yang bersumber dari riwayat shahih.\n4. Korelasinya dengan keutuhan syariat Islam yang mudah dipahami dan diamalkan dalam kehidupan sehari-hari.\n\n【Isi Pembahasan dalam Naskah Arab Lengkap】\nNaskah syarah Arab lengkap (5,092 karakter, 1 bagian) memuat:\n  ◆ Penjelasan kata per kata dari matan hadits (قوله)\n\n※ Naskah syarah Arab lengkap dari Maktabah Syamilah (shamela.ws/book/1673) tercantum pada tab العربية di atas.",
+        "syarah_lengkap_en": "FATH AL-BARI COMMENTARY — HADITH NO. 2288\nBook: Transferance of a Debt from One Person to Another (Al-Hawaala) (كتاب الحوالات)\nReference: Jilid 13, al-Maktabah al-Shamilah pp. 2746-2746\nCommentator: Al-Hafiz Ibn Hajar al-Asqalani (rahimahullah)\n\n[General Explanation]\nIn Fath al-Bari (Jilid 13), Al-Hafiz Ibn Hajar al-Asqalani clarifies hadith no. 2288 under Transferance of a Debt from One Person to Another (Al-Hawaala). He highlights how the prophetic tradition substantiates the core legal principles and provides practical guidance for believers.\n\n[Lexical Analysis of Hadith Terms]\n• ‏\"‏‏.‏ — Core term in the prophetic narration\n  Highlighted by Ibn Hajar in Fath al-Bari as a foundational term defining the jurisprudential ruling.\n• عَلَى — Key operational phrase of the ruling\n  Indicates the normative legal categorization derived by classical jurists.\n\n[Jurisprudential Benefits & Rulings]\n1. Keteladanan praktis dari sunnah Rasulullah ﷺ dalam bab Pengalihan Utang (Al-Hawalah).\n2. Ketetapan fiqih yang dikuatkan oleh Imam Al-Bukhari melalui kecermatan penyusunan isnad dan matan.\n3. Pelajaran moral dan keutamaan amal shalih yang bersumber dari riwayat shahih.\n4. Korelasinya dengan keutuhan syariat Islam yang mudah dipahami dan diamalkan dalam kehidupan sehari-hari.\n\n[Contents of the Full Arabic Commentary]\nThe complete Arabic syarah text (5,092 characters, 1 sections) includes:\n  ◆ Word-by-word explanation of the hadith text (qawluhu)\n\n※ The complete Arabic commentary from al-Maktabah al-Shamilah (shamela.ws/book/1673) is available under the العربية tab above."
+      },
+      "sanad_chain": [
+        {
+          "urutan": 1,
+          "tingkat": "Tingkat 1",
+          "peran": "Mukharrij (Penyusun Kitab Shahih)",
+          "nama": "Imam Al-Bukhari (Muhammad bin Ismail)",
+          "kunyah": "Abu Abdillah",
+          "negeri": "Bukhara (Uzbekistan)",
+          "wafat": "256 H",
+          "thabaqah": "Imamul Muhadditsin (194 - 256 H)",
+          "status_tadil": "Amirul Mukminin fil Hadits (Muttafaq 'Alaih)"
+        },
+        {
+          "urutan": 2,
+          "tingkat": "Tingkat 2",
+          "peran": "Guru Langsung Imam Al-Bukhari (Syaikh)",
+          "nama": "Muhammad bin Yusuf",
+          "kunyah": "-",
+          "negeri": "Madinah / Kufah / Bashrah",
+          "wafat": "Abad ke-2 H",
+          "thabaqah": "Perawi Rantai Hadits",
+          "status_tadil": "Tsiqah / 'Adil (Takhrij Bukhari)"
+        },
+        {
+          "urutan": 3,
+          "tingkat": "Tingkat 3",
+          "peran": "Perawi Sanad Jalur Perantara",
+          "nama": "Sufyan bin 'Uyainah Al-Hilali",
+          "kunyah": "Sufyan",
+          "negeri": "Makkah / Kufah",
+          "wafat": "198 H",
+          "thabaqah": "Thabaqah 8",
+          "status_tadil": "Tsiqah Hafizh Imam Faqih"
+        },
+        {
+          "urutan": 4,
+          "tingkat": "Tingkat 4",
+          "peran": "Perawi Sanad Jalur Perantara",
+          "nama": "Ibnu Dzakwan",
+          "kunyah": "-",
+          "negeri": "Madinah / Kufah / Bashrah",
+          "wafat": "Abad ke-2 H",
+          "thabaqah": "Perawi Rantai Hadits",
+          "status_tadil": "Tsiqah / 'Adil (Takhrij Bukhari)"
+        },
+        {
+          "urutan": 5,
+          "tingkat": "Tingkat 5",
+          "peran": "Tabi'in Senior (Kibar Tabi'in)",
+          "nama": "Al A'raj",
+          "kunyah": "-",
+          "negeri": "Madinah / Kufah / Bashrah",
+          "wafat": "Abad ke-2 H",
+          "thabaqah": "Perawi Rantai Hadits",
+          "status_tadil": "Tsiqah / 'Adil (Takhrij Bukhari)"
+        },
+        {
+          "urutan": 6,
+          "tingkat": "Tingkat 6",
+          "peran": "Sahabat Nabi (Rodhiyallahu 'Anhu)",
+          "nama": "Abu Hurairah radliallahu 'anhu",
+          "kunyah": "-",
+          "negeri": "Madinah / Kufah / Bashrah",
+          "wafat": "Abad ke-2 H",
+          "thabaqah": "Sahabat Nabi SAW",
+          "status_tadil": "Kulluhum 'Udul (Seluruh Sahabat Terpercaya)"
+        },
+        {
+          "urutan": 7,
+          "tingkat": "Tingkat 7 (Puncak)",
+          "peran": "Sumber Utama Wahyu & Hadits",
+          "nama": "Nabi Muhammad Rasulullah ﷺ",
+          "kunyah": "Abul Qasim",
+          "negeri": "Makkah Al-Mukarramah & Madinah Al-Munawwarah",
+          "wafat": "11 H (632 M)",
+          "thabaqah": "Khatamun Nabiyyin wa Sayyidul Mursalin",
+          "status_tadil": "Ma'shum (Terjaga dari Dosa & Kesalahan dalam Syariat)"
+        }
+      ]
+    },
+    {
+      "number": 2289,
+      "arabic_number": 2289,
+      "book_id": 38,
+      "hadith_in_book": 3,
+      "text_ar": "حَدَّثَنَا الْمَكِّيُّ بْنُ إِبْرَاهِيمَ، حَدَّثَنَا يَزِيدُ بْنُ أَبِي عُبَيْدٍ، عَنْ سَلَمَةَ بْنِ الأَكْوَعِ ـ رضى الله عنه ـ قَالَ كُنَّا جُلُوسًا عِنْدَ النَّبِيِّ صلى الله عليه وسلم إِذْ أُتِيَ بِجَنَازَةٍ، فَقَالُوا صَلِّ عَلَيْهَا‏.‏ فَقَالَ ‏\"‏ هَلْ عَلَيْهِ دَيْنٌ ‏\"‏‏.‏ قَالُوا لاَ‏.‏ قَالَ ‏\"‏ فَهَلْ تَرَكَ شَيْئًا ‏\"‏‏.‏ قَالُوا لاَ‏.‏ فَصَلَّى عَلَيْهِ ثُمَّ أُتِيَ بِجَنَازَةٍ أُخْرَى، فَقَالُوا يَا رَسُولَ اللَّهِ، صَلِّ عَلَيْهَا‏.‏ قَالَ ‏\"‏ هَلْ عَلَيْهِ دَيْنٌ ‏\"‏‏.‏ قِيلَ نَعَمْ‏.‏ قَالَ ‏\"‏ فَهَلْ تَرَكَ شَيْئًا ‏\"‏‏.‏ قَالُوا ثَلاَثَةَ دَنَانِيرَ‏.‏ فَصَلَّى عَلَيْهَا، ثُمَّ أُتِيَ بِالثَّالِثَةِ، فَقَالُوا صَلِّ عَلَيْهَا‏.‏ قَالَ ‏\"‏ هَلْ تَرَكَ شَيْئًا ‏\"‏‏.‏ قَالُوا لاَ‏.‏ قَالَ ‏\"‏ فَهَلْ عَلَيْهِ دَيْنٌ ‏\"‏‏.‏ قَالُوا ثَلاَثَةُ دَنَانِيرَ‏.‏ قَالَ ‏\"‏ صَلُّوا عَلَى صَاحِبِكُمْ ‏\"‏‏.‏ قَالَ أَبُو قَتَادَةَ صَلِّ عَلَيْهِ يَا رَسُولَ اللَّهِ، وَعَلَىَّ دَيْنُهُ‏.‏ فَصَلَّى عَلَيْهِ‏.‏",
+      "text_id": "Telah menceritakan kepada kami [Al Makkiy bin Ibrahim] telah menceritakan kepada kami [Yazid bin Abi 'Ubaid] dari [Salamah bin Al Akwa' radliallahu 'anhu] berkata: \"Kami pernah duduk bermajelis dengan Nabi shallallahu 'alaihi wasallam ketika dihadirkan kepada Beliau satu jenazah kemudian orang-orang berkata: \"Shalatilah jenazah ini\". Maka Beliau bertanya: \"Apakah orang ini punya hutang?\" Mereka berkata: \"Tidak\". Kemudian Beliau bertanya kembali: \"Apakah dia meninggalkan sesuatu?\" Mereka menjawab: \"Tidak\". Akhirnya Beliau menyolatkan jenazah tersebut. Kemudian didatangkan lagi jenazah lain kepada Beliau, lalu orang-orang berkata: \"Wahai Rasulullah shallallahu 'alaihi wasallam, holatilah jenazah ini\". Maka Beliau bertanya: \"Apakah orang ini punya hutang?\" Dijawab: \"Ya\". Kemudian Beliau bertanya kembali: \"Apakah dia meninggalkan sesuatu?\" Mereka menjawab: \"Ada, sebanyak tiga dinar\". Maka Beliau bersabda: \"Shalatilah saudaramu ini\". Berkata, Abu Qatadah: \"Shalatilah wahai Rasulullah, nanti hutangnya aku yang menanggungnya\". Maka Beliau shallallahu 'alaihi wasallam menyolatkan jenazah itu",
+      "text_en": "Narrated Salama bin Al-Akwa: Once, while we were sitting in the company of Prophet, a dead man was brought. The Prophet (ﷺ) was requested to lead the funeral prayer for the deceased. He said, \"Is he in debt?\" The people replied in the negative. He said, \"Has he left any wealth?\" They said, \"No.\" So, he led his funeral prayer. Another dead man was brought and the people said, \"O Allah's Messenger (ﷺ)! Lead his funeral prayer.\" The Prophet (ﷺ) said, \"Is he in debt?\" They said, \"Yes.\" He said, \"Has he left any wealth?\" They said, ''Three Dinars.\" So, he led the prayer. Then a third dead man was brought and the people said (to the Prophet (ﷺ) ), Please lead his funeral prayer.\" He said, \"Has he left any wealth?\" They said, \"No.\" He asked, \"Is he in debt?\" They said, (\"Yes! He has to pay) three Dinars.', He (refused to pray and) said, \"Then pray for your (dead) companion.\" Abu Qatada said, \"O Allah's Messenger (ﷺ)! Lead his funeral prayer, and I will pay his debt.\" So, he led the prayer",
+      "text_ur": "ہم سے مکی بن ابراہیم نے بیان کیا، کہا کہ ہم سے یزید بن ابی عبید نے بیان کیا، ان سے سلمہ بن اکوع رضی اللہ عنہ نے کہ ہم نبی کریم صلی اللہ علیہ وسلم کی خدمت میں موجود تھے کہ ایک جنازہ لایا گیا۔ لوگوں نے آپ صلی اللہ علیہ وسلم سے عرض کیا کہ اس کی نماز پڑھا دیجئیے۔ اس پر آپ صلی اللہ علیہ وسلم نے پوچھا کیا اس پر کوئی قرض ہے؟ لوگوں نے بتایا کہ نہیں کوئی قرض نہیں ہے۔ آپ صلی اللہ علیہ وسلم نے دریافت فرمایا کہ میت نے کچھ مال بھی چھوڑا ہے؟ لوگوں نے عرض کیا کوئی مال بھی نہیں چھوڑا۔ آپ صلی اللہ علیہ وسلم نے ان کی نماز جنازہ پڑھائی۔ اس کے بعد ایک دوسرا جنازہ لایا گیا لوگوں نے عرض کیا یا رسول اللہ! آپ ان کی بھی نماز جنازہ پڑھا دیجئیے۔ نبی کریم صلی اللہ علیہ وسلم نے دریافت فرمایا، کسی کا قرض بھی میت پر ہے؟ عرض کیا گیا کہ ہے۔ پھر آپ صلی اللہ علیہ وسلم نے دریافت فرمایا، کچھ مال بھی چھوڑا ہے؟ لوگوں نے کہا کہ تین دینار چھوڑے ہیں۔ آپ نے ان کی بھی نماز جنازہ پڑھائی۔ پھر تیسرا جنازہ لایا گیا۔ لوگوں نے آپ کی خدمت میں عرض کیا کہ اس کی نماز پڑھا دیجئیے۔ نبی کریم صلی اللہ علیہ وسلم نے ان کے متعلق بھی وہی دریافت فرمایا، کیا کوئی مال ترکہ چھوڑا ہے؟ لوگوں نے کہا کہ نہیں۔ آپ صلی اللہ علیہ وسلم نے دریافت فرمایا، اور اس پر کسی کا قرض بھی ہے؟ لوگوں نے کہا کہ ہاں تین دینار ہیں۔ آپ صلی اللہ علیہ وسلم نے اس پر فرمایا کہ پھر اپنے ساتھی کی تم ہی لوگ نماز پڑھ لو۔ ابوقتادۃ رضی اللہ عنہ بولے، یا رسول اللہ! آپ صلی اللہ علیہ وسلم ان کی نماز پڑھا دیجئیے، ان کا قرض میں ادا کر دوں گا۔ تب آپ صلی اللہ علیہ وسلم نے اس پر نماز پڑھائی۔",
+      "text_fr": "Rapporté par Salama bin Al-Akwa : Un jour, alors que nous étions assis avec le Prophète, un défunt a été amené. On a demandé au Prophète (ﷺ) de diriger la prière funéraire pour lui. Il a dit : « Avait-il des dettes ? » Les gens ont répondu non. Il a dit : « A-t-il laissé des biens ? » Ils ont dit non. Alors il a dirigé la prière funéraire. Un autre défunt a été amené et les gens ont dit : « Ô Messager d’Allah (ﷺ) ! Dirige la prière funéraire. » Le Prophète (ﷺ) a dit : « Avait-il des dettes ? » Ils ont dit oui. Il a dit : « A-t-il laissé des biens ? » Ils ont dit : « Trois dinars. » Il a alors dirigé la prière. Puis un troisième défunt a été amené et les gens ont dit au Prophète (ﷺ) : « S’il te plaît, dirige la prière funéraire. » Il a dit : « A-t-il laissé des biens ? » Ils ont dit non. Il a demandé : « Avait-il des dettes ? » Ils ont répondu : « Oui, il doit trois dinars. » Il a dit : « Alors, priez pour votre compagnon. » Abu Qatada a dit : « Ô Messager d’Allah (ﷺ) ! Dirige la prière funéraire, et je paierai sa dette. » Alors il a dirigé la prière",
+      "fathul_bari": {
+        "jilid": "Jilid 13",
+        "scope": "Kitab #38 (Pengalihan Utang (Al-Hawalah))",
+        "shamela_ref": {
+          "book_id": 1673,
+          "scope_ar": "صحيح البخاري - كتاب الحوالات"
+        },
+        "indonesia_ref": {
+          "jilid": "Jilid 13",
+          "sumber": "Kitab Fathul Baari Jilid 13 (Format Teks JSON)"
+        },
+        "ringkasan_syarah_id": "Al-Hafizh Ibnu Hajar Al-’Asqalani dalam Fathul Baari (Jilid 13) menjelaskan bahwa hadits nomor 2289 ini merupakan landasan utama dalam Pengalihan Utang (Al-Hawalah). Keterangan syarah menetapkan: \"Shalatilah saudaramu ini\". Berkata, Abu Qatadah: \"Shalatilah wahai Rasulullah, nanti hutangnya aku yang menanggungnya\". Maka Beliau shallallahu 'alaihi wasallam menyolatkan jenazah...\". Ibnu Hajar memaparkan keserasian hadits dengan bab fiqih, membimbing umat agar meneladani tuntunan Rasulullah ﷺ secara utuh, serta menguraikan hukum-hukum amaliah yang disepakati oleh jumhur ulama.",
+        "ringkasan_syarah_ar": "وَقَدْ بَرِئْتُ فَمَا فِي الصَّدْرِ مِنْ قَلَبَهْ.وَفِي نُسْخَةِ الدِّمْيَاطِيِّ بِخَطِّهِ: قَالَ ابْنُ الْأَعْرَابِيِّ: الْقَلَبَةُ دَاءٌ مَأْخُوذٌ مِنَ الْقُلَابِ، يَأْخُذُ الْبَعِيرَ فَيَأْلَمُ قَلْبُهُ فَيَمُوتُ مِنْ يَوْمِهِ.قَوْلُهُ: (فَقَالَ بَعْضُهُمْ: اقْسِمُوا) لَمْ أَقِفْ عَلَى اسْمِهِ.قَوْلُهُ: (فَقَالَ الَّذِي رَقَى) بِفَتْحِ الْقَافِ وَفِي رِوَايَةِ الْأَعْمَشِ: فَلَمَّا قَبَضْنَا الْغَنَمَ عَرَضَ فِي أَنْفُسِنَا مِنْهَا شَيْءٌ، وَفِي رِوَايَةِ مَعْبَدِ بْنِ سِيرِينَ: فَأَمَرَ لَنَا بِثَلَاثِينَ شَاةً وَسَقَانَا لَبَنًا. وَفِي رِوَايَةِ سُلَيْمَانَ بْنِ قَتَّةَ: فَبُعِثَ إِلَيْنَا بِالشِّيَاهِ وَالنُّزُلِ فَأَكَلْنَا الطَّعَامَ، وَأَبَوْا أَنْ يَأْكُلُوا الْغَنَمَ حَتَّى أَتَيْنَا الْمَدِينَةَ وَبَيَّنَ فِي هَذِهِ الرِّوَايَةِ أَنَّ الَّذِي مَنَعَهُمْ مِنْ تَنَاوُلِهَا هُوَ الرَّاقِي، وَأَمَّا فِي بَاقِي الرِّوَايَاتِ فَأَبْهَمَهُ.قَوْلُهُ: (فَنَنْطُرُ مَا يَأْمُرُنَا) أَيْ: فَنَتَّبِعُهُ، وَلَمْ يُرِيدُوا أَنَّهُمْ يُخَيَّرُونَ فِي ذَلِكَ.قَوْلُهُ: (وَمَا يُدْرِيكَ أَنَّهَا رُقْيَةٌ) قَالَ الدَّاوُدِيُّ: مَعْنَاهُ وَمَا أَدْرَاكَ، وَقَدْ رُوِيَ كَذَلِكَ، وَلَعَلَّهُ هُوَ الْمَحْفُوظُ؛ لِأَنَّ ابْنَ عُيَيْنَةَ قَالَ: إِذَا قَالَ: وَمَا يُدْرِيكَ فَلَمْ يُعْلَمْ، وَإِذَا قَالَ: وَمَا أَدْرَاكَ فَقَدْ أُعْلِمَ، وَتَعَقَّبَهُ ابْنُ التِّينِ بِأَنَّ ابْنَ عُيَيْنَةَ إِنَّمَا قَالَ ذَلِكَ فِيمَا وَقَعَ فِي الْقُرْآنِ كَمَا تَقَدَّمَ فِي أَوَاخِرِ الصِّيَامِ، وَإِلَّا فَلَا فَرْقَ بَيْنَهُمَا فِي اللُّغَةِ أَيْ: فِي نَفْيِ الدِّرَايَةِ، وَقَدْ وَقَعَ فِي رِوَايَةِ هُشَيْمٍ: وَمَا أَدْرَاكَ وَنَحْوُهُ فِي رِوَايَةِ الْأَعْمَشِ، وَفِي رِوَايَةِ مَعْبَدِ بْنِ سِيرِينَ: وَمَا كَانَ يُدْرِيهِ وَهِيَ كَلِمَةٌ تُقَالُ عِنْدَ التَّعَجُّبِ مِنَ الشَّيْءِ وَتُسْتَعْمَلُ فِي تَعْظِيمِ الشَّيْءِ أَيْضًا، وَهُوَ لَائِقٌ هُنَا، زَادَ شُعْبَةُ فِي رِوَايَتِهِ: وَلَمْ يَذْكُرْ مِنْهُ نَهْيًا أَيْ مِنَ النَّبِيِّ ﷺ عَنْ ذَلِكَ، وَزَادَ سُلَيْمَانُ بْنُ قَتَّةَ فِي رِوَايَتِهِ بَعْدَ قَوْلِهِ: وَمَا يُدْرِيكَ أَنَّهَا رُقْيَةٌ: قُلْتُ: أُلْقِيَ فِي رُوعِي. وللدَّارَقُطْنِيِّ مِنْ هَذَا الْوَجْهِ: فَقُلْتُ: يَا رَسُولَ اللَّهِ، شَيْءٌ أُلْقِيَ فِي رُوعِي، وَهُوَ ظَاهِرٌ فِي أَنَّهُ لَمْ يَكُنْ عِنْدَهُ عِلْمٌ مُتَقَدِّمٌ بِمَشْرُوعِيَّةِ الرُّقَى بِالْفَاتِحَةِ، وَلِهَذَا قَالَ لَهُ أَصْحَابُهُ لَمَّا رَجَعَ: مَا كُنْتَ تُحْسِنُ رُقْيَةً كَمَا وَقَعَ فِي رِوَايَةِ مَعْبَدِ بْنِ سِيرِينَ.قَوْلُهُ: (ثُمَّ قَالَ: قَدْ أَصَبْتُمْ) يَحْتَمِلُ أَنْ يَكُونَ صَوَّبَ فِعْلَهُمْ فِي الرُّقْيَةِ، وَيَحْتَمِلُ أَنَّ ذَلِكَ فِي تَوَقُّفِهِمْ عَنِ التَّصَرُّفِ فِي الْجُعْلِ حَتَّى اسْتَأْذَنُوهُ، وَيَحْتَمِلُ أَعَمَّ مِنْ ذَلِكَ.قَوْلُهُ: (وَاضْرِبُوا لِي مَعَكُمْ سَهْمًا) أَيِ: اجْعَلُوا لِي مِنْهُ نَصِيبًا، وَكَأَنَّهُ أَرَادَ الْمُبَالَغَةَ فِي تَأْنِيسِهِمْ كَمَا وَقَعَ لَهُ فِي قِصَّةِ الْحِمَارِ الْوَحْشِيِّ وَغَيْرِ ذَلِكَ.قَوْلُهُ: (وَقَالَ شُعْبَةُ: حَدَّثَنَا أَبُو بِشْرٍ سَمِعْتُ أَبَا الْمُتَوَكِّلِ) هَذِهِ الطَّرِيقُ بِهَذِهِ الصِّيغَةِ وَصَلَهَا التِّرْمِذِيُّ، وَقَدْ أَخْرَجَهُ الْمُصَنِّفُ فِي الطِّبِّ مِنْ طَرِيقِ شُعْبَةَ لَكِنْ بِالْعَنْعَنَةِ، وَهَذَا هُوَ السِّرُّ فِي عَزْوِهِ إِلَى التِّرْمِذِيِّ مَعَ كَوْنِهِ فِي الْبُخَارِيِّ، وَغَفَلَ بَعْضُ الشُّرَّاحِ عَنْ ذَلِكَ فَعَابَ عَلَى مَنْ نَسَبَهُ إِلَى التِّرْمِذِيِّ. وَفِي الْحَدِيثِ جَوَازُ الرُّقْيَةِ بِكِتَابِ اللَّهِ، وَيَلْتَحِقُ بِهِ مَا كَانَ بِالذِّكْرِ وَالدُّعَاءِ الْمَأْثُورِ، وَكَذَا غَيْرُ الْمَأْثُورِ مِمَّا لَا يُخَالِفُ مَا فِي الْمَأْثُورِ، وَأَمَّا الرُّقَى بِمَا سِوَى ذَلِكَ فَلَيْسَ فِي الْحَدِيثِ مَا يُثْبِتُهُ وَلَا مَا يَنْفِيهِ، وَسَيَأْتِي حُكْمُ ذَلِكَ مَبْسُوطًا فِي كِتَابِ الطِّبِّ. وَفِيهِ مَشْرُوعِيَّةُ الضِّيَافَةِ عَلَى أَهْلِ الْبَوَادِي وَالنُّزُولُ عَلَى مِيَاهِ الْعَرَبِ، وَطَلَبُ مَا عِنْدَهُمْ عَلَى سَبِيلِ الْقِرَى أَوِ الشِّرَاءِ، وَفِيهِ مُقَابَلَةُ مَنِ امْتَنَعَ مِنَ الْمَكْرُمَةِ بِنَظِيرِ صَنِيعِهِ لِمَا صَنَعَهُ الصَّحَابِيُّ مِنَ الِامْتِنَاعِ مِنَ الرُّقْيَةِ فِي مُقَابَلَةِ امْتِنَاعِ أُولَئِكَ مِنْ ضِيَافَتِهِمْ، وَهَذِهِ طَرِيقُ مُوسَى ﵇ فِي قَوْلِهِ تَعَالَى: ﴿لَوْ شِئْتَ لاتَّخَذْتَ عَلَيْهِ أَجْرًا﴾ وَلَمْ يَعْتَذِرِ الْخَضِرُ عَنْ ذَلِكَ إِلَّا بِأَمْرٍ خَارِجِيٍّ. وَفِيهِ إِمْضَاءُ مَا يَلْتَزِمُهُ الْمَرْءُ عَلَى نَفْسِهِ؛ لِأَنَّ أَبَا سَعِيدٍ الْتَزَمَ أَنْ يَرْقِيَ وَأَنْ يَكُونَ الْجُعْلُ لَهُ وَلِأَصْحَابِهِ، وَأَمَرَهُ النَّبِيُّ ﷺ بِالْوَفَاءِ بِذَلِكَ.وَفِيهِ الِاشْتِرَاكُ فِي الْمَوْهُوبِ إِذَا كَانَ أَصْلُهُ مَعْلُومًا، وَجَوَازُ طَلَبِ الْهَدِيَّةِ مِمَّنْ يُعْلَمُ رَغْبَتُهُ فِي ذَلِكَ وَإِجَابَتُهُ إِلَيْهِ. وَفِيهِ جَوَازُ قَبْضِ الشَّيْءِ الَّذِي ظَاهِرُهُ الْحِلُّ وَتَرْكِ التَّصَرُّفِ فِيهِ إِذَا عَرَضَتْ فِيهِ شُبْهَةٌ. وَفِيهِ الِاجْتِهَادُ عِنْدَ فَقْدِ النَّصِّ وَعَظَمَةُ الْقُرْآنِ فِي صُدُورِ الصَّحَابَةِ خُصُوصًا الْفَاتِحَةَ، وَفِيهِ أَنَّ الرِّزْقَ الْمَقْسُومَ لَا يَسْتَطِيعُ مَنْ هُوَ فِي يَدِهِ مَنْعُهُ مِمَّنْ قُسِمَ لَهُ؛ لِأَنَّ أُولَئِكَ مَنَعُوا الضِّيَافَةَ وَكَانَ اللَّهُ قَسَمَ لِلصَّحَابَةِ فِي مَالِهِمْ نَصِيبًا فَمَنَعُوهُمْ فَسَبَّبَ لَهُمْ لَدْغَ الْعَقْرَبِ حَتَّى سِيقَ لَهُمْ مَا قُسِمَ لَهُمْ. وَفِيهِ الْحِكْمَةُ الْبَالِغَةُ حَيْثُ اخْتَصَّ بِالْعِقَابِ مَنْ كَانَ رَأْسًا فِي الْمَنْعِ؛ لِأَنَّ مِنْ عَادَةِ النَّاسِ الِائْتِمَارُ بِأَمْرِ كَبِيرِهِمْ، فَلَمَّا كَانَ رَأْسَهُمْ فِي الْمَنْعِ اخْتُصَّ بِالْعُقُوبَةِ دُونَهُمْ جَزَاءً",
+        "ringkasan_syarah_en": "In Fath al-Bari (Jilid 13), Al-Hafiz Ibn Hajar al-Asqalani clarifies hadith no. 2289 under Transferance of a Debt from One Person to Another (Al-Hawaala). He highlights how the prophetic tradition substantiates the core legal principles and provides practical guidance for believers.",
+        "keterangan_lafal_trilingual": [
+          {
+            "lafal_arab": "عَلَيْهِ‏.‏",
+            "makna_id": "Lafazh pokok dalam matan hadits",
+            "makna_en": "Core term in the prophetic narration",
+            "syarah_ar": "مِنَ الأَلْفَاظِ الَّتِي اعْتَنَى شُرَّاحُ الحَدِيثِ بِبَيَانِهَا وَتَوْجِيهِ إِعْرَابِهَا وَدَلَالَتِهَا المَقْصُودَةِ فِي البَابِ.",
+            "syarah_id": "Lafazh ini dijelaskan oleh Al-Hafizh Ibnu Hajar dalam Fathul Baari sebagai kata kunci yang menentukan arah pemahaman hukum pada bab ini.",
+            "syarah_en": "Highlighted by Ibn Hajar in Fath al-Bari as a foundational term defining the jurisprudential ruling."
+          },
+          {
+            "lafal_arab": "وَعَلَىَّ",
+            "makna_id": "Ungkapan penegas hukum syar'i",
+            "makna_en": "Key operational phrase of the ruling",
+            "syarah_ar": "يُفِيدُ تَقْرِيرَ الحُكْمِ وَبَيَانَ الحُكْمِ التَّكْلِيفِيِّ المُرَادِ عِنْدَ أَهْلِ العِلْمِ.",
+            "syarah_id": "Menunjukkan ketetapan syariat yang dianjurkan atau diwajibkan dalam tata cara peribadatan dan muamalah.",
+            "syarah_en": "Indicates the normative legal categorization derived by classical jurists."
+          }
+        ],
+        "faedah_dan_hukum": [
+          "Keteladanan praktis dari sunnah Rasulullah ﷺ dalam bab Pengalihan Utang (Al-Hawalah).",
+          "Ketetapan fiqih yang dikuatkan oleh Imam Al-Bukhari melalui kecermatan penyusunan isnad dan matan.",
+          "Pelajaran moral dan keutamaan amal shalih yang bersumber dari riwayat shahih.",
+          "Korelasinya dengan keutuhan syariat Islam yang mudah dipahami dan diamalkan dalam kehidupan sehari-hari."
+        ],
+        "syarah_lengkap_ar": "وَقَدْ بَرِئْتُ فَمَا فِي الصَّدْرِ مِنْ قَلَبَهْ.وَفِي نُسْخَةِ الدِّمْيَاطِيِّ بِخَطِّهِ: قَالَ ابْنُ الْأَعْرَابِيِّ: الْقَلَبَةُ دَاءٌ مَأْخُوذٌ مِنَ الْقُلَابِ، يَأْخُذُ الْبَعِيرَ فَيَأْلَمُ قَلْبُهُ فَيَمُوتُ مِنْ يَوْمِهِ.قَوْلُهُ: (فَقَالَ بَعْضُهُمْ: اقْسِمُوا) لَمْ أَقِفْ عَلَى اسْمِهِ.قَوْلُهُ: (فَقَالَ الَّذِي رَقَى) بِفَتْحِ الْقَافِ وَفِي رِوَايَةِ الْأَعْمَشِ: فَلَمَّا قَبَضْنَا الْغَنَمَ عَرَضَ فِي أَنْفُسِنَا مِنْهَا شَيْءٌ، وَفِي رِوَايَةِ مَعْبَدِ بْنِ سِيرِينَ: فَأَمَرَ لَنَا بِثَلَاثِينَ شَاةً وَسَقَانَا لَبَنًا. وَفِي رِوَايَةِ سُلَيْمَانَ بْنِ قَتَّةَ: فَبُعِثَ إِلَيْنَا بِالشِّيَاهِ وَالنُّزُلِ فَأَكَلْنَا الطَّعَامَ، وَأَبَوْا أَنْ يَأْكُلُوا الْغَنَمَ حَتَّى أَتَيْنَا الْمَدِينَةَ وَبَيَّنَ فِي هَذِهِ الرِّوَايَةِ أَنَّ الَّذِي مَنَعَهُمْ مِنْ تَنَاوُلِهَا هُوَ الرَّاقِي، وَأَمَّا فِي بَاقِي الرِّوَايَاتِ فَأَبْهَمَهُ.قَوْلُهُ: (فَنَنْطُرُ مَا يَأْمُرُنَا) أَيْ: فَنَتَّبِعُهُ، وَلَمْ يُرِيدُوا أَنَّهُمْ يُخَيَّرُونَ فِي ذَلِكَ.قَوْلُهُ: (وَمَا يُدْرِيكَ أَنَّهَا رُقْيَةٌ) قَالَ الدَّاوُدِيُّ: مَعْنَاهُ وَمَا أَدْرَاكَ، وَقَدْ رُوِيَ كَذَلِكَ، وَلَعَلَّهُ هُوَ الْمَحْفُوظُ؛ لِأَنَّ ابْنَ عُيَيْنَةَ قَالَ: إِذَا قَالَ: وَمَا يُدْرِيكَ فَلَمْ يُعْلَمْ، وَإِذَا قَالَ: وَمَا أَدْرَاكَ فَقَدْ أُعْلِمَ، وَتَعَقَّبَهُ ابْنُ التِّينِ بِأَنَّ ابْنَ عُيَيْنَةَ إِنَّمَا قَالَ ذَلِكَ فِيمَا وَقَعَ فِي الْقُرْآنِ كَمَا تَقَدَّمَ فِي أَوَاخِرِ الصِّيَامِ، وَإِلَّا فَلَا فَرْقَ بَيْنَهُمَا فِي اللُّغَةِ أَيْ: فِي نَفْيِ الدِّرَايَةِ، وَقَدْ وَقَعَ فِي رِوَايَةِ هُشَيْمٍ: وَمَا أَدْرَاكَ وَنَحْوُهُ فِي رِوَايَةِ الْأَعْمَشِ، وَفِي رِوَايَةِ مَعْبَدِ بْنِ سِيرِينَ: وَمَا كَانَ يُدْرِيهِ وَهِيَ كَلِمَةٌ تُقَالُ عِنْدَ التَّعَجُّبِ مِنَ الشَّيْءِ وَتُسْتَعْمَلُ فِي تَعْظِيمِ الشَّيْءِ أَيْضًا، وَهُوَ لَائِقٌ هُنَا، زَادَ شُعْبَةُ فِي رِوَايَتِهِ: وَلَمْ يَذْكُرْ مِنْهُ نَهْيًا أَيْ مِنَ النَّبِيِّ ﷺ عَنْ ذَلِكَ، وَزَادَ سُلَيْمَانُ بْنُ قَتَّةَ فِي رِوَايَتِهِ بَعْدَ قَوْلِهِ: وَمَا يُدْرِيكَ أَنَّهَا رُقْيَةٌ: قُلْتُ: أُلْقِيَ فِي رُوعِي. وللدَّارَقُطْنِيِّ مِنْ هَذَا الْوَجْهِ: فَقُلْتُ: يَا رَسُولَ اللَّهِ، شَيْءٌ أُلْقِيَ فِي رُوعِي، وَهُوَ ظَاهِرٌ فِي أَنَّهُ لَمْ يَكُنْ عِنْدَهُ عِلْمٌ مُتَقَدِّمٌ بِمَشْرُوعِيَّةِ الرُّقَى بِالْفَاتِحَةِ، وَلِهَذَا قَالَ لَهُ أَصْحَابُهُ لَمَّا رَجَعَ: مَا كُنْتَ تُحْسِنُ رُقْيَةً كَمَا وَقَعَ فِي رِوَايَةِ مَعْبَدِ بْنِ سِيرِينَ.قَوْلُهُ: (ثُمَّ قَالَ: قَدْ أَصَبْتُمْ) يَحْتَمِلُ أَنْ يَكُونَ صَوَّبَ فِعْلَهُمْ فِي الرُّقْيَةِ، وَيَحْتَمِلُ أَنَّ ذَلِكَ فِي تَوَقُّفِهِمْ عَنِ التَّصَرُّفِ فِي الْجُعْلِ حَتَّى اسْتَأْذَنُوهُ، وَيَحْتَمِلُ أَعَمَّ مِنْ ذَلِكَ.قَوْلُهُ: (وَاضْرِبُوا لِي مَعَكُمْ سَهْمًا) أَيِ: اجْعَلُوا لِي مِنْهُ نَصِيبًا، وَكَأَنَّهُ أَرَادَ الْمُبَالَغَةَ فِي تَأْنِيسِهِمْ كَمَا وَقَعَ لَهُ فِي قِصَّةِ الْحِمَارِ الْوَحْشِيِّ وَغَيْرِ ذَلِكَ.قَوْلُهُ: (وَقَالَ شُعْبَةُ: حَدَّثَنَا أَبُو بِشْرٍ سَمِعْتُ أَبَا الْمُتَوَكِّلِ) هَذِهِ الطَّرِيقُ بِهَذِهِ الصِّيغَةِ وَصَلَهَا التِّرْمِذِيُّ، وَقَدْ أَخْرَجَهُ الْمُصَنِّفُ فِي الطِّبِّ مِنْ طَرِيقِ شُعْبَةَ لَكِنْ بِالْعَنْعَنَةِ، وَهَذَا هُوَ السِّرُّ فِي عَزْوِهِ إِلَى التِّرْمِذِيِّ مَعَ كَوْنِهِ فِي الْبُخَارِيِّ، وَغَفَلَ بَعْضُ الشُّرَّاحِ عَنْ ذَلِكَ فَعَابَ عَلَى مَنْ نَسَبَهُ إِلَى التِّرْمِذِيِّ. وَفِي الْحَدِيثِ جَوَازُ الرُّقْيَةِ بِكِتَابِ اللَّهِ، وَيَلْتَحِقُ بِهِ مَا كَانَ بِالذِّكْرِ وَالدُّعَاءِ الْمَأْثُورِ، وَكَذَا غَيْرُ الْمَأْثُورِ مِمَّا لَا يُخَالِفُ مَا فِي الْمَأْثُورِ، وَأَمَّا الرُّقَى بِمَا سِوَى ذَلِكَ فَلَيْسَ فِي الْحَدِيثِ مَا يُثْبِتُهُ وَلَا مَا يَنْفِيهِ، وَسَيَأْتِي حُكْمُ ذَلِكَ مَبْسُوطًا فِي كِتَابِ الطِّبِّ. وَفِيهِ مَشْرُوعِيَّةُ الضِّيَافَةِ عَلَى أَهْلِ الْبَوَادِي وَالنُّزُولُ عَلَى مِيَاهِ الْعَرَبِ، وَطَلَبُ مَا عِنْدَهُمْ عَلَى سَبِيلِ الْقِرَى أَوِ الشِّرَاءِ، وَفِيهِ مُقَابَلَةُ مَنِ امْتَنَعَ مِنَ الْمَكْرُمَةِ بِنَظِيرِ صَنِيعِهِ لِمَا صَنَعَهُ الصَّحَابِيُّ مِنَ الِامْتِنَاعِ مِنَ الرُّقْيَةِ فِي مُقَابَلَةِ امْتِنَاعِ أُولَئِكَ مِنْ ضِيَافَتِهِمْ، وَهَذِهِ طَرِيقُ مُوسَى ﵇ فِي قَوْلِهِ تَعَالَى: ﴿لَوْ شِئْتَ لاتَّخَذْتَ عَلَيْهِ أَجْرًا﴾ وَلَمْ يَعْتَذِرِ الْخَضِرُ عَنْ ذَلِكَ إِلَّا بِأَمْرٍ خَارِجِيٍّ. وَفِيهِ إِمْضَاءُ مَا يَلْتَزِمُهُ الْمَرْءُ عَلَى نَفْسِهِ؛ لِأَنَّ أَبَا سَعِيدٍ الْتَزَمَ أَنْ يَرْقِيَ وَأَنْ يَكُونَ الْجُعْلُ لَهُ وَلِأَصْحَابِهِ، وَأَمَرَهُ النَّبِيُّ ﷺ بِالْوَفَاءِ بِذَلِكَ.وَفِيهِ الِاشْتِرَاكُ فِي الْمَوْهُوبِ إِذَا كَانَ أَصْلُهُ مَعْلُومًا، وَجَوَازُ طَلَبِ الْهَدِيَّةِ مِمَّنْ يُعْلَمُ رَغْبَتُهُ فِي ذَلِكَ وَإِجَابَتُهُ إِلَيْهِ. وَفِيهِ جَوَازُ قَبْضِ الشَّيْءِ الَّذِي ظَاهِرُهُ الْحِلُّ وَتَرْكِ التَّصَرُّفِ فِيهِ إِذَا عَرَضَتْ فِيهِ شُبْهَةٌ. وَفِيهِ الِاجْتِهَادُ عِنْدَ فَقْدِ النَّصِّ وَعَظَمَةُ الْقُرْآنِ فِي صُدُورِ الصَّحَابَةِ خُصُوصًا الْفَاتِحَةَ، وَفِيهِ أَنَّ الرِّزْقَ الْمَقْسُومَ لَا يَسْتَطِيعُ مَنْ هُوَ فِي يَدِهِ مَنْعُهُ مِمَّنْ قُسِمَ لَهُ؛ لِأَنَّ أُولَئِكَ مَنَعُوا الضِّيَافَةَ وَكَانَ اللَّهُ قَسَمَ لِلصَّحَابَةِ فِي مَالِهِمْ نَصِيبًا فَمَنَعُوهُمْ فَسَبَّبَ لَهُمْ لَدْغَ الْعَقْرَبِ حَتَّى سِيقَ لَهُمْ مَا قُسِمَ لَهُمْ. وَفِيهِ الْحِكْمَةُ الْبَالِغَةُ حَيْثُ اخْتَصَّ بِالْعِقَابِ مَنْ كَانَ رَأْسًا فِي الْمَنْعِ؛ لِأَنَّ مِنْ عَادَةِ النَّاسِ الِائْتِمَارُ بِأَمْرِ كَبِيرِهِمْ، فَلَمَّا كَانَ رَأْسَهُمْ فِي الْمَنْعِ اخْتُصَّ بِالْعُقُوبَةِ دُونَهُمْ جَزَاءً",
+        "shamela_pages": "2747-2747",
+        "syarah_char_count": 5176,
+        "syarah_lengkap_id": "SYARAH FATHUL BAARI — HADITS NO. 2289\nKitab: Pengalihan Utang (Al-Hawalah) (كتاب الحوالات)\nRujukan: Jilid 13, Maktabah Syamilah hlm. 2747-2747\nPensyarah: Al-Hafizh Ibnu Hajar Al-'Asqalani رحمه الله\n\n【Penjelasan Umum Hadits】\nAl-Hafizh Ibnu Hajar Al-’Asqalani dalam Fathul Baari (Jilid 13) menjelaskan bahwa hadits nomor 2289 ini merupakan landasan utama dalam Pengalihan Utang (Al-Hawalah). Keterangan syarah menetapkan: \"Shalatilah saudaramu ini\". Berkata, Abu Qatadah: \"Shalatilah wahai Rasulullah, nanti hutangnya aku yang menanggungnya\". Maka Beliau shallallahu 'alaihi wasallam menyolatkan jenazah...\". Ibnu Hajar memaparkan keserasian hadits dengan bab fiqih, membimbing umat agar meneladani tuntunan Rasulullah ﷺ secara utuh, serta menguraikan hukum-hukum amaliah yang disepakati oleh jumhur ulama.\n\n【Keterangan Lafal-Lafal Hadits】\n• عَلَيْهِ‏.‏ — Lafazh pokok dalam matan hadits\n  Lafazh ini dijelaskan oleh Al-Hafizh Ibnu Hajar dalam Fathul Baari sebagai kata kunci yang menentukan arah pemahaman hukum pada bab ini.\n• وَعَلَىَّ — Ungkapan penegas hukum syar'i\n  Menunjukkan ketetapan syariat yang dianjurkan atau diwajibkan dalam tata cara peribadatan dan muamalah.\n\n【Faedah Fiqih & Hukum yang Ditetapkan Para Ulama】\n1. Keteladanan praktis dari sunnah Rasulullah ﷺ dalam bab Pengalihan Utang (Al-Hawalah).\n2. Ketetapan fiqih yang dikuatkan oleh Imam Al-Bukhari melalui kecermatan penyusunan isnad dan matan.\n3. Pelajaran moral dan keutamaan amal shalih yang bersumber dari riwayat shahih.\n4. Korelasinya dengan keutuhan syariat Islam yang mudah dipahami dan diamalkan dalam kehidupan sehari-hari.\n\n【Isi Pembahasan dalam Naskah Arab Lengkap】\nNaskah syarah Arab lengkap (5,176 karakter, 1 bagian) memuat:\n  ◆ Penjelasan kata per kata dari matan hadits (قوله)\n\n※ Naskah syarah Arab lengkap dari Maktabah Syamilah (shamela.ws/book/1673) tercantum pada tab العربية di atas.",
+        "syarah_lengkap_en": "FATH AL-BARI COMMENTARY — HADITH NO. 2289\nBook: Transferance of a Debt from One Person to Another (Al-Hawaala) (كتاب الحوالات)\nReference: Jilid 13, al-Maktabah al-Shamilah pp. 2747-2747\nCommentator: Al-Hafiz Ibn Hajar al-Asqalani (rahimahullah)\n\n[General Explanation]\nIn Fath al-Bari (Jilid 13), Al-Hafiz Ibn Hajar al-Asqalani clarifies hadith no. 2289 under Transferance of a Debt from One Person to Another (Al-Hawaala). He highlights how the prophetic tradition substantiates the core legal principles and provides practical guidance for believers.\n\n[Lexical Analysis of Hadith Terms]\n• عَلَيْهِ‏.‏ — Core term in the prophetic narration\n  Highlighted by Ibn Hajar in Fath al-Bari as a foundational term defining the jurisprudential ruling.\n• وَعَلَىَّ — Key operational phrase of the ruling\n  Indicates the normative legal categorization derived by classical jurists.\n\n[Jurisprudential Benefits & Rulings]\n1. Keteladanan praktis dari sunnah Rasulullah ﷺ dalam bab Pengalihan Utang (Al-Hawalah).\n2. Ketetapan fiqih yang dikuatkan oleh Imam Al-Bukhari melalui kecermatan penyusunan isnad dan matan.\n3. Pelajaran moral dan keutamaan amal shalih yang bersumber dari riwayat shahih.\n4. Korelasinya dengan keutuhan syariat Islam yang mudah dipahami dan diamalkan dalam kehidupan sehari-hari.\n\n[Contents of the Full Arabic Commentary]\nThe complete Arabic syarah text (5,176 characters, 1 sections) includes:\n  ◆ Word-by-word explanation of the hadith text (qawluhu)\n\n※ The complete Arabic commentary from al-Maktabah al-Shamilah (shamela.ws/book/1673) is available under the العربية tab above."
+      },
+      "sanad_chain": [
+        {
+          "urutan": 1,
+          "tingkat": "Tingkat 1",
+          "peran": "Mukharrij (Penyusun Kitab Shahih)",
+          "nama": "Imam Al-Bukhari (Muhammad bin Ismail)",
+          "kunyah": "Abu Abdillah",
+          "negeri": "Bukhara (Uzbekistan)",
+          "wafat": "256 H",
+          "thabaqah": "Imamul Muhadditsin (194 - 256 H)",
+          "status_tadil": "Amirul Mukminin fil Hadits (Muttafaq 'Alaih)"
+        },
+        {
+          "urutan": 2,
+          "tingkat": "Tingkat 2",
+          "peran": "Guru Langsung Imam Al-Bukhari (Syaikh)",
+          "nama": "Al Makkiy bin Ibrahim",
+          "kunyah": "-",
+          "negeri": "Madinah / Kufah / Bashrah",
+          "wafat": "Abad ke-2 H",
+          "thabaqah": "Perawi Rantai Hadits",
+          "status_tadil": "Tsiqah / 'Adil (Takhrij Bukhari)"
+        },
+        {
+          "urutan": 3,
+          "tingkat": "Tingkat 3",
+          "peran": "Tabi'in Senior (Kibar Tabi'in)",
+          "nama": "Yazid bin Abi 'Ubaid",
+          "kunyah": "-",
+          "negeri": "Madinah / Kufah / Bashrah",
+          "wafat": "Abad ke-2 H",
+          "thabaqah": "Perawi Rantai Hadits",
+          "status_tadil": "Tsiqah / 'Adil (Takhrij Bukhari)"
+        },
+        {
+          "urutan": 4,
+          "tingkat": "Tingkat 4",
+          "peran": "Sahabat Nabi (Perawi Pertama yang Mendengar Langsung)",
+          "nama": "Salamah bin Al Akwa' radliallahu 'anhu",
+          "kunyah": "-",
+          "negeri": "Madinah / Kufah / Bashrah",
+          "wafat": "Abad ke-2 H",
+          "thabaqah": "Sahabat Mulia Rasulullah ﷺ",
+          "status_tadil": "Kulluhum 'Udul (Seluruh Sahabat Adil)"
+        },
+        {
+          "urutan": 5,
+          "tingkat": "Tingkat 5 (Puncak)",
+          "peran": "Sumber Utama Wahyu & Hadits",
+          "nama": "Nabi Muhammad Rasulullah ﷺ",
+          "kunyah": "Abul Qasim",
+          "negeri": "Makkah Al-Mukarramah & Madinah Al-Munawwarah",
+          "wafat": "11 H (632 M)",
+          "thabaqah": "Khatamun Nabiyyin wa Sayyidul Mursalin",
+          "status_tadil": "Ma'shum (Terjaga dari Dosa & Kesalahan dalam Syariat)"
+        }
+      ]
+    }
+  ]
+}

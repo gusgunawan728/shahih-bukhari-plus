@@ -1,0 +1,368 @@
+{
+  "metadata": {
+    "judul_syarah_ar": "فتح الباري شرح صحيح البخاري",
+    "judul_syarah_id": "Fathul Baari Syarah Shahih Al-Bukhari",
+    "judul_syarah_en": "Fath al-Bari: Commentary on Sahih al-Bukhari",
+    "pengarang": "Al-Hafizh Ahmad bin Ali bin Hajar Al-Asqalani (773 - 852 H)",
+    "sumber_arab": "Maktabah Shamela Kitab #1673 (طبعة دار المعرفة / المطبعة السلفية)",
+    "sumber_indonesia": "Fathul Baari 36 Jilid (Pustaka Azzam / Pustaka Imam Asy-Syafi'i)",
+    "sumber_inggris": "Classical Hadith Commentaries & Dr. Muhammad Muhsin Khan",
+    "cakupan": "Kitab 1: Permulaan Turunnya Wahyu (Hadits 1 - 7)",
+    "creator": "Digitab Team"
+  },
+  "syarah_hadits": [
+    {
+      "nomor_hadits": 1,
+      "kitab_id": 1,
+      "kitab_nama_ar": "كِتَابُ بَدْءِ الْوَحْيِ",
+      "kitab_nama_id": "Permulaan Turunnya Wahyu",
+      "kitab_nama_en": "The Book of Revelation",
+      "bab_nomor": 1,
+      "bab_nama_ar": "بَاب كَيْفَ كَانَ بَدْءُ الْوَحْيِ إِلَى رَسُولِ اللَّهِ ﷺ",
+      "bab_nama_id": "Cara Permulaan Turunnya Wahyu Kepada Rasulullah SAW",
+      "bab_nama_en": "How the Divine Inspiration started to be revealed to Allah's Messenger",
+      "shamela_ref": {
+        "book_id": 1673,
+        "page_id": 495,
+        "juz": 1,
+        "shafhah": "9 - 18",
+        "url": "https://shamela.ws/book/1673/495"
+      },
+      "indonesia_ref": {
+        "jilid": 1,
+        "filename": "Fathul Baari Jilid 1.pdf",
+        "halaman_buku": "18 - 28",
+        "halaman_pdf": "9 - 19",
+        "preview_url": "https://drive.google.com/file/d/1U7CemsNGbeN7Vt2VbKyXkkSn0clwnxUW/preview"
+      },
+      "ringkasan_syarah_ar": "صَدَّرَ الْبُخَارِيُّ كِتَابَهُ بِهَذَا الْحَدِيثِ تَنْبِيهًا عَلَى إِخْلَاصِ النِّيَّةِ لِلَّهِ فِي جَمِيعِ الْأَعْمَالِ. وَالْحَدِيثُ ثُلُثُ الْإِسْلَامِ لِأَنَّ كَسْبَ الْعَبْدِ يَقَعُ بِقَلْبِهِ وَلِسَانِهِ وَجَوَارِحِهِ، فَالنِّيَّةُ أَرْجَحُهَا لِأَنَّهَا عِبَادَةٌ مُسْتَقِلَّةٌ وَغَيْرُهَا يَفْتَقِرُ إِلَيْهَا.",
+      "ringkasan_syarah_id": "Imam Bukhari sengaja meletakkan hadits niat ini di gerbang utama kitab Shahih-nya sebagai pengingat abadi agar selalu meluruskan niat semata-mata karena Allah SWT. Niat adalah sepertiga ajaran Islam karena perbuatan manusia bersumber dari hati, lisan, dan anggota badan, dan niat merupakan amalan hati yang mendasarinya.",
+      "ringkasan_syarah_en": "Imam al-Bukhari commenced his Sahih with this hadith to emphasize that all righteous deeds must be founded upon sincere intention for Allah alone. Scholars agreed that this hadith constitutes a third of Islam, as actions stem from heart, tongue, and limbs, and intention is the core of the heart upon which all deeds depend.",
+      "keterangan_lafal": [
+        {
+          "lafal_arab": "عَلَى الْمِنْبَرِ",
+          "makna_id": "Di atas mimbar",
+          "makna_en": "Upon the pulpit",
+          "syarah_ar": "بِكَسْرِ الْمِيمِ، وَاللَّامُ لِلْعَهْدِ، أَيْ مِنْبَرِ الْمَسْجِدِ النَّبَوِيِّ، وَفِيهِ إِشَاعَةُ الْمَسَائِلِ الْكُلِّيَّةِ فِي خُطْبَةِ الْجُمُعَةِ.",
+          "syarah_id": "Yaitu mimbar masjid Nabawi di Madinah. Khutbah di atas mimbar membuktikan bahwa masalah niat merupakan perkara yang sangat fundamental dan disiarkan secara terbuka.",
+          "syarah_en": "Referring to the pulpit of the Prophet's Mosque in Madinah, signifying the public announcement of vital foundational principles of the faith."
+        },
+        {
+          "lafal_arab": "إِنَّمَا الأَعْمَالُ بِالنِّيَّاتِ",
+          "makna_id": "Amal perbuatan itu hanyalah bergantung pada niatnya",
+          "makna_en": "Actions are but by intentions",
+          "syarah_ar": "أَدَاةُ حَصْرٍ تُفِيدُ إِثْبَاتَ الْحُكْمِ لِلْمَذْكُورِ وَنَفْيَهُ عَمَّا عَدَاهُ. وَالنِّيَّةُ تُمَيِّزُ الْعَادَةَ مِنَ الْعِبَادَةِ وَرُتَبَ الْعِبَادَاتِ.",
+          "syarah_id": "Lafazh 'Innama' berfungsi sebagai hashr (pembatasan). Keabsahan dan pahala amalan syar'i sepenuhnya bergantung pada ketulusan niat.",
+          "syarah_en": "A particle of restriction proving that the validity and spiritual reward of any action are solely determined by intention."
+        },
+        {
+          "lafal_arab": "وَإِنَّمَا لِكُلِّ امْرِئٍ مَا نَوَى",
+          "makna_id": "Dan setiap orang hanya mendapatkan apa yang ia niatkan",
+          "makna_en": "And every person will get only what he intended",
+          "syarah_ar": "فَائِدَتُهُ التَّأْسِيسُ لَا التَّأْكِيدُ، فَالْجُمْلَةُ الْأُولَى لِبَيَانِ اعْتِبَارِ الْعَمَلِ، وَالثَّانِيَةُ لِبَيَانِ تَرَتُّبِ الْجَزَاءِ عَلَى النِّيَّةِ.",
+          "syarah_id": "Kalimat ini menetapkan faedah baru (ta'sis), bahwa ganjaran pahala atau dosa dari suatu perbuatan selaras dengan orientasi niat pelakunya.",
+          "syarah_en": "This clause establishes that every individual's ultimate outcome and divine reward strictly mirror what was intended in their heart."
+        },
+        {
+          "lafal_arab": "إِلَى دُنْيَا يُصِيبُهَا أَوْ امْرَأَةٍ يَنْكِحُهَا",
+          "makna_id": "Untuk mengharapkan dunia atau wanita yang hendak dinikahi",
+          "makna_en": "For worldly gain or for a woman to marry",
+          "syarah_ar": "خَصَّ الْمَرْأَةَ بِالذِّكْرِ بَعْدَ الْعُمُومِ تَعْظِيمًا لِفِتْنَتِهَا، وَوَرَدَ فِي قِصَّةِ مُهَاجِرِ أُمِّ قَيْسٍ.",
+          "syarah_id": "Penyebutan kata wanita secara khusus setelah dunia yang umum bertujuan mengingatkan besarnya fitnah dan godaan wanita, sebagaimana kisah 'Muhajir Ummu Qais'.",
+          "syarah_en": "Singling out 'woman' after the general term 'world' highlights the potent nature of that worldly attachment, as seen in the narration of the emigrant for Umm Qais."
+        }
+      ],
+      "faedah_dan_hukum": [
+        "Niat membedakan antara perbuatan ibadah dengan kebiasaan adat sehari-hari (seperti mandi junub vs mandi menyegarkan badan).",
+        "Niat membedakan derajat ibadah: apakah shalat fardhu, shalat sunnah, qadha, atau nadzar.",
+        "Ikhlas adalah syarat tunggal diterimanya amal perbuatan di sisi Allah SWT.",
+        "Hijrah fisik maupun maknawi (meninggalkan maksiat menuju ketaatan) wajib diorientasikan murni demi Allah dan Rasul-Nya."
+      ]
+    },
+    {
+      "nomor_hadits": 2,
+      "kitab_id": 1,
+      "kitab_nama_ar": "كِتَابُ بَدْءِ الْوَحْيِ",
+      "kitab_nama_id": "Permulaan Turunnya Wahyu",
+      "kitab_nama_en": "The Book of Revelation",
+      "bab_nomor": 2,
+      "bab_nama_ar": "بَاب كَيْفَ كَانَ يَأْتِيهِ الْوَحْيُ",
+      "bab_nama_id": "Bagaimana Cara Wahyu Datang Kepada Baginda Nabi",
+      "bab_nama_en": "How the Revelation came to the Prophet",
+      "shamela_ref": {
+        "book_id": 1673,
+        "page_id": 506,
+        "juz": 1,
+        "shafhah": "19 - 24",
+        "url": "https://shamela.ws/book/1673/506"
+      },
+      "indonesia_ref": {
+        "jilid": 1,
+        "filename": "Fathul Baari Jilid 1.pdf",
+        "halaman_buku": "31 - 35",
+        "halaman_pdf": "22 - 26",
+        "preview_url": "https://drive.google.com/file/d/1U7CemsNGbeN7Vt2VbKyXkkSn0clwnxUW/preview"
+      },
+      "ringkasan_syarah_ar": "بَيَّنَ النَّبِيُّ ﷺ أَنَّ لِلْوَحْيِ كَيْفِيَّاتٍ: أَشَدُّهَا مِثْلُ صَلْصَلَةِ الْجَرَسِ حَيْثُ يَنْخَلِعُ فِيهَا الْعَالَمُ الْبَشَرِيُّ لِيَتَّصِلَ بِالْمَلَإِ الْأَعْلَى، وَأَهْوَنُهَا تَمَثُّلُ الْمَلَكِ رَجُلًا لِيَخَاطِبَهُ كَمَا فِي صُورَةِ دِحْيَةَ الْكَلْبِيِّ.",
+      "ringkasan_syarah_id": "Nabi SAW menerangkan tingkatan penerimaan wahyu: yang terberat adalah bagaikan gemerincing genta/lonceng di mana kesadaran basyariyah Nabi terangkat menuju alam malakut tingkat tinggi, dan yang lebih ringan adalah saat malaikat menjelma sebagai seorang lelaki (seperti menyerupai sahabat tampan Dihyah Al-Kalbi).",
+      "ringkasan_syarah_en": "The Prophet explained two primary modes of receiving revelation: the most intense resembling the resounding clatter of a bell where human faculties transcend toward the angelic realm, and a milder form where the angel takes human form (often resembling Dihya al-Kalbi).",
+      "keterangan_lafal": [
+        {
+          "lafal_arab": "مِثْلَ صَلْصَلَةِ الْجَرَسِ",
+          "makna_id": "Seperti bunyi gemerincing genta",
+          "makna_en": "Like the ringing of a bell",
+          "syarah_ar": "الصَّلْصَلَةُ صَوْتُ وُقُوعِ الْحَدِيدِ بَعْضِهِ عَلَى بَعْضٍ، وَهُوَ تَمْثِيلٌ لِقُوَّةِ الصَّوْتِ الْمَلَكِيِّ لِيَنْقَطِعَ عَنِ الشَّوَاغِلِ الْحِسِّيَّةِ.",
+          "syarah_id": "Shalshalah adalah suara benturan besi/tembaga yang berulang-ulang, melambangkan keagungan suara malaikat agar terputus dari seluruh gangguan indrawi.",
+          "syarah_en": "Salasala denotes continuous resonant metallic reverberation, representing the overpowering impact of angelic speech that isolates the Prophet from all sensory distraction."
+        },
+        {
+          "lafal_arab": "وَإِنَّ جَبِينَهُ لَيَتَفَصَّدُ عَرَقًا",
+          "makna_id": "Dahi beliau bersimbah peluh",
+          "makna_en": "His forehead was dripping with sweat",
+          "syarah_ar": "التَّفَصُّدُ كَثْرَةُ سَيَلَانِ الْعَرَقِ كَالْفَصْدِ، دَلَالَةً عَلَى عِظَمِ مَا يُلْقَى عَلَيْهِ فِي شِدَّةِ الْبَرْدِ.",
+          "syarah_id": "Tafashshud artinya mengalirnya keringat laksana aliran darah yang dibekam, menjadi bukti fisik tak terbantahkan atas kedahsyatan beban wahyu ilahi.",
+          "syarah_en": "Tafassada describes sweat pouring forth copiously even on bitter cold days, offering physical proof of the overwhelming weight of receiving divine speech."
+        }
+      ],
+      "faedah_dan_hukum": [
+        "Keagungan firman Allah dan beban ruhani luar biasa yang ditanggung Nabi Muhammad SAW.",
+        "Bukti empiris bahwa wahyu adalah realitas nyata yang disaksikan tanda-tanda fisiknya oleh para sahabat, bukan ilusi atau mimpi semata."
+      ]
+    },
+    {
+      "nomor_hadits": 3,
+      "kitab_id": 1,
+      "kitab_nama_ar": "كِتَابُ بَدْءِ الْوَحْيِ",
+      "kitab_nama_id": "Permulaan Turunnya Wahyu",
+      "kitab_nama_en": "The Book of Revelation",
+      "bab_nomor": 3,
+      "bab_nama_ar": "بَاب حَدِيثِ عَائِشَةَ فِي بَدْءِ الْوَحْيِ وَغَارِ حِرَاءٍ",
+      "bab_nama_id": "Peristiwa Gua Hira, Turunnya Ayat Iqra', dan Waraqah bin Naufal",
+      "bab_nama_en": "The event of the Cave of Hira, Iqra, and Waraqah bin Nawfal",
+      "shamela_ref": {
+        "book_id": 1673,
+        "page_id": 512,
+        "juz": 1,
+        "shafhah": "25 - 35",
+        "url": "https://shamela.ws/book/1673/512"
+      },
+      "indonesia_ref": {
+        "jilid": 1,
+        "filename": "Fathul Baari Jilid 1.pdf",
+        "halaman_buku": "36 - 43",
+        "halaman_pdf": "27 - 34",
+        "preview_url": "https://drive.google.com/file/d/1U7CemsNGbeN7Vt2VbKyXkkSn0clwnxUW/preview"
+      },
+      "ringkasan_syarah_ar": "تَضَمَّنَ الْحَدِيثُ بَيَانَ أَوَّلِ مَرَاحِلِ النُّبُوَّةِ بِالرُّؤْيَا الصَّالِحَةِ سِتَّةَ أَشْهُرٍ، ثُمَّ التَّحَنُّثَ فِي حِرَاءٍ، وَمَجِيءَ جِبْرِيلَ بِأَوَّلِ الْقُرْآنِ ﴿اقْرَأْ بِاسْمِ رَبِّكَ﴾، وَتَثْبِيتَ أُمِّ الْمُؤْمِنِينَ خَدِيجَةَ لَهُ بِذِكْرِ مَحَاسِنِ أَخْلَاقِهِ، وَشَهَادَةَ وَرَقَةَ بْنِ نَوْفَلٍ بِالنَّامُوسِ الْأَكْبَرِ.",
+      "ringkasan_syarah_id": "Hadits ini merekam sejarah permulaan kenabian: mimpi yang benar selama 6 bulan, uzlah beribadah di Gua Hira, kedatangan Malaikat Jibril membawa wahyu pertama Surah Al-'Alaq, keteguhan hati Ummul Mukminin Khadijah RA yang menenangkan Nabi, serta pengakuan pendeta Waraqah bin Naufal tentang An-Namus (Malaikat Jibril).",
+      "ringkasan_syarah_en": "The comprehensive chronicle of the inception of Prophethood: true dreams for six months, solitude in Hira, Gabriel's arrival with Surah al-'Alaq, Khadijah's historic comfort highlighting his noble character, and Waraqah bin Nawfal's confirmation of the Great Namus.",
+      "keterangan_lafal": [
+        {
+          "lafal_arab": "الرُّؤْيَا الصَّالِحَةُ فِي النَّوْمِ",
+          "makna_id": "Mimpi yang benar di dalam tidur",
+          "makna_en": "True dreams in sleep",
+          "syarah_ar": "رُؤْيَا الْأَنْبِيَاءِ وَحْيٌ، وَكَانَتْ مُدَّتُهَا سِتَّةَ أَشْهُرٍ تَمْهِيدًا لِتَلَقِّي الْوَحْيِ يَقَظَةً.",
+          "syarah_id": "Mimpi para nabi adalah wahyu haq. Berlangsung 6 bulan sebagai masa transisi pengondisian batin sebelum menerima firman Allah secara sadar.",
+          "syarah_en": "The dreams of prophets are true divine inspiration, serving as a six-month spiritual transition prior to waking revelation."
+        },
+        {
+          "lafal_arab": "فَيَتَحَنَّثُ فِيهِ",
+          "makna_id": "Beribadah menjauhi dosa di dalamnya",
+          "makna_en": "Practicing devotion / worship",
+          "syarah_ar": "التَّحَنُّثُ فِعْلُ مَا يَقْطَعُ الْحِنْثَ وَهُوَ الْإِثْمُ، وَهُوَ التَّعَبُّدُ عَلَى مِلَّةِ إِبْرَاهِيمَ ﵇.",
+          "syarah_id": "Tahannuts bermakna meninggalkan dosa (al-hintsu) dan menempuh ibadah bertafakkur di atas ajaran tauhid hanif Nabi Ibrahim AS.",
+          "syarah_en": "Tahannuth means refraining from sin and engaging in acts of contemplation and worship upon the monotheistic Abrahamic heritage."
+        },
+        {
+          "lafal_arab": "النَّامُوسُ الَّذِي نَزَّلَ اللَّهُ عَلَى مُوسَى",
+          "makna_id": "Namus (Malaikat penyimpan rahasia) yang diturunkan kepada Musa",
+          "makna_en": "The Namus (keeper of secrets) revealed to Moses",
+          "syarah_ar": "النَّامُوسُ صَاحِبُ سِرِّ الْخَيْرِ، وَالْمُرَادُ بِهِ جِبْرِيلُ ﵇.",
+          "syarah_id": "An-Namus adalah sebutan khusus bagi Malaikat Jibril AS yang dipercaya membawa rahasia wahyu ilahi bagi para rasul besar.",
+          "syarah_en": "An-Namus is the specific title for Gabriel (Jibril), the angelic confidant entrusted with supreme divine revelation."
+        }
+      ],
+      "faedah_dan_hukum": [
+        "Keutamaan luar biasa Ummul Mukminin Khadijah binti Khuwailid RA sebagai wanita pertama yang beriman dan menyokong risalah.",
+        "Kaidah fitrah: bahwa orang yang menyambung silaturrahim, memikul beban orang susah, membantu orang papa, memuliakan tamu, dan membela kebenaran tidak akan pernah dihinakan oleh Allah SWT."
+      ]
+    },
+    {
+      "nomor_hadits": 4,
+      "kitab_id": 1,
+      "kitab_nama_ar": "كِتَابُ بَدْءِ الْوَحْيِ",
+      "kitab_nama_id": "Permulaan Turunnya Wahyu",
+      "kitab_nama_en": "The Book of Revelation",
+      "bab_nomor": 4,
+      "bab_nama_ar": "بَاب فَتْرَةِ الْوَحْيِ وَنُزُولِ يَا أَيُّهَا الْمُدَّثِّرُ",
+      "bab_nama_id": "Masa Jeda Wahyu dan Turunnya Surah Al-Muddatstsir",
+      "bab_nama_en": "The temporary pause of revelation and the sending of Surah al-Muddaththir",
+      "shamela_ref": {
+        "book_id": 1673,
+        "page_id": 521,
+        "juz": 1,
+        "shafhah": "36 - 39",
+        "url": "https://shamela.ws/book/1673/521"
+      },
+      "indonesia_ref": {
+        "jilid": 1,
+        "filename": "Fathul Baari Jilid 1.pdf",
+        "halaman_buku": "44 - 46",
+        "halaman_pdf": "35 - 37",
+        "preview_url": "https://drive.google.com/file/d/1U7CemsNGbeN7Vt2VbKyXkkSn0clwnxUW/preview"
+      },
+      "ringkasan_syarah_ar": "فِيهِ بَيَانُ فَتْرَةِ الْوَحْيِ لِيَذْهَبَ مَا كَانَ يَجِدُهُ النَّبِيُّ ﷺ مِنَ الرَّوْعِ وَلِيَتَشَوَّفَ إِلَى مَجِيءِ الْمَلَكِ، فَلَمَّا تَمَّ ذَلِكَ نَزَلَتْ سُورَةُ الْمُدَّثِّرِ مُؤْذِنَةً بِالرِّسَالَةِ بَعْدَ النُّبُوَّةِ.",
+      "ringkasan_syarah_id": "Hikmah jeda terputusnya wahyu (fatrah) adalah agar guncangan rasa takut pada diri Nabi reda dan berganti kerinduan mendalam menerima firman Allah kembali, hingga kemudian turun Surah Al-Muddatstsir yang menandai dimulainya tugas dakwah risalah.",
+      "ringkasan_syarah_en": "The divine wisdom behind the temporary pause of revelation was to alleviate the Prophet's initial awe and foster ardent yearning, paving the way for Surah al-Muddaththir which commissioned his active public apostleship.",
+      "keterangan_lafal": [
+        {
+          "lafal_arab": "يَا أَيُّهَا الْمُدَّثِّرُ قُمْ فَأَنْذِرْ",
+          "makna_id": "Wahai orang yang berselimut! Bangunlah lalu berilah peringatan!",
+          "makna_en": "O you wrapped in garments! Arise and warn!",
+          "syarah_ar": "نُبِّئَ بِـ ﴿اقْرَأْ﴾، وَأُرْسِلَ بِـ ﴿يَا أَيُّهَا الْمُدَّثِّرُ﴾.",
+          "syarah_id": "Beliau diangkat menjadi Nabi dengan ayat 'Iqra', dan diutus menjadi Rasul yang wajib berdakwah dengan 'Ya Ayyuhal Muddattstsir'.",
+          "syarah_en": "He became a Prophet through 'Iqra' and was commissioned as an Apostle (Messenger) to warn mankind through 'al-Muddaththir'."
+        }
+      ],
+      "faedah_dan_hukum": [
+        "Perbedaan kedudukan antara Nubuwwah (kenabian personal) dan Risalah (tugas dakwah tabligh ke umat).",
+        "Kewajiban mensucikan lahir dan batin serta menjauhi segala bentuk penyembahan berhala."
+      ]
+    },
+    {
+      "nomor_hadits": 5,
+      "kitab_id": 1,
+      "kitab_nama_ar": "كِتَابُ بَدْءِ الْوَحْيِ",
+      "kitab_nama_id": "Permulaan Turunnya Wahyu",
+      "kitab_nama_en": "The Book of Revelation",
+      "bab_nomor": 5,
+      "bab_nama_ar": "بَاب حِفْظِ الْقُرْآنِ وَعَدَمِ التَّعَجُّلِ فِيهِ",
+      "bab_nama_id": "Adab Menerima Wahyu dan Jaminan Pemeliharaan Hafalan Al-Qur'an",
+      "bab_nama_en": "Receiving Revelation and Allah's guarantee of safeguarding the Quran",
+      "shamela_ref": {
+        "book_id": 1673,
+        "page_id": 525,
+        "juz": 1,
+        "shafhah": "40 - 44",
+        "url": "https://shamela.ws/book/1673/525"
+      },
+      "indonesia_ref": {
+        "jilid": 1,
+        "filename": "Fathul Baari Jilid 1.pdf",
+        "halaman_buku": "47 - 52",
+        "halaman_pdf": "38 - 43",
+        "preview_url": "https://drive.google.com/file/d/1U7CemsNGbeN7Vt2VbKyXkkSn0clwnxUW/preview"
+      },
+      "ringkasan_syarah_ar": "بَيَانُ حِرْصِ النَّبِيِّ ﷺ عَلَى اسْتِثْبَاتِ الْقُرْآنِ بِتَحْرِيكِ شَفَتَيْهِ مَعَ جِبْرِيلَ، فَنَزَلَ النَّهْيُ عَنْ ذَلِكَ مَعَ ضَمَانِ اللَّهِ لَهُ بِأَنْ يَجْمَعَهُ فِي صَدْرِهِ وَيُجْرِيَهُ عَلَى لِسَانِهِ دُونَ نِسْيَانٍ.",
+      "ringkasan_syarah_id": "Nabi SAW sangat bersungguh-sungguh menghafal Al-Qur'an hingga menggerakkan bibirnya saat Jibril membaca. Allah menegur agar beliau menyimak dengan tenang, disertai garansi mukjizat bahwa Allah sendiri yang mematrikan Al-Qur'an di dadanya tanpa ada huruf yang terlupakan.",
+      "ringkasan_syarah_en": "The Prophet's intense dedication to memorize the Quran prompted him to move his lips hastily along with Gabriel. Allah commanded attentive listening, assuring the divine miracle of preserving the verses flawlessly in his heart.",
+      "keterangan_lafal": [
+        {
+          "lafal_arab": "إِنَّ عَلَيْنَا جَمْعَهُ وَقُرْآنَهُ",
+          "makna_id": "Sesungguhnya atas tanggungan Kamilah mengumpulkannya dan membacakannya",
+          "makna_en": "It is for Us to collect it and to give you the ability to recite it",
+          "syarah_ar": "ضَمَانٌ إِلَهِيٌّ بِحِفْظِ الْقُرْآنِ فِي صَدْرِهِ فَلَا يَذْهَبُ مِنْهُ حَرْفٌ وَاحِدٌ.",
+          "syarah_id": "Jaminan ilahi pemeliharaan Al-Qur'an di dada Rasulullah SAW sehingga terpelihara mutawatir hingga akhir zaman.",
+          "syarah_en": "A categorical divine guarantee ensuring the complete textual preservation of the Quran within the Prophet's heart."
+        }
+      ],
+      "faedah_dan_hukum": [
+        "Adab penuntut ilmu: wajib menyimak guru secara tuntas terlebih dahulu sebelum menimpali.",
+        "Asal metode Talaqqi dan Sima' (mendengar secara langsung) dalam pembelajaran Al-Qur'an dan Sunnah."
+      ]
+    },
+    {
+      "nomor_hadits": 6,
+      "kitab_id": 1,
+      "kitab_nama_ar": "كِتَابُ بَدْءِ الْوَحْيِ",
+      "kitab_nama_id": "Permulaan Turunnya Wahyu",
+      "kitab_nama_en": "The Book of Revelation",
+      "bab_nomor": 6,
+      "bab_nama_ar": "بَاب جُودِ النَّبِيِّ ﷺ فِي رَمَضَانَ وَمُدَارَسَةِ الْقُرْآنِ",
+      "bab_nama_id": "Kedermawanan Rasulullah SAW dan Tadarus Bersama Jibril di Bulan Ramadhan",
+      "bab_nama_en": "The generosity of the Prophet in Ramadan and reviewing the Quran with Gabriel",
+      "shamela_ref": {
+        "book_id": 1673,
+        "page_id": 529,
+        "juz": 1,
+        "shafhah": "45 - 48",
+        "url": "https://shamela.ws/book/1673/529"
+      },
+      "indonesia_ref": {
+        "jilid": 1,
+        "filename": "Fathul Baari Jilid 1.pdf",
+        "halaman_buku": "53 - 56",
+        "halaman_pdf": "44 - 47",
+        "preview_url": "https://drive.google.com/file/d/1U7CemsNGbeN7Vt2VbKyXkkSn0clwnxUW/preview"
+      },
+      "ringkasan_syarah_ar": "اسْتِحْبَابُ مُضَاعَفَةِ الْجُودِ وَالْإِحْسَانِ فِي رَمَضَانَ، وَفَضْلُ مُدَارَسَةِ الْقُرْآنِ لَيْلًا مَعَ أَهْلِ الصَّلَاحِ، وَأَنَّ تِلَاوَةَ الْقُرْآنِ تُثْمِرُ سَخَاءَ النَّفْسِ وَالْبَذْلَ.",
+      "ringkasan_syarah_id": "Disunnahkannya melipatgandakan kedermawanan dan sedekah di bulan Ramadhan. Membaca dan mentadaburi Al-Qur'an bersama orang saleh melahirkan kelapangan jiwa dan ketajaman sifat dermawan melebihi hembusan angin pembawa hujan.",
+      "ringkasan_syarah_en": "Highlighting the supreme virtue of escalating generosity during Ramadan. Reviewing the Quran with righteous companions enriches the soul with altruism and magnanimity.",
+      "keterangan_lafal": [
+        {
+          "lafal_arab": "أَجْوَدُ بِالْخَيْرِ مِنَ الرِّيحِ الْمُرْسَلَةِ",
+          "makna_id": "Lebih cepat berbuat kebajikan daripada angin yang berhembus",
+          "makna_en": "More generous in doing good than the blowing wind",
+          "syarah_ar": "شَبَّهَ جُودَهُ بِالرِّيحِ الَّتِي تُرْسَلُ بِالْغَيْثِ لِعُمُومِ نَفْعِهَا وَسُرْعَتِهَا وَتَتَابُعِهَا.",
+          "syarah_id": "Permisalan dengan angin pembawa awan hujan berkah: sangat cepat, mencakup seluruh lapisan masyarakat miskin maupun kaya, dan menghidupkan bumi yang gersang.",
+          "syarah_en": "A vivid metaphor likening his selfless giving to the rain-bearing wind—swift, all-encompassing, bringing revitalization to every corner of society."
+        }
+      ],
+      "faedah_dan_hukum": [
+        "Keutamaan bersedekah dan berbagi rezeki secara istimewa di bulan suci Ramadhan.",
+        "Disyariatkannya mudarasah (tadarus bersama) Al-Qur'an di malam-malam Ramadhan."
+      ]
+    },
+    {
+      "nomor_hadits": 7,
+      "kitab_id": 1,
+      "kitab_nama_ar": "كِتَابُ بَدْءِ الْوَحْيِ",
+      "kitab_nama_id": "Permulaan Turunnya Wahyu",
+      "kitab_nama_en": "The Book of Revelation",
+      "bab_nomor": 7,
+      "bab_nama_ar": "بَاب حَدِيثِ أَبِي سُفْيَانَ مَعَ هِرَقْلَ مَلِكِ الرُّومِ",
+      "bab_nama_id": "Surat Dakwah Nabi Kepada Kaisar Heraklius dan Dialog Uji Tanda Kenabian",
+      "bab_nama_en": "The letter of the Prophet to Emperor Heraclius and the dialogue testing Prophethood",
+      "shamela_ref": {
+        "book_id": 1673,
+        "page_id": 533,
+        "juz": 1,
+        "shafhah": "49 - 65",
+        "url": "https://shamela.ws/book/1673/533"
+      },
+      "indonesia_ref": {
+        "jilid": 1,
+        "filename": "Fathul Baari Jilid 1.pdf",
+        "halaman_buku": "57 - 74",
+        "halaman_pdf": "48 - 65",
+        "preview_url": "https://drive.google.com/file/d/1U7CemsNGbeN7Vt2VbKyXkkSn0clwnxUW/preview"
+      },
+      "ringkasan_syarah_ar": "خَتَمَ الْبُخَارِيُّ كِتَابَ بَدْءِ الْوَحْيِ بِهَذَا الْحَدِيثِ الْعَظِيمِ لِبَيَانِ أَنَّ صِدْقَ نُبُوَّةِ مُحَمَّدٍ ﷺ شَهِدَ بِهِ أَهْلُ الْكِتَابِ وَأَعَاظِمُ مُلُوكِ الْأَرْضِ، وَأَنَّ رِسَالَتَهُ عَامَّةٌ لِلنَّاسِ كَافَّةً.",
+      "ringkasan_syarah_id": "Imam Bukhari mengakhiri Kitab Permulaan Wahyu dengan hadits dialog Kaisar Heraklius untuk membuktikan secara rasional bahwa tanda kenabian Nabi Muhammad ﷺ diakui oleh kitab-kitab samawi terdahulu dan kaisar Romawi melalui 10 ujian akhlak, nasab, dan kejujuran mutlak.",
+      "ringkasan_syarah_en": "Imam al-Bukhari concluded the Book of Revelation with this monumental dialogue to demonstrate that Muhammad's prophethood was verified by Roman imperial wisdom and earlier scriptures through ten rigorous tests of veracity, lineage, and character.",
+      "keterangan_lafal": [
+        {
+          "lafal_arab": "مَا جَرَّبْنَا عَلَيْهِ كَذِبًا",
+          "makna_id": "Kami belum pernah mendapati beliau berdusta",
+          "makna_en": "We have never known him to tell a lie",
+          "syarah_ar": "قَالَ هِرَقْلُ: مَا كَانَ لِيَذَرَ الْكَذِبَ عَلَى النَّاسِ وَيَكْذِبَ عَلَى اللَّهِ.",
+          "syarah_id": "Kesaksian Abu Sufyan (musuh beliau saat itu). Heraklius menyimpulkan: Mustahil seseorang yang tidak pernah berdusta kepada sesama manusia lalu tiba-tiba berdusta atas nama Allah!",
+          "syarah_en": "Heraclius astutely concluded: A man who never tells a lie to people would never invent a lie against Allah."
+        },
+        {
+          "lafal_arab": "بِالصَّلاَةِ وَالصِّدْقِ وَالْعَفَافِ وَالصِّلَةِ",
+          "makna_id": "Shalat, kejujuran, memelihara kesucian moral ('iffah), dan silaturrahim",
+          "makna_en": "Prayer, honesty, chastity, and keeping good relations with kith and kin",
+          "syarah_ar": "أُصُولُ الْفَضَائِلِ: فَالصَّلَاةُ حَقُّ اللَّهِ، وَالصِّدْقُ وَالْعَفَافُ كَمَالُ النَّفْسِ، وَالصِّلَةُ حَقُّ الْعِبَادِ.",
+          "syarah_id": "Empat pilar pokok ajaran Islam: hubungan vertikal dengan Allah (shalat), integritas lisan (kejujuran), kemurnian syahwat lahir batin ('afaf), dan keharmonisan sosial persaudaraan (shilah).",
+          "syarah_en": "The cardinal pillars of Islamic ethics: devotion to Allah (prayer), personal integrity (honesty and chastity), and social solidarity (kinship bonds)."
+        }
+      ],
+      "faedah_dan_hukum": [
+        "Metode ilmiah uji kenabian: mengamati kejujuran seumur hidup, ketiadaan motif keduniawian, dan kemurnian ajaran tauhid.",
+        "Kewajiban menyampaikan dakwah Islam kepada seluruh raja, kepala negara, dan pemimpin dunia secara bermartabat.",
+        "Mukjizat nubuwah terbukti: ramalan Heraklius bahwa Islam akan menguasai Baitul Maqdis dan Syam terwujud di masa Khalifah Umar bin Khaththab RA."
+      ]
+    }
+  ]
+}
