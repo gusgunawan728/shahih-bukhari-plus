@@ -1,10 +1,10 @@
 @echo off
-title GURU SMART ACADEMIC - KELASKU+
+title SHAHIH BUKHARI PLUS - PORTAL DIGITAL HADITS TERLENGKAP
 echo ========================================================
-echo   GURU SMART ACADEMIC (KELASKU+) - MTsN KOTA CIMAHI
+echo   SHAHIH BUKHARI PLUS (7.563 Hadits & Syarah 36 Jilid)
 echo ========================================================
 echo.
-echo Membuka server aplikasi akademik...
-start http://localhost:3001/
+echo Menjalankan aplikasi di komputer lokal...
+start http://localhost:5173/
 npm run dev
 pause
