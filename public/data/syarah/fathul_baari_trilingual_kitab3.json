@@ -1,0 +1,244 @@
+{
+  "metadata": {
+    "judul_syarah_ar": "كتاب العلم من فتح الباري شرح صحيح البخاري",
+    "judul_syarah_id": "Kitab Ilmu Pengetahuan - Fathul Baari Syarah Shahih Al-Bukhari",
+    "judul_syarah_en": "The Book of Knowledge (Kitab Al-'Ilm) - Fath al-Bari Commentary",
+    "pengarang": "Al-Hafizh Ibnu Hajar Al-Asqalani (w. 852 H)",
+    "sumber_arab": "Maktabah Shamela Kitab #1673 (طبعة دار المعرفة / السلفية)",
+    "sumber_indonesia": "Fathul Baari Jilid 1 & 2 (Pustaka Azzam / Pustaka Imam Asy-Syafi'i)",
+    "sumber_inggris": "Classical Hadith Commentaries & Dr. Muhammad Muhsin Khan",
+    "total_hadits": 76,
+    "nomor_hadits_awal": 59,
+    "nomor_hadits_akhir": 134,
+    "creator": "Digitab Team"
+  },
+  "syarah_hadits": [
+    {
+      "nomor_hadits": 59,
+      "kitab_id": 3,
+      "kitab_nama_ar": "كِتَابُ الْعِلْمِ",
+      "kitab_nama_id": "Ilmu Pengetahuan",
+      "kitab_nama_en": "Knowledge",
+      "bab_nomor": 1,
+      "bab_nama_ar": "بَاب مَنْ سُئِلَ عِلْمًا وَهُوَ مُشْتَغِلٌ فِي حَدِيثِهِ فَأَتَمَّ الْحَدِيثَ ثُمَّ أَجَابَ السَّائِلَ",
+      "bab_nama_id": "Orang yang Ditanya Tentang Ilmu Saat Sedang Berbicara Lalu Menuntaskan Pembicaraan Baru Menjawab",
+      "bab_nama_en": "Whoever is asked about knowledge while engaged in conversation and completes his talk before answering",
+      "shamela_ref": {
+        "book_id": 1673,
+        "page_id": 626,
+        "juz": 1,
+        "shafhah": "138 - 142",
+        "url": "https://shamela.ws/book/1673/626"
+      },
+      "indonesia_ref": {
+        "jilid": 1,
+        "filename": "Fathul Baari Jilid 1.pdf",
+        "halaman_buku": "285 - 295",
+        "halaman_pdf": "276 - 286",
+        "preview_url": "https://drive.google.com/file/d/1U7CemsNGbeN7Vt2VbKyXkkSn0clwnxUW/preview"
+      },
+      "ringkasan_syarah_ar": "اسْتِحْبَابُ إِتْمَامِ الْمُحَدِّثِ كَلَامَهُ قَبْلَ أَنْ يَقْطَعَهُ لِإِجَابَةِ السَّائِلِ صِيَانَةً لِنَظْمِ الْحَدِيثِ، ثُمَّ الْإِقْبَالِ عَلَى السَّائِلِ بِاللُّطْفِ. وَفِيهِ أَنَّ إِضَاعَةَ الْأَمَانَةِ بِتَوْلِيَةِ غَيْرِ الْأَهْلِ عَلَامَةٌ مِنْ عَلَامَاتِ قُرْبِ السَّاعَةِ.",
+      "ringkasan_syarah_id": "Adab mulia seorang guru atau penceramah: menuntaskan susunan kalimatnya terlebih dahulu agar tidak memutus pemahaman hadirin, baru kemudian menyambut penanya dengan ramah. Di dalamnya terdapat peringatan nubuwah bahwa disia-siakannya amanah (menyerahkan jabatan kepada yang bukan ahlinya) merupakan tanda dekatnya Hari Kiamat.",
+      "ringkasan_syarah_en": "The pedagogical etiquette of an instructor completing his train of thought before addressing an inquirer to maintain contextual coherence, followed by answering with benevolence. The narration contains the prophetic warning that entrusting authority to unqualified individuals marks the approach of the Final Hour.",
+      "keterangan_lafal": [
+        {
+          "lafal_arab": "إِذَا ضُيِّعَتِ الأَمَانَةُ فَانْتَظِرِ السَّاعَةَ",
+          "makna_id": "Apabila amanah telah disia-siakan maka tunggulah datangnya Kiamat",
+          "makna_en": "When honesty is lost, then await the Hour",
+          "syarah_ar": "الْأَمَانَةُ التَّكَالِيفُ الشَّرْعِيَّةُ كُلُّهَا وَأَعْظَمُهَا الْوِلَايَاتُ وَالْقَضَاءُ وَالْفُتْيَا.",
+          "syarah_id": "Amanah mencakup seluruh tanggung jawab syariat, terutama tampuk kepemimpinan, peradilan, dan fatwa keagamaan.",
+          "syarah_en": "Trust encompasses all divinely ordained responsibilities, most notably governance, judiciary, and religious verdict."
+        },
+        {
+          "lafal_arab": "إِذَا وُسِّدَ الأَمْرُ إِلَى غَيْرِ أَهْلِهِ",
+          "makna_id": "Apabila suatu urusan diserahkan kepada yang bukan ahlinya",
+          "makna_en": "When authority is delegated to the incompetent",
+          "syarah_ar": "مَأْخُوذٌ مِنَ الْوِسَادَةِ، أَيْ إِذَا أُسْنِدَ الْأَمْرُ إِلَى غَيْرِ مُسْتَحِقِّهِ لِعَدَمِ كَفَاءَتِهِ أَوْ دِينِهِ.",
+          "syarah_id": "Berasal dari kata wisadah (bantal sandaran), artinya bila urusan kepemimpinan disandarkan kepada pihak yang tidak memiliki kompetensi atau integritas takwa.",
+          "syarah_en": "Derived from pillow/cushion of leadership, meaning when affairs are entrusted to those lacking merit and piety."
+        }
+      ],
+      "faedah_dan_hukum": [
+        "Adab mengajar dan menyimak di majelis ta'lim.",
+        "Larangan memutus pembicaraan orang lain secara sembrono.",
+        "Kewajiban menunjuk pejabat publik berdasarkan kriteria keahlian dan amanah (*al-quwwah wal-amaanah*)."
+      ]
+    },
+    {
+      "nomor_hadits": 67,
+      "kitab_id": 3,
+      "kitab_nama_ar": "كِتَابُ الْعِلْمِ",
+      "kitab_nama_id": "Ilmu Pengetahuan",
+      "kitab_nama_en": "Knowledge",
+      "bab_nomor": 11,
+      "bab_nama_ar": "بَاب مَا كَانَ النَّبِيُّ ﷺ يَتَخَوَّلُهُمْ بِالْمَوْعِظَةِ وَالْعِلْمِ كَيْ لاَ يَنْفِرُوا",
+      "bab_nama_id": "Nabi SAW Memilih Waktu Tertentu dalam Memberi Nasehat Agar Sahabat Tidak Bosan",
+      "bab_nama_en": "The Prophet used to arrange special days for preaching to avoid causing boredom",
+      "shamela_ref": {
+        "book_id": 1673,
+        "page_id": 638,
+        "juz": 1,
+        "shafhah": "161 - 164",
+        "url": "https://shamela.ws/book/1673/638"
+      },
+      "indonesia_ref": {
+        "jilid": 1,
+        "filename": "Fathul Baari Jilid 1.pdf",
+        "halaman_buku": "315 - 322",
+        "halaman_pdf": "306 - 313",
+        "preview_url": "https://drive.google.com/file/d/1U7CemsNGbeN7Vt2VbKyXkkSn0clwnxUW/preview"
+      },
+      "ringkasan_syarah_ar": "مُرَاعَاةُ حَالِ الْمُخَاطَبِينَ وَعَدَمُ الْإِكْثَارِ الَّذِي يُورِثُ السَّآمَةَ وَالْمَلَلَ، لِأَنَّ الْقُلُوبَ إِذَا أُكْرِهَتْ عَمِيَتْ، وَالِاقْتِصَادُ فِي التَّعْلِيمِ أَثْبَتُ لِلْفَهْمِ وَأَرْسَخُ لِلْحِفْظِ.",
+      "ringkasan_syarah_id": "Kebijaksanaan dakwah dengan memperhatikan kesiapan mental para pendengar. Menghindari materi yang terlalu panjang dan monoton yang dapat melahirkan rasa jenuh, sebab hati manusia bila dipaksa akan menjadi buta dan enggan menyerap nasihat.",
+      "ringkasan_syarah_en": "The pedagogical wisdom of monitoring students' receptivity and pacing lessons to prevent burnout. Moderation in educational delivery fosters sharper comprehension and enduring memorization.",
+      "keterangan_lafal": [
+        {
+          "lafal_arab": "يَتَخَوَّلُهُمْ بِالْمَوْعِظَةِ",
+          "makna_id": "Memilih waktu yang tepat dalam memberi nasihat",
+          "makna_en": "Arranged occasional days to preach",
+          "syarah_ar": "يَتَعَهَّدُهُمْ فِي الْأَوْقَاتِ الْمُنَاسِبَةِ سَاعَةً بَعْدَ سَاعَةٍ وَيَوْمًا بَعْدَ يَوْمٍ.",
+          "syarah_id": "Yatakhawwaluhum artinya memilih jeda waktu luang yang pas di mana jiwa sedang segar dan siap menerima mutiara ilmu.",
+          "syarah_en": "Yatakhawwalu denotes selecting prime opportune intervals when minds are attentive and rested."
+        }
+      ],
+      "faedah_dan_hukum": [
+        "Pentingnya metodologi pengajaran yang menyenangkan dan proporsional.",
+        "Kewajiban da'i dan ustadz menyusun kurikulum ta'lim yang tidak memberatkan umat."
+      ]
+    },
+    {
+      "nomor_hadits": 71,
+      "kitab_id": 3,
+      "kitab_nama_ar": "كِتَابُ الْعِلْمِ",
+      "kitab_nama_id": "Ilmu Pengetahuan",
+      "kitab_nama_en": "Knowledge",
+      "bab_nomor": 13,
+      "bab_nama_ar": "بَاب مَنْ يُرِدِ اللَّهُ بِهِ خَيْرًا يُفَقِّهْهُ فِي الدِّينِ",
+      "bab_nama_id": "Barangsiapa Dikehendaki Kebaikan oleh Allah Niscaya Difahamkan dalam Urusan Agama",
+      "bab_nama_en": "Whoever Allah wishes good for, He grants him deep comprehension of the religion",
+      "shamela_ref": {
+        "book_id": 1673,
+        "page_id": 643,
+        "juz": 1,
+        "shafhah": "164 - 168",
+        "url": "https://shamela.ws/book/1673/643"
+      },
+      "indonesia_ref": {
+        "jilid": 1,
+        "filename": "Fathul Baari Jilid 1.pdf",
+        "halaman_buku": "325 - 335",
+        "halaman_pdf": "316 - 326",
+        "preview_url": "https://drive.google.com/file/d/1U7CemsNGbeN7Vt2VbKyXkkSn0clwnxUW/preview"
+      },
+      "ringkasan_syarah_ar": "مَفْهُومُ الْحَدِيثِ أَنَّ مَنْ لَمْ يَتَفَقَّهْ فِي الدِّينِ لَمْ يُرِدِ اللَّهُ بِهِ خَيْرًا، وَالْفِقْهُ هُوَ الْفَهْمُ الْعَمِيقُ لِأَحْكَامِ الشَّرِيعَةِ وَمَقَاصِدِهَا الْمُثْمِرُ لِلْعَمَلِ وَالْخَشْيَةِ.",
+      "ringkasan_syarah_id": "Mafhum mukhalafah hadits ini adalah: barangsiapa yang tidak berusaha memahami agamanya, maka Allah tidak menghendaki kebaikan baginya. Fikih di sini bukan sekadar hafalan hukum lahiriah, melainkan pemahaman mendalam tentang maqashid syariah yang melahirkan ketakwaan batin dan amalan nyata.",
+      "ringkasan_syarah_en": "The inverse implication reveals that whoever shows indifference to religious comprehension is deprived of divine benevolence. Fiqh denotes profound insight into the divine rulings and higher objectives of Shariah that bears fruit in piety.",
+      "keterangan_lafal": [
+        {
+          "lafal_arab": "يُفَقِّهْهُ فِي الدِّينِ",
+          "makna_id": "Allah anugerahi kepahaman mendalam dalam agama",
+          "makna_en": "Grants him deep understanding of the religion",
+          "syarah_ar": "الْفِقْهُ الْفَهْمُ، وَالْمُرَادُ الْفَهْمُ فِي أَحْكَامِ الشَّرِيعَةِ عَقِيدَةً وَعَمَلًا.",
+          "syarah_id": "Al-Fiqh bermakna pemahaman yang tajam dan tembus ke inti dalil Al-Qur'an dan Sunnah, baik dalam aqidah maupun muamalah.",
+          "syarah_en": "Fiqh signifies penetrating discernment into the core wisdom of scriptures, uniting doctrine and righteous action."
+        }
+      ],
+      "faedah_dan_hukum": [
+        "Keutamaan agung para penuntut ilmu syar'i dan para ulama fuqaha.",
+        "Ilmu agama adalah anugerah termulia yang melebihi harta dan tahta dunia."
+      ]
+    },
+    {
+      "nomor_hadits": 100,
+      "kitab_id": 3,
+      "kitab_nama_ar": "كِتَابُ الْعِلْمِ",
+      "kitab_nama_id": "Ilmu Pengetahuan",
+      "kitab_nama_en": "Knowledge",
+      "bab_nomor": 34,
+      "bab_nama_ar": "بَاب كَيْفَ يُقْبَضُ الْعِلْمُ",
+      "bab_nama_id": "Bagaimana Cara Ilmu Dicabut dari Muka Bumi",
+      "bab_nama_en": "How religious knowledge will be taken away",
+      "shamela_ref": {
+        "book_id": 1673,
+        "page_id": 677,
+        "juz": 1,
+        "shafhah": "194 - 198",
+        "url": "https://shamela.ws/book/1673/677"
+      },
+      "indonesia_ref": {
+        "jilid": 1,
+        "filename": "Fathul Baari Jilid 1.pdf",
+        "halaman_buku": "395 - 405",
+        "halaman_pdf": "386 - 396",
+        "preview_url": "https://drive.google.com/file/d/1U7CemsNGbeN7Vt2VbKyXkkSn0clwnxUW/preview"
+      },
+      "ringkasan_syarah_ar": "بَيَّنَ ﷺ أَنَّ مَحْوَ الْعِلْمِ لَا يَكُونُ بِانْتِزَاعِهِ مِنَ الصُّدُورِ، بَلْ بِمَوْتِ حَمَلَتِهِ مِنَ الْعُلَمَاءِ الرَّبَّانِيِّينَ، حَتَّى إِذَا لَمْ يَبْقَ عَالِمٌ اتَّخَذَ النَّاسُ رُؤَسَاءَ جُهَّالًا فَسُئِلُوا فَأَفْتَوْا بِغَيْرِ عِلْمٍ فَضَلُّوا وَأَضَلُّوا.",
+      "ringkasan_syarah_id": "Nabi ﷺ mengabarkan bahwa dicabutnya ilmu bukan dengan dihapusnya ingatan dari dada manusia, melainkan dengan diwafatkannya para ulama rabbani pewaris nabi satu demi satu. Hingga bila tidak tersisa orang alim sejati, masyarakat mengangkat para pemimpin bodoh yang berfatwa tanpa ilmu, sehingga mereka sesat dan menyesatkan umat.",
+      "ringkasan_syarah_en": "The Prophet ﷺ revealed that knowledge is not eradicated by erasing it from human breasts, but rather through the passing away of authentic pious scholars. When no genuine scholars remain, people elevate ignorant leaders who issue verdicts without knowledge, straying and leading others astray.",
+      "keterangan_lafal": [
+        {
+          "lafal_arab": "إِنَّ اللَّهَ لاَ يَقْبِضُ الْعِلْمَ انْتِزَاعًا",
+          "makna_id": "Sesungguhnya Allah tidak mencabut ilmu dengan melenyapkannya seketika",
+          "makna_en": "Allah does not take away knowledge by snatching it away",
+          "syarah_ar": "لَا يَمْحُوهُ مِنَ الصُّدُورِ بَعْدَ أَنْ وَعَتْهُ، بَلْ بِقَبْضِ الْعُلَمَاءِ.",
+          "syarah_id": "Allah tidak melenyapkan ilmu dari dada penghafalnya secara gaib, melainkan dengan wafatnya sang ulama pelita umat.",
+          "syarah_en": "Divine knowledge is not erased mysteriously from hearts, but recedes through the demise of its scholarly guardians."
+        },
+        {
+          "lafal_arab": "فَضَلُّوا وَأَضَلُّوا",
+          "makna_id": "Maka mereka tersesat dan menyesatkan orang lain",
+          "makna_en": "So they go astray and lead others astray",
+          "syarah_ar": "ضَلُّوا فِي أَنْفُسِهِمْ بِالْجَهْلِ، وَأَضَلُّوا غَيْرَهُمْ بِالْفَتْوَى الْفَاسِدَةِ.",
+          "syarah_id": "Tersesat dalam diri mereka karena kebodohan, dan menyesatkan masyarakat karena fatwa serampangan tanpa dasar nash dan qiyas yang sahih.",
+          "syarah_en": "They lose their own bearing through ignorance, while misleading the public through erroneous, unsubstantiated rulings."
+        }
+      ],
+      "faedah_dan_hukum": [
+        "Keharusan memuliakan dan menuntut ilmu dari para ulama tsiqah mumpuni.",
+        "Peringatan paling keras terhadap keberanian mengeluarkan fatwa atau pendapat agama tanpa bekal ilmu yang kokoh."
+      ]
+    },
+    {
+      "nomor_hadits": 107,
+      "kitab_id": 3,
+      "kitab_nama_ar": "كِتَابُ الْعِلْمِ",
+      "kitab_nama_id": "Ilmu Pengetahuan",
+      "kitab_nama_en": "Knowledge",
+      "bab_nomor": 38,
+      "bab_nama_ar": "بَاب إِثْمِ مَنْ كَذَبَ عَلَى النَّبِيِّ ﷺ",
+      "bab_nama_id": "Dosa Besar Orang yang Berdusta Atas Nama Nabi SAW",
+      "bab_nama_en": "The grave sin of whoever tells a lie against the Prophet",
+      "shamela_ref": {
+        "book_id": 1673,
+        "page_id": 685,
+        "juz": 1,
+        "shafhah": "201 - 206",
+        "url": "https://shamela.ws/book/1673/685"
+      },
+      "indonesia_ref": {
+        "jilid": 1,
+        "filename": "Fathul Baari Jilid 1.pdf",
+        "halaman_buku": "410 - 425",
+        "halaman_pdf": "401 - 416",
+        "preview_url": "https://drive.google.com/file/d/1U7CemsNGbeN7Vt2VbKyXkkSn0clwnxUW/preview"
+      },
+      "ringkasan_syarah_ar": "الْكَذِبُ عَلَى النَّبِيِّ ﷺ كَبِيرَةٌ مِنْ أَعْظَمِ الْكَبَائِرِ الْمُوبِقَةِ، لِأَنَّ كَلَامَهُ شَرْعٌ وَدِينٌ، فَالْكَذِبُ عَلَيْهِ كَذِبٌ عَلَى شَرِيعَةِ اللَّهِ، وَالْوَعِيدُ فِيهِ مُتَوَاتِرٌ عَنْ نَحْوِ مِائَةٍ مِنَ الصَّحَابَةِ.",
+      "ringkasan_syarah_id": "Berdusta secara sengaja atas nama Rasulullah ﷺ (membuat hadits palsu / maudhu') merupakan salah satu dosa besar yang paling membinasakan. Sabda beliau adalah syariat agama, sehingga berdusta atas nama beliau sama dengan berdusta atas nama syariat Allah. Hadits ancaman neraka ini berderajat mutawatir yang diriwayatkan oleh sekitar 100 sahabat Nabi.",
+      "ringkasan_syarah_en": "Fabricating lies deliberately against the Prophet ﷺ is among the most catastrophic mortal sins. His speech constitutes sacred legislation; hence, fabricating a false hadith is inventing lies against Allah's religion. This warning reaches the status of rigorous Mutawatir, transmitted by approximately 100 Companions.",
+      "keterangan_lafal": [
+        {
+          "lafal_arab": "مَنْ كَذَبَ عَلَيَّ مُتَعَمِّدًا فَلْيَتَبَوَّأْ مَقْعَدَهُ مِنَ النَّارِ",
+          "makna_id": "Barangsiapa berdusta atasku secara sengaja maka hendaklah ia bersiap menempati tempat duduknya di neraka",
+          "makna_en": "Whoever tells a lie against me intentionally, let him take his seat in the Fire",
+          "syarah_ar": "فَلْيَتَبَوَّأْ أَمْرٌ بِمَعْنَى الْخَبَرِ، أَيْ فَقَدِ اسْتَوْجَبَ الْمَقْعَدَ الْمُهَيَّأَ لَهُ فِي النَّارِ.",
+          "syarah_id": "Falyatabawwa' adalah kalimat perintah yang bermakna penetapan vonis pasti (al-istihqaq), bahwa pelakunya telah memesan tempat tinggal kekal di dasar neraka jahannam.",
+          "syarah_en": "Falyatabawwa' is an imperative functioning as a definitive declarative sentence, establishing guaranteed condemnation in the Fire."
+        }
+      ],
+      "faedah_dan_hukum": [
+        "Keharaman memalsukan hadits, baik dalam perkara fadhail amal apalagi masalah halal-haram.",
+        "Kewajiban meneliti sanad dan derajat hadits sebelum menyebarkannya kepada khalayak ramai."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="id" class="scroll-smooth">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>KelasKu+ | Guru Smart Academic — Platform Manajemen Akademik Madrasah</title>
+  <meta name="description" content="Platform Enterprise Manajemen Akademik Madrasah Multi-Tenant, Multi-User & Multi-Academic-Year. MTsN Kota Cimahi.">
+  <meta name="keywords" content="KelasKu+, Guru Smart Academic, MTsN Kota Cimahi, Rapor Madrasah, Kurikulum Merdeka, Presensi Siswa">
+  <meta name="theme-color" content="#2563eb">
+  
+  <!-- Google Fonts: Modern Sans -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@300;400;500;600;700;800&display=swap" rel="stylesheet">
+</head>
+<body class="bg-slate-50 text-slate-800 font-sans antialiased min-h-screen">
+  <div id="root"></div>
+  <script type="module" src="/src/main.jsx"></script>
+  <script>
+    // Clean up any stale Service Workers and caches from previous sessions
+    if ('serviceWorker' in navigator) {
+      navigator.serviceWorker.getRegistrations().then(function(registrations) {
+        for (let registration of registrations) {
+          registration.unregister();
+        }
+      });
+    }
+    if ('caches' in window) {
+      caches.keys().then(function(names) {
+        for (let name of names) caches.delete(name);
+      });
+    }
+  </script>
+</body>
+</html>

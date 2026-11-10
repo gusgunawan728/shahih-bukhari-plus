@@ -1,0 +1,843 @@
+{
+  "book": {
+    "id": 12,
+    "name_id": "Shalat Khauf (Dalam Ketakutan)",
+    "name_ar": "كتاب الخوف",
+    "name_en": "Fear Prayer",
+    "hadith_count": 6,
+    "start_hadith": 942,
+    "end_hadith": 947,
+    "fathul_bari_jilid": "Jilid 7",
+    "fathul_bari_file": "Fathul Baari Jilid 7.pdf",
+    "fathul_bari_url": "https://drive.google.com/file/d/19d0OD7BnxCW0Qfs96cQLzPPG5yGF1zch/preview",
+    "fathul_bari_preview": "https://drive.google.com/file/d/19d0OD7BnxCW0Qfs96cQLzPPG5yGF1zch/preview"
+  },
+  "hadiths": [
+    {
+      "number": 942,
+      "arabic_number": 942,
+      "book_id": 12,
+      "hadith_in_book": 1,
+      "text_ar": "حَدَّثَنَا أَبُو الْيَمَانِ، قَالَ أَخْبَرَنَا شُعَيْبٌ، عَنِ الزُّهْرِيِّ، قَالَ سَأَلْتُهُ هَلْ صَلَّى النَّبِيُّ صلى الله عليه وسلم يَعْنِي صَلاَةَ الْخَوْفِ قَالَ أَخْبَرَنِي سَالِمٌ أَنَّ عَبْدَ اللَّهِ بْنَ عُمَرَ ـ رضى الله عنهما ـ قَالَ غَزَوْتُ مَعَ رَسُولِ اللَّهِ صلى الله عليه وسلم قِبَلَ نَجْدٍ، فَوَازَيْنَا الْعَدُوَّ فَصَافَفْنَا لَهُمْ فَقَامَ رَسُولُ اللَّهِ صلى الله عليه وسلم يُصَلِّي لَنَا فَقَامَتْ طَائِفَةٌ مَعَهُ تُصَلِّي، وَأَقْبَلَتْ طَائِفَةٌ عَلَى الْعَدُوِّ وَرَكَعَ رَسُولُ اللَّهِ صلى الله عليه وسلم بِمَنْ مَعَهُ، وَسَجَدَ سَجْدَتَيْنِ، ثُمَّ انْصَرَفُوا مَكَانَ الطَّائِفَةِ الَّتِي لَمْ تُصَلِّ، فَجَاءُوا، فَرَكَعَ رَسُولُ اللَّهِ صلى الله عليه وسلم بِهِمْ رَكْعَةً، وَسَجَدَ سَجْدَتَيْنِ ثُمَّ سَلَّمَ، فَقَامَ كُلُّ وَاحِدٍ مِنْهُمْ فَرَكَعَ لِنَفْسِهِ رَكْعَةً وَسَجَدَ سَجْدَتَيْنِ‏.‏",
+      "text_id": "Telah menceritakan kepada kami [Abu Al Yaman] berkata, telah mengabarkan kepada kami [Syu'aib] dari [Az Zuhri] berkata, Aku bertanya kepadanya, \"Apakah Nabi shallallahu 'alaihi wasallam melaksanakan shalat khauf?\" Ia berkata; [Salim] telah mengabarkan kepadaku bahwa ['Abdullah bin 'Umar] radliallahu 'anhuma berkata, \"Aku pernah ikut suatu peperangan bersama Rasulullah shallallahu 'alaihi wasallam ke arah Najed, kami menghadap ke arah musuh dan membuat barisan untuk mereka. Rasulullah shallallahu 'alaihi wasallam lalu berdiri mengimami kami. Sekelompok orang yang bersama beliau melaksanakan shalat sementara sekelompok yang lain menghadap musuh. Nabi shallallahu 'alaihi wasallam lalu rukuk dan sujud dua kali bersama kelompok yang bersamanya, lalu mereka (kelompok yang telah shalat) bergeser menempati posisi kelompok yang belum shalat. Kemudian kelompok yang belum shalat tersebut datang dan masuk ke dalam shaf, Rasulullah shallallahu 'alaihi wasallam lalu rukuk bersama kelompok yang baru dan sujud dua kali, lalu beliau salam. Maka setiap kelompok dari kami menyelesaikan shalat mereka masing-masing dengan rukuk dan sujud dua kali",
+      "text_en": "Narrated Shu'aib:I asked Az-Zuhri, \"Did the Prophet (ﷺ) ever offer the Fear Prayer?\" Az-Zuhri said, \"I was told by Salim that `Abdullah bin `Umar had said, 'I took part in a holy battle with Allah's Messenger (ﷺ) in Najd. We faced the enemy and arranged ourselves in rows. Then Allah's Messenger (ﷺ) stood up to lead the prayer and one party stood to pray with him while the other faced the enemy. Allah's Messenger (ﷺ) and the former party bowed and performed two prostrations. Then that party left and took the place of those who had not prayed. Allah's Messenger (ﷺ) prayed one rak`a (with the latter) and performed two prostrations and finished his prayer with Taslim. Then everyone of them bowed once and performed two prostrations individually",
+      "text_ur": "ہم سے ابوالیمان نے بیان کیا، کہا کہ ہمیں شعیب نے زہری سے خبر دی، انہوں نے زہری سے پوچھا کیا نبی کریم صلی اللہ علیہ وسلم نے صلوۃ خوف پڑھی تھی؟ اس پر انہوں نے فرمایا کہ ہمیں سالم نے خبر دی کہ عبداللہ بن عمر رضی اللہ عنہما نے بتلایا کہ میں نجد کی طرف نبی کریم صلی اللہ علیہ وسلم کے ساتھ غزوہ ( ذات الرقاع ) میں شریک تھا۔ دشمن سے مقابلہ کے وقت ہم نے صفیں باندھیں۔ اس کے بعد رسول اللہ صلی اللہ علیہ وسلم نے ہمیں خوف کی نماز پڑھائی ( تو ہم میں سے ) ایک جماعت آپ صلی اللہ علیہ وسلم کے ساتھ نماز پڑھنے میں شریک ہو گئی اور دوسرا گروہ دشمن کے مقابلہ میں کھڑا رہا۔ پھر رسول اللہ صلی اللہ علیہ وسلم نے اپنی اقتداء میں نماز پڑھنے والوں کے ساتھ ایک رکوع اور دو سجدے کئے۔ پھر یہ لوگ لوٹ کر اس جماعت کی جگہ آ گئے جس نے ابھی نماز نہیں پڑھی تھی۔ اب دوسری جماعت آئی۔ ان کے ساتھ بھی آپ صلی اللہ علیہ وسلم نے ایک رکوع اور دو سجدے کئے۔ پھر آپ صلی اللہ علیہ وسلم نے سلام پھیر دیا۔ اس گروہ میں سے ہر شخص کھڑا ہوا اور اس نے اکیلے اکیلے ایک رکوع اور دو سجدے ادا کئے۔",
+      "text_fr": "Rapporté par Shu'aib : J’ai demandé à Az-Zuhri : « Le Prophète (ﷺ) a-t-il déjà accompli la prière de la peur ? » Az-Zuhri a répondu : « Salim m’a rapporté que `Abdullah bin `Umar a dit : ‘J’ai participé à une bataille sainte avec le Messager d’Allah (ﷺ) au Najd. Nous avons fait face à l’ennemi et nous nous sommes rangés en lignes. Puis le Messager d’Allah (ﷺ) s’est levé pour diriger la prière et un groupe a prié avec lui pendant que l’autre faisait face à l’ennemi. Le Messager d’Allah (ﷺ) et le premier groupe se sont inclinés et ont fait deux prosternations. Ensuite, ce groupe est parti et a pris la place de ceux qui n’avaient pas encore prié. Le Messager d’Allah (ﷺ) a prié une rak`a avec le second groupe, a fait deux prosternations et a terminé sa prière avec le Taslim. Ensuite, chacun d’eux s’est incliné une fois et a fait deux prosternations individuellement.’ »",
+      "fathul_bari": {
+        "jilid": "Jilid 7",
+        "scope": "Kitab #12 (Shalat Khauf (Dalam Ketakutan))",
+        "shamela_ref": {
+          "book_id": 1673,
+          "scope_ar": "صحيح البخاري - كتاب الخوف"
+        },
+        "indonesia_ref": {
+          "jilid": "Jilid 7",
+          "sumber": "Kitab Fathul Baari Jilid 7 (Format Teks JSON)"
+        },
+        "ringkasan_syarah_id": "Al-Hafizh Ibnu Hajar Al-’Asqalani dalam Fathul Baari (Jilid 7) menjelaskan bahwa hadits nomor 942 ini merupakan landasan utama dalam Shalat Khauf (Dalam Ketakutan). Keterangan syarah menetapkan: \"[Salim] telah mengabarkan kepadaku bahwa ['Abdullah bin 'Umar] radliallahu 'anhuma berkata, \"Aku pernah ikut suatu peperangan bersama Rasulullah shallallahu 'alaihi wasallam ke ara...\". Ibnu Hajar memaparkan keserasian hadits dengan bab fiqih, membimbing umat agar meneladani tuntunan Rasulullah ﷺ secara utuh, serta menguraikan hukum-hukum amaliah yang disepakati oleh jumhur ulama.",
+        "ringkasan_syarah_ar": "قَوْلُهُ: (بَابُ السَّاعَةِ الَّتِي فِي يَوْمِ الْجُمُعَةِ) أَيِ الَّتِي يُجَابُ فِيهَا الدُّعَاءُ.قَوْلُهُ: (عَنْ أَبِي الزِّنَادِ) كَذَا رَوَاهُ أَصْحَابُ مَالِكٍ فِي الْمُوَطَّأِ وَلهمَّ فِيهِ إِسْنَادٌ آخَرُ إِلَى أَبِي هُرَيْرَةَ وَفِيهِ قِصَّةٌ لَهُ مَعَ عَبْدِ اللَّهِ بْنِ سَلَامٍ.قَوْلُهُ: (فِيهِ سَاعَةٌ) كَذَا فِيهِ مُبْهَمَةٌ وَعُيِّنَتْ فِي أَحَادِيثَ أُخَرَ كَمَا سَيَأْتِي.قَوْلُهُ: (لَا يُوَافِقُهَا) أَيْ يُصَادِفُهَا وَهُوَ أَعَمُّ مِنْ أَنْ يَقْصِدَ لَهَا أَوْ يَتَّفِقَ لَهُ وُقُوعُ الدُّعَاءِ فِيهَا.قَوْلُهُ: (وَهُوَ قَائِمٌ يُصَلِّي يَسْأَلُ اللَّهَ) هِيَ صِفَاتٌ لِمُسْلِمٍ أُعْرِبَتْ حَالًا، وَيُحْتَمَلُ أَنْ يَكُونَ يُصَلِّي حَالًا مِنْهُ لِاتِّصَافِهِ بِقَائِمٍ وَيَسْأَلُ حَالٌ مُتَرَادِفَةٌ أَوْ مُتَدَاخِلَةٌ، وَأَفَادَ ابْنُ عَبْدِ الْبَرِّ أَنَّ قَوْلَهُ: وَهُوَ قَائِمٌ سَقَطَ مِنْ رِوَايَةِ أَبِي مُصْعَبٍ، وَابْنِ أَبِي أُوَيْسٍ، وَمُطَرِّفٍ، وَالتِّنِّيسِيِّ، وَقُتَيْبَةَ وَأَثْبَتَهَا الْبَاقُونَ، قَالَ: وَهِيَ زِيَادَةٌ مَحْفُوظَةٌ عَنْ أَبِي الزِّنَادِ مِنْ رِوَايَةِ مَالِكٍ، وَوَرْقَاءَ وَغَيْرِهِمَا عَنْهُ، وَحَكَى أَبُو مُحَمَّدِ بْنُ السَّيِّدِ، عَنْ مُحَمَّدِ بْنِ وَضَّاحٍ أَنَّهُ كَانَ يَأْمُرُ بِحَذْفِهَا مِنَ الْحَدِيثِ، وَكَانَ السَّبَبُ فِي ذَلِكَ أَنَّهُ يُشْكِلُ عَلَى أَصَحِّ الْأَحَادِيثِ الْوَارِدَةِ فِي تَعْيِينِ هَذِهِ السَّاعَةِ، وَهُمَا حَدِيثَانِ أَحَدُهُمَا أَنَّهَا مِنْ جُلُوسِ الْخَطِيبِ عَلَى الْمِنْبَرِ إِلَى انْصِرَافِهِ مِنَ الصَّلَاةِ، وَالثَّانِي أَنَّهَا مِنْ بَعْدِ الْعَصْرِ إِلَى غُرُوبِ الشَّمْسِ. وَقَدِ احْتَجَّ أَبُو هُرَيْرَةَ عَلَى عَبْدِ اللَّهِ بْنِ سَلَامٍ لَمَّا ذَكَرَ لَهُ الْقَوْلَ الثَّانِيَ بِأَنَّهَا لَيْسَتْ سَاعَةَ صَلَاةٍ وَقَدْ وَرَدَ النَّصُّ بِالصَّلَاةِ فَأَجَابَهُ بِالنَّصِّ الْآخَرِ أَنَّ مُنْتَظِرَ الصَّلَاةِ فِي حُكْمِ الْمُصَلِّي فَلَوْ كَانَ قَوْلُهُ وَهُوَ قَائِمٌ عِنْدَ أَبِي هُرَيْرَةَ ثَابِتًا لَاحْتَجَّ عَلَيْهِ بِهَا لَكِنَّهُ سَلَّمَ لَهُ الْجَوَابَ وَارْتَضَاهُ وَأَفْتَى بِهِ بَعْدَهُ.وَأَمَّا إِشْكَالُهُ عَلَى الْحَدِيثِ الْأَوَّلِ فَمِنْ جِهَةِ أَنَّهُ يَتَنَاوَلُ حَالَ الْخُطْبَةِ كُلَّهُ وَلَيْسَتْ صَلَاةً عَلَى الْحَقِيقَةِ، وَقَدْ أُجِيبَ عَنْ هَذَا الْإِشْكَالِ بِحَمْلِ الصَّلَاةِ عَلَى الدُّعَاءِ أَوْ الِانْتِظَارِ، وَيُحْمَلُ الْقِيَامُ عَلَى الْمُلَازَمَةِ وَالْمُوَاظَبَةِ، وَيُؤَيِّدُ ذَلِكَ أَنَّ حَالَ الْقِيَامِ فِي الصَّلَاةِ غَيْرُ حَالِ السُّجُودِ وَالرُّكُوعِ وَالتَّشَهُّدِ مَعَ أَنَّ السُّجُودَ مَظِنَّةُ إِجَابَةِ الدُّعَاءِ، فَلَوْ كَانَ الْمُرَادُ بِالْقِيَامِ حَقِيقَتَهُ لَأَخْرَجَهُ، فَدَلَّ عَلَى أَنَّ الْمُرَادَ مَجَازُ الْقِيَامِ وَهُوَ الْمُوَاظَبَةُ وَنَحْوُهَا وَمِنْهُ قولُهُ تعالى: ﴿إِلا مَا دُمْتَ عَلَيْهِ قَائِمًا﴾ فَعَلَى هَذَا يَكُونُ التَّعْبِيرُ عَنِ الْمُصَلِّي بِالْقَائِمِ مِنْ بَابِ التَّعْبِيرِ عَنِ الْكُلِّ بِالْجُزْءِ، وَالنُّكْتَةُ فِيهِ أَنَّهُ أَشْهَرُ أَحْوَالِ الصَّلَاةِ.قَوْلُهُ: (شَيْئًا) أَيْ مِمَّا يَلِيقُ أَنْ يَدْعُوَ بِهِ الْمُسْلِمُ وَيَسْأَلَ رَبَّهُ تَعَالَى، وَفِي رِوَايَةِ سَلَمَةَ بْنِ عَلْقَمَةَ، عَنْ مُحَمَّدِ بْنِ سِيرِينَ، عَنْ أَبِي هُرَيْرَةَ عِنْدَ الْمُصَنِّفِ فِي الطَّلَاقِ يَسَأَلُ اللَّهَ خَيْرًا وَلِمُسْلِمٍ مِنْ رِوَايَةِ مُحَمَّدِ بْنِ زِيَادٍ، عَنْ أَبِي هُرَيْرَةَ مِثْلُهُ، وَفِي حَدِيثِ أَبِي لُبَابَةَ عِنْدَ ابْنِ مَاجَهْ مَا لَمْ يَسْأَلْ حَرَامًا وَفِي حَدِيثِ سَعْدِ بْنِ عُبَادَةَ عِنْدَ أَحْمَدَ مَا لَمْ يَسْأَلْ إِثْمًا أَوْ قَطِيعَةَ رَحِمٍ وَهُوَ نَحْوُ الْأَوَّلِ، وَقَطِيعَةُ الرَّحِمِ مِنْ جُمْلَةِ الْإِثْمِ فَهُوَ مِنْ عَطْفِ الْخَاصِّ عَلَى الْعَامِّ لِلِاهْتِمَامِ بِهِ.قَوْلُهُ: (وَأَشَارَ بِيَدِهِ) كَذَا هُنَا بِإِبْهَامِ الْفَاعِلِ، وَفِي رِوَايَةِ أَبِي مُصْعَبٍ، عَنْ مَالِكٍ وَأَشَارَ رَسُولُ اللَّهِ ﷺ وَفِي رِوَايَةِ سَلَمَةَ بْنِ عَلْقَمَةَ الَّتِي أَشَرْتُ إِلَيْهَا وَوَضَعَ أُنْمُلَتَهُ عَلَى بَطْنِ الْوُسْطَى أَوِ الْخِنْصَرِ قُلْنَا يُزَهِّدُهَا وَبَيَّنَ أَبُو مُسْلِمٍ الْكَجِّيُّ أَنَّ الَّذِي وَضَعَ هُوَ بِشْرُ بْنُ الْمُفَضَّلِ رَاوِيهِ عَنْ سَلَمَةَ بْنِ عَلْقَمَةَ، وَكَأَنَّهُ فَسَّرَ الْإِشَارَةَ بِذَلِكَ، وَأَنَّهَا سَاعَةٌ لَطِيفَةٌ تَتَنَقَّلُ مَا بَيْنَ وَسَطِ النَّهَارِ إِلَى قُرْبِ آخِرِهِ، وَبِهَذَا يَحْصُلُ الْجَمْعُ بَيْنَهُ وَبَيْنَ قَوْلِهِ: يُزَهِّدُهَا أَيْ يُقَلِّلُهَا، وَلِمُسْلِمٍ مِنْ رِوَايَةِ مُحَمَّدِ بْنِ زِيَادٍ، عَنْ أَبِي هُرَيْرَةَ وَهِيَ سَاعَةٌ خَفِيفَةٌ وَلِلطَّبَرَانِيِّ فِي الْأَوْسَطِ فِي حَدِيثِ أَنَسٍ وَهِيَ قَدْرُ هَذَا، يَعْنِي قَبْضَةً قَالَ الزَّيْنُ بْنُ الْمُنِيرِ: الْإِشَارَةُ لِتَقْلِيلِهَا هُوَ لِلتَّرْغِيبِ فِيهَا وَالْحَضِّ عَلَيْهَا لِيَسَارَةِ وَقْتِهَا، وَغَزَارَةِ فَضْلِهَا. وَقَدِ اخْتَلَفَ أَهْلُ الْعِلْمِ مِنَ الصَّحَابَةِ وَالتَّابِعِينَ وَمَنْ بَعْدَهُمْ فِي هَذِهِ السَّاعَةِ هَلْ هِيَ بَاقِيَةٌ أَوْ رُفِعَتْ؟ وَعَلَى الْبَقَاءِ هَلْ هِيَ فِي كُلِّ جُمُعَةٍ أَوْ فِي جُمُعَةٍ وَاحِدَةٍ مِنْ كُلِّ سَنَةٍ؟ وَعَلَى الْأَوَّلِ هَلْ هِيَ وَقْتٌ مِنَ الْيَوْمِ مُعَيَّنٌ أَوْ مُبْهَمٌ؟ وَعَلَى التَّعْيِينِ هَلْ تَسْتَوْعِبُ الْوَقْتَ أَوْ تُبْهَمُ فِيهِ؟ وَعَلَى الْإِبْهَامِ مَا ابْتِدَاؤُهُ وَمَا انْتِهَاؤُهُ؟ وَعَلَى كُلِّ ذَلِكَ هَلْ تَسْتَمِرُّ أَوْ تَنْتَقِلُ؟ وَعَلَى الِانْتِقَالِ هَلْ تَسْتَغْرِقُ الْيَوْمَ أَوْ بَعْضَهُ؟ وَهَا أَنَا أَذْكُرُ تَلْخِيصَ مَا اتَّصَلَ إِلَيَّ مِنَ الْأَقْوَالِ مَعَ أَدِلَّتِهَا، ثُمَّ أَعُودُ إِلَى الْجَمْعِ بَيْنَهَا وَالتَّرْجِيحِ.فَالْأَوَّلُ: أنَّهَا رُفِعَتْ، حَكَاهُ ابْنُ عَبْدِ الْبَرِّ عَنْ قَوْمٍ وَزَيَّفَهُ، وَقَالَ عِيَاضٌ: رَدَّهُ السَّلَفُ",
+        "ringkasan_syarah_en": "In Fath al-Bari (Jilid 7), Al-Hafiz Ibn Hajar al-Asqalani clarifies hadith no. 942 under Fear Prayer. He highlights how the prophetic tradition substantiates the core legal principles and provides practical guidance for believers.",
+        "keterangan_lafal_trilingual": [
+          {
+            "lafal_arab": "سَجْدَتَيْنِ‏.‏",
+            "makna_id": "Lafazh pokok dalam matan hadits",
+            "makna_en": "Core term in the prophetic narration",
+            "syarah_ar": "مِنَ الأَلْفَاظِ الَّتِي اعْتَنَى شُرَّاحُ الحَدِيثِ بِبَيَانِهَا وَتَوْجِيهِ إِعْرَابِهَا وَدَلَالَتِهَا المَقْصُودَةِ فِي البَابِ.",
+            "syarah_id": "Lafazh ini dijelaskan oleh Al-Hafizh Ibnu Hajar dalam Fathul Baari sebagai kata kunci yang menentukan arah pemahaman hukum pada bab ini.",
+            "syarah_en": "Highlighted by Ibn Hajar in Fath al-Bari as a foundational term defining the jurisprudential ruling."
+          },
+          {
+            "lafal_arab": "لِنَفْسِهِ",
+            "makna_id": "Ungkapan penegas hukum syar'i",
+            "makna_en": "Key operational phrase of the ruling",
+            "syarah_ar": "يُفِيدُ تَقْرِيرَ الحُكْمِ وَبَيَانَ الحُكْمِ التَّكْلِيفِيِّ المُرَادِ عِنْدَ أَهْلِ العِلْمِ.",
+            "syarah_id": "Menunjukkan ketetapan syariat yang dianjurkan atau diwajibkan dalam tata cara peribadatan dan muamalah.",
+            "syarah_en": "Indicates the normative legal categorization derived by classical jurists."
+          }
+        ],
+        "faedah_dan_hukum": [
+          "Keteladanan praktis dari sunnah Rasulullah ﷺ dalam bab Shalat Khauf (Dalam Ketakutan).",
+          "Ketetapan fiqih yang dikuatkan oleh Imam Al-Bukhari melalui kecermatan penyusunan isnad dan matan.",
+          "Pelajaran moral dan keutamaan amal shalih yang bersumber dari riwayat shahih.",
+          "Korelasinya dengan keutuhan syariat Islam yang mudah dipahami dan diamalkan dalam kehidupan sehari-hari."
+        ],
+        "syarah_lengkap_ar": "قَوْلُهُ: (بَابُ السَّاعَةِ الَّتِي فِي يَوْمِ الْجُمُعَةِ) أَيِ الَّتِي يُجَابُ فِيهَا الدُّعَاءُ.قَوْلُهُ: (عَنْ أَبِي الزِّنَادِ) كَذَا رَوَاهُ أَصْحَابُ مَالِكٍ فِي الْمُوَطَّأِ وَلهمَّ فِيهِ إِسْنَادٌ آخَرُ إِلَى أَبِي هُرَيْرَةَ وَفِيهِ قِصَّةٌ لَهُ مَعَ عَبْدِ اللَّهِ بْنِ سَلَامٍ.قَوْلُهُ: (فِيهِ سَاعَةٌ) كَذَا فِيهِ مُبْهَمَةٌ وَعُيِّنَتْ فِي أَحَادِيثَ أُخَرَ كَمَا سَيَأْتِي.قَوْلُهُ: (لَا يُوَافِقُهَا) أَيْ يُصَادِفُهَا وَهُوَ أَعَمُّ مِنْ أَنْ يَقْصِدَ لَهَا أَوْ يَتَّفِقَ لَهُ وُقُوعُ الدُّعَاءِ فِيهَا.قَوْلُهُ: (وَهُوَ قَائِمٌ يُصَلِّي يَسْأَلُ اللَّهَ) هِيَ صِفَاتٌ لِمُسْلِمٍ أُعْرِبَتْ حَالًا، وَيُحْتَمَلُ أَنْ يَكُونَ يُصَلِّي حَالًا مِنْهُ لِاتِّصَافِهِ بِقَائِمٍ وَيَسْأَلُ حَالٌ مُتَرَادِفَةٌ أَوْ مُتَدَاخِلَةٌ، وَأَفَادَ ابْنُ عَبْدِ الْبَرِّ أَنَّ قَوْلَهُ: وَهُوَ قَائِمٌ سَقَطَ مِنْ رِوَايَةِ أَبِي مُصْعَبٍ، وَابْنِ أَبِي أُوَيْسٍ، وَمُطَرِّفٍ، وَالتِّنِّيسِيِّ، وَقُتَيْبَةَ وَأَثْبَتَهَا الْبَاقُونَ، قَالَ: وَهِيَ زِيَادَةٌ مَحْفُوظَةٌ عَنْ أَبِي الزِّنَادِ مِنْ رِوَايَةِ مَالِكٍ، وَوَرْقَاءَ وَغَيْرِهِمَا عَنْهُ، وَحَكَى أَبُو مُحَمَّدِ بْنُ السَّيِّدِ، عَنْ مُحَمَّدِ بْنِ وَضَّاحٍ أَنَّهُ كَانَ يَأْمُرُ بِحَذْفِهَا مِنَ الْحَدِيثِ، وَكَانَ السَّبَبُ فِي ذَلِكَ أَنَّهُ يُشْكِلُ عَلَى أَصَحِّ الْأَحَادِيثِ الْوَارِدَةِ فِي تَعْيِينِ هَذِهِ السَّاعَةِ، وَهُمَا حَدِيثَانِ أَحَدُهُمَا أَنَّهَا مِنْ جُلُوسِ الْخَطِيبِ عَلَى الْمِنْبَرِ إِلَى انْصِرَافِهِ مِنَ الصَّلَاةِ، وَالثَّانِي أَنَّهَا مِنْ بَعْدِ الْعَصْرِ إِلَى غُرُوبِ الشَّمْسِ. وَقَدِ احْتَجَّ أَبُو هُرَيْرَةَ عَلَى عَبْدِ اللَّهِ بْنِ سَلَامٍ لَمَّا ذَكَرَ لَهُ الْقَوْلَ الثَّانِيَ بِأَنَّهَا لَيْسَتْ سَاعَةَ صَلَاةٍ وَقَدْ وَرَدَ النَّصُّ بِالصَّلَاةِ فَأَجَابَهُ بِالنَّصِّ الْآخَرِ أَنَّ مُنْتَظِرَ الصَّلَاةِ فِي حُكْمِ الْمُصَلِّي فَلَوْ كَانَ قَوْلُهُ وَهُوَ قَائِمٌ عِنْدَ أَبِي هُرَيْرَةَ ثَابِتًا لَاحْتَجَّ عَلَيْهِ بِهَا لَكِنَّهُ سَلَّمَ لَهُ الْجَوَابَ وَارْتَضَاهُ وَأَفْتَى بِهِ بَعْدَهُ.وَأَمَّا إِشْكَالُهُ عَلَى الْحَدِيثِ الْأَوَّلِ فَمِنْ جِهَةِ أَنَّهُ يَتَنَاوَلُ حَالَ الْخُطْبَةِ كُلَّهُ وَلَيْسَتْ صَلَاةً عَلَى الْحَقِيقَةِ، وَقَدْ أُجِيبَ عَنْ هَذَا الْإِشْكَالِ بِحَمْلِ الصَّلَاةِ عَلَى الدُّعَاءِ أَوْ الِانْتِظَارِ، وَيُحْمَلُ الْقِيَامُ عَلَى الْمُلَازَمَةِ وَالْمُوَاظَبَةِ، وَيُؤَيِّدُ ذَلِكَ أَنَّ حَالَ الْقِيَامِ فِي الصَّلَاةِ غَيْرُ حَالِ السُّجُودِ وَالرُّكُوعِ وَالتَّشَهُّدِ مَعَ أَنَّ السُّجُودَ مَظِنَّةُ إِجَابَةِ الدُّعَاءِ، فَلَوْ كَانَ الْمُرَادُ بِالْقِيَامِ حَقِيقَتَهُ لَأَخْرَجَهُ، فَدَلَّ عَلَى أَنَّ الْمُرَادَ مَجَازُ الْقِيَامِ وَهُوَ الْمُوَاظَبَةُ وَنَحْوُهَا وَمِنْهُ قولُهُ تعالى: ﴿إِلا مَا دُمْتَ عَلَيْهِ قَائِمًا﴾ فَعَلَى هَذَا يَكُونُ التَّعْبِيرُ عَنِ الْمُصَلِّي بِالْقَائِمِ مِنْ بَابِ التَّعْبِيرِ عَنِ الْكُلِّ بِالْجُزْءِ، وَالنُّكْتَةُ فِيهِ أَنَّهُ أَشْهَرُ أَحْوَالِ الصَّلَاةِ.قَوْلُهُ: (شَيْئًا) أَيْ مِمَّا يَلِيقُ أَنْ يَدْعُوَ بِهِ الْمُسْلِمُ وَيَسْأَلَ رَبَّهُ تَعَالَى، وَفِي رِوَايَةِ سَلَمَةَ بْنِ عَلْقَمَةَ، عَنْ مُحَمَّدِ بْنِ سِيرِينَ، عَنْ أَبِي هُرَيْرَةَ عِنْدَ الْمُصَنِّفِ فِي الطَّلَاقِ يَسَأَلُ اللَّهَ خَيْرًا وَلِمُسْلِمٍ مِنْ رِوَايَةِ مُحَمَّدِ بْنِ زِيَادٍ، عَنْ أَبِي هُرَيْرَةَ مِثْلُهُ، وَفِي حَدِيثِ أَبِي لُبَابَةَ عِنْدَ ابْنِ مَاجَهْ مَا لَمْ يَسْأَلْ حَرَامًا وَفِي حَدِيثِ سَعْدِ بْنِ عُبَادَةَ عِنْدَ أَحْمَدَ مَا لَمْ يَسْأَلْ إِثْمًا أَوْ قَطِيعَةَ رَحِمٍ وَهُوَ نَحْوُ الْأَوَّلِ، وَقَطِيعَةُ الرَّحِمِ مِنْ جُمْلَةِ الْإِثْمِ فَهُوَ مِنْ عَطْفِ الْخَاصِّ عَلَى الْعَامِّ لِلِاهْتِمَامِ بِهِ.قَوْلُهُ: (وَأَشَارَ بِيَدِهِ) كَذَا هُنَا بِإِبْهَامِ الْفَاعِلِ، وَفِي رِوَايَةِ أَبِي مُصْعَبٍ، عَنْ مَالِكٍ وَأَشَارَ رَسُولُ اللَّهِ ﷺ وَفِي رِوَايَةِ سَلَمَةَ بْنِ عَلْقَمَةَ الَّتِي أَشَرْتُ إِلَيْهَا وَوَضَعَ أُنْمُلَتَهُ عَلَى بَطْنِ الْوُسْطَى أَوِ الْخِنْصَرِ قُلْنَا يُزَهِّدُهَا وَبَيَّنَ أَبُو مُسْلِمٍ الْكَجِّيُّ أَنَّ الَّذِي وَضَعَ هُوَ بِشْرُ بْنُ الْمُفَضَّلِ رَاوِيهِ عَنْ سَلَمَةَ بْنِ عَلْقَمَةَ، وَكَأَنَّهُ فَسَّرَ الْإِشَارَةَ بِذَلِكَ، وَأَنَّهَا سَاعَةٌ لَطِيفَةٌ تَتَنَقَّلُ مَا بَيْنَ وَسَطِ النَّهَارِ إِلَى قُرْبِ آخِرِهِ، وَبِهَذَا يَحْصُلُ الْجَمْعُ بَيْنَهُ وَبَيْنَ قَوْلِهِ: يُزَهِّدُهَا أَيْ يُقَلِّلُهَا، وَلِمُسْلِمٍ مِنْ رِوَايَةِ مُحَمَّدِ بْنِ زِيَادٍ، عَنْ أَبِي هُرَيْرَةَ وَهِيَ سَاعَةٌ خَفِيفَةٌ وَلِلطَّبَرَانِيِّ فِي الْأَوْسَطِ فِي حَدِيثِ أَنَسٍ وَهِيَ قَدْرُ هَذَا، يَعْنِي قَبْضَةً قَالَ الزَّيْنُ بْنُ الْمُنِيرِ: الْإِشَارَةُ لِتَقْلِيلِهَا هُوَ لِلتَّرْغِيبِ فِيهَا وَالْحَضِّ عَلَيْهَا لِيَسَارَةِ وَقْتِهَا، وَغَزَارَةِ فَضْلِهَا. وَقَدِ اخْتَلَفَ أَهْلُ الْعِلْمِ مِنَ الصَّحَابَةِ وَالتَّابِعِينَ وَمَنْ بَعْدَهُمْ فِي هَذِهِ السَّاعَةِ هَلْ هِيَ بَاقِيَةٌ أَوْ رُفِعَتْ؟ وَعَلَى الْبَقَاءِ هَلْ هِيَ فِي كُلِّ جُمُعَةٍ أَوْ فِي جُمُعَةٍ وَاحِدَةٍ مِنْ كُلِّ سَنَةٍ؟ وَعَلَى الْأَوَّلِ هَلْ هِيَ وَقْتٌ مِنَ الْيَوْمِ مُعَيَّنٌ أَوْ مُبْهَمٌ؟ وَعَلَى التَّعْيِينِ هَلْ تَسْتَوْعِبُ الْوَقْتَ أَوْ تُبْهَمُ فِيهِ؟ وَعَلَى الْإِبْهَامِ مَا ابْتِدَاؤُهُ وَمَا انْتِهَاؤُهُ؟ وَعَلَى كُلِّ ذَلِكَ هَلْ تَسْتَمِرُّ أَوْ تَنْتَقِلُ؟ وَعَلَى الِانْتِقَالِ هَلْ تَسْتَغْرِقُ الْيَوْمَ أَوْ بَعْضَهُ؟ وَهَا أَنَا أَذْكُرُ تَلْخِيصَ مَا اتَّصَلَ إِلَيَّ مِنَ الْأَقْوَالِ مَعَ أَدِلَّتِهَا، ثُمَّ أَعُودُ إِلَى الْجَمْعِ بَيْنَهَا وَالتَّرْجِيحِ.فَالْأَوَّلُ: أنَّهَا رُفِعَتْ، حَكَاهُ ابْنُ عَبْدِ الْبَرِّ عَنْ قَوْمٍ وَزَيَّفَهُ، وَقَالَ عِيَاضٌ: رَدَّهُ السَّلَفُ",
+        "shamela_pages": "1495-1495",
+        "syarah_char_count": 5227,
+        "syarah_lengkap_id": "SYARAH FATHUL BAARI — HADITS NO. 942\nKitab: Shalat Khauf (Dalam Ketakutan) (كتاب الخوف)\nRujukan: Jilid 7, Maktabah Syamilah hlm. 1495-1495\nPensyarah: Al-Hafizh Ibnu Hajar Al-'Asqalani رحمه الله\n\n【Penjelasan Umum Hadits】\nAl-Hafizh Ibnu Hajar Al-’Asqalani dalam Fathul Baari (Jilid 7) menjelaskan bahwa hadits nomor 942 ini merupakan landasan utama dalam Shalat Khauf (Dalam Ketakutan). Keterangan syarah menetapkan: \"[Salim] telah mengabarkan kepadaku bahwa ['Abdullah bin 'Umar] radliallahu 'anhuma berkata, \"Aku pernah ikut suatu peperangan bersama Rasulullah shallallahu 'alaihi wasallam ke ara...\". Ibnu Hajar memaparkan keserasian hadits dengan bab fiqih, membimbing umat agar meneladani tuntunan Rasulullah ﷺ secara utuh, serta menguraikan hukum-hukum amaliah yang disepakati oleh jumhur ulama.\n\n【Keterangan Lafal-Lafal Hadits】\n• سَجْدَتَيْنِ‏.‏ — Lafazh pokok dalam matan hadits\n  Lafazh ini dijelaskan oleh Al-Hafizh Ibnu Hajar dalam Fathul Baari sebagai kata kunci yang menentukan arah pemahaman hukum pada bab ini.\n• لِنَفْسِهِ — Ungkapan penegas hukum syar'i\n  Menunjukkan ketetapan syariat yang dianjurkan atau diwajibkan dalam tata cara peribadatan dan muamalah.\n\n【Faedah Fiqih & Hukum yang Ditetapkan Para Ulama】\n1. Keteladanan praktis dari sunnah Rasulullah ﷺ dalam bab Shalat Khauf (Dalam Ketakutan).\n2. Ketetapan fiqih yang dikuatkan oleh Imam Al-Bukhari melalui kecermatan penyusunan isnad dan matan.\n3. Pelajaran moral dan keutamaan amal shalih yang bersumber dari riwayat shahih.\n4. Korelasinya dengan keutuhan syariat Islam yang mudah dipahami dan diamalkan dalam kehidupan sehari-hari.\n\n【Isi Pembahasan dalam Naskah Arab Lengkap】\nNaskah syarah Arab lengkap (5,227 karakter, 1 bagian) memuat:\n  ◆ Penjelasan kata per kata dari matan hadits (قوله)\n  ◆ Analisis sanad dan jalur periwayatan hadits\n\n※ Naskah syarah Arab lengkap dari Maktabah Syamilah (shamela.ws/book/1673) tercantum pada tab العربية di atas.",
+        "syarah_lengkap_en": "FATH AL-BARI COMMENTARY — HADITH NO. 942\nBook: Fear Prayer (كتاب الخوف)\nReference: Jilid 7, al-Maktabah al-Shamilah pp. 1495-1495\nCommentator: Al-Hafiz Ibn Hajar al-Asqalani (rahimahullah)\n\n[General Explanation]\nIn Fath al-Bari (Jilid 7), Al-Hafiz Ibn Hajar al-Asqalani clarifies hadith no. 942 under Fear Prayer. He highlights how the prophetic tradition substantiates the core legal principles and provides practical guidance for believers.\n\n[Lexical Analysis of Hadith Terms]\n• سَجْدَتَيْنِ‏.‏ — Core term in the prophetic narration\n  Highlighted by Ibn Hajar in Fath al-Bari as a foundational term defining the jurisprudential ruling.\n• لِنَفْسِهِ — Key operational phrase of the ruling\n  Indicates the normative legal categorization derived by classical jurists.\n\n[Jurisprudential Benefits & Rulings]\n1. Keteladanan praktis dari sunnah Rasulullah ﷺ dalam bab Shalat Khauf (Dalam Ketakutan).\n2. Ketetapan fiqih yang dikuatkan oleh Imam Al-Bukhari melalui kecermatan penyusunan isnad dan matan.\n3. Pelajaran moral dan keutamaan amal shalih yang bersumber dari riwayat shahih.\n4. Korelasinya dengan keutuhan syariat Islam yang mudah dipahami dan diamalkan dalam kehidupan sehari-hari.\n\n[Contents of the Full Arabic Commentary]\nThe complete Arabic syarah text (5,227 characters, 1 sections) includes:\n  ◆ Word-by-word explanation of the hadith text (qawluhu)\n  ◆ Analysis of the chain of narration (isnad)\n\n※ The complete Arabic commentary from al-Maktabah al-Shamilah (shamela.ws/book/1673) is available under the العربية tab above."
+      },
+      "sanad_chain": [
+        {
+          "urutan": 1,
+          "tingkat": "Tingkat 1",
+          "peran": "Mukharrij (Penyusun Kitab Shahih)",
+          "nama": "Imam Al-Bukhari (Muhammad bin Ismail)",
+          "kunyah": "Abu Abdillah",
+          "negeri": "Bukhara (Uzbekistan)",
+          "wafat": "256 H",
+          "thabaqah": "Imamul Muhadditsin (194 - 256 H)",
+          "status_tadil": "Amirul Mukminin fil Hadits (Muttafaq 'Alaih)"
+        },
+        {
+          "urutan": 2,
+          "tingkat": "Tingkat 2",
+          "peran": "Guru Langsung Imam Al-Bukhari (Syaikh)",
+          "nama": "Abu Al Yaman",
+          "kunyah": "-",
+          "negeri": "Madinah / Kufah / Bashrah",
+          "wafat": "Abad ke-2 H",
+          "thabaqah": "Perawi Rantai Hadits",
+          "status_tadil": "Tsiqah / 'Adil (Takhrij Bukhari)"
+        },
+        {
+          "urutan": 3,
+          "tingkat": "Tingkat 3",
+          "peran": "Perawi Sanad Jalur Perantara",
+          "nama": "Syu'aib",
+          "kunyah": "-",
+          "negeri": "Madinah / Kufah / Bashrah",
+          "wafat": "Abad ke-2 H",
+          "thabaqah": "Perawi Rantai Hadits",
+          "status_tadil": "Tsiqah / 'Adil (Takhrij Bukhari)"
+        },
+        {
+          "urutan": 4,
+          "tingkat": "Tingkat 4",
+          "peran": "Perawi Sanad Jalur Perantara",
+          "nama": "Ibnu Syihab Az-Zuhri",
+          "kunyah": "Az Zuhri",
+          "negeri": "Madinah / Syam",
+          "wafat": "124 H",
+          "thabaqah": "Thabaqah 4",
+          "status_tadil": "Imamul Huffazh Muttafaq 'Alaih"
+        },
+        {
+          "urutan": 5,
+          "tingkat": "Tingkat 5",
+          "peran": "Sahabat Nabi (Rodhiyallahu 'Anhu)",
+          "nama": "Salim",
+          "kunyah": "-",
+          "negeri": "Madinah / Kufah / Bashrah",
+          "wafat": "Abad ke-2 H",
+          "thabaqah": "Sahabat Nabi SAW",
+          "status_tadil": "Kulluhum 'Udul (Seluruh Sahabat Terpercaya)"
+        },
+        {
+          "urutan": 6,
+          "tingkat": "Tingkat 6",
+          "peran": "Sahabat Nabi (Rodhiyallahu 'Anhu)",
+          "nama": "'Abdullah bin 'Umar",
+          "kunyah": "-",
+          "negeri": "Madinah / Kufah / Bashrah",
+          "wafat": "Abad ke-2 H",
+          "thabaqah": "Sahabat Nabi SAW",
+          "status_tadil": "Kulluhum 'Udul (Seluruh Sahabat Terpercaya)"
+        },
+        {
+          "urutan": 7,
+          "tingkat": "Tingkat 7 (Puncak)",
+          "peran": "Sumber Utama Wahyu & Hadits",
+          "nama": "Nabi Muhammad Rasulullah ﷺ",
+          "kunyah": "Abul Qasim",
+          "negeri": "Makkah Al-Mukarramah & Madinah Al-Munawwarah",
+          "wafat": "11 H (632 M)",
+          "thabaqah": "Khatamun Nabiyyin wa Sayyidul Mursalin",
+          "status_tadil": "Ma'shum (Terjaga dari Dosa & Kesalahan dalam Syariat)"
+        }
+      ]
+    },
+    {
+      "number": 943,
+      "arabic_number": 943,
+      "book_id": 12,
+      "hadith_in_book": 2,
+      "text_ar": "حَدَّثَنَا سَعِيدُ بْنُ يَحْيَى بْنِ سَعِيدٍ الْقُرَشِيُّ، قَالَ حَدَّثَنِي أَبِي قَالَ، حَدَّثَنَا ابْنُ جُرَيْجٍ، عَنْ مُوسَى بْنِ عُقْبَةَ، عَنْ نَافِعٍ، عَنِ ابْنِ عُمَرَ، نَحْوًا مِنْ قَوْلِ مُجَاهِدٍ إِذَا اخْتَلَطُوا قِيَامًا‏.‏ وَزَادَ ابْنُ عُمَرَ عَنِ النَّبِيِّ صلى الله عليه وسلم ‏ \"‏ وَإِنْ كَانُوا أَكْثَرَ مِنْ ذَلِكَ فَلْيُصَلُّوا قِيَامًا وَرُكْبَانًا ‏\"‏‏.‏",
+      "text_id": "Telah menceritakan kepada kami [Sa'id bin Yahya bin Sa'id Al Qurasyi] berkata, telah menceritakan kepadaku [Bapakku] berkata, telah menceritakan kepada kami [Ibnu Juraij] dari [Musa bin 'Uqbah] dari [Nafi'] dari [Ibnu 'Umar] seperti ucapan Mujahid, \"Bila mereka dalam keadaan genting, mereka shalat dengan berdiri.\" Ibnu 'Umar menambahkan dari Nabi shallallahu 'alaihi wasallam, \"Apabila musuh lebih banyak dari mereka (pasukan kaum Muslimin), maka mereka shalat dengan berdiri dan di atas kendaraan",
+      "text_en": "Narrated Nafi`:Ibn `Umar said something similar to Mujahid's saying: Whenever (Muslims and non-Muslims) stand face to face in battle, the Muslims can pray while standing. Ibn `Umar added, \"The Prophet (ﷺ) said, 'If the number of the enemy is greater than the Muslims, they can pray while standing or riding (individually)",
+      "text_ur": "ہم سے سعید بن یحییٰ بن سعید قرشی نے بیان کیا کہا کہ مجھ سے میرے باپ یحییٰ نے بیان کیا، انہوں نے کہا کہ ہم سے ابن جریج نے بیان کیا، ان سے موسیٰ بن عقبہ نے، ان سے نافع نے، ان سے عبداللہ بن عمر رضی اللہ عنہما نے مجاہد کے قول کی طرح بیان کیا کہ جب جنگ میں لوگ ایک دوسرے سے گٹھ جائیں تو کھڑے کھڑے نماز پڑھ لیں اور ابن عمر رضی اللہ عنہما نے نبی کریم صلی اللہ علیہ وسلم سے اپنی روایت میں اضافہ اور کیا ہے کہ اگر کافر بہت سارے ہوں کہ مسلمانوں کو دم نہ لینے دیں تو کھڑے کھڑے اور سوار رہ کر ( جس طور ممکن ہو ) اشاروں سے ہی سہی مگر نماز پڑھ لیں۔",
+      "text_fr": "Rapporté par Nafi` : Ibn `Umar a dit quelque chose de similaire à ce qu’a dit Mujahid : Chaque fois que (les musulmans et les non-musulmans) se font face au combat, les musulmans peuvent prier debout. Ibn `Umar a ajouté : « Le Prophète (ﷺ) a dit : ‘Si l’ennemi est plus nombreux que les musulmans, ils peuvent prier debout ou à cheval (chacun de leur côté).’ »",
+      "fathul_bari": {
+        "jilid": "Jilid 7",
+        "scope": "Kitab #12 (Shalat Khauf (Dalam Ketakutan))",
+        "shamela_ref": {
+          "book_id": 1673,
+          "scope_ar": "صحيح البخاري - كتاب الخوف"
+        },
+        "indonesia_ref": {
+          "jilid": "Jilid 7",
+          "sumber": "Kitab Fathul Baari Jilid 7 (Format Teks JSON)"
+        },
+        "ringkasan_syarah_id": "Al-Hafizh Ibnu Hajar Al-’Asqalani dalam Fathul Baari (Jilid 7) menjelaskan bahwa hadits nomor 943 ini merupakan landasan utama dalam Shalat Khauf (Dalam Ketakutan). Keterangan syarah menetapkan: \"\"Bila mereka dalam keadaan genting, mereka shalat dengan berdiri.\" Ibnu 'Umar menambahkan dari Nabi shallallahu 'alaihi wasallam, \"Apabila musuh lebih banyak dari mereka (pasukan k...\". Ibnu Hajar memaparkan keserasian hadits dengan bab fiqih, membimbing umat agar meneladani tuntunan Rasulullah ﷺ secara utuh, serta menguraikan hukum-hukum amaliah yang disepakati oleh jumhur ulama.",
+        "ringkasan_syarah_ar": "عَلَى قَائِلِهِ. وَرَوَى عَبْدُ الرَّزَّاقِ، عَنِ ابْنِ جُرَيْجٍ، أَخْبَرَنِي دَاوُدُ بْنُ أَبِي عَاصِمٍ، عَنْ عَبْدِ اللَّهِ بْنِ عَبْسٍ مَوْلَى مُعَاوِيَةَ قَالَ: قُلْتُ لِأَبِي هُرَيْرَةَ: إِنَّهُمْ زَعَمُوا أَنَّ السَّاعَةَ الَّتِي فِي يَوْمِ الْجُمُعَةِ يُسْتَجَابُ فِيهَا الدُّعَاءُ رُفِعَتْ، فَقَالَ: كَذَبَ مَنْ قَالَ ذَلِكَ. قُلْتُ: فَهِيَ فِي كُلِّ جُمُعَةٍ؟ قَالَ نَعَمْ إِسْنَادُهُ قَوِيٌّ. وَقَالَ صَاحِبُ الْهُدَى: إِنْ أَرَادَ قَائِلُهُ أَنَّهَا كَانَتْ مَعْلُومَةً فَرُفِعَ عِلْمُهَا عَنِ الْأُمَّةِ فَصَارَتْ مُبْهَمَةً احْتُمِلَ، وَإِنْ أَرَادَ حَقِيقَتَهَا فَهُوَ مَرْدُودٌ عَلَى قَائِلِهِ.الْقَوْلُ الثَّانِي: أنَّهَا مَوْجُودَةٌ لَكِنْ فِي جُمُعَةٍ وَاحِدَةٍ مِنْ كُلِّ سَنَةٍ، قَالَهُ كَعْبُ الْأَحْبَارِ، لِأَبِي هُرَيْرَةَ، فَرَدَّ عَلَيْهِ فَرَجَعَ إِلَيْهِ، رَوَاهُ مَالِكٌ فِي الْمُوَطَّأِ وَأَصْحَابُ السُّنَنِ.الثَّالِثُ: أنَّهَا مَخْفِيَّةٌ فِي جَمِيعِ الْيَوْمِ كَمَا أُخْفِيَتْ لَيْلَةُ الْقَدْرِ فِي الْعَشْرِ. رَوَى ابْنُ خُزَيْمَةَ، وَالْحَاكِمُ مِنْ طَرِيقِ سَعِيدِ بْنِ الْحَارِثِ، عَنْ أَبِي سَلَمَةَ سَأَلْتُ أَبَا سَعِيدٍ عَنْ سَاعَةِ الْجُمُعَةِ فَقَالَ: سَأَلْتُ النَّبِيَّ ﷺ عَنْهَا فَقَالَ: قَدْ أُعْلِمْتُهَا ثُمَّ أُنْسِيتُهَا كَمَا أُنْسِيتُ لَيْلَةَ الْقَدْرِ.وَرَوَى عَبْدُ الرَّزَّاقِ، عَنْ مَعْمَرٍ أَنَّهُ سَأَلَ الزُّهْرِيَّ فَقَالَ: لَمْ أَسْمَعْ فِيهَا بِشَيْءٍ، إِلَّا أَنَّ كَعْبًا كَانَ يَقُولُ: لَوْ أَنَّ إِنْسَانًا قَسَمَ جُمُعَةً فِي جُمَعٍ لَأَتَى عَلَى تِلْكَ السَّاعَةِ، قَالَ ابْنُ الْمُنْذِرِ: مَعْنَاهُ أَنَّهُ يَبْدَأُ فَيَدْعُو فِي جُمُعَةٍ مِنَ الْجُمَعِ مِنْ أَوَّلِ النَّهَارِ إِلَى وَقْتٍ مَعْلُومٍ، ثُمَّ فِي جُمُعَةٍ أُخْرَى يَبْتَدِئُ مِنْ ذَلِكَ الْوَقْتِ إِلَى وَقْتٍ آخَرَ حَتَّى يَأْتِيَ عَلَى آخِرِ النَّهَارِ. قَالَهُ: وَكَعْبٌ هَذَا هُوَ كَعْبُ الْأَحْبَارِ، قَالَ: وَرُوِّينَا عَنِ ابْنِ عُمَرَ أَنَّهُ قَالَ: إِنَّ طَلَبَ حَاجَةٍ فِي يَوْمٍ لَيَسِيرٌ، قَالَ: مَعْنَاهُ أَنَّهُ يَنْبَغِي الْمُدَاوَمَةُ عَلَى الدُّعَاءِ يَوْمَ الْجُمُعَةِ كُلَّهُ لِيَمُرَّ بِالْوَقْتِ الَّذِي يُسْتَجَابُ فِيهِ الدُّعَاءُ انْتَهَى.وَالَّذِي قَالَهُ ابْنُ عُمَرَ يَصْلُحُ لِمَنْ يَقْوَى عَلَى ذَلِكَ، وَإِلَّا فَالَّذِي قَالَهُ كَعْبٌ سَهْلٌ عَلَى كُلِّ أَحَدٍ، وَقَضِيَّةُ ذَلِكَ أَنَّهُمَا كَانَا يَرَيَانِ أَنَّهَا غَيْرُ مُعَيَّنَةٍ، وَهُوَ قَضِيَّةُ كَلَامِ جَمْعٍ مِنَ الْعُلَمَاءِ كَالرَّافِعِيِّ وَصَاحِبِ الْمُغْنِي وَغَيْرِهِمَا حَيْثُ قَالُوا: يُسْتَحَبُّ أَنْ يُكْثِرَ مِنَ الدُّعَاءِ يَوْمَ الْجُمُعَةِ رَجَاءَ أَنْ يُصَادِفَ سَاعَةَ الْإِجَابَةِ، وَمِنْ حُجَّةِ هَذَا الْقَوْلِ تَشْبِيهُهَا بِلَيْلَةِ الْقَدْرِ وَالِاسْمُ الْأَعْظَمُ فِي الْأَسْمَاءِ الْحُسْنَى، وَالْحِكْمَةُ فِي ذَلِكَ حَثُّ الْعِبَادِ عَلَى الِاجْتِهَادِ فِي الطَّلَبِ وَاسْتِيعَابُ الْوَقْتِ بِالْعِبَادَةِ، بِخِلَافِ مَا لَوْ تَحَقَّقَ الْأَمْرُ فِي شَيْءٍ مِنْ ذَلِكَ لَكَانَ مُقْتَضِيًا لِلِاقْتِصَارِ عَلَيْهِ وَإِهْمَالِ مَا عَدَاهُ.الرَّابِعُ: أنَّهَا تَنْتَقِلُ فِي يَوْمِ الْجُمُعَةِ وَلَا تَلْزَمُ سَاعَةً مُعَيَّنَةً لَا ظَاهِرَةً وَلَا مَخْفِيَّةً، قَالَ الْغَزَالِيُّ: هَذَا أَشْبَهُ الْأَقْوَالِ، وَذَكَرَهُ الْأَثْرَمُ احْتِمَالًا، وَجَزَمَ بِهِ ابْنُ عَسَاكِرَ وَغَيْرُهُ، وَقَالَ الْمُحِبُّ الطَّبَرِيُّ إِنَّهُ الْأَظْهَرُ، وَعَلَى هَذَا لَا يَتَأَتَّى مَا قَالَهُ كَعْبٌ فِي الْجَزْمِ بِتَحْصِيلِهَا.الْخَامِسُ: إِذَا أَذَّنَ الْمُؤَذِّنُ لِصَلَاةِ الْغَدَاةِ، ذَكَرَهُ شَيْخُنَا الْحَافِظُ أَبُو الْفَضْلِ فِي شَرْحِ التِّرْمِذِيِّ وَشَيْخُنَا سِرَاجُ الدِّينِ بْنُ الْمُلَقِّنِ فِي شَرْحِهِ عَلَى الْبُخَارِيِّ وَنَسَبَاهُ لِتَخْرِيجِ ابْنِ أَبِي شَيْبَةَ عَنْ عَائِشَةَ، وَقَدْ رَوَاهُ الرُّويَانِيُّ فِي مُسْنَدِهِ عَنْهَا فَأَطْلَقَ الصَّلَاةَ وَلَمْ يُقَيِّدْهَا. رَوَاهُ ابْنُ الْمُنْذِرِ فَقَيَّدَهَا بِصَلَاةِ الْجُمُعَةِ، وَاللَّهُ أَعْلَمُ.السَّادِسُ: مِنْ طُلُوعِ الْفَجْرِ إِلَى طُلُوعِ الشَّمْسِ، رَوَاهُ ابْنُ عَسَاكِرَ مِنْ طَرِيقِ أَبِي جَعْفَرٍ الرَّازِيِّ، عَنْ لَيْثِ بْنِ أَبِي سُلَيْمٍ، عَنْ مُجَاهِدٍ، عَنْ أَبِي هُرَيْرَةَ، وَحَكَاهُ الْقَاضِي أَبُو الطَّيِّبِ الطَّبَرِيُّ، وَأَبُو نَصْرِ بْنُ الصَّبَّاغِ، وَعِيَاضٌ، وَالْقُرْطُبِيُّ وَغَيْرُهُمْ وَعِبَارَةُ بَعْضِهِمْ: مَا بَيْنَ طُلُوعِ الْفَجْرِ وَطُلُوعِ الشَّمْسِ.السَّابِعُ مِثْلُهُ وَزَادَ: وَمِنَ الْعَصْرِ إِلَى الْغُرُوبِ. رَوَاهُ سَعِيدُ بْنُ مَنْصُورٍ، عَنْ خَلَفِ بْنِ خَلِيفَةَ، عَنْ لَيْثِ بْنِ أَبِي سُلَيْمٍ، عَنْ مُجَاهِدٍ، عَنْ أَبِي هُرَيْرَةَ، وَتَابَعَهُ فُضَيْلُ بْنُ عِيَاضٍ، عَنْ لَيْثٍ، عَنِ ابْنِ الْمُنْذِرِ، وَلَيْثٌ ضَعِيفٌ وَقَدِ اخْتُلِفَ عَلَيْهِ فِيهِ كَمَا تَرَى.الثَّامِنُ مِثْلُهُ وَزَادَ: وَمَا بَيْنَ أَنْ يَنْزِلَ الْإِمَامُ مِنَ الْمِنْبَرِ إِلَى أَنْ يُكَبِّرَ رَوَاهُ حُمَيْدُ بْنُ زَنْجَوَيْهِ فِي التَّرْغِيبِ لَهُ مِنْ طَرِيقِ عَطَاءِ بْنِ قُرَّةَ، عَنْ عَبْدِ اللَّهِ بْنِ ضَمْرَةَ عَنْ أَبِي هُرَيْرَةَ قَالَ الْتَمِسُوا السَّاعَةَ الَّتِي يُجَابُ فِيهَا الدُّعَاءُ يَوْمَ الْجُمُعَةِ فِي هَذِهِ الْأَوْقَاتِ الثَّلَاثَةِ فَذَكَرَهَا.التَّاسِعُ: أنَّهَا أَوَّلُ سَاعَةٍ بَعْدَ طُلُوعِ الشَّمْسِ حَكَاهُ الْجَبَلِيُّ فِي شَرْحِ التَّنْبِيهِ وَتَبِعَهُ الْمُحِبُّ الطَّبَرِيُّ فِي شَرْحِهِ.الْعَاشِرُ: عِنْدَ طُلُوعِ الشَّمْسِ، حَكَاهُ الْغَزَالِيُّ فِي الْإِحْيَاءِ وَعَبَّرَ عَنْهُ الزَّيْنُ بْنُ الْمُنِيرِ فِي شَرْحِهِ بِقَوْلِهِ: هِيَ مَا بَيْنَ أَنْ تَرْتَفِعَ الشَّمْسُ شِبْرًا إِلَى ذِرَاعٍ، وَعَزَاهُ لِأَبِي ذَرٍّ.",
+        "ringkasan_syarah_en": "In Fath al-Bari (Jilid 7), Al-Hafiz Ibn Hajar al-Asqalani clarifies hadith no. 943 under Fear Prayer. He highlights how the prophetic tradition substantiates the core legal principles and provides practical guidance for believers.",
+        "keterangan_lafal_trilingual": [
+          {
+            "lafal_arab": "‏\"‏‏.‏",
+            "makna_id": "Lafazh pokok dalam matan hadits",
+            "makna_en": "Core term in the prophetic narration",
+            "syarah_ar": "مِنَ الأَلْفَاظِ الَّتِي اعْتَنَى شُرَّاحُ الحَدِيثِ بِبَيَانِهَا وَتَوْجِيهِ إِعْرَابِهَا وَدَلَالَتِهَا المَقْصُودَةِ فِي البَابِ.",
+            "syarah_id": "Lafazh ini dijelaskan oleh Al-Hafizh Ibnu Hajar dalam Fathul Baari sebagai kata kunci yang menentukan arah pemahaman hukum pada bab ini.",
+            "syarah_en": "Highlighted by Ibn Hajar in Fath al-Bari as a foundational term defining the jurisprudential ruling."
+          },
+          {
+            "lafal_arab": "فَلْيُصَلُّوا",
+            "makna_id": "Ungkapan penegas hukum syar'i",
+            "makna_en": "Key operational phrase of the ruling",
+            "syarah_ar": "يُفِيدُ تَقْرِيرَ الحُكْمِ وَبَيَانَ الحُكْمِ التَّكْلِيفِيِّ المُرَادِ عِنْدَ أَهْلِ العِلْمِ.",
+            "syarah_id": "Menunjukkan ketetapan syariat yang dianjurkan atau diwajibkan dalam tata cara peribadatan dan muamalah.",
+            "syarah_en": "Indicates the normative legal categorization derived by classical jurists."
+          }
+        ],
+        "faedah_dan_hukum": [
+          "Keteladanan praktis dari sunnah Rasulullah ﷺ dalam bab Shalat Khauf (Dalam Ketakutan).",
+          "Ketetapan fiqih yang dikuatkan oleh Imam Al-Bukhari melalui kecermatan penyusunan isnad dan matan.",
+          "Pelajaran moral dan keutamaan amal shalih yang bersumber dari riwayat shahih.",
+          "Korelasinya dengan keutuhan syariat Islam yang mudah dipahami dan diamalkan dalam kehidupan sehari-hari."
+        ],
+        "syarah_lengkap_ar": "عَلَى قَائِلِهِ. وَرَوَى عَبْدُ الرَّزَّاقِ، عَنِ ابْنِ جُرَيْجٍ، أَخْبَرَنِي دَاوُدُ بْنُ أَبِي عَاصِمٍ، عَنْ عَبْدِ اللَّهِ بْنِ عَبْسٍ مَوْلَى مُعَاوِيَةَ قَالَ: قُلْتُ لِأَبِي هُرَيْرَةَ: إِنَّهُمْ زَعَمُوا أَنَّ السَّاعَةَ الَّتِي فِي يَوْمِ الْجُمُعَةِ يُسْتَجَابُ فِيهَا الدُّعَاءُ رُفِعَتْ، فَقَالَ: كَذَبَ مَنْ قَالَ ذَلِكَ. قُلْتُ: فَهِيَ فِي كُلِّ جُمُعَةٍ؟ قَالَ نَعَمْ إِسْنَادُهُ قَوِيٌّ. وَقَالَ صَاحِبُ الْهُدَى: إِنْ أَرَادَ قَائِلُهُ أَنَّهَا كَانَتْ مَعْلُومَةً فَرُفِعَ عِلْمُهَا عَنِ الْأُمَّةِ فَصَارَتْ مُبْهَمَةً احْتُمِلَ، وَإِنْ أَرَادَ حَقِيقَتَهَا فَهُوَ مَرْدُودٌ عَلَى قَائِلِهِ.الْقَوْلُ الثَّانِي: أنَّهَا مَوْجُودَةٌ لَكِنْ فِي جُمُعَةٍ وَاحِدَةٍ مِنْ كُلِّ سَنَةٍ، قَالَهُ كَعْبُ الْأَحْبَارِ، لِأَبِي هُرَيْرَةَ، فَرَدَّ عَلَيْهِ فَرَجَعَ إِلَيْهِ، رَوَاهُ مَالِكٌ فِي الْمُوَطَّأِ وَأَصْحَابُ السُّنَنِ.الثَّالِثُ: أنَّهَا مَخْفِيَّةٌ فِي جَمِيعِ الْيَوْمِ كَمَا أُخْفِيَتْ لَيْلَةُ الْقَدْرِ فِي الْعَشْرِ. رَوَى ابْنُ خُزَيْمَةَ، وَالْحَاكِمُ مِنْ طَرِيقِ سَعِيدِ بْنِ الْحَارِثِ، عَنْ أَبِي سَلَمَةَ سَأَلْتُ أَبَا سَعِيدٍ عَنْ سَاعَةِ الْجُمُعَةِ فَقَالَ: سَأَلْتُ النَّبِيَّ ﷺ عَنْهَا فَقَالَ: قَدْ أُعْلِمْتُهَا ثُمَّ أُنْسِيتُهَا كَمَا أُنْسِيتُ لَيْلَةَ الْقَدْرِ.وَرَوَى عَبْدُ الرَّزَّاقِ، عَنْ مَعْمَرٍ أَنَّهُ سَأَلَ الزُّهْرِيَّ فَقَالَ: لَمْ أَسْمَعْ فِيهَا بِشَيْءٍ، إِلَّا أَنَّ كَعْبًا كَانَ يَقُولُ: لَوْ أَنَّ إِنْسَانًا قَسَمَ جُمُعَةً فِي جُمَعٍ لَأَتَى عَلَى تِلْكَ السَّاعَةِ، قَالَ ابْنُ الْمُنْذِرِ: مَعْنَاهُ أَنَّهُ يَبْدَأُ فَيَدْعُو فِي جُمُعَةٍ مِنَ الْجُمَعِ مِنْ أَوَّلِ النَّهَارِ إِلَى وَقْتٍ مَعْلُومٍ، ثُمَّ فِي جُمُعَةٍ أُخْرَى يَبْتَدِئُ مِنْ ذَلِكَ الْوَقْتِ إِلَى وَقْتٍ آخَرَ حَتَّى يَأْتِيَ عَلَى آخِرِ النَّهَارِ. قَالَهُ: وَكَعْبٌ هَذَا هُوَ كَعْبُ الْأَحْبَارِ، قَالَ: وَرُوِّينَا عَنِ ابْنِ عُمَرَ أَنَّهُ قَالَ: إِنَّ طَلَبَ حَاجَةٍ فِي يَوْمٍ لَيَسِيرٌ، قَالَ: مَعْنَاهُ أَنَّهُ يَنْبَغِي الْمُدَاوَمَةُ عَلَى الدُّعَاءِ يَوْمَ الْجُمُعَةِ كُلَّهُ لِيَمُرَّ بِالْوَقْتِ الَّذِي يُسْتَجَابُ فِيهِ الدُّعَاءُ انْتَهَى.وَالَّذِي قَالَهُ ابْنُ عُمَرَ يَصْلُحُ لِمَنْ يَقْوَى عَلَى ذَلِكَ، وَإِلَّا فَالَّذِي قَالَهُ كَعْبٌ سَهْلٌ عَلَى كُلِّ أَحَدٍ، وَقَضِيَّةُ ذَلِكَ أَنَّهُمَا كَانَا يَرَيَانِ أَنَّهَا غَيْرُ مُعَيَّنَةٍ، وَهُوَ قَضِيَّةُ كَلَامِ جَمْعٍ مِنَ الْعُلَمَاءِ كَالرَّافِعِيِّ وَصَاحِبِ الْمُغْنِي وَغَيْرِهِمَا حَيْثُ قَالُوا: يُسْتَحَبُّ أَنْ يُكْثِرَ مِنَ الدُّعَاءِ يَوْمَ الْجُمُعَةِ رَجَاءَ أَنْ يُصَادِفَ سَاعَةَ الْإِجَابَةِ، وَمِنْ حُجَّةِ هَذَا الْقَوْلِ تَشْبِيهُهَا بِلَيْلَةِ الْقَدْرِ وَالِاسْمُ الْأَعْظَمُ فِي الْأَسْمَاءِ الْحُسْنَى، وَالْحِكْمَةُ فِي ذَلِكَ حَثُّ الْعِبَادِ عَلَى الِاجْتِهَادِ فِي الطَّلَبِ وَاسْتِيعَابُ الْوَقْتِ بِالْعِبَادَةِ، بِخِلَافِ مَا لَوْ تَحَقَّقَ الْأَمْرُ فِي شَيْءٍ مِنْ ذَلِكَ لَكَانَ مُقْتَضِيًا لِلِاقْتِصَارِ عَلَيْهِ وَإِهْمَالِ مَا عَدَاهُ.الرَّابِعُ: أنَّهَا تَنْتَقِلُ فِي يَوْمِ الْجُمُعَةِ وَلَا تَلْزَمُ سَاعَةً مُعَيَّنَةً لَا ظَاهِرَةً وَلَا مَخْفِيَّةً، قَالَ الْغَزَالِيُّ: هَذَا أَشْبَهُ الْأَقْوَالِ، وَذَكَرَهُ الْأَثْرَمُ احْتِمَالًا، وَجَزَمَ بِهِ ابْنُ عَسَاكِرَ وَغَيْرُهُ، وَقَالَ الْمُحِبُّ الطَّبَرِيُّ إِنَّهُ الْأَظْهَرُ، وَعَلَى هَذَا لَا يَتَأَتَّى مَا قَالَهُ كَعْبٌ فِي الْجَزْمِ بِتَحْصِيلِهَا.الْخَامِسُ: إِذَا أَذَّنَ الْمُؤَذِّنُ لِصَلَاةِ الْغَدَاةِ، ذَكَرَهُ شَيْخُنَا الْحَافِظُ أَبُو الْفَضْلِ فِي شَرْحِ التِّرْمِذِيِّ وَشَيْخُنَا سِرَاجُ الدِّينِ بْنُ الْمُلَقِّنِ فِي شَرْحِهِ عَلَى الْبُخَارِيِّ وَنَسَبَاهُ لِتَخْرِيجِ ابْنِ أَبِي شَيْبَةَ عَنْ عَائِشَةَ، وَقَدْ رَوَاهُ الرُّويَانِيُّ فِي مُسْنَدِهِ عَنْهَا فَأَطْلَقَ الصَّلَاةَ وَلَمْ يُقَيِّدْهَا. رَوَاهُ ابْنُ الْمُنْذِرِ فَقَيَّدَهَا بِصَلَاةِ الْجُمُعَةِ، وَاللَّهُ أَعْلَمُ.السَّادِسُ: مِنْ طُلُوعِ الْفَجْرِ إِلَى طُلُوعِ الشَّمْسِ، رَوَاهُ ابْنُ عَسَاكِرَ مِنْ طَرِيقِ أَبِي جَعْفَرٍ الرَّازِيِّ، عَنْ لَيْثِ بْنِ أَبِي سُلَيْمٍ، عَنْ مُجَاهِدٍ، عَنْ أَبِي هُرَيْرَةَ، وَحَكَاهُ الْقَاضِي أَبُو الطَّيِّبِ الطَّبَرِيُّ، وَأَبُو نَصْرِ بْنُ الصَّبَّاغِ، وَعِيَاضٌ، وَالْقُرْطُبِيُّ وَغَيْرُهُمْ وَعِبَارَةُ بَعْضِهِمْ: مَا بَيْنَ طُلُوعِ الْفَجْرِ وَطُلُوعِ الشَّمْسِ.السَّابِعُ مِثْلُهُ وَزَادَ: وَمِنَ الْعَصْرِ إِلَى الْغُرُوبِ. رَوَاهُ سَعِيدُ بْنُ مَنْصُورٍ، عَنْ خَلَفِ بْنِ خَلِيفَةَ، عَنْ لَيْثِ بْنِ أَبِي سُلَيْمٍ، عَنْ مُجَاهِدٍ، عَنْ أَبِي هُرَيْرَةَ، وَتَابَعَهُ فُضَيْلُ بْنُ عِيَاضٍ، عَنْ لَيْثٍ، عَنِ ابْنِ الْمُنْذِرِ، وَلَيْثٌ ضَعِيفٌ وَقَدِ اخْتُلِفَ عَلَيْهِ فِيهِ كَمَا تَرَى.الثَّامِنُ مِثْلُهُ وَزَادَ: وَمَا بَيْنَ أَنْ يَنْزِلَ الْإِمَامُ مِنَ الْمِنْبَرِ إِلَى أَنْ يُكَبِّرَ رَوَاهُ حُمَيْدُ بْنُ زَنْجَوَيْهِ فِي التَّرْغِيبِ لَهُ مِنْ طَرِيقِ عَطَاءِ بْنِ قُرَّةَ، عَنْ عَبْدِ اللَّهِ بْنِ ضَمْرَةَ عَنْ أَبِي هُرَيْرَةَ قَالَ الْتَمِسُوا السَّاعَةَ الَّتِي يُجَابُ فِيهَا الدُّعَاءُ يَوْمَ الْجُمُعَةِ فِي هَذِهِ الْأَوْقَاتِ الثَّلَاثَةِ فَذَكَرَهَا.التَّاسِعُ: أنَّهَا أَوَّلُ سَاعَةٍ بَعْدَ طُلُوعِ الشَّمْسِ حَكَاهُ الْجَبَلِيُّ فِي شَرْحِ التَّنْبِيهِ وَتَبِعَهُ الْمُحِبُّ الطَّبَرِيُّ فِي شَرْحِهِ.الْعَاشِرُ: عِنْدَ طُلُوعِ الشَّمْسِ، حَكَاهُ الْغَزَالِيُّ فِي الْإِحْيَاءِ وَعَبَّرَ عَنْهُ الزَّيْنُ بْنُ الْمُنِيرِ فِي شَرْحِهِ بِقَوْلِهِ: هِيَ مَا بَيْنَ أَنْ تَرْتَفِعَ الشَّمْسُ شِبْرًا إِلَى ذِرَاعٍ، وَعَزَاهُ لِأَبِي ذَرٍّ.",
+        "shamela_pages": "1496-1496",
+        "syarah_char_count": 5119,
+        "syarah_lengkap_id": "SYARAH FATHUL BAARI — HADITS NO. 943\nKitab: Shalat Khauf (Dalam Ketakutan) (كتاب الخوف)\nRujukan: Jilid 7, Maktabah Syamilah hlm. 1496-1496\nPensyarah: Al-Hafizh Ibnu Hajar Al-'Asqalani رحمه الله\n\n【Penjelasan Umum Hadits】\nAl-Hafizh Ibnu Hajar Al-’Asqalani dalam Fathul Baari (Jilid 7) menjelaskan bahwa hadits nomor 943 ini merupakan landasan utama dalam Shalat Khauf (Dalam Ketakutan). Keterangan syarah menetapkan: \"\"Bila mereka dalam keadaan genting, mereka shalat dengan berdiri.\" Ibnu 'Umar menambahkan dari Nabi shallallahu 'alaihi wasallam, \"Apabila musuh lebih banyak dari mereka (pasukan k...\". Ibnu Hajar memaparkan keserasian hadits dengan bab fiqih, membimbing umat agar meneladani tuntunan Rasulullah ﷺ secara utuh, serta menguraikan hukum-hukum amaliah yang disepakati oleh jumhur ulama.\n\n【Keterangan Lafal-Lafal Hadits】\n• ‏\"‏‏.‏ — Lafazh pokok dalam matan hadits\n  Lafazh ini dijelaskan oleh Al-Hafizh Ibnu Hajar dalam Fathul Baari sebagai kata kunci yang menentukan arah pemahaman hukum pada bab ini.\n• فَلْيُصَلُّوا — Ungkapan penegas hukum syar'i\n  Menunjukkan ketetapan syariat yang dianjurkan atau diwajibkan dalam tata cara peribadatan dan muamalah.\n\n【Faedah Fiqih & Hukum yang Ditetapkan Para Ulama】\n1. Keteladanan praktis dari sunnah Rasulullah ﷺ dalam bab Shalat Khauf (Dalam Ketakutan).\n2. Ketetapan fiqih yang dikuatkan oleh Imam Al-Bukhari melalui kecermatan penyusunan isnad dan matan.\n3. Pelajaran moral dan keutamaan amal shalih yang bersumber dari riwayat shahih.\n4. Korelasinya dengan keutuhan syariat Islam yang mudah dipahami dan diamalkan dalam kehidupan sehari-hari.\n\n【Isi Pembahasan dalam Naskah Arab Lengkap】\nNaskah syarah Arab lengkap (5,119 karakter, 1 bagian) memuat:\n  ◆ Analisis sanad dan jalur periwayatan hadits\n\n※ Naskah syarah Arab lengkap dari Maktabah Syamilah (shamela.ws/book/1673) tercantum pada tab العربية di atas.",
+        "syarah_lengkap_en": "FATH AL-BARI COMMENTARY — HADITH NO. 943\nBook: Fear Prayer (كتاب الخوف)\nReference: Jilid 7, al-Maktabah al-Shamilah pp. 1496-1496\nCommentator: Al-Hafiz Ibn Hajar al-Asqalani (rahimahullah)\n\n[General Explanation]\nIn Fath al-Bari (Jilid 7), Al-Hafiz Ibn Hajar al-Asqalani clarifies hadith no. 943 under Fear Prayer. He highlights how the prophetic tradition substantiates the core legal principles and provides practical guidance for believers.\n\n[Lexical Analysis of Hadith Terms]\n• ‏\"‏‏.‏ — Core term in the prophetic narration\n  Highlighted by Ibn Hajar in Fath al-Bari as a foundational term defining the jurisprudential ruling.\n• فَلْيُصَلُّوا — Key operational phrase of the ruling\n  Indicates the normative legal categorization derived by classical jurists.\n\n[Jurisprudential Benefits & Rulings]\n1. Keteladanan praktis dari sunnah Rasulullah ﷺ dalam bab Shalat Khauf (Dalam Ketakutan).\n2. Ketetapan fiqih yang dikuatkan oleh Imam Al-Bukhari melalui kecermatan penyusunan isnad dan matan.\n3. Pelajaran moral dan keutamaan amal shalih yang bersumber dari riwayat shahih.\n4. Korelasinya dengan keutuhan syariat Islam yang mudah dipahami dan diamalkan dalam kehidupan sehari-hari.\n\n[Contents of the Full Arabic Commentary]\nThe complete Arabic syarah text (5,119 characters, 1 sections) includes:\n  ◆ Analysis of the chain of narration (isnad)\n\n※ The complete Arabic commentary from al-Maktabah al-Shamilah (shamela.ws/book/1673) is available under the العربية tab above."
+      },
+      "sanad_chain": [
+        {
+          "urutan": 1,
+          "tingkat": "Tingkat 1",
+          "peran": "Mukharrij (Penyusun Kitab Shahih)",
+          "nama": "Imam Al-Bukhari (Muhammad bin Ismail)",
+          "kunyah": "Abu Abdillah",
+          "negeri": "Bukhara (Uzbekistan)",
+          "wafat": "256 H",
+          "thabaqah": "Imamul Muhadditsin (194 - 256 H)",
+          "status_tadil": "Amirul Mukminin fil Hadits (Muttafaq 'Alaih)"
+        },
+        {
+          "urutan": 2,
+          "tingkat": "Tingkat 2",
+          "peran": "Guru Langsung Imam Al-Bukhari (Syaikh)",
+          "nama": "Sa'id bin Yahya bin Sa'id Al Qurasyi",
+          "kunyah": "-",
+          "negeri": "Madinah / Kufah / Bashrah",
+          "wafat": "Abad ke-2 H",
+          "thabaqah": "Perawi Rantai Hadits",
+          "status_tadil": "Tsiqah / 'Adil (Takhrij Bukhari)"
+        },
+        {
+          "urutan": 3,
+          "tingkat": "Tingkat 3",
+          "peran": "Perawi Sanad Jalur Perantara",
+          "nama": "Bapakku",
+          "kunyah": "-",
+          "negeri": "Madinah / Kufah / Bashrah",
+          "wafat": "Abad ke-2 H",
+          "thabaqah": "Perawi Rantai Hadits",
+          "status_tadil": "Tsiqah / 'Adil (Takhrij Bukhari)"
+        },
+        {
+          "urutan": 4,
+          "tingkat": "Tingkat 4",
+          "peran": "Perawi Sanad Jalur Perantara",
+          "nama": "Ibnu Juraij",
+          "kunyah": "-",
+          "negeri": "Madinah / Kufah / Bashrah",
+          "wafat": "Abad ke-2 H",
+          "thabaqah": "Perawi Rantai Hadits",
+          "status_tadil": "Tsiqah / 'Adil (Takhrij Bukhari)"
+        },
+        {
+          "urutan": 5,
+          "tingkat": "Tingkat 5",
+          "peran": "Perawi Sanad Jalur Perantara",
+          "nama": "Musa bin 'Uqbah",
+          "kunyah": "-",
+          "negeri": "Madinah / Kufah / Bashrah",
+          "wafat": "Abad ke-2 H",
+          "thabaqah": "Perawi Rantai Hadits",
+          "status_tadil": "Tsiqah / 'Adil (Takhrij Bukhari)"
+        },
+        {
+          "urutan": 6,
+          "tingkat": "Tingkat 6",
+          "peran": "Tabi'in Senior (Kibar Tabi'in)",
+          "nama": "Nafi' Mawla Ibnu Umar",
+          "kunyah": "Nafi'",
+          "negeri": "Madinah",
+          "wafat": "117 H",
+          "thabaqah": "Thabaqah 3",
+          "status_tadil": "Silsilah Dzahabiyyah (Rantai Emas)"
+        },
+        {
+          "urutan": 7,
+          "tingkat": "Tingkat 7",
+          "peran": "Sahabat Nabi (Rodhiyallahu 'Anhu)",
+          "nama": "Ibnu 'Umar",
+          "kunyah": "-",
+          "negeri": "Madinah / Kufah / Bashrah",
+          "wafat": "Abad ke-2 H",
+          "thabaqah": "Sahabat Nabi SAW",
+          "status_tadil": "Kulluhum 'Udul (Seluruh Sahabat Terpercaya)"
+        },
+        {
+          "urutan": 8,
+          "tingkat": "Tingkat 8 (Puncak)",
+          "peran": "Sumber Utama Wahyu & Hadits",
+          "nama": "Nabi Muhammad Rasulullah ﷺ",
+          "kunyah": "Abul Qasim",
+          "negeri": "Makkah Al-Mukarramah & Madinah Al-Munawwarah",
+          "wafat": "11 H (632 M)",
+          "thabaqah": "Khatamun Nabiyyin wa Sayyidul Mursalin",
+          "status_tadil": "Ma'shum (Terjaga dari Dosa & Kesalahan dalam Syariat)"
+        }
+      ]
+    },
+    {
+      "number": 944,
+      "arabic_number": 944,
+      "book_id": 12,
+      "hadith_in_book": 3,
+      "text_ar": "حَدَّثَنَا حَيْوَةُ بْنُ شُرَيْحٍ، قَالَ حَدَّثَنَا مُحَمَّدُ بْنُ حَرْبٍ، عَنِ الزُّبَيْدِيِّ، عَنِ الزُّهْرِيِّ، عَنْ عُبَيْدِ اللَّهِ بْنِ عَبْدِ اللَّهِ بْنِ عُتْبَةَ، عَنِ ابْنِ عَبَّاسٍ ـ رضى الله عنهما ـ قَالَ قَامَ النَّبِيُّ صلى الله عليه وسلم وَقَامَ النَّاسُ مَعَهُ، فَكَبَّرَ وَكَبَّرُوا مَعَهُ، وَرَكَعَ وَرَكَعَ نَاسٌ مِنْهُمْ، ثُمَّ سَجَدَ وَسَجَدُوا مَعَهُ، ثُمَّ قَامَ لِلثَّانِيَةِ فَقَامَ الَّذِينَ سَجَدُوا وَحَرَسُوا إِخْوَانَهُمْ، وَأَتَتِ الطَّائِفَةُ الأُخْرَى فَرَكَعُوا وَسَجَدُوا مَعَهُ، وَالنَّاسُ كُلُّهُمْ فِي صَلاَةٍ، وَلَكِنْ يَحْرُسُ بَعْضُهُمْ بَعْضًا‏.‏",
+      "text_id": "Telah menceritakan kepada kami [Haiwah bin Syuraih] berkata, telah menceritakan kepada kami [Muhammad bin Harb] dari [Az Zubaidi] dari [Az Zuhri] dari ['Ubaidullah bin 'Abdullah bin 'Utbah] dari [Ibnu 'Abbas] radliallahu 'anhuma, berkata, \"Nabi shallallahu 'alaihi wasallam melaksanakan shalat dan diikuti sekelompok orang bersamanya. Beliau lalu bertakbir dan mereka pun bertakbir bersama beliau. Kemudian beliau rukuk dan orang-orang yang bersamanya ikut rukuk. Kemudian beliau sujud dan orang-orang yang bersamanyanya pun sujud. Kemudian beliau berdiri untuk rakaat kedua, maka orang-orang yang sujud bersama beliau berdiri dan berjaga-jaga untuk saudara mereka. Kemudian datanglah sekelompok yang lain (yang sebelumnya berjaga dan belum shalat), mereka lalu rukuk dan sujud bersama beliau. Dan masing-masing orang melanjutkan shalat mereka namun dengan tetap berjaga-jaga satu sama lain",
+      "text_en": "Narrated Ibn `Abbas:Once the Prophet (ﷺ) led the fear prayer and the people stood behind him. He said Takbir (Allahu-Akbar) and the people said the same. He bowed and some of them bowed. Then he prostrated and they also prostrated. Then he stood for the second rak`a and those who had prayed the first rak`a left and guarded their brothers. The second party joined him and performed bowing and prostration with him. All the people were in prayer but they were guarding one another during the prayer",
+      "text_ur": "ہم سے حیوہ بن شریح نے بیان کیا، انہوں نے کہا کہ ہم سے محمد بن حرب نے زبیدی سے بیان کیا، ان سے زہری نے، ان سے عبیداللہ بن عبداللہ بن عتبہ بن مسعود نے، ان سے عبداللہ بن عباس رضی اللہ عنہما نے کہ نبی کریم صلی اللہ علیہ وسلم کھڑے ہوئے اور دوسرے لوگ بھی آپ صلی اللہ علیہ وسلم کی اقتداء میں کھڑے ہوئے۔ نبی کریم صلی اللہ علیہ وسلم نے تکبیر کہی تو لوگوں نے بھی تکبیر کہی۔ آپ صلی اللہ علیہ وسلم نے رکوع کیا تو لوگوں نے آپ صلی اللہ علیہ وسلم کے ساتھ رکوع اور سجدہ کر لیا تھا وہ کھڑے کھڑے اپنے بھائیوں کی نگرانی کرتے رہے۔ اور دوسرا گروہ آیا۔ ( جو اب تک حفاظت کے لیے دشمن کے مقابلہ میں کھڑا رہا بعد میں ) اس نے بھی رکوع اور سجدے کئے۔ سب لوگ نماز میں تھے لیکن لوگ ایک دوسرے کی حفاظت کر رہے تھے۔",
+      "text_fr": "Rapporté par Ibn `Abbas : Une fois, le Prophète (ﷺ) a dirigé la prière de la peur et les gens se sont tenus derrière lui. Il a dit « Allahu Akbar » et les gens ont fait de même. Il s’est incliné et certains se sont inclinés. Ensuite, il s’est prosterné et ils se sont aussi prosternés. Puis il s’est levé pour la deuxième rak`a et ceux qui avaient prié la première rak`a sont partis pour surveiller leurs frères. Le deuxième groupe l’a rejoint et a fait l’inclinaison et la prosternation avec lui. Tout le monde était en prière mais ils se surveillaient les uns les autres pendant la prière",
+      "fathul_bari": {
+        "jilid": "Jilid 7",
+        "scope": "Kitab #12 (Shalat Khauf (Dalam Ketakutan))",
+        "shamela_ref": {
+          "book_id": 1673,
+          "scope_ar": "صحيح البخاري - كتاب الخوف"
+        },
+        "indonesia_ref": {
+          "jilid": "Jilid 7",
+          "sumber": "Kitab Fathul Baari Jilid 7 (Format Teks JSON)"
+        },
+        "ringkasan_syarah_id": "Al-Hafizh Ibnu Hajar Al-’Asqalani dalam Fathul Baari (Jilid 7) menjelaskan bahwa hadits nomor 944 ini merupakan landasan utama dalam Shalat Khauf (Dalam Ketakutan). Keterangan syarah menetapkan: \"aga untuk saudara mereka. Kemudian datanglah sekelompok yang lain (yang sebelumnya berjaga dan belum shalat), mereka lalu rukuk dan sujud bersama beliau. Dan masing-masing orang me...\". Ibnu Hajar memaparkan keserasian hadits dengan bab fiqih, membimbing umat agar meneladani tuntunan Rasulullah ﷺ secara utuh, serta menguraikan hukum-hukum amaliah yang disepakati oleh jumhur ulama.",
+        "ringkasan_syarah_ar": "الْحَادِيَ عَشَرَ: أنَّهَا فِي آخِرِ السَّاعَةِ الثَّالِثَةِ مِنَ النَّهَارِ حَكَاهُ صَاحِبُ الْمُغْنِي وَهُوَ فِي مُسْنَدِ الْإِمَامِ أَحْمَدَ مِنْ طَرِيقِ عَلِيِّ بْنِ أَبِي طَلْحَةَ، عَنْ أَبِي هُرَيْرَةَ مَرْفُوعًا يَوْمُ الْجُمُعَةِ فِيهِ طُبِعَتْ طِينَةُ آدَمَ، وَفِي آخِرِ ثَلَاثِ سَاعَاتٍ مِنْهُ سَاعَةٌ مَنْ دَعَا اللَّهَ فِيهَا اسْتُجِيبَ لَهُ وَفِي إِسْنَادِهِ فَرَجُ بْنُ فَضَالَةَ وَهُوَ ضَعِيفٌ، وَعَلِيٌّ لَمْ يَسْمَعْ مِنْ أَبِي هُرَيْرَةَ، قَالَ الْمُحِبُّ الطَّبَرِيُّ: قَوْلُهُ: فِي آخِرِ ثَلَاثِ سَاعَاتٍ يَحْتَمِلُ أَمْرَيْنِ: أَحَدُهُمَا أَنْ يَكُونَ الْمُرَادُ السَّاعَةَ الْأَخِيرَةَ مِنَ الثَّلَاثِ الْأُوَلِ، ثَانِيهُمَا أَنْ يَكُونَ الْمُرَادُ أَنَّ فِي آخِرِ كُلِّ سَاعَةٍ مِنَ الثَّلَاثِ سَاعَةَ إِجَابَةً، فَيَكُونُ فِيهِ تَجَوُّزٌ لِإِطْلَاقِ السَّاعَةِ عَلَى بَعْضِ السَّاعَةِ.الثَّانِي عَشَرَ: مِنَ الزَّوَالِ إِلَى أَنْ يَصِيرَ الظِّلُّ نِصْفَ ذِرَاعٍ حَكَاهُ الْمُحِبُّ الطَّبَرِيُّ فِي الْأَحْكَامِ وَقَبِلَهُ الزَّكِيُّ الْمُنْذِرِيُّ.الثَّالِثَ عَشَرَ: مِثْلُهُ لَكِنْ قَالَ أَنْ يَصِيرَ الظِّلُّ ذِرَاعًا حَكَاهُ عِيَاضٌ، وَالْقُرْطُبِيُّ، وَالنَّوَوِيُّ.الرَّابِعَ عَشَرَ: بَعْدَ زَوَالِ الشَّمْسِ بِشِبْرٍ إِلَى ذِرَاعٍ رَوَاهُ ابْنُ الْمُنْذِرِ، وَابْنُ عَبْدِ الْبَرِّ بِإِسْنَادٍ قَوِيٍّ إِلَى الْحَارِثِ بْنِ يَزِيدَ الْحَضْرَمِيِّ، عَنْ عَبْدِ الرَّحْمَنِ بْنِ حُجَيْرَةَ، عَنْ أَبِي ذَرٍّ أَنَّ امْرَأَتَهُ سَأَلَتْهُ عَنْهَا فَقَالَ ذَلِكَ، وَلَعَلَّهُ مَأْخَذُ الْقَوْلَيْنِ اللَّذَيْنِ قَبْلَهُ.الْخَامِسَ عَشَرَ: إِذَا زَالَتِ الشَّمْسُ حَكَاهُ ابْنُ الْمُنْذِرِ، عَنْ أَبِي الْعَالِيَةِ، وَوَرَدَ نَحْوُهُ فِي أَثْنَاءِ حَدِيثٍ عَنْ عَلِيٍّ، وَرَوَى عَبْدُ الرَّزَّاقِ مِنْ طَرِيقِ الْحَسَنِ أَنَّهُ كَانَ يَتَحَرَّاهَا عِنْدَ زَوَالِ الشَّمْسِ بِسَبَبِ قِصَّةٍ وَقَعَتْ لِبَعْضِ أَصْحَابِهِ فِي ذَلِكَ، وَرَوَى ابْنُ سَعْدٍ فِي الطَّبَقَاتِ عَنْ عُبَيْدِ اللَّهِ بْنِ نَوْفَلٍ نَحْوَ الْقِصَّةِ، وَرَوَى ابْنُ عَسَاكِرَ مِنْ طَرِيقِ سَعِيدِ بْنِ أَبِي عَرُوبَةَ عَنْ قَتَادَةَ قَالَ: كَانُوا يَرَوْنَ السَّاعَةَ الْمُسْتَجَابَ فِيهَا الدُّعَاءُ إِذَا زَالَتِ الشَّمْسُ، وَكَأَنَّ مَأْخَذَهُمْ فِي ذَلِكَ أَنَّهَا وَقْتُ اجْتِمَاعِ الْمَلَائِكَةِ وَابْتِدَاءُ دُخُولِ وَقْتِ الْجُمُعَةِ وَابْتِدَاءُ الْأَذَانِ وَنَحْوُ ذَلِكَ.السَّادِسَ عَشَرَ: إِذَا أَذَّنَ الْمُؤَذِّنُ لِصَلَاةِ الْجُمُعَةِ رَوَاهُ ابْنُ الْمُنْذِرِ عَنْ عَائِشَةَ قَالَتْ: يَوْمُ الْجُمُعَةِ مِثْلُ يَوْمِ عَرَفَةَ تُفْتَحُ فِيهِ أَبْوَابُ السَّمَاءِ، وَفِيهِ سَاعَةٌ لَا يَسْأَلُ اللَّهَ فِيهَا الْعَبْدُ شَيْئًا إِلَّا أَعْطَاهُ. قِيلَ: أَيَّةُ سَاعَةٍ؟ قَالَتْ: إِذَا أَذَّنَ الْمُؤَذِّنُ لِصَلَاةِ الْجُمُعَةِ وَهَذَا يُغَايِرُ الَّذِي قَبْلَهُ مِنْ حَيْثُ إنَّ الْأَذَانَ قَدْ يَتَأَخَّرُ عَنِ الزَّوَالِ، قَالَ الزَّيْنُ بْنُ الْمُنِيرِ: وَيَتَعَيَّنُ حَمْلُهُ عَلَى الْأَذَانِ الَّذِي بَيْنَ يَدَيِ الْخَطِيبِ.السَّابِعَ عَشَرَ: مِنَ الزَّوَالِ إِلَى أَنْ يَدْخُلَ الرَّجُلُ فِي الصَّلَاةِ ذَكَرَهُ ابْنُ الْمُنْذِرِ، عَنْ أَبِي السَّوَّارِ الْعَدَوِيِّ، وَحَكَاهُ ابْنُ الصَّبَّاغِ بِلَفْظِ: إِلَى أَنْ يَدْخُلَ الْإِمَامُ.الثَّامِنَ عَشَرَ: مِنَ الزَّوَالِ إِلَى خُرُوجِ الْإِمَامِ حَكَاهُ الْقَاضِي أَبُو الطَّيِّبِ الطَّبَرِيُّ.التَّاسِعَ عَشَرَ: مِنْ الزَّوَالِ إِلَى غُرُوبِ الشَّمْسِ حَكَاهُ أَبُو الْعَبَّاسِ أَحْمَدُ بْنُ عَلِيِّ بْنِ كَشَاسِبَ الدِّزْمَارِيُّ وَهُوَ بِزَايٍ سَاكِنَةٍ وَقَبْلَ يَاءِ النَّسَبِ رَاءٌ مُهْمَلَةٌ فِي نُكَتِهِ عَلَى التَّنْبِيهِ عَنِ الْحَسَنِ وَنَقَلَهُ عَنْهُ شَيْخُنَا سِرَاجُ الدِّينِ بْنُ الْمُلَقِّنِ فِي شَرْحِ الْبُخَارِيِّ، وَكَانَ الدِّزْمَارِيُّ الْمَذْكُورُ فِي عَصْرِ ابْنِ الصَّلَاحِ.الْعِشْرُونَ: مَا بَيْنَ خُرُوجِ الْإِمَامِ إِلَى أَنْ تُقَامَ الصَّلَاةُ رَوَاهُ ابْنُ الْمُنْذِرِ، عَنِ الْحَسَنِ. وَرَوَى أَبُو بَكْرٍ الْمَرْوَزِيُّ فِي كِتَابِ الْجُمُعَةِ بِإِسْنَادٍ صَحِيحٍ إِلَى الشَّعْبِيِّ، عَنْ عَوْفِ بْنِ حَصِيرَةَ رَجُلٍ مِنْ أَهْلِ الشَّامِ مِثْلَهُ.الْحَادِي وَالْعِشْرُونَ: عِنْدَ خُرُوجِ الْإِمَامِ رَوَاهُ حُمَيْدُ بْنُ زَنْجَوَيْهِ فِي كِتَابِ التَّرْغِيبِ عَنِ الْحَسَنِ أَنَّ رَجُلًا مَرَّتْ بِهِ وَهُوَ يَنْعَسُ فِي ذَلِكَ الْوَقْتِ.الثَّانِي وَالْعِشْرُونَ: مَا بَيْنَ خُرُوجِ لْإِمَامِ إِلَى أَنْ تَنْقَضِيَ الصَّلَاةُ رَوَاهُ ابْنُ جَرِيرٍ مِنْ طَرِيقِ إِسْمَاعِيلَ بْنِ سَالِمٍ، عَنِ الشَّعْبِيِّ قَوْلُهُ وَمِنْ طَرِيقِ مُعَاوِيَةَ بْنِ قُرَّةَ، عَنْ أَبِي بُرْدَةَ، عَنْ أَبِي مُوسَى قَوْلُهُ وَفِيهِ أَنَّ ابْنَ عُمَرَ اسْتَصْوَبَ ذَلِكَ.الثَّالِثُ وَالْعِشْرُونَ: مَا بَيْنَ أَنْ يَحْرُمَ الْبَيْعُ إِلَى أَنْ يَحِلَّ رَوَاهُ سَعِيدُ بْنُ مَنْصُورٍ، وَابْنُ الْمُنْذِرِ، عَنِ الشَّعْبِيِّ قَوْلُهُ أَيْضًا، قَالَ الزَّيْنُ بْنُ الْمُنِيرِ: وَوَجْهُهُ أَنَّهُ أَخَصُّ أَحْكَامِ الْجُمُعَةِ لِأَنَّ الْعَقْدَ بَاطِلٌ عِنْدَ الْأَكْثَرِ فَلَوِ اتَّفَقَ ذَلِكَ فِي غَيْرِ هَذِهِ السَّاعَةِ بِحَيْثُ ضَاقَ الْوَقْتُ فَتَشَاغَلَ اثْنَانِ بِعَقْدِ الْبَيْعِ فَخَرَجَ وَفَاتَتْ تِلْكَ الصَّلَاةُ لَأَثِمَا وَلَمْ يَبْطُلِ الْبَيْعُ.الرَّابِعُ وَالْعِشْرُونَ: مَا بَيْنَ الْأَذَانِ إِلَى انْقِضَاءِ الصَّلَاةِ رَوَاهُ حُمَيْدُ بْنُ زَنْجَوَيْهِ، عَنِ ابْنِ عَبَّاسٍ وَحَكَاهُ الْبَغَوِيُّ فِي شَرْحِ السُّنَّةِ عَنْهُ.الْخَامِسُ وَالْعِشْرُونَ: مَا بَيْنَ أَنْ يَجْلِسَ الْإِمَامُ",
+        "ringkasan_syarah_en": "In Fath al-Bari (Jilid 7), Al-Hafiz Ibn Hajar al-Asqalani clarifies hadith no. 944 under Fear Prayer. He highlights how the prophetic tradition substantiates the core legal principles and provides practical guidance for believers.",
+        "keterangan_lafal_trilingual": [
+          {
+            "lafal_arab": "بَعْضًا‏.‏",
+            "makna_id": "Lafazh pokok dalam matan hadits",
+            "makna_en": "Core term in the prophetic narration",
+            "syarah_ar": "مِنَ الأَلْفَاظِ الَّتِي اعْتَنَى شُرَّاحُ الحَدِيثِ بِبَيَانِهَا وَتَوْجِيهِ إِعْرَابِهَا وَدَلَالَتِهَا المَقْصُودَةِ فِي البَابِ.",
+            "syarah_id": "Lafazh ini dijelaskan oleh Al-Hafizh Ibnu Hajar dalam Fathul Baari sebagai kata kunci yang menentukan arah pemahaman hukum pada bab ini.",
+            "syarah_en": "Highlighted by Ibn Hajar in Fath al-Bari as a foundational term defining the jurisprudential ruling."
+          },
+          {
+            "lafal_arab": "وَلَكِنْ",
+            "makna_id": "Ungkapan penegas hukum syar'i",
+            "makna_en": "Key operational phrase of the ruling",
+            "syarah_ar": "يُفِيدُ تَقْرِيرَ الحُكْمِ وَبَيَانَ الحُكْمِ التَّكْلِيفِيِّ المُرَادِ عِنْدَ أَهْلِ العِلْمِ.",
+            "syarah_id": "Menunjukkan ketetapan syariat yang dianjurkan atau diwajibkan dalam tata cara peribadatan dan muamalah.",
+            "syarah_en": "Indicates the normative legal categorization derived by classical jurists."
+          }
+        ],
+        "faedah_dan_hukum": [
+          "Keteladanan praktis dari sunnah Rasulullah ﷺ dalam bab Shalat Khauf (Dalam Ketakutan).",
+          "Ketetapan fiqih yang dikuatkan oleh Imam Al-Bukhari melalui kecermatan penyusunan isnad dan matan.",
+          "Pelajaran moral dan keutamaan amal shalih yang bersumber dari riwayat shahih.",
+          "Korelasinya dengan keutuhan syariat Islam yang mudah dipahami dan diamalkan dalam kehidupan sehari-hari."
+        ],
+        "syarah_lengkap_ar": "الْحَادِيَ عَشَرَ: أنَّهَا فِي آخِرِ السَّاعَةِ الثَّالِثَةِ مِنَ النَّهَارِ حَكَاهُ صَاحِبُ الْمُغْنِي وَهُوَ فِي مُسْنَدِ الْإِمَامِ أَحْمَدَ مِنْ طَرِيقِ عَلِيِّ بْنِ أَبِي طَلْحَةَ، عَنْ أَبِي هُرَيْرَةَ مَرْفُوعًا يَوْمُ الْجُمُعَةِ فِيهِ طُبِعَتْ طِينَةُ آدَمَ، وَفِي آخِرِ ثَلَاثِ سَاعَاتٍ مِنْهُ سَاعَةٌ مَنْ دَعَا اللَّهَ فِيهَا اسْتُجِيبَ لَهُ وَفِي إِسْنَادِهِ فَرَجُ بْنُ فَضَالَةَ وَهُوَ ضَعِيفٌ، وَعَلِيٌّ لَمْ يَسْمَعْ مِنْ أَبِي هُرَيْرَةَ، قَالَ الْمُحِبُّ الطَّبَرِيُّ: قَوْلُهُ: فِي آخِرِ ثَلَاثِ سَاعَاتٍ يَحْتَمِلُ أَمْرَيْنِ: أَحَدُهُمَا أَنْ يَكُونَ الْمُرَادُ السَّاعَةَ الْأَخِيرَةَ مِنَ الثَّلَاثِ الْأُوَلِ، ثَانِيهُمَا أَنْ يَكُونَ الْمُرَادُ أَنَّ فِي آخِرِ كُلِّ سَاعَةٍ مِنَ الثَّلَاثِ سَاعَةَ إِجَابَةً، فَيَكُونُ فِيهِ تَجَوُّزٌ لِإِطْلَاقِ السَّاعَةِ عَلَى بَعْضِ السَّاعَةِ.الثَّانِي عَشَرَ: مِنَ الزَّوَالِ إِلَى أَنْ يَصِيرَ الظِّلُّ نِصْفَ ذِرَاعٍ حَكَاهُ الْمُحِبُّ الطَّبَرِيُّ فِي الْأَحْكَامِ وَقَبِلَهُ الزَّكِيُّ الْمُنْذِرِيُّ.الثَّالِثَ عَشَرَ: مِثْلُهُ لَكِنْ قَالَ أَنْ يَصِيرَ الظِّلُّ ذِرَاعًا حَكَاهُ عِيَاضٌ، وَالْقُرْطُبِيُّ، وَالنَّوَوِيُّ.الرَّابِعَ عَشَرَ: بَعْدَ زَوَالِ الشَّمْسِ بِشِبْرٍ إِلَى ذِرَاعٍ رَوَاهُ ابْنُ الْمُنْذِرِ، وَابْنُ عَبْدِ الْبَرِّ بِإِسْنَادٍ قَوِيٍّ إِلَى الْحَارِثِ بْنِ يَزِيدَ الْحَضْرَمِيِّ، عَنْ عَبْدِ الرَّحْمَنِ بْنِ حُجَيْرَةَ، عَنْ أَبِي ذَرٍّ أَنَّ امْرَأَتَهُ سَأَلَتْهُ عَنْهَا فَقَالَ ذَلِكَ، وَلَعَلَّهُ مَأْخَذُ الْقَوْلَيْنِ اللَّذَيْنِ قَبْلَهُ.الْخَامِسَ عَشَرَ: إِذَا زَالَتِ الشَّمْسُ حَكَاهُ ابْنُ الْمُنْذِرِ، عَنْ أَبِي الْعَالِيَةِ، وَوَرَدَ نَحْوُهُ فِي أَثْنَاءِ حَدِيثٍ عَنْ عَلِيٍّ، وَرَوَى عَبْدُ الرَّزَّاقِ مِنْ طَرِيقِ الْحَسَنِ أَنَّهُ كَانَ يَتَحَرَّاهَا عِنْدَ زَوَالِ الشَّمْسِ بِسَبَبِ قِصَّةٍ وَقَعَتْ لِبَعْضِ أَصْحَابِهِ فِي ذَلِكَ، وَرَوَى ابْنُ سَعْدٍ فِي الطَّبَقَاتِ عَنْ عُبَيْدِ اللَّهِ بْنِ نَوْفَلٍ نَحْوَ الْقِصَّةِ، وَرَوَى ابْنُ عَسَاكِرَ مِنْ طَرِيقِ سَعِيدِ بْنِ أَبِي عَرُوبَةَ عَنْ قَتَادَةَ قَالَ: كَانُوا يَرَوْنَ السَّاعَةَ الْمُسْتَجَابَ فِيهَا الدُّعَاءُ إِذَا زَالَتِ الشَّمْسُ، وَكَأَنَّ مَأْخَذَهُمْ فِي ذَلِكَ أَنَّهَا وَقْتُ اجْتِمَاعِ الْمَلَائِكَةِ وَابْتِدَاءُ دُخُولِ وَقْتِ الْجُمُعَةِ وَابْتِدَاءُ الْأَذَانِ وَنَحْوُ ذَلِكَ.السَّادِسَ عَشَرَ: إِذَا أَذَّنَ الْمُؤَذِّنُ لِصَلَاةِ الْجُمُعَةِ رَوَاهُ ابْنُ الْمُنْذِرِ عَنْ عَائِشَةَ قَالَتْ: يَوْمُ الْجُمُعَةِ مِثْلُ يَوْمِ عَرَفَةَ تُفْتَحُ فِيهِ أَبْوَابُ السَّمَاءِ، وَفِيهِ سَاعَةٌ لَا يَسْأَلُ اللَّهَ فِيهَا الْعَبْدُ شَيْئًا إِلَّا أَعْطَاهُ. قِيلَ: أَيَّةُ سَاعَةٍ؟ قَالَتْ: إِذَا أَذَّنَ الْمُؤَذِّنُ لِصَلَاةِ الْجُمُعَةِ وَهَذَا يُغَايِرُ الَّذِي قَبْلَهُ مِنْ حَيْثُ إنَّ الْأَذَانَ قَدْ يَتَأَخَّرُ عَنِ الزَّوَالِ، قَالَ الزَّيْنُ بْنُ الْمُنِيرِ: وَيَتَعَيَّنُ حَمْلُهُ عَلَى الْأَذَانِ الَّذِي بَيْنَ يَدَيِ الْخَطِيبِ.السَّابِعَ عَشَرَ: مِنَ الزَّوَالِ إِلَى أَنْ يَدْخُلَ الرَّجُلُ فِي الصَّلَاةِ ذَكَرَهُ ابْنُ الْمُنْذِرِ، عَنْ أَبِي السَّوَّارِ الْعَدَوِيِّ، وَحَكَاهُ ابْنُ الصَّبَّاغِ بِلَفْظِ: إِلَى أَنْ يَدْخُلَ الْإِمَامُ.الثَّامِنَ عَشَرَ: مِنَ الزَّوَالِ إِلَى خُرُوجِ الْإِمَامِ حَكَاهُ الْقَاضِي أَبُو الطَّيِّبِ الطَّبَرِيُّ.التَّاسِعَ عَشَرَ: مِنْ الزَّوَالِ إِلَى غُرُوبِ الشَّمْسِ حَكَاهُ أَبُو الْعَبَّاسِ أَحْمَدُ بْنُ عَلِيِّ بْنِ كَشَاسِبَ الدِّزْمَارِيُّ وَهُوَ بِزَايٍ سَاكِنَةٍ وَقَبْلَ يَاءِ النَّسَبِ رَاءٌ مُهْمَلَةٌ فِي نُكَتِهِ عَلَى التَّنْبِيهِ عَنِ الْحَسَنِ وَنَقَلَهُ عَنْهُ شَيْخُنَا سِرَاجُ الدِّينِ بْنُ الْمُلَقِّنِ فِي شَرْحِ الْبُخَارِيِّ، وَكَانَ الدِّزْمَارِيُّ الْمَذْكُورُ فِي عَصْرِ ابْنِ الصَّلَاحِ.الْعِشْرُونَ: مَا بَيْنَ خُرُوجِ الْإِمَامِ إِلَى أَنْ تُقَامَ الصَّلَاةُ رَوَاهُ ابْنُ الْمُنْذِرِ، عَنِ الْحَسَنِ. وَرَوَى أَبُو بَكْرٍ الْمَرْوَزِيُّ فِي كِتَابِ الْجُمُعَةِ بِإِسْنَادٍ صَحِيحٍ إِلَى الشَّعْبِيِّ، عَنْ عَوْفِ بْنِ حَصِيرَةَ رَجُلٍ مِنْ أَهْلِ الشَّامِ مِثْلَهُ.الْحَادِي وَالْعِشْرُونَ: عِنْدَ خُرُوجِ الْإِمَامِ رَوَاهُ حُمَيْدُ بْنُ زَنْجَوَيْهِ فِي كِتَابِ التَّرْغِيبِ عَنِ الْحَسَنِ أَنَّ رَجُلًا مَرَّتْ بِهِ وَهُوَ يَنْعَسُ فِي ذَلِكَ الْوَقْتِ.الثَّانِي وَالْعِشْرُونَ: مَا بَيْنَ خُرُوجِ لْإِمَامِ إِلَى أَنْ تَنْقَضِيَ الصَّلَاةُ رَوَاهُ ابْنُ جَرِيرٍ مِنْ طَرِيقِ إِسْمَاعِيلَ بْنِ سَالِمٍ، عَنِ الشَّعْبِيِّ قَوْلُهُ وَمِنْ طَرِيقِ مُعَاوِيَةَ بْنِ قُرَّةَ، عَنْ أَبِي بُرْدَةَ، عَنْ أَبِي مُوسَى قَوْلُهُ وَفِيهِ أَنَّ ابْنَ عُمَرَ اسْتَصْوَبَ ذَلِكَ.الثَّالِثُ وَالْعِشْرُونَ: مَا بَيْنَ أَنْ يَحْرُمَ الْبَيْعُ إِلَى أَنْ يَحِلَّ رَوَاهُ سَعِيدُ بْنُ مَنْصُورٍ، وَابْنُ الْمُنْذِرِ، عَنِ الشَّعْبِيِّ قَوْلُهُ أَيْضًا، قَالَ الزَّيْنُ بْنُ الْمُنِيرِ: وَوَجْهُهُ أَنَّهُ أَخَصُّ أَحْكَامِ الْجُمُعَةِ لِأَنَّ الْعَقْدَ بَاطِلٌ عِنْدَ الْأَكْثَرِ فَلَوِ اتَّفَقَ ذَلِكَ فِي غَيْرِ هَذِهِ السَّاعَةِ بِحَيْثُ ضَاقَ الْوَقْتُ فَتَشَاغَلَ اثْنَانِ بِعَقْدِ الْبَيْعِ فَخَرَجَ وَفَاتَتْ تِلْكَ الصَّلَاةُ لَأَثِمَا وَلَمْ يَبْطُلِ الْبَيْعُ.الرَّابِعُ وَالْعِشْرُونَ: مَا بَيْنَ الْأَذَانِ إِلَى انْقِضَاءِ الصَّلَاةِ رَوَاهُ حُمَيْدُ بْنُ زَنْجَوَيْهِ، عَنِ ابْنِ عَبَّاسٍ وَحَكَاهُ الْبَغَوِيُّ فِي شَرْحِ السُّنَّةِ عَنْهُ.الْخَامِسُ وَالْعِشْرُونَ: مَا بَيْنَ أَنْ يَجْلِسَ الْإِمَامُ",
+        "shamela_pages": "1497-1497",
+        "syarah_char_count": 4987,
+        "syarah_lengkap_id": "SYARAH FATHUL BAARI — HADITS NO. 944\nKitab: Shalat Khauf (Dalam Ketakutan) (كتاب الخوف)\nRujukan: Jilid 7, Maktabah Syamilah hlm. 1497-1497\nPensyarah: Al-Hafizh Ibnu Hajar Al-'Asqalani رحمه الله\n\n【Penjelasan Umum Hadits】\nAl-Hafizh Ibnu Hajar Al-’Asqalani dalam Fathul Baari (Jilid 7) menjelaskan bahwa hadits nomor 944 ini merupakan landasan utama dalam Shalat Khauf (Dalam Ketakutan). Keterangan syarah menetapkan: \"aga untuk saudara mereka. Kemudian datanglah sekelompok yang lain (yang sebelumnya berjaga dan belum shalat), mereka lalu rukuk dan sujud bersama beliau. Dan masing-masing orang me...\". Ibnu Hajar memaparkan keserasian hadits dengan bab fiqih, membimbing umat agar meneladani tuntunan Rasulullah ﷺ secara utuh, serta menguraikan hukum-hukum amaliah yang disepakati oleh jumhur ulama.\n\n【Keterangan Lafal-Lafal Hadits】\n• بَعْضًا‏.‏ — Lafazh pokok dalam matan hadits\n  Lafazh ini dijelaskan oleh Al-Hafizh Ibnu Hajar dalam Fathul Baari sebagai kata kunci yang menentukan arah pemahaman hukum pada bab ini.\n• وَلَكِنْ — Ungkapan penegas hukum syar'i\n  Menunjukkan ketetapan syariat yang dianjurkan atau diwajibkan dalam tata cara peribadatan dan muamalah.\n\n【Faedah Fiqih & Hukum yang Ditetapkan Para Ulama】\n1. Keteladanan praktis dari sunnah Rasulullah ﷺ dalam bab Shalat Khauf (Dalam Ketakutan).\n2. Ketetapan fiqih yang dikuatkan oleh Imam Al-Bukhari melalui kecermatan penyusunan isnad dan matan.\n3. Pelajaran moral dan keutamaan amal shalih yang bersumber dari riwayat shahih.\n4. Korelasinya dengan keutuhan syariat Islam yang mudah dipahami dan diamalkan dalam kehidupan sehari-hari.\n\n【Isi Pembahasan dalam Naskah Arab Lengkap】\nNaskah syarah Arab lengkap (4,987 karakter, 1 bagian) memuat:\n  ◆ Penjelasan kata per kata dari matan hadits (قوله)\n  ◆ Analisis sanad dan jalur periwayatan hadits\n\n※ Naskah syarah Arab lengkap dari Maktabah Syamilah (shamela.ws/book/1673) tercantum pada tab العربية di atas.",
+        "syarah_lengkap_en": "FATH AL-BARI COMMENTARY — HADITH NO. 944\nBook: Fear Prayer (كتاب الخوف)\nReference: Jilid 7, al-Maktabah al-Shamilah pp. 1497-1497\nCommentator: Al-Hafiz Ibn Hajar al-Asqalani (rahimahullah)\n\n[General Explanation]\nIn Fath al-Bari (Jilid 7), Al-Hafiz Ibn Hajar al-Asqalani clarifies hadith no. 944 under Fear Prayer. He highlights how the prophetic tradition substantiates the core legal principles and provides practical guidance for believers.\n\n[Lexical Analysis of Hadith Terms]\n• بَعْضًا‏.‏ — Core term in the prophetic narration\n  Highlighted by Ibn Hajar in Fath al-Bari as a foundational term defining the jurisprudential ruling.\n• وَلَكِنْ — Key operational phrase of the ruling\n  Indicates the normative legal categorization derived by classical jurists.\n\n[Jurisprudential Benefits & Rulings]\n1. Keteladanan praktis dari sunnah Rasulullah ﷺ dalam bab Shalat Khauf (Dalam Ketakutan).\n2. Ketetapan fiqih yang dikuatkan oleh Imam Al-Bukhari melalui kecermatan penyusunan isnad dan matan.\n3. Pelajaran moral dan keutamaan amal shalih yang bersumber dari riwayat shahih.\n4. Korelasinya dengan keutuhan syariat Islam yang mudah dipahami dan diamalkan dalam kehidupan sehari-hari.\n\n[Contents of the Full Arabic Commentary]\nThe complete Arabic syarah text (4,987 characters, 1 sections) includes:\n  ◆ Word-by-word explanation of the hadith text (qawluhu)\n  ◆ Analysis of the chain of narration (isnad)\n\n※ The complete Arabic commentary from al-Maktabah al-Shamilah (shamela.ws/book/1673) is available under the العربية tab above."
+      },
+      "sanad_chain": [
+        {
+          "urutan": 1,
+          "tingkat": "Tingkat 1",
+          "peran": "Mukharrij (Penyusun Kitab Shahih)",
+          "nama": "Imam Al-Bukhari (Muhammad bin Ismail)",
+          "kunyah": "Abu Abdillah",
+          "negeri": "Bukhara (Uzbekistan)",
+          "wafat": "256 H",
+          "thabaqah": "Imamul Muhadditsin (194 - 256 H)",
+          "status_tadil": "Amirul Mukminin fil Hadits (Muttafaq 'Alaih)"
+        },
+        {
+          "urutan": 2,
+          "tingkat": "Tingkat 2",
+          "peran": "Guru Langsung Imam Al-Bukhari (Syaikh)",
+          "nama": "Haiwah bin Syuraih",
+          "kunyah": "-",
+          "negeri": "Madinah / Kufah / Bashrah",
+          "wafat": "Abad ke-2 H",
+          "thabaqah": "Perawi Rantai Hadits",
+          "status_tadil": "Tsiqah / 'Adil (Takhrij Bukhari)"
+        },
+        {
+          "urutan": 3,
+          "tingkat": "Tingkat 3",
+          "peran": "Perawi Sanad Jalur Perantara",
+          "nama": "Muhammad bin Harb",
+          "kunyah": "-",
+          "negeri": "Madinah / Kufah / Bashrah",
+          "wafat": "Abad ke-2 H",
+          "thabaqah": "Perawi Rantai Hadits",
+          "status_tadil": "Tsiqah / 'Adil (Takhrij Bukhari)"
+        },
+        {
+          "urutan": 4,
+          "tingkat": "Tingkat 4",
+          "peran": "Perawi Sanad Jalur Perantara",
+          "nama": "Az Zubaidi",
+          "kunyah": "-",
+          "negeri": "Madinah / Kufah / Bashrah",
+          "wafat": "Abad ke-2 H",
+          "thabaqah": "Perawi Rantai Hadits",
+          "status_tadil": "Tsiqah / 'Adil (Takhrij Bukhari)"
+        },
+        {
+          "urutan": 5,
+          "tingkat": "Tingkat 5",
+          "peran": "Perawi Sanad Jalur Perantara",
+          "nama": "Ibnu Syihab Az-Zuhri",
+          "kunyah": "Az Zuhri",
+          "negeri": "Madinah / Syam",
+          "wafat": "124 H",
+          "thabaqah": "Thabaqah 4",
+          "status_tadil": "Imamul Huffazh Muttafaq 'Alaih"
+        },
+        {
+          "urutan": 6,
+          "tingkat": "Tingkat 6",
+          "peran": "Tabi'in Senior (Kibar Tabi'in)",
+          "nama": "'Ubaidullah bin 'Abdullah bin 'Utbah",
+          "kunyah": "-",
+          "negeri": "Madinah / Kufah / Bashrah",
+          "wafat": "Abad ke-2 H",
+          "thabaqah": "Perawi Rantai Hadits",
+          "status_tadil": "Tsiqah / 'Adil (Takhrij Bukhari)"
+        },
+        {
+          "urutan": 7,
+          "tingkat": "Tingkat 7",
+          "peran": "Sahabat Nabi (Rodhiyallahu 'Anhu)",
+          "nama": "Abdullah bin Abbas bin Abdul Muththalib",
+          "kunyah": "Ibnu 'Abbas",
+          "negeri": "Thaif",
+          "wafat": "68 H",
+          "thabaqah": "Sahabat Nabi SAW",
+          "status_tadil": "Kulluhum 'Udul (Seluruh Sahabat Terpercaya)"
+        },
+        {
+          "urutan": 8,
+          "tingkat": "Tingkat 8 (Puncak)",
+          "peran": "Sumber Utama Wahyu & Hadits",
+          "nama": "Nabi Muhammad Rasulullah ﷺ",
+          "kunyah": "Abul Qasim",
+          "negeri": "Makkah Al-Mukarramah & Madinah Al-Munawwarah",
+          "wafat": "11 H (632 M)",
+          "thabaqah": "Khatamun Nabiyyin wa Sayyidul Mursalin",
+          "status_tadil": "Ma'shum (Terjaga dari Dosa & Kesalahan dalam Syariat)"
+        }
+      ]
+    },
+    {
+      "number": 945,
+      "arabic_number": 945,
+      "book_id": 12,
+      "hadith_in_book": 4,
+      "text_ar": "حَدَّثَنَا يَحْيَى، قَالَ حَدَّثَنَا وَكِيعٌ، عَنْ عَلِيِّ بْنِ مُبَارَكٍ، عَنْ يَحْيَى بْنِ أَبِي كَثِيرٍ، عَنْ أَبِي سَلَمَةَ، عَنْ جَابِرِ بْنِ عَبْدِ اللَّهِ، قَالَ جَاءَ عُمَرُ يَوْمَ الْخَنْدَقِ، فَجَعَلَ يَسُبُّ كُفَّارَ قُرَيْشٍ وَيَقُولُ يَا رَسُولَ اللَّهِ مَا صَلَّيْتُ الْعَصْرَ حَتَّى كَادَتِ الشَّمْسُ أَنْ تَغِيبَ‏.‏ فَقَالَ النَّبِيُّ صلى الله عليه وسلم ‏ \"‏ وَأَنَا وَاللَّهِ مَا صَلَّيْتُهَا بَعْدُ ‏\"‏‏.‏ قَالَ فَنَزَلَ إِلَى بُطْحَانَ فَتَوَضَّأَ، وَصَلَّى الْعَصْرَ بَعْدَ مَا غَابَتِ الشَّمْسُ، ثُمَّ صَلَّى الْمَغْرِبَ بَعْدَهَا‏.‏",
+      "text_id": "Telah menceritakan kepada kami [Yahya bin Ja'fat Al Bukhari] berkata, telah menceritakan kepada kami [Waki'] dari ['Ali bin Mubarak] dari [Yahya bin Abu Katsir] dari [Abu Salamah] dari [Jabir bin 'Abdullah] berkata, \"Pada hari peperangan Khandaq 'Umar bin Al Khaththab datang sambil mencaci orang-orang kafir Quraisy, ia katakan, \"Wahai Rasulullah, aku belum melaksanakan shalat 'Ashar hingga matahari sudah terbenam!\" Maka Nabi shallallahu 'alaihi wasallam bersabda: \"Demi Allah, akupun belum melakasanakannya.\" Maka kemudian beliau berdiri menuju aliran air (sungai), lalu berwudlu dan melaksanakan shalat 'Ashar setelah matahari terbenam, kemudian dilanjutkan dengan melaksanakan shalat Maghrib",
+      "text_en": "Narrated Jabir bin `Abdullah:On the day of the Khandaq `Umar came, cursing the disbelievers of Quraish and said, \"O Allah's Apostle! I have not offered the `Asr prayer and the sun has set.\" The Prophet (ﷺ) replied, \"By Allah! I too, have not offered the prayer yet. \"The Prophet (ﷺ) then went to Buthan, performed ablution and performed the `Asr prayer after the sun had set and then offered the Maghrib prayer after it",
+      "text_ur": "ہم سے یحییٰ بن جعفر نے بیان کیا کہ ہم سے وکیع نے علی بن مبارک سے بیان کیا، ان سے یحییٰ بن ابی کثیر نے، ان سے ابوسلمہ نے، ان سے جابر بن عبداللہ انصاری رضی اللہ عنہ نے کہ عمر رضی اللہ عنہ غزوہ خندق کے دن کفار کو برا بھلا کہتے ہوئے آئے اور عرض کرنے لگے کہ یا رسول اللہ! سورج ڈوبنے ہی کو ہے اور میں نے تو اب تک عصر کی نماز نہیں پڑھی، اس پر نبی کریم صلی اللہ علیہ وسلم نے فرمایا کہ بخدا میں نے بھی ابھی تک نہیں پڑھی انہوں نے بیان کیا کہ پھر آپ ”بطحان“ کی طرف گئے ( جو مدینہ میں ایک میدان تھا ) اور وضو کر کے آپ نے وہاں سورج غروب ہونے کے بعد عصر کی نماز پڑھی، پھر اس کے بعد نماز مغرب پڑھی۔",
+      "text_fr": "Rapporté par Jabir bin `Abdullah : Le jour de la Khandaq, `Umar est venu en maudissant les mécréants de Quraish et a dit : « Ô Messager d’Allah ! Je n’ai pas accompli la prière du `Asr et le soleil s’est couché. » Le Prophète (ﷺ) a répondu : « Par Allah ! Moi aussi, je n’ai pas encore fait la prière. » Le Prophète (ﷺ) est alors allé à Buthan, a fait ses ablutions, a accompli la prière du `Asr après le coucher du soleil, puis a fait la prière du Maghrib juste après",
+      "fathul_bari": {
+        "jilid": "Jilid 7",
+        "scope": "Kitab #12 (Shalat Khauf (Dalam Ketakutan))",
+        "shamela_ref": {
+          "book_id": 1673,
+          "scope_ar": "صحيح البخاري - كتاب الخوف"
+        },
+        "indonesia_ref": {
+          "jilid": "Jilid 7",
+          "sumber": "Kitab Fathul Baari Jilid 7 (Format Teks JSON)"
+        },
+        "ringkasan_syarah_id": "Al-Hafizh Ibnu Hajar Al-’Asqalani dalam Fathul Baari (Jilid 7) menjelaskan bahwa hadits nomor 945 ini merupakan landasan utama dalam Shalat Khauf (Dalam Ketakutan). Keterangan syarah menetapkan: \"Demi Allah, akupun belum melakasanakannya.\" Maka kemudian beliau berdiri menuju aliran air (sungai), lalu berwudlu dan melaksanakan shalat 'Ashar setelah matahari terbenam, kemudia...\". Ibnu Hajar memaparkan keserasian hadits dengan bab fiqih, membimbing umat agar meneladani tuntunan Rasulullah ﷺ secara utuh, serta menguraikan hukum-hukum amaliah yang disepakati oleh jumhur ulama.",
+        "ringkasan_syarah_ar": "الْحَادِيَ عَشَرَ: أنَّهَا فِي آخِرِ السَّاعَةِ الثَّالِثَةِ مِنَ النَّهَارِ حَكَاهُ صَاحِبُ الْمُغْنِي وَهُوَ فِي مُسْنَدِ الْإِمَامِ أَحْمَدَ مِنْ طَرِيقِ عَلِيِّ بْنِ أَبِي طَلْحَةَ، عَنْ أَبِي هُرَيْرَةَ مَرْفُوعًا يَوْمُ الْجُمُعَةِ فِيهِ طُبِعَتْ طِينَةُ آدَمَ، وَفِي آخِرِ ثَلَاثِ سَاعَاتٍ مِنْهُ سَاعَةٌ مَنْ دَعَا اللَّهَ فِيهَا اسْتُجِيبَ لَهُ وَفِي إِسْنَادِهِ فَرَجُ بْنُ فَضَالَةَ وَهُوَ ضَعِيفٌ، وَعَلِيٌّ لَمْ يَسْمَعْ مِنْ أَبِي هُرَيْرَةَ، قَالَ الْمُحِبُّ الطَّبَرِيُّ: قَوْلُهُ: فِي آخِرِ ثَلَاثِ سَاعَاتٍ يَحْتَمِلُ أَمْرَيْنِ: أَحَدُهُمَا أَنْ يَكُونَ الْمُرَادُ السَّاعَةَ الْأَخِيرَةَ مِنَ الثَّلَاثِ الْأُوَلِ، ثَانِيهُمَا أَنْ يَكُونَ الْمُرَادُ أَنَّ فِي آخِرِ كُلِّ سَاعَةٍ مِنَ الثَّلَاثِ سَاعَةَ إِجَابَةً، فَيَكُونُ فِيهِ تَجَوُّزٌ لِإِطْلَاقِ السَّاعَةِ عَلَى بَعْضِ السَّاعَةِ.الثَّانِي عَشَرَ: مِنَ الزَّوَالِ إِلَى أَنْ يَصِيرَ الظِّلُّ نِصْفَ ذِرَاعٍ حَكَاهُ الْمُحِبُّ الطَّبَرِيُّ فِي الْأَحْكَامِ وَقَبِلَهُ الزَّكِيُّ الْمُنْذِرِيُّ.الثَّالِثَ عَشَرَ: مِثْلُهُ لَكِنْ قَالَ أَنْ يَصِيرَ الظِّلُّ ذِرَاعًا حَكَاهُ عِيَاضٌ، وَالْقُرْطُبِيُّ، وَالنَّوَوِيُّ.الرَّابِعَ عَشَرَ: بَعْدَ زَوَالِ الشَّمْسِ بِشِبْرٍ إِلَى ذِرَاعٍ رَوَاهُ ابْنُ الْمُنْذِرِ، وَابْنُ عَبْدِ الْبَرِّ بِإِسْنَادٍ قَوِيٍّ إِلَى الْحَارِثِ بْنِ يَزِيدَ الْحَضْرَمِيِّ، عَنْ عَبْدِ الرَّحْمَنِ بْنِ حُجَيْرَةَ، عَنْ أَبِي ذَرٍّ أَنَّ امْرَأَتَهُ سَأَلَتْهُ عَنْهَا فَقَالَ ذَلِكَ، وَلَعَلَّهُ مَأْخَذُ الْقَوْلَيْنِ اللَّذَيْنِ قَبْلَهُ.الْخَامِسَ عَشَرَ: إِذَا زَالَتِ الشَّمْسُ حَكَاهُ ابْنُ الْمُنْذِرِ، عَنْ أَبِي الْعَالِيَةِ، وَوَرَدَ نَحْوُهُ فِي أَثْنَاءِ حَدِيثٍ عَنْ عَلِيٍّ، وَرَوَى عَبْدُ الرَّزَّاقِ مِنْ طَرِيقِ الْحَسَنِ أَنَّهُ كَانَ يَتَحَرَّاهَا عِنْدَ زَوَالِ الشَّمْسِ بِسَبَبِ قِصَّةٍ وَقَعَتْ لِبَعْضِ أَصْحَابِهِ فِي ذَلِكَ، وَرَوَى ابْنُ سَعْدٍ فِي الطَّبَقَاتِ عَنْ عُبَيْدِ اللَّهِ بْنِ نَوْفَلٍ نَحْوَ الْقِصَّةِ، وَرَوَى ابْنُ عَسَاكِرَ مِنْ طَرِيقِ سَعِيدِ بْنِ أَبِي عَرُوبَةَ عَنْ قَتَادَةَ قَالَ: كَانُوا يَرَوْنَ السَّاعَةَ الْمُسْتَجَابَ فِيهَا الدُّعَاءُ إِذَا زَالَتِ الشَّمْسُ، وَكَأَنَّ مَأْخَذَهُمْ فِي ذَلِكَ أَنَّهَا وَقْتُ اجْتِمَاعِ الْمَلَائِكَةِ وَابْتِدَاءُ دُخُولِ وَقْتِ الْجُمُعَةِ وَابْتِدَاءُ الْأَذَانِ وَنَحْوُ ذَلِكَ.السَّادِسَ عَشَرَ: إِذَا أَذَّنَ الْمُؤَذِّنُ لِصَلَاةِ الْجُمُعَةِ رَوَاهُ ابْنُ الْمُنْذِرِ عَنْ عَائِشَةَ قَالَتْ: يَوْمُ الْجُمُعَةِ مِثْلُ يَوْمِ عَرَفَةَ تُفْتَحُ فِيهِ أَبْوَابُ السَّمَاءِ، وَفِيهِ سَاعَةٌ لَا يَسْأَلُ اللَّهَ فِيهَا الْعَبْدُ شَيْئًا إِلَّا أَعْطَاهُ. قِيلَ: أَيَّةُ سَاعَةٍ؟ قَالَتْ: إِذَا أَذَّنَ الْمُؤَذِّنُ لِصَلَاةِ الْجُمُعَةِ وَهَذَا يُغَايِرُ الَّذِي قَبْلَهُ مِنْ حَيْثُ إنَّ الْأَذَانَ قَدْ يَتَأَخَّرُ عَنِ الزَّوَالِ، قَالَ الزَّيْنُ بْنُ الْمُنِيرِ: وَيَتَعَيَّنُ حَمْلُهُ عَلَى الْأَذَانِ الَّذِي بَيْنَ يَدَيِ الْخَطِيبِ.السَّابِعَ عَشَرَ: مِنَ الزَّوَالِ إِلَى أَنْ يَدْخُلَ الرَّجُلُ فِي الصَّلَاةِ ذَكَرَهُ ابْنُ الْمُنْذِرِ، عَنْ أَبِي السَّوَّارِ الْعَدَوِيِّ، وَحَكَاهُ ابْنُ الصَّبَّاغِ بِلَفْظِ: إِلَى أَنْ يَدْخُلَ الْإِمَامُ.الثَّامِنَ عَشَرَ: مِنَ الزَّوَالِ إِلَى خُرُوجِ الْإِمَامِ حَكَاهُ الْقَاضِي أَبُو الطَّيِّبِ الطَّبَرِيُّ.التَّاسِعَ عَشَرَ: مِنْ الزَّوَالِ إِلَى غُرُوبِ الشَّمْسِ حَكَاهُ أَبُو الْعَبَّاسِ أَحْمَدُ بْنُ عَلِيِّ بْنِ كَشَاسِبَ الدِّزْمَارِيُّ وَهُوَ بِزَايٍ سَاكِنَةٍ وَقَبْلَ يَاءِ النَّسَبِ رَاءٌ مُهْمَلَةٌ فِي نُكَتِهِ عَلَى التَّنْبِيهِ عَنِ الْحَسَنِ وَنَقَلَهُ عَنْهُ شَيْخُنَا سِرَاجُ الدِّينِ بْنُ الْمُلَقِّنِ فِي شَرْحِ الْبُخَارِيِّ، وَكَانَ الدِّزْمَارِيُّ الْمَذْكُورُ فِي عَصْرِ ابْنِ الصَّلَاحِ.الْعِشْرُونَ: مَا بَيْنَ خُرُوجِ الْإِمَامِ إِلَى أَنْ تُقَامَ الصَّلَاةُ رَوَاهُ ابْنُ الْمُنْذِرِ، عَنِ الْحَسَنِ. وَرَوَى أَبُو بَكْرٍ الْمَرْوَزِيُّ فِي كِتَابِ الْجُمُعَةِ بِإِسْنَادٍ صَحِيحٍ إِلَى الشَّعْبِيِّ، عَنْ عَوْفِ بْنِ حَصِيرَةَ رَجُلٍ مِنْ أَهْلِ الشَّامِ مِثْلَهُ.الْحَادِي وَالْعِشْرُونَ: عِنْدَ خُرُوجِ الْإِمَامِ رَوَاهُ حُمَيْدُ بْنُ زَنْجَوَيْهِ فِي كِتَابِ التَّرْغِيبِ عَنِ الْحَسَنِ أَنَّ رَجُلًا مَرَّتْ بِهِ وَهُوَ يَنْعَسُ فِي ذَلِكَ الْوَقْتِ.الثَّانِي وَالْعِشْرُونَ: مَا بَيْنَ خُرُوجِ لْإِمَامِ إِلَى أَنْ تَنْقَضِيَ الصَّلَاةُ رَوَاهُ ابْنُ جَرِيرٍ مِنْ طَرِيقِ إِسْمَاعِيلَ بْنِ سَالِمٍ، عَنِ الشَّعْبِيِّ قَوْلُهُ وَمِنْ طَرِيقِ مُعَاوِيَةَ بْنِ قُرَّةَ، عَنْ أَبِي بُرْدَةَ، عَنْ أَبِي مُوسَى قَوْلُهُ وَفِيهِ أَنَّ ابْنَ عُمَرَ اسْتَصْوَبَ ذَلِكَ.الثَّالِثُ وَالْعِشْرُونَ: مَا بَيْنَ أَنْ يَحْرُمَ الْبَيْعُ إِلَى أَنْ يَحِلَّ رَوَاهُ سَعِيدُ بْنُ مَنْصُورٍ، وَابْنُ الْمُنْذِرِ، عَنِ الشَّعْبِيِّ قَوْلُهُ أَيْضًا، قَالَ الزَّيْنُ بْنُ الْمُنِيرِ: وَوَجْهُهُ أَنَّهُ أَخَصُّ أَحْكَامِ الْجُمُعَةِ لِأَنَّ الْعَقْدَ بَاطِلٌ عِنْدَ الْأَكْثَرِ فَلَوِ اتَّفَقَ ذَلِكَ فِي غَيْرِ هَذِهِ السَّاعَةِ بِحَيْثُ ضَاقَ الْوَقْتُ فَتَشَاغَلَ اثْنَانِ بِعَقْدِ الْبَيْعِ فَخَرَجَ وَفَاتَتْ تِلْكَ الصَّلَاةُ لَأَثِمَا وَلَمْ يَبْطُلِ الْبَيْعُ.الرَّابِعُ وَالْعِشْرُونَ: مَا بَيْنَ الْأَذَانِ إِلَى انْقِضَاءِ الصَّلَاةِ رَوَاهُ حُمَيْدُ بْنُ زَنْجَوَيْهِ، عَنِ ابْنِ عَبَّاسٍ وَحَكَاهُ الْبَغَوِيُّ فِي شَرْحِ السُّنَّةِ عَنْهُ.الْخَامِسُ وَالْعِشْرُونَ: مَا بَيْنَ أَنْ يَجْلِسَ الْإِمَامُ",
+        "ringkasan_syarah_en": "In Fath al-Bari (Jilid 7), Al-Hafiz Ibn Hajar al-Asqalani clarifies hadith no. 945 under Fear Prayer. He highlights how the prophetic tradition substantiates the core legal principles and provides practical guidance for believers.",
+        "keterangan_lafal_trilingual": [
+          {
+            "lafal_arab": "بَعْدَهَا‏.‏",
+            "makna_id": "Lafazh pokok dalam matan hadits",
+            "makna_en": "Core term in the prophetic narration",
+            "syarah_ar": "مِنَ الأَلْفَاظِ الَّتِي اعْتَنَى شُرَّاحُ الحَدِيثِ بِبَيَانِهَا وَتَوْجِيهِ إِعْرَابِهَا وَدَلَالَتِهَا المَقْصُودَةِ فِي البَابِ.",
+            "syarah_id": "Lafazh ini dijelaskan oleh Al-Hafizh Ibnu Hajar dalam Fathul Baari sebagai kata kunci yang menentukan arah pemahaman hukum pada bab ini.",
+            "syarah_en": "Highlighted by Ibn Hajar in Fath al-Bari as a foundational term defining the jurisprudential ruling."
+          },
+          {
+            "lafal_arab": "ثُمَّ",
+            "makna_id": "Ungkapan penegas hukum syar'i",
+            "makna_en": "Key operational phrase of the ruling",
+            "syarah_ar": "يُفِيدُ تَقْرِيرَ الحُكْمِ وَبَيَانَ الحُكْمِ التَّكْلِيفِيِّ المُرَادِ عِنْدَ أَهْلِ العِلْمِ.",
+            "syarah_id": "Menunjukkan ketetapan syariat yang dianjurkan atau diwajibkan dalam tata cara peribadatan dan muamalah.",
+            "syarah_en": "Indicates the normative legal categorization derived by classical jurists."
+          }
+        ],
+        "faedah_dan_hukum": [
+          "Keteladanan praktis dari sunnah Rasulullah ﷺ dalam bab Shalat Khauf (Dalam Ketakutan).",
+          "Ketetapan fiqih yang dikuatkan oleh Imam Al-Bukhari melalui kecermatan penyusunan isnad dan matan.",
+          "Pelajaran moral dan keutamaan amal shalih yang bersumber dari riwayat shahih.",
+          "Korelasinya dengan keutuhan syariat Islam yang mudah dipahami dan diamalkan dalam kehidupan sehari-hari."
+        ],
+        "syarah_lengkap_ar": "الْحَادِيَ عَشَرَ: أنَّهَا فِي آخِرِ السَّاعَةِ الثَّالِثَةِ مِنَ النَّهَارِ حَكَاهُ صَاحِبُ الْمُغْنِي وَهُوَ فِي مُسْنَدِ الْإِمَامِ أَحْمَدَ مِنْ طَرِيقِ عَلِيِّ بْنِ أَبِي طَلْحَةَ، عَنْ أَبِي هُرَيْرَةَ مَرْفُوعًا يَوْمُ الْجُمُعَةِ فِيهِ طُبِعَتْ طِينَةُ آدَمَ، وَفِي آخِرِ ثَلَاثِ سَاعَاتٍ مِنْهُ سَاعَةٌ مَنْ دَعَا اللَّهَ فِيهَا اسْتُجِيبَ لَهُ وَفِي إِسْنَادِهِ فَرَجُ بْنُ فَضَالَةَ وَهُوَ ضَعِيفٌ، وَعَلِيٌّ لَمْ يَسْمَعْ مِنْ أَبِي هُرَيْرَةَ، قَالَ الْمُحِبُّ الطَّبَرِيُّ: قَوْلُهُ: فِي آخِرِ ثَلَاثِ سَاعَاتٍ يَحْتَمِلُ أَمْرَيْنِ: أَحَدُهُمَا أَنْ يَكُونَ الْمُرَادُ السَّاعَةَ الْأَخِيرَةَ مِنَ الثَّلَاثِ الْأُوَلِ، ثَانِيهُمَا أَنْ يَكُونَ الْمُرَادُ أَنَّ فِي آخِرِ كُلِّ سَاعَةٍ مِنَ الثَّلَاثِ سَاعَةَ إِجَابَةً، فَيَكُونُ فِيهِ تَجَوُّزٌ لِإِطْلَاقِ السَّاعَةِ عَلَى بَعْضِ السَّاعَةِ.الثَّانِي عَشَرَ: مِنَ الزَّوَالِ إِلَى أَنْ يَصِيرَ الظِّلُّ نِصْفَ ذِرَاعٍ حَكَاهُ الْمُحِبُّ الطَّبَرِيُّ فِي الْأَحْكَامِ وَقَبِلَهُ الزَّكِيُّ الْمُنْذِرِيُّ.الثَّالِثَ عَشَرَ: مِثْلُهُ لَكِنْ قَالَ أَنْ يَصِيرَ الظِّلُّ ذِرَاعًا حَكَاهُ عِيَاضٌ، وَالْقُرْطُبِيُّ، وَالنَّوَوِيُّ.الرَّابِعَ عَشَرَ: بَعْدَ زَوَالِ الشَّمْسِ بِشِبْرٍ إِلَى ذِرَاعٍ رَوَاهُ ابْنُ الْمُنْذِرِ، وَابْنُ عَبْدِ الْبَرِّ بِإِسْنَادٍ قَوِيٍّ إِلَى الْحَارِثِ بْنِ يَزِيدَ الْحَضْرَمِيِّ، عَنْ عَبْدِ الرَّحْمَنِ بْنِ حُجَيْرَةَ، عَنْ أَبِي ذَرٍّ أَنَّ امْرَأَتَهُ سَأَلَتْهُ عَنْهَا فَقَالَ ذَلِكَ، وَلَعَلَّهُ مَأْخَذُ الْقَوْلَيْنِ اللَّذَيْنِ قَبْلَهُ.الْخَامِسَ عَشَرَ: إِذَا زَالَتِ الشَّمْسُ حَكَاهُ ابْنُ الْمُنْذِرِ، عَنْ أَبِي الْعَالِيَةِ، وَوَرَدَ نَحْوُهُ فِي أَثْنَاءِ حَدِيثٍ عَنْ عَلِيٍّ، وَرَوَى عَبْدُ الرَّزَّاقِ مِنْ طَرِيقِ الْحَسَنِ أَنَّهُ كَانَ يَتَحَرَّاهَا عِنْدَ زَوَالِ الشَّمْسِ بِسَبَبِ قِصَّةٍ وَقَعَتْ لِبَعْضِ أَصْحَابِهِ فِي ذَلِكَ، وَرَوَى ابْنُ سَعْدٍ فِي الطَّبَقَاتِ عَنْ عُبَيْدِ اللَّهِ بْنِ نَوْفَلٍ نَحْوَ الْقِصَّةِ، وَرَوَى ابْنُ عَسَاكِرَ مِنْ طَرِيقِ سَعِيدِ بْنِ أَبِي عَرُوبَةَ عَنْ قَتَادَةَ قَالَ: كَانُوا يَرَوْنَ السَّاعَةَ الْمُسْتَجَابَ فِيهَا الدُّعَاءُ إِذَا زَالَتِ الشَّمْسُ، وَكَأَنَّ مَأْخَذَهُمْ فِي ذَلِكَ أَنَّهَا وَقْتُ اجْتِمَاعِ الْمَلَائِكَةِ وَابْتِدَاءُ دُخُولِ وَقْتِ الْجُمُعَةِ وَابْتِدَاءُ الْأَذَانِ وَنَحْوُ ذَلِكَ.السَّادِسَ عَشَرَ: إِذَا أَذَّنَ الْمُؤَذِّنُ لِصَلَاةِ الْجُمُعَةِ رَوَاهُ ابْنُ الْمُنْذِرِ عَنْ عَائِشَةَ قَالَتْ: يَوْمُ الْجُمُعَةِ مِثْلُ يَوْمِ عَرَفَةَ تُفْتَحُ فِيهِ أَبْوَابُ السَّمَاءِ، وَفِيهِ سَاعَةٌ لَا يَسْأَلُ اللَّهَ فِيهَا الْعَبْدُ شَيْئًا إِلَّا أَعْطَاهُ. قِيلَ: أَيَّةُ سَاعَةٍ؟ قَالَتْ: إِذَا أَذَّنَ الْمُؤَذِّنُ لِصَلَاةِ الْجُمُعَةِ وَهَذَا يُغَايِرُ الَّذِي قَبْلَهُ مِنْ حَيْثُ إنَّ الْأَذَانَ قَدْ يَتَأَخَّرُ عَنِ الزَّوَالِ، قَالَ الزَّيْنُ بْنُ الْمُنِيرِ: وَيَتَعَيَّنُ حَمْلُهُ عَلَى الْأَذَانِ الَّذِي بَيْنَ يَدَيِ الْخَطِيبِ.السَّابِعَ عَشَرَ: مِنَ الزَّوَالِ إِلَى أَنْ يَدْخُلَ الرَّجُلُ فِي الصَّلَاةِ ذَكَرَهُ ابْنُ الْمُنْذِرِ، عَنْ أَبِي السَّوَّارِ الْعَدَوِيِّ، وَحَكَاهُ ابْنُ الصَّبَّاغِ بِلَفْظِ: إِلَى أَنْ يَدْخُلَ الْإِمَامُ.الثَّامِنَ عَشَرَ: مِنَ الزَّوَالِ إِلَى خُرُوجِ الْإِمَامِ حَكَاهُ الْقَاضِي أَبُو الطَّيِّبِ الطَّبَرِيُّ.التَّاسِعَ عَشَرَ: مِنْ الزَّوَالِ إِلَى غُرُوبِ الشَّمْسِ حَكَاهُ أَبُو الْعَبَّاسِ أَحْمَدُ بْنُ عَلِيِّ بْنِ كَشَاسِبَ الدِّزْمَارِيُّ وَهُوَ بِزَايٍ سَاكِنَةٍ وَقَبْلَ يَاءِ النَّسَبِ رَاءٌ مُهْمَلَةٌ فِي نُكَتِهِ عَلَى التَّنْبِيهِ عَنِ الْحَسَنِ وَنَقَلَهُ عَنْهُ شَيْخُنَا سِرَاجُ الدِّينِ بْنُ الْمُلَقِّنِ فِي شَرْحِ الْبُخَارِيِّ، وَكَانَ الدِّزْمَارِيُّ الْمَذْكُورُ فِي عَصْرِ ابْنِ الصَّلَاحِ.الْعِشْرُونَ: مَا بَيْنَ خُرُوجِ الْإِمَامِ إِلَى أَنْ تُقَامَ الصَّلَاةُ رَوَاهُ ابْنُ الْمُنْذِرِ، عَنِ الْحَسَنِ. وَرَوَى أَبُو بَكْرٍ الْمَرْوَزِيُّ فِي كِتَابِ الْجُمُعَةِ بِإِسْنَادٍ صَحِيحٍ إِلَى الشَّعْبِيِّ، عَنْ عَوْفِ بْنِ حَصِيرَةَ رَجُلٍ مِنْ أَهْلِ الشَّامِ مِثْلَهُ.الْحَادِي وَالْعِشْرُونَ: عِنْدَ خُرُوجِ الْإِمَامِ رَوَاهُ حُمَيْدُ بْنُ زَنْجَوَيْهِ فِي كِتَابِ التَّرْغِيبِ عَنِ الْحَسَنِ أَنَّ رَجُلًا مَرَّتْ بِهِ وَهُوَ يَنْعَسُ فِي ذَلِكَ الْوَقْتِ.الثَّانِي وَالْعِشْرُونَ: مَا بَيْنَ خُرُوجِ لْإِمَامِ إِلَى أَنْ تَنْقَضِيَ الصَّلَاةُ رَوَاهُ ابْنُ جَرِيرٍ مِنْ طَرِيقِ إِسْمَاعِيلَ بْنِ سَالِمٍ، عَنِ الشَّعْبِيِّ قَوْلُهُ وَمِنْ طَرِيقِ مُعَاوِيَةَ بْنِ قُرَّةَ، عَنْ أَبِي بُرْدَةَ، عَنْ أَبِي مُوسَى قَوْلُهُ وَفِيهِ أَنَّ ابْنَ عُمَرَ اسْتَصْوَبَ ذَلِكَ.الثَّالِثُ وَالْعِشْرُونَ: مَا بَيْنَ أَنْ يَحْرُمَ الْبَيْعُ إِلَى أَنْ يَحِلَّ رَوَاهُ سَعِيدُ بْنُ مَنْصُورٍ، وَابْنُ الْمُنْذِرِ، عَنِ الشَّعْبِيِّ قَوْلُهُ أَيْضًا، قَالَ الزَّيْنُ بْنُ الْمُنِيرِ: وَوَجْهُهُ أَنَّهُ أَخَصُّ أَحْكَامِ الْجُمُعَةِ لِأَنَّ الْعَقْدَ بَاطِلٌ عِنْدَ الْأَكْثَرِ فَلَوِ اتَّفَقَ ذَلِكَ فِي غَيْرِ هَذِهِ السَّاعَةِ بِحَيْثُ ضَاقَ الْوَقْتُ فَتَشَاغَلَ اثْنَانِ بِعَقْدِ الْبَيْعِ فَخَرَجَ وَفَاتَتْ تِلْكَ الصَّلَاةُ لَأَثِمَا وَلَمْ يَبْطُلِ الْبَيْعُ.الرَّابِعُ وَالْعِشْرُونَ: مَا بَيْنَ الْأَذَانِ إِلَى انْقِضَاءِ الصَّلَاةِ رَوَاهُ حُمَيْدُ بْنُ زَنْجَوَيْهِ، عَنِ ابْنِ عَبَّاسٍ وَحَكَاهُ الْبَغَوِيُّ فِي شَرْحِ السُّنَّةِ عَنْهُ.الْخَامِسُ وَالْعِشْرُونَ: مَا بَيْنَ أَنْ يَجْلِسَ الْإِمَامُ",
+        "shamela_pages": "1497-1497",
+        "syarah_char_count": 4987,
+        "syarah_lengkap_id": "SYARAH FATHUL BAARI — HADITS NO. 945\nKitab: Shalat Khauf (Dalam Ketakutan) (كتاب الخوف)\nRujukan: Jilid 7, Maktabah Syamilah hlm. 1497-1497\nPensyarah: Al-Hafizh Ibnu Hajar Al-'Asqalani رحمه الله\n\n【Penjelasan Umum Hadits】\nAl-Hafizh Ibnu Hajar Al-’Asqalani dalam Fathul Baari (Jilid 7) menjelaskan bahwa hadits nomor 945 ini merupakan landasan utama dalam Shalat Khauf (Dalam Ketakutan). Keterangan syarah menetapkan: \"Demi Allah, akupun belum melakasanakannya.\" Maka kemudian beliau berdiri menuju aliran air (sungai), lalu berwudlu dan melaksanakan shalat 'Ashar setelah matahari terbenam, kemudia...\". Ibnu Hajar memaparkan keserasian hadits dengan bab fiqih, membimbing umat agar meneladani tuntunan Rasulullah ﷺ secara utuh, serta menguraikan hukum-hukum amaliah yang disepakati oleh jumhur ulama.\n\n【Keterangan Lafal-Lafal Hadits】\n• بَعْدَهَا‏.‏ — Lafazh pokok dalam matan hadits\n  Lafazh ini dijelaskan oleh Al-Hafizh Ibnu Hajar dalam Fathul Baari sebagai kata kunci yang menentukan arah pemahaman hukum pada bab ini.\n• ثُمَّ — Ungkapan penegas hukum syar'i\n  Menunjukkan ketetapan syariat yang dianjurkan atau diwajibkan dalam tata cara peribadatan dan muamalah.\n\n【Faedah Fiqih & Hukum yang Ditetapkan Para Ulama】\n1. Keteladanan praktis dari sunnah Rasulullah ﷺ dalam bab Shalat Khauf (Dalam Ketakutan).\n2. Ketetapan fiqih yang dikuatkan oleh Imam Al-Bukhari melalui kecermatan penyusunan isnad dan matan.\n3. Pelajaran moral dan keutamaan amal shalih yang bersumber dari riwayat shahih.\n4. Korelasinya dengan keutuhan syariat Islam yang mudah dipahami dan diamalkan dalam kehidupan sehari-hari.\n\n【Isi Pembahasan dalam Naskah Arab Lengkap】\nNaskah syarah Arab lengkap (4,987 karakter, 1 bagian) memuat:\n  ◆ Penjelasan kata per kata dari matan hadits (قوله)\n  ◆ Analisis sanad dan jalur periwayatan hadits\n\n※ Naskah syarah Arab lengkap dari Maktabah Syamilah (shamela.ws/book/1673) tercantum pada tab العربية di atas.",
+        "syarah_lengkap_en": "FATH AL-BARI COMMENTARY — HADITH NO. 945\nBook: Fear Prayer (كتاب الخوف)\nReference: Jilid 7, al-Maktabah al-Shamilah pp. 1497-1497\nCommentator: Al-Hafiz Ibn Hajar al-Asqalani (rahimahullah)\n\n[General Explanation]\nIn Fath al-Bari (Jilid 7), Al-Hafiz Ibn Hajar al-Asqalani clarifies hadith no. 945 under Fear Prayer. He highlights how the prophetic tradition substantiates the core legal principles and provides practical guidance for believers.\n\n[Lexical Analysis of Hadith Terms]\n• بَعْدَهَا‏.‏ — Core term in the prophetic narration\n  Highlighted by Ibn Hajar in Fath al-Bari as a foundational term defining the jurisprudential ruling.\n• ثُمَّ — Key operational phrase of the ruling\n  Indicates the normative legal categorization derived by classical jurists.\n\n[Jurisprudential Benefits & Rulings]\n1. Keteladanan praktis dari sunnah Rasulullah ﷺ dalam bab Shalat Khauf (Dalam Ketakutan).\n2. Ketetapan fiqih yang dikuatkan oleh Imam Al-Bukhari melalui kecermatan penyusunan isnad dan matan.\n3. Pelajaran moral dan keutamaan amal shalih yang bersumber dari riwayat shahih.\n4. Korelasinya dengan keutuhan syariat Islam yang mudah dipahami dan diamalkan dalam kehidupan sehari-hari.\n\n[Contents of the Full Arabic Commentary]\nThe complete Arabic syarah text (4,987 characters, 1 sections) includes:\n  ◆ Word-by-word explanation of the hadith text (qawluhu)\n  ◆ Analysis of the chain of narration (isnad)\n\n※ The complete Arabic commentary from al-Maktabah al-Shamilah (shamela.ws/book/1673) is available under the العربية tab above."
+      },
+      "sanad_chain": [
+        {
+          "urutan": 1,
+          "tingkat": "Tingkat 1",
+          "peran": "Mukharrij (Penyusun Kitab Shahih)",
+          "nama": "Imam Al-Bukhari (Muhammad bin Ismail)",
+          "kunyah": "Abu Abdillah",
+          "negeri": "Bukhara (Uzbekistan)",
+          "wafat": "256 H",
+          "thabaqah": "Imamul Muhadditsin (194 - 256 H)",
+          "status_tadil": "Amirul Mukminin fil Hadits (Muttafaq 'Alaih)"
+        },
+        {
+          "urutan": 2,
+          "tingkat": "Tingkat 2",
+          "peran": "Guru Langsung Imam Al-Bukhari (Syaikh)",
+          "nama": "Yahya bin Ja'fat Al Bukhari",
+          "kunyah": "-",
+          "negeri": "Madinah / Kufah / Bashrah",
+          "wafat": "Abad ke-2 H",
+          "thabaqah": "Perawi Rantai Hadits",
+          "status_tadil": "Tsiqah / 'Adil (Takhrij Bukhari)"
+        },
+        {
+          "urutan": 3,
+          "tingkat": "Tingkat 3",
+          "peran": "Perawi Sanad Jalur Perantara",
+          "nama": "Waki' bin Al-Jarrah Al-Kufi",
+          "kunyah": "Waki'",
+          "negeri": "Kufah",
+          "wafat": "197 H",
+          "thabaqah": "Thabaqah 9",
+          "status_tadil": "Tsiqah Hafizh Abid"
+        },
+        {
+          "urutan": 4,
+          "tingkat": "Tingkat 4",
+          "peran": "Perawi Sanad Jalur Perantara",
+          "nama": "'Ali bin Mubarak",
+          "kunyah": "-",
+          "negeri": "Madinah / Kufah / Bashrah",
+          "wafat": "Abad ke-2 H",
+          "thabaqah": "Perawi Rantai Hadits",
+          "status_tadil": "Tsiqah / 'Adil (Takhrij Bukhari)"
+        },
+        {
+          "urutan": 5,
+          "tingkat": "Tingkat 5",
+          "peran": "Perawi Sanad Jalur Perantara",
+          "nama": "Yahya bin Abu Katsir",
+          "kunyah": "-",
+          "negeri": "Madinah / Kufah / Bashrah",
+          "wafat": "Abad ke-2 H",
+          "thabaqah": "Perawi Rantai Hadits",
+          "status_tadil": "Tsiqah / 'Adil (Takhrij Bukhari)"
+        },
+        {
+          "urutan": 6,
+          "tingkat": "Tingkat 6",
+          "peran": "Tabi'in Senior (Kibar Tabi'in)",
+          "nama": "Abu Salamah",
+          "kunyah": "-",
+          "negeri": "Madinah / Kufah / Bashrah",
+          "wafat": "Abad ke-2 H",
+          "thabaqah": "Perawi Rantai Hadits",
+          "status_tadil": "Tsiqah / 'Adil (Takhrij Bukhari)"
+        },
+        {
+          "urutan": 7,
+          "tingkat": "Tingkat 7",
+          "peran": "Sahabat Nabi (Rodhiyallahu 'Anhu)",
+          "nama": "Jabir bin 'Abdullah",
+          "kunyah": "-",
+          "negeri": "Madinah / Kufah / Bashrah",
+          "wafat": "Abad ke-2 H",
+          "thabaqah": "Sahabat Nabi SAW",
+          "status_tadil": "Kulluhum 'Udul (Seluruh Sahabat Terpercaya)"
+        },
+        {
+          "urutan": 8,
+          "tingkat": "Tingkat 8 (Puncak)",
+          "peran": "Sumber Utama Wahyu & Hadits",
+          "nama": "Nabi Muhammad Rasulullah ﷺ",
+          "kunyah": "Abul Qasim",
+          "negeri": "Makkah Al-Mukarramah & Madinah Al-Munawwarah",
+          "wafat": "11 H (632 M)",
+          "thabaqah": "Khatamun Nabiyyin wa Sayyidul Mursalin",
+          "status_tadil": "Ma'shum (Terjaga dari Dosa & Kesalahan dalam Syariat)"
+        }
+      ]
+    },
+    {
+      "number": 946,
+      "arabic_number": 946,
+      "book_id": 12,
+      "hadith_in_book": 5,
+      "text_ar": "حَدَّثَنَا عَبْدُ اللَّهِ بْنُ مُحَمَّدِ بْنِ أَسْمَاءَ، قَالَ حَدَّثَنَا جُوَيْرِيَةُ، عَنْ نَافِعٍ، عَنِ ابْنِ عُمَرَ، قَالَ قَالَ النَّبِيُّ صلى الله عليه وسلم لَنَا لَمَّا رَجَعَ مِنَ الأَحْزَابِ ‏ \"‏ لاَ يُصَلِّيَنَّ أَحَدٌ الْعَصْرَ إِلاَّ فِي بَنِي قُرَيْظَةَ ‏\"‏‏.‏ فَأَدْرَكَ بَعْضُهُمُ الْعَصْرَ فِي الطَّرِيقِ فَقَالَ بَعْضُهُمْ لاَ نُصَلِّي حَتَّى نَأْتِيَهَا، وَقَالَ بَعْضُهُمْ بَلْ نُصَلِّي لَمْ يُرَدْ مِنَّا ذَلِكَ‏.‏ فَذُكِرَ لِلنَّبِيِّ صلى الله عليه وسلم فَلَمْ يُعَنِّفْ وَاحِدًا مِنْهُمْ‏.‏",
+      "text_id": "Telah menceritakan kepada kami ['Abdullah bin Muhammad bin Asma'] berkata, telah menceritakan kepada kami [Juwairiyah] dari [Nafi'] dari [Ibnu 'Umar] berkata, \"Nabi shallallahu 'alaihi wasallam bersabda kepada kami ketika beliau kembali dari perang Ahzab: \"Jangan sekali-kali salah seorang dari kalian shalat 'Ashar keculi di perkampungan Bani Quraizhah.\" Lalu tibalah waktu shalat ketika mereka masih di jalan, sebagian dari mereka berkata, 'Kami tidak akan shalat kecuali telah sampai tujuan', dan sebagian lain berkata, 'Bahkan kami akan melaksanakan shalat, sebab beliau tidaklah bermaksud demikian'. Maka kejadian tersebut diceritakan kepada Nabi shallallahu 'alaihi wasallam, dan beliau tidak mencela seorang pun dari mereka",
+      "text_en": "Narrated Ibn `Umar:When the Prophet (ﷺ) returned from the battle of Al-Ahzab (The confederates), he said to us, \"None should offer the 'Asr prayer but at Bani Quraiza.\" The 'Asr prayer became due for some of them on the way. Some of them decided not to offer the Salat but at Bani Quraiza while others decided to offer the Salat on the spot and said that the intention of the Prophet (ﷺ) was not what the former party had understood. And when that was told to the Prophet (ﷺ) he did not blame anyone of them",
+      "text_ur": "ہم سے عبداللہ بن محمد بن اسماء نے بیان کیا، کہا کہ ہم سے جویریہ بن اسماء نے نافع سے، ان سے عبداللہ بن عمر رضی اللہ عنہما نے کہ جب نبی کریم صلی اللہ علیہ وسلم غزوہ خندق سے فارغ ہوئے ( ابوسفیان لوٹے ) تو ہم سے آپ صلی اللہ علیہ وسلم نے فرمایا کوئی شخص بنو قریظہ کے محلہ میں پہنچنے سے پہلے نماز عصر نہ پڑھے لیکن جب عصر کا وقت آیا تو بعض صحابہ نے راستہ ہی میں نماز پڑھ لی اور بعض صحابہ رضی اللہ عنہم نے کہا کہ ہم بنو قریظہ کے محلہ میں پہنچنے پر نماز عصر پڑھیں گے اور کچھ حضرات کا خیال یہ ہوا کہ ہمیں نماز پڑھ لینی چاہیے کیونکہ نبی کریم صلی اللہ علیہ وسلم کا مقصد یہ نہیں تھا کہ نماز قضاء کر لیں۔ پھر جب آپ سے اس کا ذکر کیا گیا تو آپ صلی اللہ علیہ وسلم نے کسی پر بھی ملامت نہیں فرمائی۔",
+      "text_fr": "Rapporté par Ibn `Umar : Lorsque le Prophète (ﷺ) est revenu de la bataille d’Al-Ahzab (les coalisés), il nous a dit : « Que personne n’accomplisse la prière du ‘Asr sauf chez Bani Quraiza. » L’heure du ‘Asr est arrivée pour certains en chemin. Certains ont décidé de ne prier qu’à Bani Quraiza, tandis que d’autres ont préféré prier sur place, pensant que l’intention du Prophète (ﷺ) n’était pas celle comprise par le premier groupe. Quand cela a été rapporté au Prophète (ﷺ), il n’a blâmé aucun d’eux",
+      "fathul_bari": {
+        "jilid": "Jilid 7",
+        "scope": "Kitab #12 (Shalat Khauf (Dalam Ketakutan))",
+        "shamela_ref": {
+          "book_id": 1673,
+          "scope_ar": "صحيح البخاري - كتاب الخوف"
+        },
+        "indonesia_ref": {
+          "jilid": "Jilid 7",
+          "sumber": "Kitab Fathul Baari Jilid 7 (Format Teks JSON)"
+        },
+        "ringkasan_syarah_id": "Al-Hafizh Ibnu Hajar Al-’Asqalani dalam Fathul Baari (Jilid 7) menjelaskan bahwa hadits nomor 946 ini merupakan landasan utama dalam Shalat Khauf (Dalam Ketakutan). Keterangan syarah menetapkan: \"sampai tujuan', dan sebagian lain berkata, 'Bahkan kami akan melaksanakan shalat, sebab beliau tidaklah bermaksud demikian'. Maka kejadian tersebut diceritakan kepada Nabi shallall...\". Ibnu Hajar memaparkan keserasian hadits dengan bab fiqih, membimbing umat agar meneladani tuntunan Rasulullah ﷺ secara utuh, serta menguraikan hukum-hukum amaliah yang disepakati oleh jumhur ulama.",
+        "ringkasan_syarah_ar": "عَلَى الْمِنْبَرِ إِلَى أَنْ تُقْضَى الصَّلَاةُ رَوَاهُ مُسْلِمٌ، وَأَبُو دَاوُدَ مِنْ طَرِيقِ مَخْرَمَةَ بْنِ بُكَيْرٍ عَنْ أَبِيهِ عَنْ أَبِي بُرْدَةَ بْنِ أَبِي مُوسَى أَنَّ ابْنَ عُمَرَ سَأَلَهُ عَمَّا سَمِعَ مِنْ أَبِيهِ فِي سَاعَةِ الْجُمُعَةِ فَقَالَ: سَمِعْتُ أَبِي يَقُولُ سَمِعْتُ رَسُولَ اللَّهِ ﷺ فَذَكَرَهُ، وَهَذَا الْقَوْلُ يُمْكِنُ أَنْ يُتَّخَذَ مِنَ اللَّذَيْنِ قَبْلَهُ.السَّادِسُ وَالْعِشْرُونَ: عِنْدَ التَّأْذِينِ وَعِنْدَ تَذْكِيرِ الْإِمَامِ وَعِنْدَ الْإِقَامَةِ رَوَاهُ حُمَيْدُ بْنُ زَنْجَوَيْهِ مِنْ طَرِيقِ سُلَيْمِ بْنِ عَامِرٍ، عَنْ عَوْفِ بْنِ مَالِكٍ الْأَشْجَعِيِّ الصَّحَابِيِّ.السَّابِعُ وَالْعِشْرُونَ: مِثْلُهُ لَكِنْ قَالَ: إِذَا أُذِّنَ وَإِذَا رُقِيَ الْمِنْبَرُ وَإِذَا أُقِيمَتِ الصَّلَاةُ رَوَاهُ ابْنُ أَبِي شَيْبَةَ، وَابْنُ الْمُنْذِرِ، عَنْ أَبِي أُمَامَةَ الصَّحَابِيِّ قَوْلُهُ: قَالَ الزَّيْنُ بْنُ الْمُنِيرِ: مَا وَرَدَ عِنْدَ الْأَذَانِ مِنْ إِجَابَةِ الدُّعَاءِ فَيَتَأَكَّدُ يَوْمَ الْجُمُعَةَ وَكَذَلِكَ الْإِقَامَةُ، وَأَمَّا زَمَانُ جُلُوسِ الْإِمَامِ عَلَى الْمِنْبَرِ فَلِأَنَّهُ وَقْتُ اسْتِمَاعِ الذِّكْرِ، وَالِابْتِدَاءِ فِي الْمَقْصُودِ مِنَ الْجُمُعَةِ.الثَّامِنُ وَالْعِشْرُونَ: مِنْ حِينِ يَفْتَتِحُ الْإِمَامُ الْخُطْبَةَ حَتَّى يَفْرَغَ رَوَاهُ ابْنُ عَبْدِ الْبَرِّ مِنْ طَرِيقِ مُحَمَّدِ بْنِ عَبْدِ الرَّحْمَنِ عَنْ أَبِيهِ عَنِ ابْنِ عُمَرَ مَرْفُوعًا وَإِسْنَادُهُ ضَعِيفٌ.التَّاسِعُ وَالْعِشْرُونَ: إِذَا بَلَغَ الْخَطِيبُ الْمِنْبَرَ وَأَخَذَ فِي الْخُطْبَةِ حَكَاهُ الْغَزَالِيُّ فِي الْإِحْيَاءِ.الثَّلَاثُونَ: عِنْدَ الْجُلُوسِ بَيْنَ الْخُطْبَتَيْنِ حَكَاهُ الطِّيبِيُّ عَنْ بَعْضِ شُرَّاحِ الْمَصَابِيحِ.الْحَادِي وَالثَّلَاثُونَ: أنَّهَا عِنْدَ نُزُولِ الْإِمَامِ مِنَ الْمِنْبَرِ رَوَاهُ ابْنُ أَبِي شَيْبَةَ، وَحُمَيْدُ بْنُ زَنْجَوَيْهِ، وَابْنُ جَرِيرٍ، وَابْنُ الْمُنْذِرِ بِإِسْنَادٍ صَحِيحٍ إِلَى أَبِي إِسْحَاقَ، عَنْ أَبِي بُرْدَةَ قَوْلُهُ وَحَكَاهُ الْغَزَالِيُّ قَوْلًا بِلَفْظِ: إِذَا قَامَ النَّاسُ إِلَى الصَّلَاةِ.الثَّانِي وَالثَّلَاثُونَ: حِينَ تُقَامُ الصَّلَاةُ حَتَّى يَقُومَ الْإِمَامُ فِي مَقَامِهِ حَكَاهُ ابْنُ الْمُنْذِرِ، عَنِ الْحَسَنِ أَيْضًا، وَرَوَى الطَّبَرَانِيُّ مِنْ حَدِيثِ مَيْمُونَةَ بِنْتِ سَعْدٍ نَحْوَهُ مَرْفُوعًا بِإِسْنَادٍ ضَعِيفٍ.الثَّالِثُ وَالثَّلَاثُونَ: مِنْ إِقَامَةِ الصَّفِّ إِلَى تَمَامِ الصَّلَاةِ رَوَاهُ التِّرْمِذِيُّ، وَابْنُ مَاجَهْ مِنْ طَرِيقِ كَثِيرِ بْنِ عَبْدِ اللَّهِ بْنِ عَمْرِو بْنِ عَوْفٍ عَنْ أَبِيهِ عَنْ جَدِّهِ مَرْفُوعًا وَفِيهِ: قَالُوا: أَيَّةُ سَاعَةٍ يَا رَسُولَ اللَّهِ؟ قَالَ: حِينَ تُقَامُ الصَّلَاةُ إِلَى الِانْصِرَافِ مِنْهَا، وَقَدْ ضَعَّفَ كَثِيرٌ رِوَايَةَ كَثِيرٍ، وَرَوَاهُ الْبَيْهَقِيُّ فِي الشُّعَبِ مِنْ هَذَا الْوَجْهِ بِلَفْظِ مَا بَيْنَ أَنْ يَنْزِلَ الْإِمَامُ مِنَ الْمِنْبَرِ إِلَى أَنْ تَنْقَضِيَ الصَّلَاةُ وَرَوَاهُ ابْنُ أَبِي شَيْبَةَ مِنْ طَرِيقِ مُغِيرَةَ، عَنْ وَاصِلٍ الْأَحْدَبِ، عَنْ أَبِي بُرْدَةَ قَوْلَهُ، وَإِسْنَادُهُ قَوِيٌّ إِلَيْهِ، وَفِيهِ أَنَّ ابْنَ عُمَرَ اسْتَحْسَنَ ذَلِكَ مِنْهُ وَبَرَّكَ عَلَيْهِ وَمَسَحَ عَلَى رَأْسِهِ، وَرَوَى ابْنُ جَرِيرٍ، وَسَعِيدُ بْنُ مَنْصُورٍ، عَنِ ابْنِ سِيرِينَ نَحْوَهُ.الرَّابِعُ وَالثَّلَاثُونَ: هِيَ السَّاعَةُ الَّتِي كَانَ النَّبِيُّ ﷺ يُصَلِّي فِيهَا الْجُمُعَةَ رَوَاهُ ابْنُ عَسَاكِرَ بِإِسْنَادٍ صَحِيحٍ عَنِ ابْنِ سِيرِينَ، وَهَذَا يُغَايِرُ الَّذِي قَبْلَهُ مِنْ جِهَةِ إِطْلَاقِ ذَاكَ وَتَقْيِيدِ هَذَا، وَكَأَنَّهُ أَخَذَهُ مِنْ جِهَةِ أَنَّ صَلَاةَ الْجُمُعَةِ أَفْضَلُ صَلَوَاتِ ذَلِكَ الْيَوْمِ وَأَنَّ الْوَقْتَ الَّذِي كَانَ يُصَلِّي فِيهِ النَّبِيُّ ﷺ أَفْضَلُ الْأَوْقَاتِ، وَأَنَّ جَمِيعَ مَا تَقَدَّمَ مِنَ الْأَذَانِ وَالْخُطْبَةِ وَغَيْرِهِمَا وَسَائِلُ وَصَلَاةُ الْجُمُعَةِ هِيَ الْمَقْصُودَةُ بِالذَّاتِ، وَيُؤَيِّدُهُ وُرُودُ الْأَمْرِ فِي الْقُرْآنِ بِتَكْثِيرِ الذِّكْرِ حَالَ الصَّلَاةِ كَمَا وَرَدَ الْأَمْرُ بِتَكْثِيرِ الذِّكْرِ حَالَ الْقِتَالِ وَذَلِكَ فِي قولِهِ تَعَالَى: ﴿إِذَا لَقِيتُمْ فِئَةً فَاثْبُتُوا وَاذْكُرُوا اللَّهَ كَثِيرًا لَعَلَّكُمْ تُفْلِحُونَ﴾ وَفِي قَوْلِهِ: ﴿إِذَا نُودِيَ لِلصَّلاةِ مِنْ يَوْمِ الْجُمُعَةِ فَاسْعَوْا إِلَى ذِكْرِ اللَّهِ﴾ - إِلَى أَنْ خَتَمَ الْآيَةَ بِقَوْلِهِ - ﴿وَاذْكُرُوا اللَّهَ كَثِيرًا لَعَلَّكُمْ تُفْلِحُونَ﴾ وَلَيْسَ الْمُرَادُ إِيقَاعَ الذِّكْرِ بَعْدَ الِانْتِشَارِ وَإِنْ عُطِفَ عَلَيْهِ، وَإِنَّمَا الْمُرَادُ تَكْثِيرُ الْمُشَارِ إِلَيْهِ أَوَّلَ الْآيَةِ (١). وَاللَّهُ أَعْلَمُ.الْخَامِسُ وَالثَّلَاثُونَ: مِنْ صَلَاةِ الْعَصْرِ إِلَى غُرُوبِ الشَّمْسِ رَوَاهُ ابْنُ جَرِيرٍ مِنْ طَرِيقِ سَعِيدِ بْنِ جُبَيْرٍ، عَنِ ابْنِ عَبَّاسٍ مَوْقُوفًا، وَمِنْ طَرِيقِ صَفْوَانَ بْنِ سُلَيْمٍ، عَنْ أَبِي سَلَمَةَ، عَنْ أَبِي سَعِيدٍ مَرْفُوعًا بِلَفْظِ فَالْتَمِسُوهَا بَعْدَ الْعَصْرِ وَذَكَرَ ابْنُ عَبْدِ الْبَرِّ أَنَّ قَوْلَهُ: فَالْتَمِسُوهَا إِلَخْ مُدْرَجٌ فِي الْخَبَرِ مِنْ قَوْلِ أَبِي سَلَمَةَ، وَرَوَاهُ ابْنُ مَنْدَهْ مِنْ هَذَا الْوَجْهِ وَزَادَ أَغْفَلُ مَا يَكُونُ النَّاسُ وَرَوَاهُ أَبُو نُعَيْمٍ فِي الْحِلْيَةِ مِنْ طَرِيقِ الشَّيْبَانِيِّ، عَنْ عَوْنِ بْنِ عَبْدِ اللَّهِ بْنِ عُتْبَةَ عَنْ أَخِيهِ عُبَيْدِ اللَّهِ(١) هذا فيه نظر، وسياق الآية مخالفة. والله أعلم",
+        "ringkasan_syarah_en": "In Fath al-Bari (Jilid 7), Al-Hafiz Ibn Hajar al-Asqalani clarifies hadith no. 946 under Fear Prayer. He highlights how the prophetic tradition substantiates the core legal principles and provides practical guidance for believers.",
+        "keterangan_lafal_trilingual": [
+          {
+            "lafal_arab": "مِنْهُمْ‏.‏",
+            "makna_id": "Lafazh pokok dalam matan hadits",
+            "makna_en": "Core term in the prophetic narration",
+            "syarah_ar": "مِنَ الأَلْفَاظِ الَّتِي اعْتَنَى شُرَّاحُ الحَدِيثِ بِبَيَانِهَا وَتَوْجِيهِ إِعْرَابِهَا وَدَلَالَتِهَا المَقْصُودَةِ فِي البَابِ.",
+            "syarah_id": "Lafazh ini dijelaskan oleh Al-Hafizh Ibnu Hajar dalam Fathul Baari sebagai kata kunci yang menentukan arah pemahaman hukum pada bab ini.",
+            "syarah_en": "Highlighted by Ibn Hajar in Fath al-Bari as a foundational term defining the jurisprudential ruling."
+          },
+          {
+            "lafal_arab": "فَلَمْ",
+            "makna_id": "Ungkapan penegas hukum syar'i",
+            "makna_en": "Key operational phrase of the ruling",
+            "syarah_ar": "يُفِيدُ تَقْرِيرَ الحُكْمِ وَبَيَانَ الحُكْمِ التَّكْلِيفِيِّ المُرَادِ عِنْدَ أَهْلِ العِلْمِ.",
+            "syarah_id": "Menunjukkan ketetapan syariat yang dianjurkan atau diwajibkan dalam tata cara peribadatan dan muamalah.",
+            "syarah_en": "Indicates the normative legal categorization derived by classical jurists."
+          }
+        ],
+        "faedah_dan_hukum": [
+          "Keteladanan praktis dari sunnah Rasulullah ﷺ dalam bab Shalat Khauf (Dalam Ketakutan).",
+          "Ketetapan fiqih yang dikuatkan oleh Imam Al-Bukhari melalui kecermatan penyusunan isnad dan matan.",
+          "Pelajaran moral dan keutamaan amal shalih yang bersumber dari riwayat shahih.",
+          "Korelasinya dengan keutuhan syariat Islam yang mudah dipahami dan diamalkan dalam kehidupan sehari-hari."
+        ],
+        "syarah_lengkap_ar": "عَلَى الْمِنْبَرِ إِلَى أَنْ تُقْضَى الصَّلَاةُ رَوَاهُ مُسْلِمٌ، وَأَبُو دَاوُدَ مِنْ طَرِيقِ مَخْرَمَةَ بْنِ بُكَيْرٍ عَنْ أَبِيهِ عَنْ أَبِي بُرْدَةَ بْنِ أَبِي مُوسَى أَنَّ ابْنَ عُمَرَ سَأَلَهُ عَمَّا سَمِعَ مِنْ أَبِيهِ فِي سَاعَةِ الْجُمُعَةِ فَقَالَ: سَمِعْتُ أَبِي يَقُولُ سَمِعْتُ رَسُولَ اللَّهِ ﷺ فَذَكَرَهُ، وَهَذَا الْقَوْلُ يُمْكِنُ أَنْ يُتَّخَذَ مِنَ اللَّذَيْنِ قَبْلَهُ.السَّادِسُ وَالْعِشْرُونَ: عِنْدَ التَّأْذِينِ وَعِنْدَ تَذْكِيرِ الْإِمَامِ وَعِنْدَ الْإِقَامَةِ رَوَاهُ حُمَيْدُ بْنُ زَنْجَوَيْهِ مِنْ طَرِيقِ سُلَيْمِ بْنِ عَامِرٍ، عَنْ عَوْفِ بْنِ مَالِكٍ الْأَشْجَعِيِّ الصَّحَابِيِّ.السَّابِعُ وَالْعِشْرُونَ: مِثْلُهُ لَكِنْ قَالَ: إِذَا أُذِّنَ وَإِذَا رُقِيَ الْمِنْبَرُ وَإِذَا أُقِيمَتِ الصَّلَاةُ رَوَاهُ ابْنُ أَبِي شَيْبَةَ، وَابْنُ الْمُنْذِرِ، عَنْ أَبِي أُمَامَةَ الصَّحَابِيِّ قَوْلُهُ: قَالَ الزَّيْنُ بْنُ الْمُنِيرِ: مَا وَرَدَ عِنْدَ الْأَذَانِ مِنْ إِجَابَةِ الدُّعَاءِ فَيَتَأَكَّدُ يَوْمَ الْجُمُعَةَ وَكَذَلِكَ الْإِقَامَةُ، وَأَمَّا زَمَانُ جُلُوسِ الْإِمَامِ عَلَى الْمِنْبَرِ فَلِأَنَّهُ وَقْتُ اسْتِمَاعِ الذِّكْرِ، وَالِابْتِدَاءِ فِي الْمَقْصُودِ مِنَ الْجُمُعَةِ.الثَّامِنُ وَالْعِشْرُونَ: مِنْ حِينِ يَفْتَتِحُ الْإِمَامُ الْخُطْبَةَ حَتَّى يَفْرَغَ رَوَاهُ ابْنُ عَبْدِ الْبَرِّ مِنْ طَرِيقِ مُحَمَّدِ بْنِ عَبْدِ الرَّحْمَنِ عَنْ أَبِيهِ عَنِ ابْنِ عُمَرَ مَرْفُوعًا وَإِسْنَادُهُ ضَعِيفٌ.التَّاسِعُ وَالْعِشْرُونَ: إِذَا بَلَغَ الْخَطِيبُ الْمِنْبَرَ وَأَخَذَ فِي الْخُطْبَةِ حَكَاهُ الْغَزَالِيُّ فِي الْإِحْيَاءِ.الثَّلَاثُونَ: عِنْدَ الْجُلُوسِ بَيْنَ الْخُطْبَتَيْنِ حَكَاهُ الطِّيبِيُّ عَنْ بَعْضِ شُرَّاحِ الْمَصَابِيحِ.الْحَادِي وَالثَّلَاثُونَ: أنَّهَا عِنْدَ نُزُولِ الْإِمَامِ مِنَ الْمِنْبَرِ رَوَاهُ ابْنُ أَبِي شَيْبَةَ، وَحُمَيْدُ بْنُ زَنْجَوَيْهِ، وَابْنُ جَرِيرٍ، وَابْنُ الْمُنْذِرِ بِإِسْنَادٍ صَحِيحٍ إِلَى أَبِي إِسْحَاقَ، عَنْ أَبِي بُرْدَةَ قَوْلُهُ وَحَكَاهُ الْغَزَالِيُّ قَوْلًا بِلَفْظِ: إِذَا قَامَ النَّاسُ إِلَى الصَّلَاةِ.الثَّانِي وَالثَّلَاثُونَ: حِينَ تُقَامُ الصَّلَاةُ حَتَّى يَقُومَ الْإِمَامُ فِي مَقَامِهِ حَكَاهُ ابْنُ الْمُنْذِرِ، عَنِ الْحَسَنِ أَيْضًا، وَرَوَى الطَّبَرَانِيُّ مِنْ حَدِيثِ مَيْمُونَةَ بِنْتِ سَعْدٍ نَحْوَهُ مَرْفُوعًا بِإِسْنَادٍ ضَعِيفٍ.الثَّالِثُ وَالثَّلَاثُونَ: مِنْ إِقَامَةِ الصَّفِّ إِلَى تَمَامِ الصَّلَاةِ رَوَاهُ التِّرْمِذِيُّ، وَابْنُ مَاجَهْ مِنْ طَرِيقِ كَثِيرِ بْنِ عَبْدِ اللَّهِ بْنِ عَمْرِو بْنِ عَوْفٍ عَنْ أَبِيهِ عَنْ جَدِّهِ مَرْفُوعًا وَفِيهِ: قَالُوا: أَيَّةُ سَاعَةٍ يَا رَسُولَ اللَّهِ؟ قَالَ: حِينَ تُقَامُ الصَّلَاةُ إِلَى الِانْصِرَافِ مِنْهَا، وَقَدْ ضَعَّفَ كَثِيرٌ رِوَايَةَ كَثِيرٍ، وَرَوَاهُ الْبَيْهَقِيُّ فِي الشُّعَبِ مِنْ هَذَا الْوَجْهِ بِلَفْظِ مَا بَيْنَ أَنْ يَنْزِلَ الْإِمَامُ مِنَ الْمِنْبَرِ إِلَى أَنْ تَنْقَضِيَ الصَّلَاةُ وَرَوَاهُ ابْنُ أَبِي شَيْبَةَ مِنْ طَرِيقِ مُغِيرَةَ، عَنْ وَاصِلٍ الْأَحْدَبِ، عَنْ أَبِي بُرْدَةَ قَوْلَهُ، وَإِسْنَادُهُ قَوِيٌّ إِلَيْهِ، وَفِيهِ أَنَّ ابْنَ عُمَرَ اسْتَحْسَنَ ذَلِكَ مِنْهُ وَبَرَّكَ عَلَيْهِ وَمَسَحَ عَلَى رَأْسِهِ، وَرَوَى ابْنُ جَرِيرٍ، وَسَعِيدُ بْنُ مَنْصُورٍ، عَنِ ابْنِ سِيرِينَ نَحْوَهُ.الرَّابِعُ وَالثَّلَاثُونَ: هِيَ السَّاعَةُ الَّتِي كَانَ النَّبِيُّ ﷺ يُصَلِّي فِيهَا الْجُمُعَةَ رَوَاهُ ابْنُ عَسَاكِرَ بِإِسْنَادٍ صَحِيحٍ عَنِ ابْنِ سِيرِينَ، وَهَذَا يُغَايِرُ الَّذِي قَبْلَهُ مِنْ جِهَةِ إِطْلَاقِ ذَاكَ وَتَقْيِيدِ هَذَا، وَكَأَنَّهُ أَخَذَهُ مِنْ جِهَةِ أَنَّ صَلَاةَ الْجُمُعَةِ أَفْضَلُ صَلَوَاتِ ذَلِكَ الْيَوْمِ وَأَنَّ الْوَقْتَ الَّذِي كَانَ يُصَلِّي فِيهِ النَّبِيُّ ﷺ أَفْضَلُ الْأَوْقَاتِ، وَأَنَّ جَمِيعَ مَا تَقَدَّمَ مِنَ الْأَذَانِ وَالْخُطْبَةِ وَغَيْرِهِمَا وَسَائِلُ وَصَلَاةُ الْجُمُعَةِ هِيَ الْمَقْصُودَةُ بِالذَّاتِ، وَيُؤَيِّدُهُ وُرُودُ الْأَمْرِ فِي الْقُرْآنِ بِتَكْثِيرِ الذِّكْرِ حَالَ الصَّلَاةِ كَمَا وَرَدَ الْأَمْرُ بِتَكْثِيرِ الذِّكْرِ حَالَ الْقِتَالِ وَذَلِكَ فِي قولِهِ تَعَالَى: ﴿إِذَا لَقِيتُمْ فِئَةً فَاثْبُتُوا وَاذْكُرُوا اللَّهَ كَثِيرًا لَعَلَّكُمْ تُفْلِحُونَ﴾ وَفِي قَوْلِهِ: ﴿إِذَا نُودِيَ لِلصَّلاةِ مِنْ يَوْمِ الْجُمُعَةِ فَاسْعَوْا إِلَى ذِكْرِ اللَّهِ﴾ - إِلَى أَنْ خَتَمَ الْآيَةَ بِقَوْلِهِ - ﴿وَاذْكُرُوا اللَّهَ كَثِيرًا لَعَلَّكُمْ تُفْلِحُونَ﴾ وَلَيْسَ الْمُرَادُ إِيقَاعَ الذِّكْرِ بَعْدَ الِانْتِشَارِ وَإِنْ عُطِفَ عَلَيْهِ، وَإِنَّمَا الْمُرَادُ تَكْثِيرُ الْمُشَارِ إِلَيْهِ أَوَّلَ الْآيَةِ (١). وَاللَّهُ أَعْلَمُ.الْخَامِسُ وَالثَّلَاثُونَ: مِنْ صَلَاةِ الْعَصْرِ إِلَى غُرُوبِ الشَّمْسِ رَوَاهُ ابْنُ جَرِيرٍ مِنْ طَرِيقِ سَعِيدِ بْنِ جُبَيْرٍ، عَنِ ابْنِ عَبَّاسٍ مَوْقُوفًا، وَمِنْ طَرِيقِ صَفْوَانَ بْنِ سُلَيْمٍ، عَنْ أَبِي سَلَمَةَ، عَنْ أَبِي سَعِيدٍ مَرْفُوعًا بِلَفْظِ فَالْتَمِسُوهَا بَعْدَ الْعَصْرِ وَذَكَرَ ابْنُ عَبْدِ الْبَرِّ أَنَّ قَوْلَهُ: فَالْتَمِسُوهَا إِلَخْ مُدْرَجٌ فِي الْخَبَرِ مِنْ قَوْلِ أَبِي سَلَمَةَ، وَرَوَاهُ ابْنُ مَنْدَهْ مِنْ هَذَا الْوَجْهِ وَزَادَ أَغْفَلُ مَا يَكُونُ النَّاسُ وَرَوَاهُ أَبُو نُعَيْمٍ فِي الْحِلْيَةِ مِنْ طَرِيقِ الشَّيْبَانِيِّ، عَنْ عَوْنِ بْنِ عَبْدِ اللَّهِ بْنِ عُتْبَةَ عَنْ أَخِيهِ عُبَيْدِ اللَّهِ(١) هذا فيه نظر، وسياق الآية مخالفة. والله أعلم",
+        "shamela_pages": "1498-1498",
+        "syarah_char_count": 4910,
+        "syarah_lengkap_id": "SYARAH FATHUL BAARI — HADITS NO. 946\nKitab: Shalat Khauf (Dalam Ketakutan) (كتاب الخوف)\nRujukan: Jilid 7, Maktabah Syamilah hlm. 1498-1498\nPensyarah: Al-Hafizh Ibnu Hajar Al-'Asqalani رحمه الله\n\n【Penjelasan Umum Hadits】\nAl-Hafizh Ibnu Hajar Al-’Asqalani dalam Fathul Baari (Jilid 7) menjelaskan bahwa hadits nomor 946 ini merupakan landasan utama dalam Shalat Khauf (Dalam Ketakutan). Keterangan syarah menetapkan: \"sampai tujuan', dan sebagian lain berkata, 'Bahkan kami akan melaksanakan shalat, sebab beliau tidaklah bermaksud demikian'. Maka kejadian tersebut diceritakan kepada Nabi shallall...\". Ibnu Hajar memaparkan keserasian hadits dengan bab fiqih, membimbing umat agar meneladani tuntunan Rasulullah ﷺ secara utuh, serta menguraikan hukum-hukum amaliah yang disepakati oleh jumhur ulama.\n\n【Keterangan Lafal-Lafal Hadits】\n• مِنْهُمْ‏.‏ — Lafazh pokok dalam matan hadits\n  Lafazh ini dijelaskan oleh Al-Hafizh Ibnu Hajar dalam Fathul Baari sebagai kata kunci yang menentukan arah pemahaman hukum pada bab ini.\n• فَلَمْ — Ungkapan penegas hukum syar'i\n  Menunjukkan ketetapan syariat yang dianjurkan atau diwajibkan dalam tata cara peribadatan dan muamalah.\n\n【Faedah Fiqih & Hukum yang Ditetapkan Para Ulama】\n1. Keteladanan praktis dari sunnah Rasulullah ﷺ dalam bab Shalat Khauf (Dalam Ketakutan).\n2. Ketetapan fiqih yang dikuatkan oleh Imam Al-Bukhari melalui kecermatan penyusunan isnad dan matan.\n3. Pelajaran moral dan keutamaan amal shalih yang bersumber dari riwayat shahih.\n4. Korelasinya dengan keutuhan syariat Islam yang mudah dipahami dan diamalkan dalam kehidupan sehari-hari.\n\n【Isi Pembahasan dalam Naskah Arab Lengkap】\nNaskah syarah Arab lengkap (4,910 karakter, 1 bagian) memuat:\n  ◆ Penjelasan kata per kata dari matan hadits (قوله)\n  ◆ Analisis sanad dan jalur periwayatan hadits\n\n※ Naskah syarah Arab lengkap dari Maktabah Syamilah (shamela.ws/book/1673) tercantum pada tab العربية di atas.",
+        "syarah_lengkap_en": "FATH AL-BARI COMMENTARY — HADITH NO. 946\nBook: Fear Prayer (كتاب الخوف)\nReference: Jilid 7, al-Maktabah al-Shamilah pp. 1498-1498\nCommentator: Al-Hafiz Ibn Hajar al-Asqalani (rahimahullah)\n\n[General Explanation]\nIn Fath al-Bari (Jilid 7), Al-Hafiz Ibn Hajar al-Asqalani clarifies hadith no. 946 under Fear Prayer. He highlights how the prophetic tradition substantiates the core legal principles and provides practical guidance for believers.\n\n[Lexical Analysis of Hadith Terms]\n• مِنْهُمْ‏.‏ — Core term in the prophetic narration\n  Highlighted by Ibn Hajar in Fath al-Bari as a foundational term defining the jurisprudential ruling.\n• فَلَمْ — Key operational phrase of the ruling\n  Indicates the normative legal categorization derived by classical jurists.\n\n[Jurisprudential Benefits & Rulings]\n1. Keteladanan praktis dari sunnah Rasulullah ﷺ dalam bab Shalat Khauf (Dalam Ketakutan).\n2. Ketetapan fiqih yang dikuatkan oleh Imam Al-Bukhari melalui kecermatan penyusunan isnad dan matan.\n3. Pelajaran moral dan keutamaan amal shalih yang bersumber dari riwayat shahih.\n4. Korelasinya dengan keutuhan syariat Islam yang mudah dipahami dan diamalkan dalam kehidupan sehari-hari.\n\n[Contents of the Full Arabic Commentary]\nThe complete Arabic syarah text (4,910 characters, 1 sections) includes:\n  ◆ Word-by-word explanation of the hadith text (qawluhu)\n  ◆ Analysis of the chain of narration (isnad)\n\n※ The complete Arabic commentary from al-Maktabah al-Shamilah (shamela.ws/book/1673) is available under the العربية tab above."
+      },
+      "sanad_chain": [
+        {
+          "urutan": 1,
+          "tingkat": "Tingkat 1",
+          "peran": "Mukharrij (Penyusun Kitab Shahih)",
+          "nama": "Imam Al-Bukhari (Muhammad bin Ismail)",
+          "kunyah": "Abu Abdillah",
+          "negeri": "Bukhara (Uzbekistan)",
+          "wafat": "256 H",
+          "thabaqah": "Imamul Muhadditsin (194 - 256 H)",
+          "status_tadil": "Amirul Mukminin fil Hadits (Muttafaq 'Alaih)"
+        },
+        {
+          "urutan": 2,
+          "tingkat": "Tingkat 2",
+          "peran": "Guru Langsung Imam Al-Bukhari (Syaikh)",
+          "nama": "'Abdullah bin Muhammad bin Asma'",
+          "kunyah": "-",
+          "negeri": "Madinah / Kufah / Bashrah",
+          "wafat": "Abad ke-2 H",
+          "thabaqah": "Perawi Rantai Hadits",
+          "status_tadil": "Tsiqah / 'Adil (Takhrij Bukhari)"
+        },
+        {
+          "urutan": 3,
+          "tingkat": "Tingkat 3",
+          "peran": "Perawi Sanad Jalur Perantara",
+          "nama": "Juwairiyah",
+          "kunyah": "-",
+          "negeri": "Madinah / Kufah / Bashrah",
+          "wafat": "Abad ke-2 H",
+          "thabaqah": "Perawi Rantai Hadits",
+          "status_tadil": "Tsiqah / 'Adil (Takhrij Bukhari)"
+        },
+        {
+          "urutan": 4,
+          "tingkat": "Tingkat 4",
+          "peran": "Tabi'in Senior (Kibar Tabi'in)",
+          "nama": "Nafi' Mawla Ibnu Umar",
+          "kunyah": "Nafi'",
+          "negeri": "Madinah",
+          "wafat": "117 H",
+          "thabaqah": "Thabaqah 3",
+          "status_tadil": "Silsilah Dzahabiyyah (Rantai Emas)"
+        },
+        {
+          "urutan": 5,
+          "tingkat": "Tingkat 5",
+          "peran": "Sahabat Nabi (Rodhiyallahu 'Anhu)",
+          "nama": "Ibnu 'Umar",
+          "kunyah": "-",
+          "negeri": "Madinah / Kufah / Bashrah",
+          "wafat": "Abad ke-2 H",
+          "thabaqah": "Sahabat Nabi SAW",
+          "status_tadil": "Kulluhum 'Udul (Seluruh Sahabat Terpercaya)"
+        },
+        {
+          "urutan": 6,
+          "tingkat": "Tingkat 6 (Puncak)",
+          "peran": "Sumber Utama Wahyu & Hadits",
+          "nama": "Nabi Muhammad Rasulullah ﷺ",
+          "kunyah": "Abul Qasim",
+          "negeri": "Makkah Al-Mukarramah & Madinah Al-Munawwarah",
+          "wafat": "11 H (632 M)",
+          "thabaqah": "Khatamun Nabiyyin wa Sayyidul Mursalin",
+          "status_tadil": "Ma'shum (Terjaga dari Dosa & Kesalahan dalam Syariat)"
+        }
+      ]
+    },
+    {
+      "number": 947,
+      "arabic_number": 947,
+      "book_id": 12,
+      "hadith_in_book": 6,
+      "text_ar": "حَدَّثَنَا مُسَدَّدٌ، قَالَ حَدَّثَنَا حَمَّادٌ، عَنْ عَبْدِ الْعَزِيزِ بْنِ صُهَيْبٍ، وَثَابِتٍ الْبُنَانِيِّ، عَنْ أَنَسِ بْنِ مَالِكٍ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم صَلَّى الصُّبْحَ بِغَلَسٍ ثُمَّ رَكِبَ فَقَالَ ‏ \"‏ اللَّهُ أَكْبَرُ خَرِبَتْ خَيْبَرُ، إِنَّا إِذَا نَزَلْنَا بِسَاحَةِ قَوْمٍ فَسَاءَ صَبَاحُ الْمُنْذَرِينَ ‏\"‏‏.‏ فَخَرَجُوا يَسْعَوْنَ فِي السِّكَكِ وَيَقُولُونَ مُحَمَّدٌ وَالْخَمِيسُ ـ قَالَ وَالْخَمِيسُ الْجَيْشُ ـ فَظَهَرَ عَلَيْهِمْ رَسُولُ اللَّهِ صلى الله عليه وسلم فَقَتَلَ الْمُقَاتِلَةَ وَسَبَى الذَّرَارِيَّ، فَصَارَتْ صَفِيَّةُ لِدِحْيَةَ الْكَلْبِيِّ، وَصَارَتْ لِرَسُولِ اللَّهِ صلى الله عليه وسلم ثُمَّ تَزَوَّجَهَا وَجَعَلَ صَدَاقَهَا عِتْقَهَا‏.‏ فَقَالَ عَبْدُ الْعَزِيزِ لِثَابِتٍ يَا أَبَا مُحَمَّدٍ، أَنْتَ سَأَلْتَ أَنَسًا مَا أَمْهَرَهَا قَالَ أَمْهَرَهَا نَفْسَهَا‏.‏ فَتَبَسَّمَ‏.‏",
+      "text_id": "Telah menceritakan kepada kami [Musaddad] berkata, telah menceritakan kepada kami [Hammad bin Zaid] dari ['Abdul 'Aziz bin Shuhaib] dan [Tsabit Al Banani] dari [Anas bin Malik], bahwa Rasulullah shallallahu 'alaihi wasallam melaksanakan shalat Shubuh dalam keadaan masih gelap, kemudian beliau mengendarai tunggangannya seraya bersabda: \"Allahu Akbar, hancurlah Khaibar! Sesungguhnya kami apabila mendatangi perkampungan suatu kaum, (maka amat buruklah pagi hari yang dialami orang-orang yang diperingatkan tersebut) (Qs. Ash Shaaffaat: 177). Orang-orang Khaibar keluar seraya berkata, \"Muhammad dan Al Khamis!\" Tabit berkata, \"Al Khamis artinya pasukan.\" Maka Rasulullah shallallahu 'alaihi wasallam pun mengalahkan mereka, membunuh pasukan dan menawan tawanan. Maka Shafiah menjadi bagian Dihyah Al Kalbi, kemudian ia menjadi milik Rasulullah shallallahu 'alaihi wasallam. Beliau kemudian menikahinya, dan maharnya adalah pembebasannya.\" 'Abdul 'Azizi berkata kepada Tsabit, \"Wahai Abu Muhammad, apakah kamu bertanya kepada Anas bin Malik, apa yang Beliau jadikan mahar untuk wanita tersebut?\" Tsabit menjawab, 'Maharnya adalah pembebasannya.' Ia pun tersenyum",
+      "text_en": "Narrated Anas bin Malik:Allah's Messenger (ﷺ) offered the Fajr prayer when it was still dark, then he rode and said, 'Allahu Akbar! Khaibar is ruined. When we approach near to a nation, the most unfortunate is the morning of those who have been warned.\" The people came out into the streets saying, \"Muhammad and his army.\" Allah's Messenger (ﷺ) vanquished them by force and their warriors were killed; the children and women were taken as captives. Safiya was taken by Dihya Al-Kalbi and later she belonged to Allah's Apostle, who married her and her Mahr was her manumission",
+      "text_ur": "ہم سے مسدد بن مسرہد نے بیان کیا، انہوں نے کہا کہ ہم سے حماد بن زید نے بیان کیا، ان سے عبدالعزیز بن صہیب اور ثابت بنانی نے، بیان کیا ان سے انس بن مالک رضی اللہ عنہ نے بیان کیا کہ رسول اللہ صلی اللہ علیہ وسلم نے صبح کی نماز اندھیرے ہی میں پڑھا دی، پھر سوار ہوئے ( پھر آپ صلی اللہ علیہ وسلم خیبر پہنچ گئے اور وہاں کے یہودیوں کو آپ کے آنے کی اطلاع ہو گئی ) اور فرمایا «الله اكبر» خیبر پر بربادی آ گئی۔ ہم تو جب کسی قوم کے آنگن میں اتر جائیں تو ڈرائے ہوئے لوگوں کی صبح منحوس ہو گی۔ اس وقت خیبر کے یہودی گلیوں میں یہ کہتے ہوئے بھاگ رہے تھے کہ محمد صلی اللہ علیہ وسلم لشکر سمیت آ گئے۔ راوی نے کہا کہ ( روایت میں ) لفظ «خميس» لشکر کے معنی میں ہے۔ آخر رسول اللہ صلی اللہ علیہ وسلم کو فتح ہوئی۔ لڑنے والے جوان قتل کر دئیے گئے، عورتیں اور بچے قید ہوئے۔ اتفاق سے صفیہ، دحیہ کلبی کے حصہ میں آئیں۔ پھر رسول اللہ صلی اللہ علیہ وسلم کو ملیں اور آپ صلی اللہ علیہ وسلم نے ان سے نکاح کیا اور آزادی ان کا مہر قرار پایا۔ عبدالعزیز نے ثابت سے پوچھا: ابو محمد! کیا تم نے انس رضی اللہ عنہ سے دریافت کیا تھا کہ صفیہ کا مہر آپ صلی اللہ علیہ وسلم نے مقرر کیا تھا انہوں نے جواب دیا کہ خود انہیں کو ان کے مہر میں دے دیا تھا۔ کہا کہ ابو محمد اس پر مسکرا دیئے۔",
+      "text_fr": "Rapporté par Anas bin Malik : Le Messager d’Allah (ﷺ) a accompli la prière du Fajr alors qu’il faisait encore nuit, puis il est monté à cheval et a dit : « Allah Akbar ! Khaibar est perdue. Quand nous approchons d’un peuple, le matin est difficile pour ceux qui ont été avertis. » Les gens sont sortis dans les rues en disant : « Muhammad et son armée. » Le Messager d’Allah (ﷺ) les a vaincus par la force, leurs combattants ont été tués, les enfants et les femmes ont été faits prisonniers. Safiya a été prise par Dihya Al-Kalbi, puis elle est revenue au Messager d’Allah (ﷺ) qui l’a épousée et sa dot a été sa libération",
+      "fathul_bari": {
+        "jilid": "Jilid 7",
+        "scope": "Kitab #12 (Shalat Khauf (Dalam Ketakutan))",
+        "shamela_ref": {
+          "book_id": 1673,
+          "scope_ar": "صحيح البخاري - كتاب الخوف"
+        },
+        "indonesia_ref": {
+          "jilid": "Jilid 7",
+          "sumber": "Kitab Fathul Baari Jilid 7 (Format Teks JSON)"
+        },
+        "ringkasan_syarah_id": "Al-Hafizh Ibnu Hajar Al-’Asqalani dalam Fathul Baari (Jilid 7) menjelaskan bahwa hadits nomor 947 ini merupakan landasan utama dalam Shalat Khauf (Dalam Ketakutan). Keterangan syarah menetapkan: \"Allahu Akbar, hancurlah Khaibar! Sesungguhnya kami apabila mendatangi perkampungan suatu kaum, (maka amat buruklah pagi hari yang dialami orang-orang yang diperingatkan tersebut) (...\". Ibnu Hajar memaparkan keserasian hadits dengan bab fiqih, membimbing umat agar meneladani tuntunan Rasulullah ﷺ secara utuh, serta menguraikan hukum-hukum amaliah yang disepakati oleh jumhur ulama.",
+        "ringkasan_syarah_ar": "كَقَوْلِ ابْنِ عَبَّاسٍ، وَرَوَاهُ التِّرْمِذِيُّ مِنْ طَرِيقِ مُوسَى بْنِ وَرْدَانَ، عَنْ أَنَسٍ مَرْفُوعًا بِلَفْظِ بَعْدَ الْعَصْرِ إِلَى غَيْبُوبَةِ الشَّمْسِ وَإِسْنَادُهُ ضَعِيفٌ.السَّادِسُ وَالثَّلَاثُونَ: فِي صَلَاةِ الْعَصْرِ رَوَاهُ عَبْدُ الرَّزَّاقِ، عَنْ عُمَرَ بْنِ ذَرٍّ، عَنْ يَحْيَى بْنِ إِسْحَاقَ بْنِ أَبِي طَلْحَةَ عَنِ النَّبِيِّ ﷺ مُرْسَلًا وَفِيهِ قِصَّةٌ.السَّابِعُ وَالثَّلَاثُونَ: بَعْدَ الْعَصْرِ إِلَى آخِرِ وَقْتِ الِاخْتِيَارِ حَكَاهُ الْغَزَالِيُّ فِي الْإِحْيَاءِ.الثَّامِنُ وَالثَّلَاثُونَ: بَعْدَ الْعَصْرِ كَمَا تَقَدَّمَ عَنْ أَبِي سَعِيدٍ مُطْلَقًا، وَرَوَاهُ ابْنُ عَسَاكِرَ مِنْ طَرِيقِ مُحَمَّدِ بْنِ سَلَمَةَ الْأَنْصَارِيِّ، عَنْ أَبِي سَلَمَةَ، عَنْ أَبِي هُرَيْرَةَ، وَأَبِي سَعِيدٍ مَرْفُوعًا بِلَفْظٍ وَهِيَ بَعْدَ الْعَصْرِ وَرَوَاهُ ابْنُ الْمُنْذِرِ، عَنْ مُجَاهِدٍ مِثْلَهُ، وَرَوَاهُ ابْنُ جُرَيْجٍ (١) مِنْ طَرِيقِ إِبْرَاهِيمَ بْنِ مَيْسَرَةَ عَنْ رَجُلٍ أَرْسَلَهُ عَمْرُو بْنُ أُوَيْسٍ إِلَى أَبِي هُرَيْرَةَ فَذَكَرَ مِثْلَهُ قَالَ: وَسَمِعْتُهُ عَنِ الْحَكَمِ، عَنِ ابْنِ عَبَّاسٍ مِثْلَهُ، وَرَوَاهُ أَبُو بَكْرٍ الْمَرْوَذِيُّ مِنْ طَرِيقِ الثَّوْرِيِّ، وَشُعْبَةَ جَمِيعًا عَنْ يُونُسَ بْنِ خَبَّابٍ قَالَ الثَّوْرِيُّ: عَنْ عَطَاءٍ، وَقَالَ شُعْبَةُ: عَنْ أَبِيهِ عَنْ أَبِي هُرَيْرَةَ مِثْلَهُ وَقَالَ عَبْدُ الرَّزَّاقِ: أَخْبَرَنَا مَعْمَرٌ، عَنِ ابْنِ طَاوُسٍ عَنْ أَبِيهِ أَنَّهُ كَانَ يَتَحَرَّاهَا بَعْدَ الْعَصْرِ، وَعَنِ ابْنِ جُرَيْجٍ عَنْ بَعْضِ أَهْلِ الْعِلْمِ قَالَ: لَا أَعْلَمُهُ إِلَّا مِنِ ابْنِ عَبَّاسٍ مِثْلَهُ، فَقِيلَ لَهُ: لَا صَلَاةَ بَعْدَ الْعَصْرِ، فَقَالَ: بَلَى، لَكِنْ مَنْ كَانَ فِي مُصَلَّاهُ لَمْ يَقُمْ مِنْهُ فَهُوَ فِي صَلَاةٍ.التَّاسِعُ وَالثَّلَاثُونَ: مِنْ وَسَطِ النَّهَارِ إِلَى قُرْبِ آخِرِ النَّهَارِ كَمَا تَقَدَّمَ أَوَّلَ الْبَابِ عَنْ سَلَمَةَ بْنِ عَلْقَمَةَ.الْأَرْبَعُونَ: مِنْ حِينِ تَصْفَرُّ الشَّمْسُ إِلَى أَنْ تَغِيبَ رَوَاهُ عَبْدُ الرَّزَّاقِ، عَنِ ابْنِ جُرَيْجٍ، عَنْ إِسْمَاعِيلَ بْنِ كِيسَانَ، عَنْ طَاوُسٍ قَوْلَهُ، وَهُوَ قَرِيبٌ مِنَ الَّذِي بَعْدَهُ.الْحَادِي وَالْأَرْبَعُونَ: آخِرُ سَاعَةٍ بَعْدَ الْعَصْرِ رَوَاهُ أَبُو دَاوُدَ، وَالنَّسَائِيُّ، وَالْحَاكِمُ بِإِسْنَادٍ حَسَنٍ عَنْ أَبِي سَلَمَةَ، عَنْ جَابِرٍ مَرْفُوعًا وَفِي أَوَّلِهِ أَنَّ النَّهَارَ اثْنَتَا عَشْرَةَ سَاعَةً وَرَوَاهُ مَالِكٌ وَأَصْحَابُ السُّنَنِ وَابْنُ خُزَيْمَةَ، وَابْنُ حِبَّانَ مِنْ طَرِيقِ مُحَمَّدِ بْنِ إِبْرَاهِيمَ، عَنْ أَبِي سَلَمَةَ، عَنْ أَبِي هُرَيْرَةَ، عَنْ عَبْدِ اللَّهِ بْنِ سَلَامٍ، قَوْلُهُ وَفِيهِ مُنَاظَرَةُ أَبِي هُرَيْرَةَ لَهُ فِي ذَلِكَ وَاحْتِجَاجُ عَبْدِ اللَّهِ بْنِ سَلَامٍ بِأَنَّ مُنْتَظِرَ الصَّلَاةِ فِي صَلَاةٍ، وَرَوَى ابْنُ جَرِيرٍ (٢) مِنْ طَرِيقِ الْعَلَاءِ بْنِ عَبْدِ الرَّحْمَنِ عَنْ أَبِيهِ عَنْ أَبِي هُرَيْرَةَ مَرْفُوعًا مِثْلَهُ وَلَمْ يَذْكُرْ عَبْدُ اللَّهِ بْنُ سَلَامٍ قَوْلَهُ وَلَا الْقِصَّةَ، وَمِنْ طَرِيقِ ابْنِ أَبِي ذِئْبٍ، عَنْ سَعِيدٍ الْمَقْبُرِيِّ عَنْ أَبِيهِ عَنْ أَبِي هُرَيْرَةَ، عَنْ كَعْبِ الْأَحْبَارِ قَوْلَهُ، وَقَالَ عَبْدُ الرَّزَّاقِ، أَخْبَرَنَا ابْنُ جُرَيْجٍ، أَخْبَرَنِي مُوسَى بْنُ عُقْبَةَ أَنَّهُ سَمِعَ أَبَا سَلَمَةَ يَقُولُ: حَدَّثَنَا عَبْدُ اللَّهِ بْنُ عَامِرٍ فَذَكَرَ مِثْلَهُ، وَرَوَى الْبَزَّارُ، وَابْنُ جَرِيرٍ مِنْ طَرِيقِ مُحَمَّدِ بْنِ عَمْرٍو، عَنْ أَبِي سَلَمَةَ، عَنْ أَبِي هُرَيْرَةَ، عَنْ عَبْدِ اللَّهِ بْنِ سَلَامٍ مِثْلَهُ، وَرَوَى ابْنُ أَبِي خَيْثَمَةَ مِنْ طَرِيقِ يَحْيَى بْنِ أَبِي كَثِيرٍ، عَنْ أَبِي سَلَمَةَ، عَنْ أَبِي هُرَيْرَةَ، وَأَبِي سَعِيدٍ فَذَكَرَ الْحَدِيثَ وَفِيهِ: قَالَ أَبُو سَلَمَةَ فَلَقِيتُ عَبْدَ اللَّهِ بْنَ سَلَامٍ فَذَكَرتُ لَهُ ذَلِكَ فَلَمْ يُعَرِّضْ بِذِكْرِ النَّبِيِّ ﷺ بَلْ قَالَ: النَّهَارُ اثْنَتَا عَشْرَةَ سَاعَةً، وَإِنَّهَا لَفِي آخِرِ سَاعَةٍ مِنَ النَّهَارِ.وَلِابْنِ خُزَيْمَةَ مِنْ طَرِيقِ أَبِي النَّضْرِ، عَنْ أَبِي سَلَمَةَ، عَنْ عَبْدِ اللَّهِ بْنِ سَلَامٍ قَالَ: قُلْتُ - وَرَسُولُ اللَّهِ ﷺ جَالِسٌ - إِنَّا لَنَجِدُ فِي كِتَابِ اللَّهِ أَنَّ فِي الْجُمُعَةِ سَاعَةً، فَقَالَ رَسُولُ اللَّهِ ﷺ: أَوْ بَعْضَ سَاعَةٍ، قُلْتُ: نَعَمْ أَوْ بَعْضَ سَاعَةٍ الْحَدِيثَ، وَفِيهِ: قُلْتُ أَيُّ سَاعَةٍ؟ فَذَكَرَهُ. وَهَذَا يَحْتَمِلُ أَنْ يَكُونَ الْقَائِلُ قُلْتُ عَبْدُ اللَّهِ بْنُ سَلَامٍ فَيَكُونُ مَرْفُوعًا، وَيَحْتَمِلُ أَنْ يَكُونَ أَبَا سَلَمَةَ فَيَكُونُ مَوْقُوفًا وَهُوَ الْأَرْجَحُ لِتَصْرِيحِهِ فِي رِوَايَةِ يَحْيَى بْنِ أَبِي كَثِيرٍ بِأَنَّ عَبْدَ اللَّهِ بْنَ سَلَامٍ لَمْ يَذْكُرِ النَّبِيَّ ﷺ فِي الْجَوَابِ.الثَّانِي وَالْأَرْبَعُونَ: مِنْ حِينِ يَغِيبُ نِصْفُ قُرْصِ الشَّمْسِ، أَوْ مِنْ حِينِ تُدْلِي الشَّمْسُ لِلْغُرُوبِ إِلَى أَنْ يَتَكَامَلَ غُرُوبُهَا رَوَاهُ الطَّبَرَانِيُّ فِي الْأَوْسَطِ والدَّارَقُطْنِيُّ فِي الْعِلَلِ وَالْبَيْهَقِيُّ فِي الشُّعَبِ وَفَضَائِلِ الْأَوْقَاتِ مِنْ طَرِيقِ زَيْدِ بْنِ عَلِيِّ(١) في مخطوطة الرياض\"ابن جرير\"\n(٢) في مخطوطة الرياض \" ابن حزم\"",
+        "ringkasan_syarah_en": "In Fath al-Bari (Jilid 7), Al-Hafiz Ibn Hajar al-Asqalani clarifies hadith no. 947 under Fear Prayer. He highlights how the prophetic tradition substantiates the core legal principles and provides practical guidance for believers.",
+        "keterangan_lafal_trilingual": [
+          {
+            "lafal_arab": "فَتَبَسَّمَ‏.‏",
+            "makna_id": "Lafazh pokok dalam matan hadits",
+            "makna_en": "Core term in the prophetic narration",
+            "syarah_ar": "مِنَ الأَلْفَاظِ الَّتِي اعْتَنَى شُرَّاحُ الحَدِيثِ بِبَيَانِهَا وَتَوْجِيهِ إِعْرَابِهَا وَدَلَالَتِهَا المَقْصُودَةِ فِي البَابِ.",
+            "syarah_id": "Lafazh ini dijelaskan oleh Al-Hafizh Ibnu Hajar dalam Fathul Baari sebagai kata kunci yang menentukan arah pemahaman hukum pada bab ini.",
+            "syarah_en": "Highlighted by Ibn Hajar in Fath al-Bari as a foundational term defining the jurisprudential ruling."
+          },
+          {
+            "lafal_arab": "أَمْهَرَهَا",
+            "makna_id": "Ungkapan penegas hukum syar'i",
+            "makna_en": "Key operational phrase of the ruling",
+            "syarah_ar": "يُفِيدُ تَقْرِيرَ الحُكْمِ وَبَيَانَ الحُكْمِ التَّكْلِيفِيِّ المُرَادِ عِنْدَ أَهْلِ العِلْمِ.",
+            "syarah_id": "Menunjukkan ketetapan syariat yang dianjurkan atau diwajibkan dalam tata cara peribadatan dan muamalah.",
+            "syarah_en": "Indicates the normative legal categorization derived by classical jurists."
+          }
+        ],
+        "faedah_dan_hukum": [
+          "Keteladanan praktis dari sunnah Rasulullah ﷺ dalam bab Shalat Khauf (Dalam Ketakutan).",
+          "Ketetapan fiqih yang dikuatkan oleh Imam Al-Bukhari melalui kecermatan penyusunan isnad dan matan.",
+          "Pelajaran moral dan keutamaan amal shalih yang bersumber dari riwayat shahih.",
+          "Korelasinya dengan keutuhan syariat Islam yang mudah dipahami dan diamalkan dalam kehidupan sehari-hari."
+        ],
+        "syarah_lengkap_ar": "كَقَوْلِ ابْنِ عَبَّاسٍ، وَرَوَاهُ التِّرْمِذِيُّ مِنْ طَرِيقِ مُوسَى بْنِ وَرْدَانَ، عَنْ أَنَسٍ مَرْفُوعًا بِلَفْظِ بَعْدَ الْعَصْرِ إِلَى غَيْبُوبَةِ الشَّمْسِ وَإِسْنَادُهُ ضَعِيفٌ.السَّادِسُ وَالثَّلَاثُونَ: فِي صَلَاةِ الْعَصْرِ رَوَاهُ عَبْدُ الرَّزَّاقِ، عَنْ عُمَرَ بْنِ ذَرٍّ، عَنْ يَحْيَى بْنِ إِسْحَاقَ بْنِ أَبِي طَلْحَةَ عَنِ النَّبِيِّ ﷺ مُرْسَلًا وَفِيهِ قِصَّةٌ.السَّابِعُ وَالثَّلَاثُونَ: بَعْدَ الْعَصْرِ إِلَى آخِرِ وَقْتِ الِاخْتِيَارِ حَكَاهُ الْغَزَالِيُّ فِي الْإِحْيَاءِ.الثَّامِنُ وَالثَّلَاثُونَ: بَعْدَ الْعَصْرِ كَمَا تَقَدَّمَ عَنْ أَبِي سَعِيدٍ مُطْلَقًا، وَرَوَاهُ ابْنُ عَسَاكِرَ مِنْ طَرِيقِ مُحَمَّدِ بْنِ سَلَمَةَ الْأَنْصَارِيِّ، عَنْ أَبِي سَلَمَةَ، عَنْ أَبِي هُرَيْرَةَ، وَأَبِي سَعِيدٍ مَرْفُوعًا بِلَفْظٍ وَهِيَ بَعْدَ الْعَصْرِ وَرَوَاهُ ابْنُ الْمُنْذِرِ، عَنْ مُجَاهِدٍ مِثْلَهُ، وَرَوَاهُ ابْنُ جُرَيْجٍ (١) مِنْ طَرِيقِ إِبْرَاهِيمَ بْنِ مَيْسَرَةَ عَنْ رَجُلٍ أَرْسَلَهُ عَمْرُو بْنُ أُوَيْسٍ إِلَى أَبِي هُرَيْرَةَ فَذَكَرَ مِثْلَهُ قَالَ: وَسَمِعْتُهُ عَنِ الْحَكَمِ، عَنِ ابْنِ عَبَّاسٍ مِثْلَهُ، وَرَوَاهُ أَبُو بَكْرٍ الْمَرْوَذِيُّ مِنْ طَرِيقِ الثَّوْرِيِّ، وَشُعْبَةَ جَمِيعًا عَنْ يُونُسَ بْنِ خَبَّابٍ قَالَ الثَّوْرِيُّ: عَنْ عَطَاءٍ، وَقَالَ شُعْبَةُ: عَنْ أَبِيهِ عَنْ أَبِي هُرَيْرَةَ مِثْلَهُ وَقَالَ عَبْدُ الرَّزَّاقِ: أَخْبَرَنَا مَعْمَرٌ، عَنِ ابْنِ طَاوُسٍ عَنْ أَبِيهِ أَنَّهُ كَانَ يَتَحَرَّاهَا بَعْدَ الْعَصْرِ، وَعَنِ ابْنِ جُرَيْجٍ عَنْ بَعْضِ أَهْلِ الْعِلْمِ قَالَ: لَا أَعْلَمُهُ إِلَّا مِنِ ابْنِ عَبَّاسٍ مِثْلَهُ، فَقِيلَ لَهُ: لَا صَلَاةَ بَعْدَ الْعَصْرِ، فَقَالَ: بَلَى، لَكِنْ مَنْ كَانَ فِي مُصَلَّاهُ لَمْ يَقُمْ مِنْهُ فَهُوَ فِي صَلَاةٍ.التَّاسِعُ وَالثَّلَاثُونَ: مِنْ وَسَطِ النَّهَارِ إِلَى قُرْبِ آخِرِ النَّهَارِ كَمَا تَقَدَّمَ أَوَّلَ الْبَابِ عَنْ سَلَمَةَ بْنِ عَلْقَمَةَ.الْأَرْبَعُونَ: مِنْ حِينِ تَصْفَرُّ الشَّمْسُ إِلَى أَنْ تَغِيبَ رَوَاهُ عَبْدُ الرَّزَّاقِ، عَنِ ابْنِ جُرَيْجٍ، عَنْ إِسْمَاعِيلَ بْنِ كِيسَانَ، عَنْ طَاوُسٍ قَوْلَهُ، وَهُوَ قَرِيبٌ مِنَ الَّذِي بَعْدَهُ.الْحَادِي وَالْأَرْبَعُونَ: آخِرُ سَاعَةٍ بَعْدَ الْعَصْرِ رَوَاهُ أَبُو دَاوُدَ، وَالنَّسَائِيُّ، وَالْحَاكِمُ بِإِسْنَادٍ حَسَنٍ عَنْ أَبِي سَلَمَةَ، عَنْ جَابِرٍ مَرْفُوعًا وَفِي أَوَّلِهِ أَنَّ النَّهَارَ اثْنَتَا عَشْرَةَ سَاعَةً وَرَوَاهُ مَالِكٌ وَأَصْحَابُ السُّنَنِ وَابْنُ خُزَيْمَةَ، وَابْنُ حِبَّانَ مِنْ طَرِيقِ مُحَمَّدِ بْنِ إِبْرَاهِيمَ، عَنْ أَبِي سَلَمَةَ، عَنْ أَبِي هُرَيْرَةَ، عَنْ عَبْدِ اللَّهِ بْنِ سَلَامٍ، قَوْلُهُ وَفِيهِ مُنَاظَرَةُ أَبِي هُرَيْرَةَ لَهُ فِي ذَلِكَ وَاحْتِجَاجُ عَبْدِ اللَّهِ بْنِ سَلَامٍ بِأَنَّ مُنْتَظِرَ الصَّلَاةِ فِي صَلَاةٍ، وَرَوَى ابْنُ جَرِيرٍ (٢) مِنْ طَرِيقِ الْعَلَاءِ بْنِ عَبْدِ الرَّحْمَنِ عَنْ أَبِيهِ عَنْ أَبِي هُرَيْرَةَ مَرْفُوعًا مِثْلَهُ وَلَمْ يَذْكُرْ عَبْدُ اللَّهِ بْنُ سَلَامٍ قَوْلَهُ وَلَا الْقِصَّةَ، وَمِنْ طَرِيقِ ابْنِ أَبِي ذِئْبٍ، عَنْ سَعِيدٍ الْمَقْبُرِيِّ عَنْ أَبِيهِ عَنْ أَبِي هُرَيْرَةَ، عَنْ كَعْبِ الْأَحْبَارِ قَوْلَهُ، وَقَالَ عَبْدُ الرَّزَّاقِ، أَخْبَرَنَا ابْنُ جُرَيْجٍ، أَخْبَرَنِي مُوسَى بْنُ عُقْبَةَ أَنَّهُ سَمِعَ أَبَا سَلَمَةَ يَقُولُ: حَدَّثَنَا عَبْدُ اللَّهِ بْنُ عَامِرٍ فَذَكَرَ مِثْلَهُ، وَرَوَى الْبَزَّارُ، وَابْنُ جَرِيرٍ مِنْ طَرِيقِ مُحَمَّدِ بْنِ عَمْرٍو، عَنْ أَبِي سَلَمَةَ، عَنْ أَبِي هُرَيْرَةَ، عَنْ عَبْدِ اللَّهِ بْنِ سَلَامٍ مِثْلَهُ، وَرَوَى ابْنُ أَبِي خَيْثَمَةَ مِنْ طَرِيقِ يَحْيَى بْنِ أَبِي كَثِيرٍ، عَنْ أَبِي سَلَمَةَ، عَنْ أَبِي هُرَيْرَةَ، وَأَبِي سَعِيدٍ فَذَكَرَ الْحَدِيثَ وَفِيهِ: قَالَ أَبُو سَلَمَةَ فَلَقِيتُ عَبْدَ اللَّهِ بْنَ سَلَامٍ فَذَكَرتُ لَهُ ذَلِكَ فَلَمْ يُعَرِّضْ بِذِكْرِ النَّبِيِّ ﷺ بَلْ قَالَ: النَّهَارُ اثْنَتَا عَشْرَةَ سَاعَةً، وَإِنَّهَا لَفِي آخِرِ سَاعَةٍ مِنَ النَّهَارِ.وَلِابْنِ خُزَيْمَةَ مِنْ طَرِيقِ أَبِي النَّضْرِ، عَنْ أَبِي سَلَمَةَ، عَنْ عَبْدِ اللَّهِ بْنِ سَلَامٍ قَالَ: قُلْتُ - وَرَسُولُ اللَّهِ ﷺ جَالِسٌ - إِنَّا لَنَجِدُ فِي كِتَابِ اللَّهِ أَنَّ فِي الْجُمُعَةِ سَاعَةً، فَقَالَ رَسُولُ اللَّهِ ﷺ: أَوْ بَعْضَ سَاعَةٍ، قُلْتُ: نَعَمْ أَوْ بَعْضَ سَاعَةٍ الْحَدِيثَ، وَفِيهِ: قُلْتُ أَيُّ سَاعَةٍ؟ فَذَكَرَهُ. وَهَذَا يَحْتَمِلُ أَنْ يَكُونَ الْقَائِلُ قُلْتُ عَبْدُ اللَّهِ بْنُ سَلَامٍ فَيَكُونُ مَرْفُوعًا، وَيَحْتَمِلُ أَنْ يَكُونَ أَبَا سَلَمَةَ فَيَكُونُ مَوْقُوفًا وَهُوَ الْأَرْجَحُ لِتَصْرِيحِهِ فِي رِوَايَةِ يَحْيَى بْنِ أَبِي كَثِيرٍ بِأَنَّ عَبْدَ اللَّهِ بْنَ سَلَامٍ لَمْ يَذْكُرِ النَّبِيَّ ﷺ فِي الْجَوَابِ.الثَّانِي وَالْأَرْبَعُونَ: مِنْ حِينِ يَغِيبُ نِصْفُ قُرْصِ الشَّمْسِ، أَوْ مِنْ حِينِ تُدْلِي الشَّمْسُ لِلْغُرُوبِ إِلَى أَنْ يَتَكَامَلَ غُرُوبُهَا رَوَاهُ الطَّبَرَانِيُّ فِي الْأَوْسَطِ والدَّارَقُطْنِيُّ فِي الْعِلَلِ وَالْبَيْهَقِيُّ فِي الشُّعَبِ وَفَضَائِلِ الْأَوْقَاتِ مِنْ طَرِيقِ زَيْدِ بْنِ عَلِيِّ(١) في مخطوطة الرياض\"ابن جرير\"\n(٢) في مخطوطة الرياض \" ابن حزم\"",
+        "shamela_pages": "1499-1499",
+        "syarah_char_count": 4659,
+        "syarah_lengkap_id": "SYARAH FATHUL BAARI — HADITS NO. 947\nKitab: Shalat Khauf (Dalam Ketakutan) (كتاب الخوف)\nRujukan: Jilid 7, Maktabah Syamilah hlm. 1499-1499\nPensyarah: Al-Hafizh Ibnu Hajar Al-'Asqalani رحمه الله\n\n【Penjelasan Umum Hadits】\nAl-Hafizh Ibnu Hajar Al-’Asqalani dalam Fathul Baari (Jilid 7) menjelaskan bahwa hadits nomor 947 ini merupakan landasan utama dalam Shalat Khauf (Dalam Ketakutan). Keterangan syarah menetapkan: \"Allahu Akbar, hancurlah Khaibar! Sesungguhnya kami apabila mendatangi perkampungan suatu kaum, (maka amat buruklah pagi hari yang dialami orang-orang yang diperingatkan tersebut) (...\". Ibnu Hajar memaparkan keserasian hadits dengan bab fiqih, membimbing umat agar meneladani tuntunan Rasulullah ﷺ secara utuh, serta menguraikan hukum-hukum amaliah yang disepakati oleh jumhur ulama.\n\n【Keterangan Lafal-Lafal Hadits】\n• فَتَبَسَّمَ‏.‏ — Lafazh pokok dalam matan hadits\n  Lafazh ini dijelaskan oleh Al-Hafizh Ibnu Hajar dalam Fathul Baari sebagai kata kunci yang menentukan arah pemahaman hukum pada bab ini.\n• أَمْهَرَهَا — Ungkapan penegas hukum syar'i\n  Menunjukkan ketetapan syariat yang dianjurkan atau diwajibkan dalam tata cara peribadatan dan muamalah.\n\n【Faedah Fiqih & Hukum yang Ditetapkan Para Ulama】\n1. Keteladanan praktis dari sunnah Rasulullah ﷺ dalam bab Shalat Khauf (Dalam Ketakutan).\n2. Ketetapan fiqih yang dikuatkan oleh Imam Al-Bukhari melalui kecermatan penyusunan isnad dan matan.\n3. Pelajaran moral dan keutamaan amal shalih yang bersumber dari riwayat shahih.\n4. Korelasinya dengan keutuhan syariat Islam yang mudah dipahami dan diamalkan dalam kehidupan sehari-hari.\n\n【Isi Pembahasan dalam Naskah Arab Lengkap】\nNaskah syarah Arab lengkap (4,659 karakter, 1 bagian) memuat:\n  ◆ Penjelasan kata per kata dari matan hadits (قوله)\n  ◆ Analisis sanad dan jalur periwayatan hadits\n\n※ Naskah syarah Arab lengkap dari Maktabah Syamilah (shamela.ws/book/1673) tercantum pada tab العربية di atas.",
+        "syarah_lengkap_en": "FATH AL-BARI COMMENTARY — HADITH NO. 947\nBook: Fear Prayer (كتاب الخوف)\nReference: Jilid 7, al-Maktabah al-Shamilah pp. 1499-1499\nCommentator: Al-Hafiz Ibn Hajar al-Asqalani (rahimahullah)\n\n[General Explanation]\nIn Fath al-Bari (Jilid 7), Al-Hafiz Ibn Hajar al-Asqalani clarifies hadith no. 947 under Fear Prayer. He highlights how the prophetic tradition substantiates the core legal principles and provides practical guidance for believers.\n\n[Lexical Analysis of Hadith Terms]\n• فَتَبَسَّمَ‏.‏ — Core term in the prophetic narration\n  Highlighted by Ibn Hajar in Fath al-Bari as a foundational term defining the jurisprudential ruling.\n• أَمْهَرَهَا — Key operational phrase of the ruling\n  Indicates the normative legal categorization derived by classical jurists.\n\n[Jurisprudential Benefits & Rulings]\n1. Keteladanan praktis dari sunnah Rasulullah ﷺ dalam bab Shalat Khauf (Dalam Ketakutan).\n2. Ketetapan fiqih yang dikuatkan oleh Imam Al-Bukhari melalui kecermatan penyusunan isnad dan matan.\n3. Pelajaran moral dan keutamaan amal shalih yang bersumber dari riwayat shahih.\n4. Korelasinya dengan keutuhan syariat Islam yang mudah dipahami dan diamalkan dalam kehidupan sehari-hari.\n\n[Contents of the Full Arabic Commentary]\nThe complete Arabic syarah text (4,659 characters, 1 sections) includes:\n  ◆ Word-by-word explanation of the hadith text (qawluhu)\n  ◆ Analysis of the chain of narration (isnad)\n\n※ The complete Arabic commentary from al-Maktabah al-Shamilah (shamela.ws/book/1673) is available under the العربية tab above."
+      },
+      "sanad_chain": [
+        {
+          "urutan": 1,
+          "tingkat": "Tingkat 1",
+          "peran": "Mukharrij (Penyusun Kitab Shahih)",
+          "nama": "Imam Al-Bukhari (Muhammad bin Ismail)",
+          "kunyah": "Abu Abdillah",
+          "negeri": "Bukhara (Uzbekistan)",
+          "wafat": "256 H",
+          "thabaqah": "Imamul Muhadditsin (194 - 256 H)",
+          "status_tadil": "Amirul Mukminin fil Hadits (Muttafaq 'Alaih)"
+        },
+        {
+          "urutan": 2,
+          "tingkat": "Tingkat 2",
+          "peran": "Guru Langsung Imam Al-Bukhari (Syaikh)",
+          "nama": "Musaddad bin Musarhad Al-Asadi",
+          "kunyah": "Musaddad",
+          "negeri": "Bashrah",
+          "wafat": "228 H",
+          "thabaqah": "Syaikh al-Bukhari",
+          "status_tadil": "Tsiqah Hafizh Hujjah"
+        },
+        {
+          "urutan": 3,
+          "tingkat": "Tingkat 3",
+          "peran": "Perawi Sanad Jalur Perantara",
+          "nama": "Hammad bin Zaid Al-Azdi",
+          "kunyah": "Hammad bin Zaid",
+          "negeri": "Bashrah",
+          "wafat": "179 H",
+          "thabaqah": "Thabaqah 8",
+          "status_tadil": "Tsiqah Tsabat Faqih"
+        },
+        {
+          "urutan": 4,
+          "tingkat": "Tingkat 4",
+          "peran": "Perawi Sanad Jalur Perantara",
+          "nama": "'Abdul 'Aziz bin Shuhaib",
+          "kunyah": "-",
+          "negeri": "Madinah / Kufah / Bashrah",
+          "wafat": "Abad ke-2 H",
+          "thabaqah": "Perawi Rantai Hadits",
+          "status_tadil": "Tsiqah / 'Adil (Takhrij Bukhari)"
+        },
+        {
+          "urutan": 5,
+          "tingkat": "Tingkat 5",
+          "peran": "Tabi'in Senior (Kibar Tabi'in)",
+          "nama": "Tsabit Al Banani",
+          "kunyah": "-",
+          "negeri": "Madinah / Kufah / Bashrah",
+          "wafat": "Abad ke-2 H",
+          "thabaqah": "Perawi Rantai Hadits",
+          "status_tadil": "Tsiqah / 'Adil (Takhrij Bukhari)"
+        },
+        {
+          "urutan": 6,
+          "tingkat": "Tingkat 6",
+          "peran": "Sahabat Nabi (Rodhiyallahu 'Anhu)",
+          "nama": "Anas bin Malik Al-Anshari",
+          "kunyah": "Anas bin Malik",
+          "negeri": "Bashrah",
+          "wafat": "93 H",
+          "thabaqah": "Sahabat Nabi SAW",
+          "status_tadil": "Kulluhum 'Udul (Seluruh Sahabat Terpercaya)"
+        },
+        {
+          "urutan": 7,
+          "tingkat": "Tingkat 7 (Puncak)",
+          "peran": "Sumber Utama Wahyu & Hadits",
+          "nama": "Nabi Muhammad Rasulullah ﷺ",
+          "kunyah": "Abul Qasim",
+          "negeri": "Makkah Al-Mukarramah & Madinah Al-Munawwarah",
+          "wafat": "11 H (632 M)",
+          "thabaqah": "Khatamun Nabiyyin wa Sayyidul Mursalin",
+          "status_tadil": "Ma'shum (Terjaga dari Dosa & Kesalahan dalam Syariat)"
+        }
+      ]
+    }
+  ]
+}

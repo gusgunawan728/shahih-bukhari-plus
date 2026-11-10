@@ -1,0 +1,832 @@
+{
+  "book": {
+    "id": 31,
+    "name_id": "Shalat Tarawih di Bulan Ramadhan",
+    "name_ar": "كتاب صلاة التراويح",
+    "name_en": "Praying at Night in Ramadaan (Taraweeh)",
+    "hadith_count": 6,
+    "start_hadith": 2008,
+    "end_hadith": 2013,
+    "fathul_bari_jilid": "Jilid 12",
+    "fathul_bari_file": "Fathul Baari jilid 12.pdf",
+    "fathul_bari_url": "https://drive.google.com/file/d/1olVNp1kOYB_1VocmzSLlZ03wXwBu8mcD/preview",
+    "fathul_bari_preview": "https://drive.google.com/file/d/1olVNp1kOYB_1VocmzSLlZ03wXwBu8mcD/preview"
+  },
+  "hadiths": [
+    {
+      "number": 2008,
+      "arabic_number": 2008,
+      "book_id": 31,
+      "hadith_in_book": 1,
+      "text_ar": "حَدَّثَنَا يَحْيَى بْنُ بُكَيْرٍ، حَدَّثَنَا اللَّيْثُ، عَنْ عُقَيْلٍ، عَنِ ابْنِ شِهَابٍ، قَالَ أَخْبَرَنِي أَبُو سَلَمَةَ، أَنَّ أَبَا هُرَيْرَةَ ـ رضى الله عنه ـ قَالَ سَمِعْتُ رَسُولَ اللَّهِ صلى الله عليه وسلم يَقُولُ لِرَمَضَانَ ‏ \"‏ مَنْ قَامَهُ إِيمَانًا وَاحْتِسَابًا غُفِرَ لَهُ مَا تَقَدَّمَ مِنْ ذَنْبِهِ ‏\"‏‏.‏",
+      "text_id": "Telah menceritakan kepada kami [Yahya bin Bukair] telah menceritakan kepada kami [Al Laits] dari ['Uqail] dari [Ibnu Syihab] berkata, telah mengabarkan kepada saya [Abu Salamah] bahwa [Abu Hurairah radliallahu 'anhu] berkata, Rasulullah shallallahu 'alaihi wasallam berkata tentang bulan Ramadhan: \"Barangsiapa yang menegakkannya karena iman kepada Allah dan mengharapkan pahala (hanya dariNya) maka akan diampuni dosa-dosa yang telah dikerjakannya",
+      "text_en": "Narrated Abu Huraira:I heard Allah's Messenger (ﷺ) saying regarding Ramadan, \"Whoever prayed at night in it (the month of Ramadan) out of sincere Faith and hoping for a reward from Allah, then all his previous sins will be forgiven",
+      "text_ur": "ہم سے یحییٰ بن بکیر نے بیان کیا، کہا کہ ہم سے لیث بن سعد نے بیان کیا، ان سے عقیل نے، ان سے ابن شہاب نے بیان کیا، کہ مجھے ابوسلمہ نے خبر دی، ان سے ابوہریرہ رضی اللہ عنہ نے بیان کیا کہ میں نے رسول اللہ صلی اللہ علیہ وسلم سے سنا، آپ صلی اللہ علیہ وسلم رمضان کے فضائل بیان فرما رہے تھے کہ جو شخص بھی اس میں ایمان اور نیت اجر و ثواب کے ساتھ ( رات میں ) نماز کے لیے کھڑا ہو اس کے پچھلے تمام گناہ معاف کر دیئے جائیں گے۔",
+      "text_fr": "Rapporté par Abu Huraira : J’ai entendu le Messager d’Allah (ﷺ) dire à propos du Ramadan : « Celui qui prie la nuit pendant le mois de Ramadan avec une foi sincère et en espérant une récompense d’Allah, tous ses péchés passés lui seront pardonnés. »",
+      "fathul_bari": {
+        "jilid": "Jilid 12",
+        "scope": "Kitab #31 (Shalat Tarawih di Bulan Ramadhan)",
+        "shamela_ref": {
+          "book_id": 1673,
+          "scope_ar": "صحيح البخاري - كتاب صلاة التراويح"
+        },
+        "indonesia_ref": {
+          "jilid": "Jilid 12",
+          "sumber": "Kitab Fathul Baari Jilid 12 (Format Teks JSON)"
+        },
+        "ringkasan_syarah_id": "Al-Hafizh Ibnu Hajar Al-’Asqalani dalam Fathul Baari (Jilid 12) menjelaskan bahwa hadits nomor 2008 ini merupakan landasan utama dalam Shalat Tarawih di Bulan Ramadhan. Keterangan syarah menetapkan: \"radliallahu 'anhu] berkata, Rasulullah shallallahu 'alaihi wasallam berkata tentang bulan Ramadhan: \"Barangsiapa yang menegakkannya karena iman kepada Allah dan mengharapkan pahala...\". Ibnu Hajar memaparkan keserasian hadits dengan bab fiqih, membimbing umat agar meneladani tuntunan Rasulullah ﷺ secara utuh, serta menguraikan hukum-hukum amaliah yang disepakati oleh jumhur ulama.",
+        "ringkasan_syarah_ar": "هَذِهِ شَيْخُهُ سَعِيدٌ، وَيُحْتَمَلُ أَنْ يَكُونَ سَمِعَهُ مِنْ كُلٍّ مِنْهُمَا، وَطَرِيقُ عُبَيْدِ اللَّهِ هَذِهِ وَصَلَهَا مُسْلِمٌ أَيْضًا.قَوْلُهُ: (وَقَالَ أَبُو حَرِيزٍ) بِالْمُهْمَلَةِ وَالرَّاءِ وَالزَّايِ، وَهُوَ عَبْدُ اللَّهِ بْنُ الْحُسَيْنِ قَاضِي سِجِسْتَانَ، وَطَرِيقُهُ هَذِهِ وَصَلَهَا ابْنُ خُزَيْمَةَ، وَالْحَسَنُ بْنُ سُفْيَانَ وَمِنْ جِهَتِهِ الْبَيْهَقِيُّ.٤٣ - بَاب مَتَى فِطْرُ الصَّائِمِ؟وَأَفْطَرَ أَبُو سَعِيدٍ الْخُدْرِيُّ حِينَ غَابَ قُرْصُ الشَّمْسِ١٩٥٤ - حَدَّثَنَا الْحُمَيْدِيُّ، حَدَّثَنَا سُفْيَانُ، حَدَّثَنَا هِشَامُ بْنُ عُرْوَةَ قَالَ: سَمِعْتُ أَبِي يَقُولُ: سَمِعْتُ عَاصِمَ بْنَ عُمَرَ بْنِ الْخَطَّابِ، عَنْ أَبِيهِ ﵁ قَالَ: قَالَ رَسُولُ اللَّهِ ﷺ: إِذَا أَقْبَلَ اللَّيْلُ مِنْ هَا هُنَا، وَأَدْبَرَ النَّهَارُ مِنْ هَا هُنَا، وَغَرَبَتْ الشَّمْسُ، فَقَدْ أَفْطَرَ الصَّائِمُ.١٩٥٥ - حَدَّثَنَا إِسْحَاقُ الْوَاسِطِيُّ حَدَّثَنَا خَالِدٌ عَنْ الشَّيْبَانِيِّ عَنْ عَبْدِ اللَّهِ بْنِ أَبِي أَوْفَى ﵁ قَالَ كُنَّا مَعَ رَسُولِ اللَّهِ ﷺ فِي سَفَرٍ وَهُوَ صَائِمٌ فَلَمَّا غَرَبَتْ الشَّمْسُ قَالَ لِبَعْضِ الْقَوْمِ يَا فُلَانُ قُمْ فَاجْدَحْ لَنَا فَقَالَ يَا رَسُولَ اللَّهِ لَوْ أَمْسَيْتَ قَالَ انْزِلْ فَاجْدَحْ لَنَا قَالَ يَا رَسُولَ اللَّهِ فَلَوْ أَمْسَيْتَ قَالَ انْزِلْ فَاجْدَحْ لَنَا قَالَ إِنَّ عَلَيْكَ نَهَارًا قَالَ انْزِلْ فَاجْدَحْ لَنَا فَنَزَلَ فَجَدَحَ لَهُمْ فَشَرِبَ النَّبِيُّ ﷺ ثُمَّ قَالَ إِذَا رَأَيْتُمْ اللَّيْلَ قَدْ أَقْبَلَ مِنْ هَا هُنَا فَقَدْ أَفْطَرَ الصَّائِمُ\"قَوْلُهُ: (بَابٌ: مَتَى يَحِلُّ فِطْرُ الصَّائِمِ) غَرَضُ هَذِهِ التَّرْجَمَةِ الْإِشَارَةُ إِلَى أَنَّهُ هَلْ يَجِبُ إِمْسَاكُ جُزْءٍ مِنَ اللَّيْلِ لِتَحَقُّقِ مُضِيِّ النَّهَارِ أَمْ لَا؟ وَظَاهِرُ صَنِيعِهِ يَقْتَضِي تَرْجِيحَ الثَّانِي لِذِكْرِهِ لِأَثَرِ أَبِي سَعِيدٍ فِي التَّرْجَمَةِ، لَكِنَّ مَحَلَّهُ إِذَا مَا حَصَلَ تَحَقُّقُ غُرُوبِ الشَّمْسِ.قَوْلُهُ: (وَأَفْطَرَ أَبُو سَعِيدٍ الْخُدْرِيُّ حِينَ غَابَ قُرْصُ الشَّمْسِ) وَصَلَهُ سَعِيدُ بْنُ مَنْصُورٍ، وَأَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ مِنْ طَرِيقِ عَبْدِ الْوَاحِدِ بْنِ أَيْمَنَ عَنْ أَبِيهِ قَالَ: دَخَلْنَا عَلَى أَبِي سَعِيدٍ فَأَفْطَرَ وَنَحْنُ نَرَى أَنَّ الشَّمْسَ لَمْ تَغْرُبْ وَوَجْهُ الدَّلَالَةِ مِنْهُ أَنَّ أَبَا سَعِيدٍ لَمَّا تَحَقَّقَ غُرُوبَ الشَّمْسِ لَمْ يَطْلُبْ مَزِيدًا عَلَى ذَلِكَ، وَلَا الْتَفَتَ إِلَى مُوَافَقَةِ مَنْ عِنْدَهُ عَلَى ذَلِكَ، فَلَوْ كَانَ يَجِبُ عِنْدَهُ إِمْسَاكُ جُزْءٍ مِنَ اللَّيْلِ لَاشْتَرَكَ الْجَمِيعُ فِي مَعْرِفَةِ ذَلِكَ، وَاللَّهُ أَعْلَمُ. ثُمَّ ذَكَرَ الْمُصَنِّفُ فِي الْبَابِ حَدِيثَيْنِ: أحدهما حديث عمر.قَوْلُهُ: (حَدَّثَنَا سُفْيَانُ) هُوَ ابْنُ عُيَيْنَةَ، وَالْإِسْنَادُ كُلُّهُ حِجَازِيُّونَ: الْحُمَيْدِيُّ، وَسُفْيَانُ مَكِّيَّانِ، وَالْبَاقُونَ مَدَنِيُّونَ. وَفِيهِ رِوَايَةُ الْأَبْنَاءِ عَنِ الْآبَاءِ، وَرِوَايَةُ تَابِعِيٍّ صَغِيرٍ عَنْ تَابِعِيٍّ كَبِيرٍ: هِشَامٍ عَنْ أَبِيهِ، وَصَحَابِيٍّ صَغِيرٍ عَنْ صَحَابِيٍّ كَبِيرٍ عَاصِمٍ عَنْ أَبِيهِ، وَكَانَ مَوْلِدُ عَاصِمٍ فِي عَهْدِ النَّبِيِّ ﷺ لَكِنْ لَمْ يَسْمَعْ مِنْهُ شَيْئًا.قَوْلُهُ: (قَالَ رَسُولُ اللَّهِ ﷺ فِي رِوَايَةِ ابْنِ خُزَيْمَةَ مِنْ طَرِيقِ أَبِي مُعَاوِيَةَ، عَنْ هِشَامٍ قَالَ لِي.قَوْلُهُ: (إِذَا أَقْبَلَ اللَّيْلُ مِنْ هَا هُنَا) أَيْ: مِنْ جِهَةِ الْمَشْرِقِ كَمَا فِي الْحَدِيثِ الَّذِي يَلِيهِ، وَالْمُرَادُ بِهِ وُجُودُ الظُّلْمَةِ حِسًّا، وَذَكَرَ فِي هَذَا الْحَدِيثِ ثَلَاثَةَ أُمُورٍ؛ لِأَنَّهَا وَإِنْ كَانَتْ مُتَلَازِمَةً فِي الْأَصْلِ لَكِنَّهَا قَدْ تَكُونُ فِي الظَّاهِرِ غَيْرَ مُتَلَازِمَةٍ، فَقَدْ يُظَنُّ إِقْبَالُ اللَّيْلِ مِنْ جِهَةِ الْمَشْرِقِ وَلَا يَكُونُ إِقْبَالُهُ حَقِيقَةً بَلْ لِوُجُودِ أَمْرٍ يُغَطِّي ضَوْءَ الشَّمْسِ، وَكَذَلِكَ إِدْبَارُ النَّهَارِ، فَمِنْ ثَمَّ قَيَّدَ بِقَوْلِهِ: وَغَرَبَتِ الشَّمْسُ إِشَارَةً إِلَى اشْتِرَاطِ تَحَقُّقِ الْإِقْبَالِ وَالْإِدْبَارِ، وَأَنَّهُمَا بِوَاسِطَةِ غُرُوبِ الشَّمْسِ لَا بِسَبَبٍ آخَرَ، وَلَمْ يَذْكُرْ ذَلِكَ فِي الْحَدِيثِ الثَّانِي، فَيُحْتَمَلُ أَنْ يُنَزَّلَ عَلَى حَالَيْنِ: أَمَّا حَيْثُ ذَكَرَهَا فَفِي حَالِ الْغَيْمِ مَثَلًا، وَأَمَّا حَيْثُ لَمْ يَذْكُرْهَا فَفِي",
+        "ringkasan_syarah_en": "In Fath al-Bari (Jilid 12), Al-Hafiz Ibn Hajar al-Asqalani clarifies hadith no. 2008 under Praying at Night in Ramadaan (Taraweeh). He highlights how the prophetic tradition substantiates the core legal principles and provides practical guidance for believers.",
+        "keterangan_lafal_trilingual": [
+          {
+            "lafal_arab": "‏\"‏‏.‏",
+            "makna_id": "Lafazh pokok dalam matan hadits",
+            "makna_en": "Core term in the prophetic narration",
+            "syarah_ar": "مِنَ الأَلْفَاظِ الَّتِي اعْتَنَى شُرَّاحُ الحَدِيثِ بِبَيَانِهَا وَتَوْجِيهِ إِعْرَابِهَا وَدَلَالَتِهَا المَقْصُودَةِ فِي البَابِ.",
+            "syarah_id": "Lafazh ini dijelaskan oleh Al-Hafizh Ibnu Hajar dalam Fathul Baari sebagai kata kunci yang menentukan arah pemahaman hukum pada bab ini.",
+            "syarah_en": "Highlighted by Ibn Hajar in Fath al-Bari as a foundational term defining the jurisprudential ruling."
+          },
+          {
+            "lafal_arab": "تَقَدَّمَ",
+            "makna_id": "Ungkapan penegas hukum syar'i",
+            "makna_en": "Key operational phrase of the ruling",
+            "syarah_ar": "يُفِيدُ تَقْرِيرَ الحُكْمِ وَبَيَانَ الحُكْمِ التَّكْلِيفِيِّ المُرَادِ عِنْدَ أَهْلِ العِلْمِ.",
+            "syarah_id": "Menunjukkan ketetapan syariat yang dianjurkan atau diwajibkan dalam tata cara peribadatan dan muamalah.",
+            "syarah_en": "Indicates the normative legal categorization derived by classical jurists."
+          }
+        ],
+        "faedah_dan_hukum": [
+          "Keteladanan praktis dari sunnah Rasulullah ﷺ dalam bab Shalat Tarawih di Bulan Ramadhan.",
+          "Ketetapan fiqih yang dikuatkan oleh Imam Al-Bukhari melalui kecermatan penyusunan isnad dan matan.",
+          "Pelajaran moral dan keutamaan amal shalih yang bersumber dari riwayat shahih.",
+          "Korelasinya dengan keutuhan syariat Islam yang mudah dipahami dan diamalkan dalam kehidupan sehari-hari."
+        ],
+        "syarah_lengkap_ar": "هَذِهِ شَيْخُهُ سَعِيدٌ، وَيُحْتَمَلُ أَنْ يَكُونَ سَمِعَهُ مِنْ كُلٍّ مِنْهُمَا، وَطَرِيقُ عُبَيْدِ اللَّهِ هَذِهِ وَصَلَهَا مُسْلِمٌ أَيْضًا.قَوْلُهُ: (وَقَالَ أَبُو حَرِيزٍ) بِالْمُهْمَلَةِ وَالرَّاءِ وَالزَّايِ، وَهُوَ عَبْدُ اللَّهِ بْنُ الْحُسَيْنِ قَاضِي سِجِسْتَانَ، وَطَرِيقُهُ هَذِهِ وَصَلَهَا ابْنُ خُزَيْمَةَ، وَالْحَسَنُ بْنُ سُفْيَانَ وَمِنْ جِهَتِهِ الْبَيْهَقِيُّ.٤٣ - بَاب مَتَى فِطْرُ الصَّائِمِ؟وَأَفْطَرَ أَبُو سَعِيدٍ الْخُدْرِيُّ حِينَ غَابَ قُرْصُ الشَّمْسِ١٩٥٤ - حَدَّثَنَا الْحُمَيْدِيُّ، حَدَّثَنَا سُفْيَانُ، حَدَّثَنَا هِشَامُ بْنُ عُرْوَةَ قَالَ: سَمِعْتُ أَبِي يَقُولُ: سَمِعْتُ عَاصِمَ بْنَ عُمَرَ بْنِ الْخَطَّابِ، عَنْ أَبِيهِ ﵁ قَالَ: قَالَ رَسُولُ اللَّهِ ﷺ: إِذَا أَقْبَلَ اللَّيْلُ مِنْ هَا هُنَا، وَأَدْبَرَ النَّهَارُ مِنْ هَا هُنَا، وَغَرَبَتْ الشَّمْسُ، فَقَدْ أَفْطَرَ الصَّائِمُ.١٩٥٥ - حَدَّثَنَا إِسْحَاقُ الْوَاسِطِيُّ حَدَّثَنَا خَالِدٌ عَنْ الشَّيْبَانِيِّ عَنْ عَبْدِ اللَّهِ بْنِ أَبِي أَوْفَى ﵁ قَالَ كُنَّا مَعَ رَسُولِ اللَّهِ ﷺ فِي سَفَرٍ وَهُوَ صَائِمٌ فَلَمَّا غَرَبَتْ الشَّمْسُ قَالَ لِبَعْضِ الْقَوْمِ يَا فُلَانُ قُمْ فَاجْدَحْ لَنَا فَقَالَ يَا رَسُولَ اللَّهِ لَوْ أَمْسَيْتَ قَالَ انْزِلْ فَاجْدَحْ لَنَا قَالَ يَا رَسُولَ اللَّهِ فَلَوْ أَمْسَيْتَ قَالَ انْزِلْ فَاجْدَحْ لَنَا قَالَ إِنَّ عَلَيْكَ نَهَارًا قَالَ انْزِلْ فَاجْدَحْ لَنَا فَنَزَلَ فَجَدَحَ لَهُمْ فَشَرِبَ النَّبِيُّ ﷺ ثُمَّ قَالَ إِذَا رَأَيْتُمْ اللَّيْلَ قَدْ أَقْبَلَ مِنْ هَا هُنَا فَقَدْ أَفْطَرَ الصَّائِمُ\"قَوْلُهُ: (بَابٌ: مَتَى يَحِلُّ فِطْرُ الصَّائِمِ) غَرَضُ هَذِهِ التَّرْجَمَةِ الْإِشَارَةُ إِلَى أَنَّهُ هَلْ يَجِبُ إِمْسَاكُ جُزْءٍ مِنَ اللَّيْلِ لِتَحَقُّقِ مُضِيِّ النَّهَارِ أَمْ لَا؟ وَظَاهِرُ صَنِيعِهِ يَقْتَضِي تَرْجِيحَ الثَّانِي لِذِكْرِهِ لِأَثَرِ أَبِي سَعِيدٍ فِي التَّرْجَمَةِ، لَكِنَّ مَحَلَّهُ إِذَا مَا حَصَلَ تَحَقُّقُ غُرُوبِ الشَّمْسِ.قَوْلُهُ: (وَأَفْطَرَ أَبُو سَعِيدٍ الْخُدْرِيُّ حِينَ غَابَ قُرْصُ الشَّمْسِ) وَصَلَهُ سَعِيدُ بْنُ مَنْصُورٍ، وَأَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ مِنْ طَرِيقِ عَبْدِ الْوَاحِدِ بْنِ أَيْمَنَ عَنْ أَبِيهِ قَالَ: دَخَلْنَا عَلَى أَبِي سَعِيدٍ فَأَفْطَرَ وَنَحْنُ نَرَى أَنَّ الشَّمْسَ لَمْ تَغْرُبْ وَوَجْهُ الدَّلَالَةِ مِنْهُ أَنَّ أَبَا سَعِيدٍ لَمَّا تَحَقَّقَ غُرُوبَ الشَّمْسِ لَمْ يَطْلُبْ مَزِيدًا عَلَى ذَلِكَ، وَلَا الْتَفَتَ إِلَى مُوَافَقَةِ مَنْ عِنْدَهُ عَلَى ذَلِكَ، فَلَوْ كَانَ يَجِبُ عِنْدَهُ إِمْسَاكُ جُزْءٍ مِنَ اللَّيْلِ لَاشْتَرَكَ الْجَمِيعُ فِي مَعْرِفَةِ ذَلِكَ، وَاللَّهُ أَعْلَمُ. ثُمَّ ذَكَرَ الْمُصَنِّفُ فِي الْبَابِ حَدِيثَيْنِ: أحدهما حديث عمر.قَوْلُهُ: (حَدَّثَنَا سُفْيَانُ) هُوَ ابْنُ عُيَيْنَةَ، وَالْإِسْنَادُ كُلُّهُ حِجَازِيُّونَ: الْحُمَيْدِيُّ، وَسُفْيَانُ مَكِّيَّانِ، وَالْبَاقُونَ مَدَنِيُّونَ. وَفِيهِ رِوَايَةُ الْأَبْنَاءِ عَنِ الْآبَاءِ، وَرِوَايَةُ تَابِعِيٍّ صَغِيرٍ عَنْ تَابِعِيٍّ كَبِيرٍ: هِشَامٍ عَنْ أَبِيهِ، وَصَحَابِيٍّ صَغِيرٍ عَنْ صَحَابِيٍّ كَبِيرٍ عَاصِمٍ عَنْ أَبِيهِ، وَكَانَ مَوْلِدُ عَاصِمٍ فِي عَهْدِ النَّبِيِّ ﷺ لَكِنْ لَمْ يَسْمَعْ مِنْهُ شَيْئًا.قَوْلُهُ: (قَالَ رَسُولُ اللَّهِ ﷺ فِي رِوَايَةِ ابْنِ خُزَيْمَةَ مِنْ طَرِيقِ أَبِي مُعَاوِيَةَ، عَنْ هِشَامٍ قَالَ لِي.قَوْلُهُ: (إِذَا أَقْبَلَ اللَّيْلُ مِنْ هَا هُنَا) أَيْ: مِنْ جِهَةِ الْمَشْرِقِ كَمَا فِي الْحَدِيثِ الَّذِي يَلِيهِ، وَالْمُرَادُ بِهِ وُجُودُ الظُّلْمَةِ حِسًّا، وَذَكَرَ فِي هَذَا الْحَدِيثِ ثَلَاثَةَ أُمُورٍ؛ لِأَنَّهَا وَإِنْ كَانَتْ مُتَلَازِمَةً فِي الْأَصْلِ لَكِنَّهَا قَدْ تَكُونُ فِي الظَّاهِرِ غَيْرَ مُتَلَازِمَةٍ، فَقَدْ يُظَنُّ إِقْبَالُ اللَّيْلِ مِنْ جِهَةِ الْمَشْرِقِ وَلَا يَكُونُ إِقْبَالُهُ حَقِيقَةً بَلْ لِوُجُودِ أَمْرٍ يُغَطِّي ضَوْءَ الشَّمْسِ، وَكَذَلِكَ إِدْبَارُ النَّهَارِ، فَمِنْ ثَمَّ قَيَّدَ بِقَوْلِهِ: وَغَرَبَتِ الشَّمْسُ إِشَارَةً إِلَى اشْتِرَاطِ تَحَقُّقِ الْإِقْبَالِ وَالْإِدْبَارِ، وَأَنَّهُمَا بِوَاسِطَةِ غُرُوبِ الشَّمْسِ لَا بِسَبَبٍ آخَرَ، وَلَمْ يَذْكُرْ ذَلِكَ فِي الْحَدِيثِ الثَّانِي، فَيُحْتَمَلُ أَنْ يُنَزَّلَ عَلَى حَالَيْنِ: أَمَّا حَيْثُ ذَكَرَهَا فَفِي حَالِ الْغَيْمِ مَثَلًا، وَأَمَّا حَيْثُ لَمْ يَذْكُرْهَا فَفِي",
+        "shamela_pages": "2486-2486",
+        "syarah_char_count": 3914,
+        "syarah_lengkap_id": "SYARAH FATHUL BAARI — HADITS NO. 2008\nKitab: Shalat Tarawih di Bulan Ramadhan (كتاب صلاة التراويح)\nRujukan: Jilid 12, Maktabah Syamilah hlm. 2486-2486\nPensyarah: Al-Hafizh Ibnu Hajar Al-'Asqalani رحمه الله\n\n【Penjelasan Umum Hadits】\nAl-Hafizh Ibnu Hajar Al-’Asqalani dalam Fathul Baari (Jilid 12) menjelaskan bahwa hadits nomor 2008 ini merupakan landasan utama dalam Shalat Tarawih di Bulan Ramadhan. Keterangan syarah menetapkan: \"radliallahu 'anhu] berkata, Rasulullah shallallahu 'alaihi wasallam berkata tentang bulan Ramadhan: \"Barangsiapa yang menegakkannya karena iman kepada Allah dan mengharapkan pahala...\". Ibnu Hajar memaparkan keserasian hadits dengan bab fiqih, membimbing umat agar meneladani tuntunan Rasulullah ﷺ secara utuh, serta menguraikan hukum-hukum amaliah yang disepakati oleh jumhur ulama.\n\n【Keterangan Lafal-Lafal Hadits】\n• ‏\"‏‏.‏ — Lafazh pokok dalam matan hadits\n  Lafazh ini dijelaskan oleh Al-Hafizh Ibnu Hajar dalam Fathul Baari sebagai kata kunci yang menentukan arah pemahaman hukum pada bab ini.\n• تَقَدَّمَ — Ungkapan penegas hukum syar'i\n  Menunjukkan ketetapan syariat yang dianjurkan atau diwajibkan dalam tata cara peribadatan dan muamalah.\n\n【Faedah Fiqih & Hukum yang Ditetapkan Para Ulama】\n1. Keteladanan praktis dari sunnah Rasulullah ﷺ dalam bab Shalat Tarawih di Bulan Ramadhan.\n2. Ketetapan fiqih yang dikuatkan oleh Imam Al-Bukhari melalui kecermatan penyusunan isnad dan matan.\n3. Pelajaran moral dan keutamaan amal shalih yang bersumber dari riwayat shahih.\n4. Korelasinya dengan keutuhan syariat Islam yang mudah dipahami dan diamalkan dalam kehidupan sehari-hari.\n\n【Isi Pembahasan dalam Naskah Arab Lengkap】\nNaskah syarah Arab lengkap (3,914 karakter, 1 bagian) memuat:\n  ◆ Penjelasan kata per kata dari matan hadits (قوله)\n  ◆ Analisis sanad dan jalur periwayatan hadits\n\n※ Naskah syarah Arab lengkap dari Maktabah Syamilah (shamela.ws/book/1673) tercantum pada tab العربية di atas.",
+        "syarah_lengkap_en": "FATH AL-BARI COMMENTARY — HADITH NO. 2008\nBook: Praying at Night in Ramadaan (Taraweeh) (كتاب صلاة التراويح)\nReference: Jilid 12, al-Maktabah al-Shamilah pp. 2486-2486\nCommentator: Al-Hafiz Ibn Hajar al-Asqalani (rahimahullah)\n\n[General Explanation]\nIn Fath al-Bari (Jilid 12), Al-Hafiz Ibn Hajar al-Asqalani clarifies hadith no. 2008 under Praying at Night in Ramadaan (Taraweeh). He highlights how the prophetic tradition substantiates the core legal principles and provides practical guidance for believers.\n\n[Lexical Analysis of Hadith Terms]\n• ‏\"‏‏.‏ — Core term in the prophetic narration\n  Highlighted by Ibn Hajar in Fath al-Bari as a foundational term defining the jurisprudential ruling.\n• تَقَدَّمَ — Key operational phrase of the ruling\n  Indicates the normative legal categorization derived by classical jurists.\n\n[Jurisprudential Benefits & Rulings]\n1. Keteladanan praktis dari sunnah Rasulullah ﷺ dalam bab Shalat Tarawih di Bulan Ramadhan.\n2. Ketetapan fiqih yang dikuatkan oleh Imam Al-Bukhari melalui kecermatan penyusunan isnad dan matan.\n3. Pelajaran moral dan keutamaan amal shalih yang bersumber dari riwayat shahih.\n4. Korelasinya dengan keutuhan syariat Islam yang mudah dipahami dan diamalkan dalam kehidupan sehari-hari.\n\n[Contents of the Full Arabic Commentary]\nThe complete Arabic syarah text (3,914 characters, 1 sections) includes:\n  ◆ Word-by-word explanation of the hadith text (qawluhu)\n  ◆ Analysis of the chain of narration (isnad)\n\n※ The complete Arabic commentary from al-Maktabah al-Shamilah (shamela.ws/book/1673) is available under the العربية tab above."
+      },
+      "sanad_chain": [
+        {
+          "urutan": 1,
+          "tingkat": "Tingkat 1",
+          "peran": "Mukharrij (Penyusun Kitab Shahih)",
+          "nama": "Imam Al-Bukhari (Muhammad bin Ismail)",
+          "kunyah": "Abu Abdillah",
+          "negeri": "Bukhara (Uzbekistan)",
+          "wafat": "256 H",
+          "thabaqah": "Imamul Muhadditsin (194 - 256 H)",
+          "status_tadil": "Amirul Mukminin fil Hadits (Muttafaq 'Alaih)"
+        },
+        {
+          "urutan": 2,
+          "tingkat": "Tingkat 2",
+          "peran": "Guru Langsung Imam Al-Bukhari (Syaikh)",
+          "nama": "Yahya bin Abdullah bin Bukair",
+          "kunyah": "Yahya bin Bukair",
+          "negeri": "Mesir",
+          "wafat": "231 H",
+          "thabaqah": "Syaikh al-Bukhari",
+          "status_tadil": "Tsiqah Tsabat"
+        },
+        {
+          "urutan": 3,
+          "tingkat": "Tingkat 3",
+          "peran": "Perawi Sanad Jalur Perantara",
+          "nama": "Al-Laits bin Sa'ad Al-Fahmi",
+          "kunyah": "Al Laits",
+          "negeri": "Mesir",
+          "wafat": "175 H",
+          "thabaqah": "Thabaqah 7",
+          "status_tadil": "Imam Faqih Mesir Tsiqah Tsabat"
+        },
+        {
+          "urutan": 4,
+          "tingkat": "Tingkat 4",
+          "peran": "Perawi Sanad Jalur Perantara",
+          "nama": "'Uqail",
+          "kunyah": "-",
+          "negeri": "Madinah / Kufah / Bashrah",
+          "wafat": "Abad ke-2 H",
+          "thabaqah": "Perawi Rantai Hadits",
+          "status_tadil": "Tsiqah / 'Adil (Takhrij Bukhari)"
+        },
+        {
+          "urutan": 5,
+          "tingkat": "Tingkat 5",
+          "peran": "Perawi Sanad Jalur Perantara",
+          "nama": "Ibnu Syihab Az-Zuhri",
+          "kunyah": "Ibnu Syihab",
+          "negeri": "Madinah / Syam",
+          "wafat": "124 H",
+          "thabaqah": "Thabaqah 4",
+          "status_tadil": "Imamul Huffazh Muttafaq 'Alaih"
+        },
+        {
+          "urutan": 6,
+          "tingkat": "Tingkat 6",
+          "peran": "Tabi'in Senior (Kibar Tabi'in)",
+          "nama": "Abu Salamah",
+          "kunyah": "-",
+          "negeri": "Madinah / Kufah / Bashrah",
+          "wafat": "Abad ke-2 H",
+          "thabaqah": "Perawi Rantai Hadits",
+          "status_tadil": "Tsiqah / 'Adil (Takhrij Bukhari)"
+        },
+        {
+          "urutan": 7,
+          "tingkat": "Tingkat 7",
+          "peran": "Sahabat Nabi (Rodhiyallahu 'Anhu)",
+          "nama": "Abu Hurairah radliallahu 'anhu",
+          "kunyah": "-",
+          "negeri": "Madinah / Kufah / Bashrah",
+          "wafat": "Abad ke-2 H",
+          "thabaqah": "Sahabat Nabi SAW",
+          "status_tadil": "Kulluhum 'Udul (Seluruh Sahabat Terpercaya)"
+        },
+        {
+          "urutan": 8,
+          "tingkat": "Tingkat 8 (Puncak)",
+          "peran": "Sumber Utama Wahyu & Hadits",
+          "nama": "Nabi Muhammad Rasulullah ﷺ",
+          "kunyah": "Abul Qasim",
+          "negeri": "Makkah Al-Mukarramah & Madinah Al-Munawwarah",
+          "wafat": "11 H (632 M)",
+          "thabaqah": "Khatamun Nabiyyin wa Sayyidul Mursalin",
+          "status_tadil": "Ma'shum (Terjaga dari Dosa & Kesalahan dalam Syariat)"
+        }
+      ]
+    },
+    {
+      "number": 2009,
+      "arabic_number": 2009,
+      "book_id": 31,
+      "hadith_in_book": 2,
+      "text_ar": "حَدَّثَنَا عَبْدُ اللَّهِ بْنُ يُوسُفَ، أَخْبَرَنَا مَالِكٌ، عَنِ ابْنِ شِهَابٍ، عَنْ حُمَيْدِ بْنِ عَبْدِ الرَّحْمَنِ، عَنْ أَبِي هُرَيْرَةَ ـ رضى الله عنه ـ أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ ‏ \"‏ مَنْ قَامَ رَمَضَانَ إِيمَانًا وَاحْتِسَابًا غُفِرَ لَهُ مَا تَقَدَّمَ مِنْ ذَنْبِهِ ‏\"‏‏.‏ قَالَ ابْنُ شِهَابٍ فَتُوُفِّيَ رَسُولُ اللَّهِ صلى الله عليه وسلم وَالأَمْرُ عَلَى ذَلِكَ، ثُمَّ كَانَ الأَمْرُ عَلَى ذَلِكَ فِي خِلاَفَةِ أَبِي بَكْرٍ وَصَدْرًا مِنْ خِلاَفَةِ عُمَرَ ـ رضى الله عنهما.‏",
+      "text_id": "Telah menceritakan kepada kami ['Abdullah bin Yusuf] telah mengabarkan kepada kami [Malik] dari [Ibnu Syihab] dari [Humaid bin 'Abdurrahman] dari [Abu Hurairah radliallahu 'anhu] bahwa Rasulullah shallallahu 'alaihi wasallam bersabda: \"Barangsiapa yang menegakkan Ramadhan karena iman kepada Allah dan mengharapkan pahala (hanya dariNya) maka akan diampuni dosa-dosa yang telah dikerjakannya\". Ibnu Syihab berkata; Kemudian Rasulullah shallallahu 'alaihi wasallam wafat, namun orang-orang terus melestarikan tradisi menegakkan malam Ramadhan (secara bersama, jamaah), keadaan tersebut terus berlanjut hingga zaman kekhalifahan Abu Bakar dan awal-awal kekhilafahan 'Umar bin Al Khaththob radliallahu 'anhu",
+      "text_en": "Narrated Abu Huraira: Allah's Messenger (ﷺ) said, \"Whoever prayed at night the whole month of Ramadan out of sincere Faith and hoping for a reward from Allah, then all his previous sins will be forgiven.\" Ibn Shihab (a sub-narrator) said, \"Allah's Messenger (ﷺ) died and the people continued observing that (i.e. Nawafil offered individually, not in congregation), and it remained as it was during the Caliphate of Abu Bakr and in the early days of 'Umar's Caliphate",
+      "text_ur": "ہم سے عبداللہ بن یوسف تنیسی نے بیان کیا، کہا کہ ہم کو امام مالک رحمہ اللہ نے خبر دی، انہیں ابن شہاب نے، انہیں حمید بن عبدالرحمٰن نے اور انہیں ابوہریرہ رضی اللہ عنہ نے کہ رسول اللہ صلی اللہ علیہ وسلم نے فرمایا جس نے رمضان کی راتوں میں ( بیدار رہ کر ) نماز تراویح پڑھی، ایمان اور ثواب کی نیت کے ساتھ، اس کے اگلے تمام گناہ معاف ہو جائیں گے۔ ابن شہاب نے بیان کیا کہ پھر نبی کریم صلی اللہ علیہ وسلم کی وفات ہو گئی اور لوگوں کا یہی حال رہا ( الگ الگ اکیلے اور جماعتوں سے تراویح پڑھتے تھے ) اس کے بعد ابوبکر رضی اللہ عنہ کے دور خلافت میں اور عمر رضی اللہ عنہ کے ابتدائی دور خلافت میں بھی ایسا ہی رہا۔",
+      "text_fr": "Rapporté par Abu Huraira : Le Messager d’Allah (ﷺ) a dit : « Celui qui prie la nuit pendant tout le mois de Ramadan avec une foi sincère et en espérant une récompense d’Allah, tous ses péchés passés lui seront pardonnés. » Ibn Shihab (un des narrateurs) a dit : « Le Messager d’Allah (ﷺ) est mort et les gens ont continué à faire cela (c’est-à-dire les prières surérogatoires individuellement, pas en groupe), et cela est resté ainsi pendant le califat d’Abu Bakr et au début du califat de ‘Umar. »",
+      "fathul_bari": {
+        "jilid": "Jilid 12",
+        "scope": "Kitab #31 (Shalat Tarawih di Bulan Ramadhan)",
+        "shamela_ref": {
+          "book_id": 1673,
+          "scope_ar": "صحيح البخاري - كتاب صلاة التراويح"
+        },
+        "indonesia_ref": {
+          "jilid": "Jilid 12",
+          "sumber": "Kitab Fathul Baari Jilid 12 (Format Teks JSON)"
+        },
+        "ringkasan_syarah_id": "Al-Hafizh Ibnu Hajar Al-’Asqalani dalam Fathul Baari (Jilid 12) menjelaskan bahwa hadits nomor 2009 ini merupakan landasan utama dalam Shalat Tarawih di Bulan Ramadhan. Keterangan syarah menetapkan: \"Barangsiapa yang menegakkan Ramadhan karena iman kepada Allah dan mengharapkan pahala (hanya dariNya) maka akan diampuni dosa-dosa yang telah dikerjakannya\". Ibnu Syihab berkata; K...\". Ibnu Hajar memaparkan keserasian hadits dengan bab fiqih, membimbing umat agar meneladani tuntunan Rasulullah ﷺ secara utuh, serta menguraikan hukum-hukum amaliah yang disepakati oleh jumhur ulama.",
+        "ringkasan_syarah_ar": "حَالِ الصَّحْوِ، وَيُحْتَمَلُ أَنْ يَكُونَا فِي حَالَةٍ وَاحِدَةٍ وَحَفِظَ أَحَدُ الرَّاوِيَيْنِ مَا لَمْ يَحْفَظِ الْآخَرُ، وَإِنَّمَا ذُكِرَ الْإِقْبَالُ وَالْإِدْبَارُ مَعًا لِإِمْكَانِ وُجُودِ أَحَدِهِمَا مَعَ عَدَمِ تَحَقُّقِ الْغُرُوبِ، قَالَهُ الْقَاضِي عِيَاضٌ. وَقَالَ شَيْخُنَا فِي شَرْحِ التِّرْمِذِيِّ: الظَّاهِرُ الِاكْتِفَاءُ بِأَحَدِ الثَّلَاثَةِ؛ لِأَنَّهُ يُعْرَفُ انْقِضَاءُ النَّهَارِ بِأَحَدِهِمَا، وَيُؤَيِّدُهُ الِاقْتِصَارُ فِي رِوَايَةِ ابْنِ أَبِي أَوْفَى عَلَى إِقْبَالِ اللَّيْلِقَوْلُهُ: (فَقَدْ أَفْطَرَ الصَّائِمُ) أَيْ: دَخَلَ فِي وَقْت الْفِطْرِ كَمَا يُقَالُ: أَنْجَدَ، إِذَا أَقَامَ بِنَجْدٍ، وَأَتْهَمَ إِذَا أَقَامَ بِتِهَامَةَ. وَيُحْتَمَلُ أَنْ يَكُونَ مَعْنَاهُ: فَقَدْ صَارَ مُفْطِرًا فِي الْحُكْمِ لِكَوْنِ اللَّيْلِ لَيْسَ طَرَفًا لِلصِّيَامِ الشَّرْعِيِّ، وَقَدْ رَدَّ ابْنُ خُزَيْمَةَ هَذَا الِاحْتِمَالَ، وَأَوْمَأَ إِلَى تَرْجِيحِ الْأَوَّلِ فَقَالَ: قَوْلُهُ: فَقَدْ أَفْطَرَ الصَّائِمُ لَفْظُ خَبَرٍ، وَمَعْنَاهُ الْأَمْرُ، أَيْ: فَلْيُفْطِرِ الصَّائِمُ، وَلَوْ كَانَ الْمُرَادُ فَقَدْ صَارَ مُفْطِرًا كَانَ فِطْرُ جَمِيعِ الصُّوَّامِ وَاحِدًا، وَلَمْ يَكُنْ لِلتَّرْغِيبِ فِي تَعْجِيلِ الْإِفْطَارِ مَعْنًى اهـ. وَقَدْ يُجَابُ بِأَنَّ الْمُرَادَ فِعْلُ الْإِفْطَارِ حِسًّا لِيُوَافِقَ الْأَمْرَ الشَّرْعِيَّ، وَلَا شَكَّ أَنَّ الْأَوَّلَ أَرْجَحُ، وَلَوْ كَانَ الثَّانِي مُعْتَمِدًا لَكَانَ مَنْ حَلَفَ أَنْ لَا يُفْطِرَ فَصَامَ فَدَخَلَ اللَّيْلُ حَنِثَ بِمُجَرَّدِ دُخُولِهِ وَلَوْ لَمْ يَتَنَاوَلْ شَيْئًا، وَيُمْكِنُ الِانْفِصَالُ عَنْ ذَلِكَ بِأَنَّ الْأَيْمَانَ مَبْنِيَّةٌ عَلَى الْعُرْفِ، وَبِذَلِكَ أَفْتَى الشَّيْخُ أَبُو إِسْحَاقَ الشِّيرَازِيُّ فِي مِثْلِ هَذِهِ الْوَاقِعَةِ بِعَيْنِهَا، وَمِثْلُ هَذَا لَوْ قَالَ: إِنْ أَفْطَرْتُ فَأَنْتِ طَالِقٌ. فَصَادَفَ يَوْمَ الْعِيدِ لَمْ تُطَلَّقْ حَتَّى يَتَنَاوَلَ مَا يُفْطِرُ بِهِ، وَقَدِ ارْتَكَبَ بَعْضُهُمُ الشَّطَطَ فَقَالَ: يَحْنَثُ، وَيُرَجِّحُ الْأَوَّلَ أَيْضًا رِوَايَةُ شُعْبَةَ أَيْضًا بِلَفْظِ: فَقَدْ حَلَّ الْإِفْطَارُ وَكَذَا أَخْرَجَهُ أَبُو عَوَانَةَ مِنْ طَرِيقِ الثَّوْرِيِّ، عَنِ الشَّيْبَانِيِّ، وَسَيَأْتِي لِذَلِكَ مَزِيدُ بَيَانٍ فِي بَابِ الْوِصَالِ بَعْدَ ثَلَاثَةِ أَبْوَابٍ.الحديث الثاني حديث ابن أبي أوفى.قَوْلُهُ: (حَدَّثَنَا خَالِدٌ) هُوَ ابْنُ عَبْدِ اللَّهِ الْوَاسِطِيُّ وَالشَّيْبَانِيُّ هُوَ أَبُو إِسْحَاقَ.قَوْلُهُ: (عَنْ عَبْدِ اللَّهِ بْنِ أَبِي أَوْفَى) سَيَأْتِي في الْبَابُ الَّذِي يَلِيهِ مِنْ وَجْهٍ آخَرَ عَنْ أَبِي إِسْحَاقَ سَمِعْتُ ابْنَ أَبِي أَوْفَى.قَوْلُهُ: (كُنَّا مَعَ النَّبِيِّ ﷺ فِي سَفَرٍ) هَذَا السَّفَرُ يُشْبِهُ أَنْ يَكُونَ سَفَرَ غَزْوَةِ الْفَتْحِ، وَيُؤَيِّدُهُ رِوَايَةُ هُشَيْمٍ، عَنِ الشَّيْبَانِيِّ عِنْدَ مُسْلِمٍ بِلَفْظِ: كُنَّا مَعَ رَسُولِ اللَّهِ ﷺ فِي سَفَرٍ فِي شَهْرِ رَمَضَانَ وَقَدْ تَقَدَّمَ أَنَّ سَفَرَهُ فِي رَمَضَانَ مُنْحَصِرٌ فِي غَزْوَةِ بَدْرٍ وَغَزْوَةِ الْفَتْحِ، فَإِنْ ثَبَتَ فَلَمْ يَشْهَدِ ابْنُ أَبِي أَوْفَى بَدْرًا، فَتَعَيَّنَتْ غَزْوَةُ الْفَتْحِ.قَوْلُهُ: (فَلَمَّا غَابَتِ الشَّمْسُ) فِي رِوَايَةِ الْبَابِ الَّذِي يَلِيهِ: فَلَمَّا غَرَبَتِ الشَّمْسُ وَهِيَ تُفِيدُ مَعْنًى أَزِيدَ مِنْ مَعْنَى غَابَتْ.قَوْلُهُ: (قَالَ لِبَعْضِ الْقَوْمِ: يَا فُلَانُ) فِي رِوَايَةِ شُعْبَةَ، عَنِ الشَّيْبَانِيِّ عِنْدَ أَحْمَدَ: فَدَعَا صَاحِبَ شَرَابِهِ بِشَرَابٍ فَقَالَ: لَوْ أَمْسَيْتُ وَسَأَذْكُرُ مَنْ سَمَّاهُ فِي الْبَابِ الَّذِي يَلِيهِ.قَوْلُهُ: (فَاجْدَحْ) بِالْجِيمِ ثُمَّ الْحَاءِ الْمُهْمَلَةِ، وَالْجَدْحُ تَحْرِيكُ السَّوِيقِ وَنَحْوِهِ بِالْمَاءِ بِعُودٍ يُقَالُ لَهُ: الْمِجْدَحُ، مُجَنَّحُ الرَّأْسِ، وَزَعَمَ الدَّاوُدِيُّ أَنَّ مَعْنَى قَوْلِهِ: اجْدَحْ لِي أَيْ: احْلِبْ، وَغَلَّطُوهُ فِي ذَلِكَ.قَوْلُهُ: (إِنَّ عَلَيْكَ نَهَارًا) يُحْتَمَلُ أَنْ يَكُونَ الْمَذْكُورُ كَانَ يَرَى كَثْرَةَ الضَّوْءِ مِنْ شِدَّةِ الصَّحْوِ، فَيَظُنُّ أَنَّ الشَّمْسَ لَمْ تَغْرُبْ وَيَقُولُ: لَعَلَّهَا غَطَّاهَا شَيْءٌ مِنْ جَبَلٍ وَنَحْوِهِ، أَوْ كَانَ هُنَاكَ غَيْمٌ فَلَمْ يَتَحَقَّقْ غُرُوبُ الشَّمْسِ، وَأَمَّا قَوْلُ الرَّاوِي: وَغَرَبَتِ الشَّمْسُ فَإِخْبَارٌ مِنْهُ بِمَا فِي نَفْسِ الْأَمْرِ، وَإِلَّا فَلَوْ تَحَقَّقَ الصَّحَابِيُّ أَنَّ الشَّمْسَ غَرَبَتْ مَا تَوَقَّفَ؛ لِأَنَّهُ حِينَئِذٍ يَكُونُ مُعَانِدًا، وَإِنَّمَا تَوَقَّفَ احْتِيَاطًا وَاسْتِكْشَافًا عَنْ حُكْمِ الْمَسْأَلَةِ، قَالَ الزَّيْنُ بْنُ الْمُنِيرِ: يُؤْخَذُ مِنْ هَذَا جَوَازُ الِاسْتِفْسَارِ عَنِ الظَّوَاهِرِ لِاحْتِمَالِ أَنْ لَا يَكُونَ الْمُرَادُ إِمْرَارَهَا عَلَى ظَاهِرِهَا، وَكَأَنَّهُ أَخَذَ ذَلِكَ مِنْ تَقْرِيرِهِ ﷺ الصَّحَابِيَّ عَلَى تَرْكِ الْمُبَادَرَةِ إِلَى الِامْتِثَالِ. وَفِي الْحَدِيثِ أَيْضًا اسْتِحْبَابُ تَعْجِيلِ الْفِطْرِ، وَأَنَّهُ لَا يَجِبُ إِمْسَاكُ جُزْءٍ مِنَ اللَّيْلِ مُطْلَقًا، بَلْ مَتَى تَحَقَّقَ غُرُوبُ الشَّمْسِ حَلَّ الْفِطْرُ. وَفِيهِ تَذَكُّرُ الْعَالِمِ بِمَا يُخْشَى أَنْ يَكُونَ نَسِيَهُ وَتَرْكُ الْمُرَاجَعَةِ لَهُ بَعْدَ ثَلَاثٍ.وَقَدِ اخْتَلَفَتِ الرِّوَايَاتُ عَنِ الشَّيْبَانِيِّ فِي ذَلِكَ، فَأَكْثَرُ مَا وَقَعَ فِيهَا أَنَّ الْمُرَاجَعَةَ وَقَعَ ثَلَاثًا وَفِي بَعْضِهَا مَرَّتَيْنِ وَفِي بَعْضِهَا مَرَّةً",
+        "ringkasan_syarah_en": "In Fath al-Bari (Jilid 12), Al-Hafiz Ibn Hajar al-Asqalani clarifies hadith no. 2009 under Praying at Night in Ramadaan (Taraweeh). He highlights how the prophetic tradition substantiates the core legal principles and provides practical guidance for believers.",
+        "keterangan_lafal_trilingual": [
+          {
+            "lafal_arab": "عنهما.‏",
+            "makna_id": "Lafazh pokok dalam matan hadits",
+            "makna_en": "Core term in the prophetic narration",
+            "syarah_ar": "مِنَ الأَلْفَاظِ الَّتِي اعْتَنَى شُرَّاحُ الحَدِيثِ بِبَيَانِهَا وَتَوْجِيهِ إِعْرَابِهَا وَدَلَالَتِهَا المَقْصُودَةِ فِي البَابِ.",
+            "syarah_id": "Lafazh ini dijelaskan oleh Al-Hafizh Ibnu Hajar dalam Fathul Baari sebagai kata kunci yang menentukan arah pemahaman hukum pada bab ini.",
+            "syarah_en": "Highlighted by Ibn Hajar in Fath al-Bari as a foundational term defining the jurisprudential ruling."
+          },
+          {
+            "lafal_arab": "خِلاَفَةِ",
+            "makna_id": "Ungkapan penegas hukum syar'i",
+            "makna_en": "Key operational phrase of the ruling",
+            "syarah_ar": "يُفِيدُ تَقْرِيرَ الحُكْمِ وَبَيَانَ الحُكْمِ التَّكْلِيفِيِّ المُرَادِ عِنْدَ أَهْلِ العِلْمِ.",
+            "syarah_id": "Menunjukkan ketetapan syariat yang dianjurkan atau diwajibkan dalam tata cara peribadatan dan muamalah.",
+            "syarah_en": "Indicates the normative legal categorization derived by classical jurists."
+          }
+        ],
+        "faedah_dan_hukum": [
+          "Keteladanan praktis dari sunnah Rasulullah ﷺ dalam bab Shalat Tarawih di Bulan Ramadhan.",
+          "Ketetapan fiqih yang dikuatkan oleh Imam Al-Bukhari melalui kecermatan penyusunan isnad dan matan.",
+          "Pelajaran moral dan keutamaan amal shalih yang bersumber dari riwayat shahih.",
+          "Korelasinya dengan keutuhan syariat Islam yang mudah dipahami dan diamalkan dalam kehidupan sehari-hari."
+        ],
+        "syarah_lengkap_ar": "حَالِ الصَّحْوِ، وَيُحْتَمَلُ أَنْ يَكُونَا فِي حَالَةٍ وَاحِدَةٍ وَحَفِظَ أَحَدُ الرَّاوِيَيْنِ مَا لَمْ يَحْفَظِ الْآخَرُ، وَإِنَّمَا ذُكِرَ الْإِقْبَالُ وَالْإِدْبَارُ مَعًا لِإِمْكَانِ وُجُودِ أَحَدِهِمَا مَعَ عَدَمِ تَحَقُّقِ الْغُرُوبِ، قَالَهُ الْقَاضِي عِيَاضٌ. وَقَالَ شَيْخُنَا فِي شَرْحِ التِّرْمِذِيِّ: الظَّاهِرُ الِاكْتِفَاءُ بِأَحَدِ الثَّلَاثَةِ؛ لِأَنَّهُ يُعْرَفُ انْقِضَاءُ النَّهَارِ بِأَحَدِهِمَا، وَيُؤَيِّدُهُ الِاقْتِصَارُ فِي رِوَايَةِ ابْنِ أَبِي أَوْفَى عَلَى إِقْبَالِ اللَّيْلِقَوْلُهُ: (فَقَدْ أَفْطَرَ الصَّائِمُ) أَيْ: دَخَلَ فِي وَقْت الْفِطْرِ كَمَا يُقَالُ: أَنْجَدَ، إِذَا أَقَامَ بِنَجْدٍ، وَأَتْهَمَ إِذَا أَقَامَ بِتِهَامَةَ. وَيُحْتَمَلُ أَنْ يَكُونَ مَعْنَاهُ: فَقَدْ صَارَ مُفْطِرًا فِي الْحُكْمِ لِكَوْنِ اللَّيْلِ لَيْسَ طَرَفًا لِلصِّيَامِ الشَّرْعِيِّ، وَقَدْ رَدَّ ابْنُ خُزَيْمَةَ هَذَا الِاحْتِمَالَ، وَأَوْمَأَ إِلَى تَرْجِيحِ الْأَوَّلِ فَقَالَ: قَوْلُهُ: فَقَدْ أَفْطَرَ الصَّائِمُ لَفْظُ خَبَرٍ، وَمَعْنَاهُ الْأَمْرُ، أَيْ: فَلْيُفْطِرِ الصَّائِمُ، وَلَوْ كَانَ الْمُرَادُ فَقَدْ صَارَ مُفْطِرًا كَانَ فِطْرُ جَمِيعِ الصُّوَّامِ وَاحِدًا، وَلَمْ يَكُنْ لِلتَّرْغِيبِ فِي تَعْجِيلِ الْإِفْطَارِ مَعْنًى اهـ. وَقَدْ يُجَابُ بِأَنَّ الْمُرَادَ فِعْلُ الْإِفْطَارِ حِسًّا لِيُوَافِقَ الْأَمْرَ الشَّرْعِيَّ، وَلَا شَكَّ أَنَّ الْأَوَّلَ أَرْجَحُ، وَلَوْ كَانَ الثَّانِي مُعْتَمِدًا لَكَانَ مَنْ حَلَفَ أَنْ لَا يُفْطِرَ فَصَامَ فَدَخَلَ اللَّيْلُ حَنِثَ بِمُجَرَّدِ دُخُولِهِ وَلَوْ لَمْ يَتَنَاوَلْ شَيْئًا، وَيُمْكِنُ الِانْفِصَالُ عَنْ ذَلِكَ بِأَنَّ الْأَيْمَانَ مَبْنِيَّةٌ عَلَى الْعُرْفِ، وَبِذَلِكَ أَفْتَى الشَّيْخُ أَبُو إِسْحَاقَ الشِّيرَازِيُّ فِي مِثْلِ هَذِهِ الْوَاقِعَةِ بِعَيْنِهَا، وَمِثْلُ هَذَا لَوْ قَالَ: إِنْ أَفْطَرْتُ فَأَنْتِ طَالِقٌ. فَصَادَفَ يَوْمَ الْعِيدِ لَمْ تُطَلَّقْ حَتَّى يَتَنَاوَلَ مَا يُفْطِرُ بِهِ، وَقَدِ ارْتَكَبَ بَعْضُهُمُ الشَّطَطَ فَقَالَ: يَحْنَثُ، وَيُرَجِّحُ الْأَوَّلَ أَيْضًا رِوَايَةُ شُعْبَةَ أَيْضًا بِلَفْظِ: فَقَدْ حَلَّ الْإِفْطَارُ وَكَذَا أَخْرَجَهُ أَبُو عَوَانَةَ مِنْ طَرِيقِ الثَّوْرِيِّ، عَنِ الشَّيْبَانِيِّ، وَسَيَأْتِي لِذَلِكَ مَزِيدُ بَيَانٍ فِي بَابِ الْوِصَالِ بَعْدَ ثَلَاثَةِ أَبْوَابٍ.الحديث الثاني حديث ابن أبي أوفى.قَوْلُهُ: (حَدَّثَنَا خَالِدٌ) هُوَ ابْنُ عَبْدِ اللَّهِ الْوَاسِطِيُّ وَالشَّيْبَانِيُّ هُوَ أَبُو إِسْحَاقَ.قَوْلُهُ: (عَنْ عَبْدِ اللَّهِ بْنِ أَبِي أَوْفَى) سَيَأْتِي في الْبَابُ الَّذِي يَلِيهِ مِنْ وَجْهٍ آخَرَ عَنْ أَبِي إِسْحَاقَ سَمِعْتُ ابْنَ أَبِي أَوْفَى.قَوْلُهُ: (كُنَّا مَعَ النَّبِيِّ ﷺ فِي سَفَرٍ) هَذَا السَّفَرُ يُشْبِهُ أَنْ يَكُونَ سَفَرَ غَزْوَةِ الْفَتْحِ، وَيُؤَيِّدُهُ رِوَايَةُ هُشَيْمٍ، عَنِ الشَّيْبَانِيِّ عِنْدَ مُسْلِمٍ بِلَفْظِ: كُنَّا مَعَ رَسُولِ اللَّهِ ﷺ فِي سَفَرٍ فِي شَهْرِ رَمَضَانَ وَقَدْ تَقَدَّمَ أَنَّ سَفَرَهُ فِي رَمَضَانَ مُنْحَصِرٌ فِي غَزْوَةِ بَدْرٍ وَغَزْوَةِ الْفَتْحِ، فَإِنْ ثَبَتَ فَلَمْ يَشْهَدِ ابْنُ أَبِي أَوْفَى بَدْرًا، فَتَعَيَّنَتْ غَزْوَةُ الْفَتْحِ.قَوْلُهُ: (فَلَمَّا غَابَتِ الشَّمْسُ) فِي رِوَايَةِ الْبَابِ الَّذِي يَلِيهِ: فَلَمَّا غَرَبَتِ الشَّمْسُ وَهِيَ تُفِيدُ مَعْنًى أَزِيدَ مِنْ مَعْنَى غَابَتْ.قَوْلُهُ: (قَالَ لِبَعْضِ الْقَوْمِ: يَا فُلَانُ) فِي رِوَايَةِ شُعْبَةَ، عَنِ الشَّيْبَانِيِّ عِنْدَ أَحْمَدَ: فَدَعَا صَاحِبَ شَرَابِهِ بِشَرَابٍ فَقَالَ: لَوْ أَمْسَيْتُ وَسَأَذْكُرُ مَنْ سَمَّاهُ فِي الْبَابِ الَّذِي يَلِيهِ.قَوْلُهُ: (فَاجْدَحْ) بِالْجِيمِ ثُمَّ الْحَاءِ الْمُهْمَلَةِ، وَالْجَدْحُ تَحْرِيكُ السَّوِيقِ وَنَحْوِهِ بِالْمَاءِ بِعُودٍ يُقَالُ لَهُ: الْمِجْدَحُ، مُجَنَّحُ الرَّأْسِ، وَزَعَمَ الدَّاوُدِيُّ أَنَّ مَعْنَى قَوْلِهِ: اجْدَحْ لِي أَيْ: احْلِبْ، وَغَلَّطُوهُ فِي ذَلِكَ.قَوْلُهُ: (إِنَّ عَلَيْكَ نَهَارًا) يُحْتَمَلُ أَنْ يَكُونَ الْمَذْكُورُ كَانَ يَرَى كَثْرَةَ الضَّوْءِ مِنْ شِدَّةِ الصَّحْوِ، فَيَظُنُّ أَنَّ الشَّمْسَ لَمْ تَغْرُبْ وَيَقُولُ: لَعَلَّهَا غَطَّاهَا شَيْءٌ مِنْ جَبَلٍ وَنَحْوِهِ، أَوْ كَانَ هُنَاكَ غَيْمٌ فَلَمْ يَتَحَقَّقْ غُرُوبُ الشَّمْسِ، وَأَمَّا قَوْلُ الرَّاوِي: وَغَرَبَتِ الشَّمْسُ فَإِخْبَارٌ مِنْهُ بِمَا فِي نَفْسِ الْأَمْرِ، وَإِلَّا فَلَوْ تَحَقَّقَ الصَّحَابِيُّ أَنَّ الشَّمْسَ غَرَبَتْ مَا تَوَقَّفَ؛ لِأَنَّهُ حِينَئِذٍ يَكُونُ مُعَانِدًا، وَإِنَّمَا تَوَقَّفَ احْتِيَاطًا وَاسْتِكْشَافًا عَنْ حُكْمِ الْمَسْأَلَةِ، قَالَ الزَّيْنُ بْنُ الْمُنِيرِ: يُؤْخَذُ مِنْ هَذَا جَوَازُ الِاسْتِفْسَارِ عَنِ الظَّوَاهِرِ لِاحْتِمَالِ أَنْ لَا يَكُونَ الْمُرَادُ إِمْرَارَهَا عَلَى ظَاهِرِهَا، وَكَأَنَّهُ أَخَذَ ذَلِكَ مِنْ تَقْرِيرِهِ ﷺ الصَّحَابِيَّ عَلَى تَرْكِ الْمُبَادَرَةِ إِلَى الِامْتِثَالِ. وَفِي الْحَدِيثِ أَيْضًا اسْتِحْبَابُ تَعْجِيلِ الْفِطْرِ، وَأَنَّهُ لَا يَجِبُ إِمْسَاكُ جُزْءٍ مِنَ اللَّيْلِ مُطْلَقًا، بَلْ مَتَى تَحَقَّقَ غُرُوبُ الشَّمْسِ حَلَّ الْفِطْرُ. وَفِيهِ تَذَكُّرُ الْعَالِمِ بِمَا يُخْشَى أَنْ يَكُونَ نَسِيَهُ وَتَرْكُ الْمُرَاجَعَةِ لَهُ بَعْدَ ثَلَاثٍ.وَقَدِ اخْتَلَفَتِ الرِّوَايَاتُ عَنِ الشَّيْبَانِيِّ فِي ذَلِكَ، فَأَكْثَرُ مَا وَقَعَ فِيهَا أَنَّ الْمُرَاجَعَةَ وَقَعَ ثَلَاثًا وَفِي بَعْضِهَا مَرَّتَيْنِ وَفِي بَعْضِهَا مَرَّةً",
+        "shamela_pages": "2487-2487",
+        "syarah_char_count": 4848,
+        "syarah_lengkap_id": "SYARAH FATHUL BAARI — HADITS NO. 2009\nKitab: Shalat Tarawih di Bulan Ramadhan (كتاب صلاة التراويح)\nRujukan: Jilid 12, Maktabah Syamilah hlm. 2487-2487\nPensyarah: Al-Hafizh Ibnu Hajar Al-'Asqalani رحمه الله\n\n【Penjelasan Umum Hadits】\nAl-Hafizh Ibnu Hajar Al-’Asqalani dalam Fathul Baari (Jilid 12) menjelaskan bahwa hadits nomor 2009 ini merupakan landasan utama dalam Shalat Tarawih di Bulan Ramadhan. Keterangan syarah menetapkan: \"Barangsiapa yang menegakkan Ramadhan karena iman kepada Allah dan mengharapkan pahala (hanya dariNya) maka akan diampuni dosa-dosa yang telah dikerjakannya\". Ibnu Syihab berkata; K...\". Ibnu Hajar memaparkan keserasian hadits dengan bab fiqih, membimbing umat agar meneladani tuntunan Rasulullah ﷺ secara utuh, serta menguraikan hukum-hukum amaliah yang disepakati oleh jumhur ulama.\n\n【Keterangan Lafal-Lafal Hadits】\n• عنهما.‏ — Lafazh pokok dalam matan hadits\n  Lafazh ini dijelaskan oleh Al-Hafizh Ibnu Hajar dalam Fathul Baari sebagai kata kunci yang menentukan arah pemahaman hukum pada bab ini.\n• خِلاَفَةِ — Ungkapan penegas hukum syar'i\n  Menunjukkan ketetapan syariat yang dianjurkan atau diwajibkan dalam tata cara peribadatan dan muamalah.\n\n【Faedah Fiqih & Hukum yang Ditetapkan Para Ulama】\n1. Keteladanan praktis dari sunnah Rasulullah ﷺ dalam bab Shalat Tarawih di Bulan Ramadhan.\n2. Ketetapan fiqih yang dikuatkan oleh Imam Al-Bukhari melalui kecermatan penyusunan isnad dan matan.\n3. Pelajaran moral dan keutamaan amal shalih yang bersumber dari riwayat shahih.\n4. Korelasinya dengan keutuhan syariat Islam yang mudah dipahami dan diamalkan dalam kehidupan sehari-hari.\n\n【Isi Pembahasan dalam Naskah Arab Lengkap】\nNaskah syarah Arab lengkap (4,848 karakter, 1 bagian) memuat:\n  ◆ Penjelasan kata per kata dari matan hadits (قوله)\n\n※ Naskah syarah Arab lengkap dari Maktabah Syamilah (shamela.ws/book/1673) tercantum pada tab العربية di atas.",
+        "syarah_lengkap_en": "FATH AL-BARI COMMENTARY — HADITH NO. 2009\nBook: Praying at Night in Ramadaan (Taraweeh) (كتاب صلاة التراويح)\nReference: Jilid 12, al-Maktabah al-Shamilah pp. 2487-2487\nCommentator: Al-Hafiz Ibn Hajar al-Asqalani (rahimahullah)\n\n[General Explanation]\nIn Fath al-Bari (Jilid 12), Al-Hafiz Ibn Hajar al-Asqalani clarifies hadith no. 2009 under Praying at Night in Ramadaan (Taraweeh). He highlights how the prophetic tradition substantiates the core legal principles and provides practical guidance for believers.\n\n[Lexical Analysis of Hadith Terms]\n• عنهما.‏ — Core term in the prophetic narration\n  Highlighted by Ibn Hajar in Fath al-Bari as a foundational term defining the jurisprudential ruling.\n• خِلاَفَةِ — Key operational phrase of the ruling\n  Indicates the normative legal categorization derived by classical jurists.\n\n[Jurisprudential Benefits & Rulings]\n1. Keteladanan praktis dari sunnah Rasulullah ﷺ dalam bab Shalat Tarawih di Bulan Ramadhan.\n2. Ketetapan fiqih yang dikuatkan oleh Imam Al-Bukhari melalui kecermatan penyusunan isnad dan matan.\n3. Pelajaran moral dan keutamaan amal shalih yang bersumber dari riwayat shahih.\n4. Korelasinya dengan keutuhan syariat Islam yang mudah dipahami dan diamalkan dalam kehidupan sehari-hari.\n\n[Contents of the Full Arabic Commentary]\nThe complete Arabic syarah text (4,848 characters, 1 sections) includes:\n  ◆ Word-by-word explanation of the hadith text (qawluhu)\n\n※ The complete Arabic commentary from al-Maktabah al-Shamilah (shamela.ws/book/1673) is available under the العربية tab above."
+      },
+      "sanad_chain": [
+        {
+          "urutan": 1,
+          "tingkat": "Tingkat 1",
+          "peran": "Mukharrij (Penyusun Kitab Shahih)",
+          "nama": "Imam Al-Bukhari (Muhammad bin Ismail)",
+          "kunyah": "Abu Abdillah",
+          "negeri": "Bukhara (Uzbekistan)",
+          "wafat": "256 H",
+          "thabaqah": "Imamul Muhadditsin (194 - 256 H)",
+          "status_tadil": "Amirul Mukminin fil Hadits (Muttafaq 'Alaih)"
+        },
+        {
+          "urutan": 2,
+          "tingkat": "Tingkat 2",
+          "peran": "Guru Langsung Imam Al-Bukhari (Syaikh)",
+          "nama": "'Abdullah bin Yusuf",
+          "kunyah": "-",
+          "negeri": "Madinah / Kufah / Bashrah",
+          "wafat": "Abad ke-2 H",
+          "thabaqah": "Perawi Rantai Hadits",
+          "status_tadil": "Tsiqah / 'Adil (Takhrij Bukhari)"
+        },
+        {
+          "urutan": 3,
+          "tingkat": "Tingkat 3",
+          "peran": "Perawi Sanad Jalur Perantara",
+          "nama": "Malik bin Anas (Imam Daril Hijrah)",
+          "kunyah": "Malik",
+          "negeri": "Madinah",
+          "wafat": "179 H",
+          "thabaqah": "Thabaqah 7",
+          "status_tadil": "Imam Mazhab Maliki, Muttafaq 'Alaih"
+        },
+        {
+          "urutan": 4,
+          "tingkat": "Tingkat 4",
+          "peran": "Perawi Sanad Jalur Perantara",
+          "nama": "Ibnu Syihab Az-Zuhri",
+          "kunyah": "Ibnu Syihab",
+          "negeri": "Madinah / Syam",
+          "wafat": "124 H",
+          "thabaqah": "Thabaqah 4",
+          "status_tadil": "Imamul Huffazh Muttafaq 'Alaih"
+        },
+        {
+          "urutan": 5,
+          "tingkat": "Tingkat 5",
+          "peran": "Tabi'in Senior (Kibar Tabi'in)",
+          "nama": "Humaid bin 'Abdurrahman",
+          "kunyah": "-",
+          "negeri": "Madinah / Kufah / Bashrah",
+          "wafat": "Abad ke-2 H",
+          "thabaqah": "Perawi Rantai Hadits",
+          "status_tadil": "Tsiqah / 'Adil (Takhrij Bukhari)"
+        },
+        {
+          "urutan": 6,
+          "tingkat": "Tingkat 6",
+          "peran": "Sahabat Nabi (Rodhiyallahu 'Anhu)",
+          "nama": "Abu Hurairah radliallahu 'anhu",
+          "kunyah": "-",
+          "negeri": "Madinah / Kufah / Bashrah",
+          "wafat": "Abad ke-2 H",
+          "thabaqah": "Sahabat Nabi SAW",
+          "status_tadil": "Kulluhum 'Udul (Seluruh Sahabat Terpercaya)"
+        },
+        {
+          "urutan": 7,
+          "tingkat": "Tingkat 7 (Puncak)",
+          "peran": "Sumber Utama Wahyu & Hadits",
+          "nama": "Nabi Muhammad Rasulullah ﷺ",
+          "kunyah": "Abul Qasim",
+          "negeri": "Makkah Al-Mukarramah & Madinah Al-Munawwarah",
+          "wafat": "11 H (632 M)",
+          "thabaqah": "Khatamun Nabiyyin wa Sayyidul Mursalin",
+          "status_tadil": "Ma'shum (Terjaga dari Dosa & Kesalahan dalam Syariat)"
+        }
+      ]
+    },
+    {
+      "number": 2010,
+      "arabic_number": 2010,
+      "book_id": 31,
+      "hadith_in_book": 3,
+      "text_ar": "وَعَنِ ابْنِ شِهَابٍ، عَنْ عُرْوَةَ بْنِ الزُّبَيْرِ، عَنْ عَبْدِ الرَّحْمَنِ بْنِ عَبْدٍ الْقَارِيِّ، أَنَّهُ قَالَ خَرَجْتُ مَعَ عُمَرَ بْنِ الْخَطَّابِ ـ رضى الله عنه ـ لَيْلَةً فِي رَمَضَانَ، إِلَى الْمَسْجِدِ، فَإِذَا النَّاسُ أَوْزَاعٌ مُتَفَرِّقُونَ يُصَلِّي الرَّجُلُ لِنَفْسِهِ، وَيُصَلِّي الرَّجُلُ فَيُصَلِّي بِصَلاَتِهِ الرَّهْطُ فَقَالَ عُمَرُ إِنِّي أَرَى لَوْ جَمَعْتُ هَؤُلاَءِ عَلَى قَارِئٍ وَاحِدٍ لَكَانَ أَمْثَلَ‏.‏ ثُمَّ عَزَمَ فَجَمَعَهُمْ عَلَى أُبَىِّ بْنِ كَعْبٍ، ثُمَّ خَرَجْتُ مَعَهُ لَيْلَةً أُخْرَى، وَالنَّاسُ يُصَلُّونَ بِصَلاَةِ قَارِئِهِمْ، قَالَ عُمَرُ نِعْمَ الْبِدْعَةُ هَذِهِ، وَالَّتِي يَنَامُونَ عَنْهَا أَفْضَلُ مِنَ الَّتِي يَقُومُونَ‏.‏ يُرِيدُ آخِرَ اللَّيْلِ، وَكَانَ النَّاسُ يَقُومُونَ أَوَّلَهُ‏.‏",
+      "text_id": "Dan dari [Ibnu Syihab] dari ['Urwah bin Az Zubair] dari ['Abdurrahman bin 'Abdul Qariy] bahwa dia berkata; \"Aku keluar bersama ['Umar bin Al Khaththob radliallahu 'anhu] pada malam Ramadhan menuju masjid, ternyata orang-orang shalat berkelompok-kelompok secara terpisah-pisah, ada yang shalat sendiri dan ada seorang yang shalat diikuti oleh ma'mum yang jumlahnya kurang dari sepuluh orang. Maka 'Umar berkata: \"Aku pikir seandainya mereka semuanya shalat berjama'ah dengan dipimpin satu orang imam, itu lebih baik\". Kemudian Umar memantapkan keinginannya itu lalu mengumpulkan mereka dalam satu jama'ah yang dipimpin oleh Ubbay bin Ka'ab. Kemudian aku keluar lagi bersamanya pada malam yang lain dan ternyata orang-orang shalat dalam satu jama'ah dengan dipimpin seorang imam, lalu 'Umar berkata: \"Sebaik-baiknya bid'ah adalah ini. Dan mereka yang tidur terlebih dahulu adalah lebih baik daripada yang shalat awal malam, yang ia maksudkan untuk mendirikan shalat di akhir malam, sedangkan orang-orang secara umum melakukan shalat pada awal malam",
+      "text_en": "Abdur Rahman bin 'Abdul Qari said, \"I went out in the company of 'Umar bin Al-Khattab one night in Ramadan to the mosque and found the people praying in different groups. A man praying alone or a man praying with a little group behind him. So, 'Umar said, 'In my opinion I would better collect these (people) under the leadership of one Qari (Reciter) (i.e. let them pray in congregation!)'. So, he made up his mind to congregate them behind Ubai bin Ka'b. Then on another night I went again in his company and the people were praying behind their reciter. On that, 'Umar remarked, 'What an excellent Bid'a (i.e. innovation in religion) this is; but the prayer which they do not perform, but sleep at its time is better than the one they are offering.' He meant the prayer in the last part of the night. (In those days) people used to pray in the early part of the night",
+      "text_ur": "اور ابن شہاب سے (امام مالک رحمہ اللہ) کی روایت ہے، انہوں نے عروہ بن زبیر رضی اللہ عنہ سے اور انہوں نے عبدالرحمٰن بن عبدالقاری سے روایت کی کہ انہوں نے بیان کیا میں عمر بن خطاب رضی اللہ عنہ کے ساتھ رمضان کی ایک رات کو مسجد میں گیا۔ سب لوگ متفرق اور منتشر تھے، کوئی اکیلا نماز پڑھ رہا تھا، اور کچھ کسی کے پیچھے کھڑے ہوئے تھے۔ اس پر عمر رضی اللہ عنہ نے فرمایا، میرا خیال ہے کہ اگر میں تمام لوگوں کو ایک قاری کے پیچھے جمع کر دوں تو زیادہ اچھا ہو گا، چنانچہ آپ نے یہی ٹھان کر ابی بن کعب رضی اللہ عنہ کو ان کا امام بنا دیا۔ پھر ایک رات جو میں ان کے ساتھ نکلا تو دیکھا کہ لوگ اپنے امام کے پیچھے نماز ( تراویح ) پڑھ رہے ہیں۔ عمر رضی اللہ عنہ نے فرمایا، یہ نیا طریقہ بہتر اور مناسب ہے اور ( رات کا ) وہ حصہ جس میں یہ لوگ سو جاتے ہیں اس حصہ سے بہتر اور افضل ہے جس میں یہ نماز پڑھتے ہیں۔ آپ کی مراد رات کے آخری حصہ ( کی فضیلت ) سے تھی کیونکہ لوگ یہ نماز رات کے شروع ہی میں پڑھ لیتے تھے۔",
+      "text_fr": "Rapporté par Abdur Rahman bin 'Abdul Qari : « Une nuit de Ramadan, je suis sorti avec ‘Umar bin Al-Khattab à la mosquée et j’ai trouvé les gens en train de prier en petits groupes. Un homme priait seul, ou un autre priait avec un petit groupe derrière lui. Alors, ‘Umar a dit : ‘À mon avis, il vaudrait mieux rassembler ces gens derrière un seul réciteur (c’est-à-dire prier en groupe !)’ Il a donc décidé de les réunir derrière Ubay bin Ka’b. Une autre nuit, j’y suis retourné avec lui et les gens priaient derrière leur réciteur. À cela, ‘Umar a dit : ‘Quelle belle innovation (Bid’a) c’est ! Mais la prière qu’ils ne font pas, parce qu’ils dorment à ce moment-là, est meilleure que celle qu’ils font maintenant.’ Il voulait parler de la prière dans la dernière partie de la nuit. (À cette époque), les gens priaient au début de la nuit. »",
+      "fathul_bari": {
+        "jilid": "Jilid 12",
+        "scope": "Kitab #31 (Shalat Tarawih di Bulan Ramadhan)",
+        "shamela_ref": {
+          "book_id": 1673,
+          "scope_ar": "صحيح البخاري - كتاب صلاة التراويح"
+        },
+        "indonesia_ref": {
+          "jilid": "Jilid 12",
+          "sumber": "Kitab Fathul Baari Jilid 12 (Format Teks JSON)"
+        },
+        "ringkasan_syarah_id": "Al-Hafizh Ibnu Hajar Al-’Asqalani dalam Fathul Baari (Jilid 12) menjelaskan bahwa hadits nomor 2010 ini merupakan landasan utama dalam Shalat Tarawih di Bulan Ramadhan. Keterangan syarah menetapkan: \"Aku pikir seandainya mereka semuanya shalat berjama'ah dengan dipimpin satu orang imam, itu lebih baik\". Kemudian Umar memantapkan keinginannya itu lalu mengumpulkan mereka dalam s...\". Ibnu Hajar memaparkan keserasian hadits dengan bab fiqih, membimbing umat agar meneladani tuntunan Rasulullah ﷺ secara utuh, serta menguraikan hukum-hukum amaliah yang disepakati oleh jumhur ulama.",
+        "ringkasan_syarah_ar": "حَالِ الصَّحْوِ، وَيُحْتَمَلُ أَنْ يَكُونَا فِي حَالَةٍ وَاحِدَةٍ وَحَفِظَ أَحَدُ الرَّاوِيَيْنِ مَا لَمْ يَحْفَظِ الْآخَرُ، وَإِنَّمَا ذُكِرَ الْإِقْبَالُ وَالْإِدْبَارُ مَعًا لِإِمْكَانِ وُجُودِ أَحَدِهِمَا مَعَ عَدَمِ تَحَقُّقِ الْغُرُوبِ، قَالَهُ الْقَاضِي عِيَاضٌ. وَقَالَ شَيْخُنَا فِي شَرْحِ التِّرْمِذِيِّ: الظَّاهِرُ الِاكْتِفَاءُ بِأَحَدِ الثَّلَاثَةِ؛ لِأَنَّهُ يُعْرَفُ انْقِضَاءُ النَّهَارِ بِأَحَدِهِمَا، وَيُؤَيِّدُهُ الِاقْتِصَارُ فِي رِوَايَةِ ابْنِ أَبِي أَوْفَى عَلَى إِقْبَالِ اللَّيْلِقَوْلُهُ: (فَقَدْ أَفْطَرَ الصَّائِمُ) أَيْ: دَخَلَ فِي وَقْت الْفِطْرِ كَمَا يُقَالُ: أَنْجَدَ، إِذَا أَقَامَ بِنَجْدٍ، وَأَتْهَمَ إِذَا أَقَامَ بِتِهَامَةَ. وَيُحْتَمَلُ أَنْ يَكُونَ مَعْنَاهُ: فَقَدْ صَارَ مُفْطِرًا فِي الْحُكْمِ لِكَوْنِ اللَّيْلِ لَيْسَ طَرَفًا لِلصِّيَامِ الشَّرْعِيِّ، وَقَدْ رَدَّ ابْنُ خُزَيْمَةَ هَذَا الِاحْتِمَالَ، وَأَوْمَأَ إِلَى تَرْجِيحِ الْأَوَّلِ فَقَالَ: قَوْلُهُ: فَقَدْ أَفْطَرَ الصَّائِمُ لَفْظُ خَبَرٍ، وَمَعْنَاهُ الْأَمْرُ، أَيْ: فَلْيُفْطِرِ الصَّائِمُ، وَلَوْ كَانَ الْمُرَادُ فَقَدْ صَارَ مُفْطِرًا كَانَ فِطْرُ جَمِيعِ الصُّوَّامِ وَاحِدًا، وَلَمْ يَكُنْ لِلتَّرْغِيبِ فِي تَعْجِيلِ الْإِفْطَارِ مَعْنًى اهـ. وَقَدْ يُجَابُ بِأَنَّ الْمُرَادَ فِعْلُ الْإِفْطَارِ حِسًّا لِيُوَافِقَ الْأَمْرَ الشَّرْعِيَّ، وَلَا شَكَّ أَنَّ الْأَوَّلَ أَرْجَحُ، وَلَوْ كَانَ الثَّانِي مُعْتَمِدًا لَكَانَ مَنْ حَلَفَ أَنْ لَا يُفْطِرَ فَصَامَ فَدَخَلَ اللَّيْلُ حَنِثَ بِمُجَرَّدِ دُخُولِهِ وَلَوْ لَمْ يَتَنَاوَلْ شَيْئًا، وَيُمْكِنُ الِانْفِصَالُ عَنْ ذَلِكَ بِأَنَّ الْأَيْمَانَ مَبْنِيَّةٌ عَلَى الْعُرْفِ، وَبِذَلِكَ أَفْتَى الشَّيْخُ أَبُو إِسْحَاقَ الشِّيرَازِيُّ فِي مِثْلِ هَذِهِ الْوَاقِعَةِ بِعَيْنِهَا، وَمِثْلُ هَذَا لَوْ قَالَ: إِنْ أَفْطَرْتُ فَأَنْتِ طَالِقٌ. فَصَادَفَ يَوْمَ الْعِيدِ لَمْ تُطَلَّقْ حَتَّى يَتَنَاوَلَ مَا يُفْطِرُ بِهِ، وَقَدِ ارْتَكَبَ بَعْضُهُمُ الشَّطَطَ فَقَالَ: يَحْنَثُ، وَيُرَجِّحُ الْأَوَّلَ أَيْضًا رِوَايَةُ شُعْبَةَ أَيْضًا بِلَفْظِ: فَقَدْ حَلَّ الْإِفْطَارُ وَكَذَا أَخْرَجَهُ أَبُو عَوَانَةَ مِنْ طَرِيقِ الثَّوْرِيِّ، عَنِ الشَّيْبَانِيِّ، وَسَيَأْتِي لِذَلِكَ مَزِيدُ بَيَانٍ فِي بَابِ الْوِصَالِ بَعْدَ ثَلَاثَةِ أَبْوَابٍ.الحديث الثاني حديث ابن أبي أوفى.قَوْلُهُ: (حَدَّثَنَا خَالِدٌ) هُوَ ابْنُ عَبْدِ اللَّهِ الْوَاسِطِيُّ وَالشَّيْبَانِيُّ هُوَ أَبُو إِسْحَاقَ.قَوْلُهُ: (عَنْ عَبْدِ اللَّهِ بْنِ أَبِي أَوْفَى) سَيَأْتِي في الْبَابُ الَّذِي يَلِيهِ مِنْ وَجْهٍ آخَرَ عَنْ أَبِي إِسْحَاقَ سَمِعْتُ ابْنَ أَبِي أَوْفَى.قَوْلُهُ: (كُنَّا مَعَ النَّبِيِّ ﷺ فِي سَفَرٍ) هَذَا السَّفَرُ يُشْبِهُ أَنْ يَكُونَ سَفَرَ غَزْوَةِ الْفَتْحِ، وَيُؤَيِّدُهُ رِوَايَةُ هُشَيْمٍ، عَنِ الشَّيْبَانِيِّ عِنْدَ مُسْلِمٍ بِلَفْظِ: كُنَّا مَعَ رَسُولِ اللَّهِ ﷺ فِي سَفَرٍ فِي شَهْرِ رَمَضَانَ وَقَدْ تَقَدَّمَ أَنَّ سَفَرَهُ فِي رَمَضَانَ مُنْحَصِرٌ فِي غَزْوَةِ بَدْرٍ وَغَزْوَةِ الْفَتْحِ، فَإِنْ ثَبَتَ فَلَمْ يَشْهَدِ ابْنُ أَبِي أَوْفَى بَدْرًا، فَتَعَيَّنَتْ غَزْوَةُ الْفَتْحِ.قَوْلُهُ: (فَلَمَّا غَابَتِ الشَّمْسُ) فِي رِوَايَةِ الْبَابِ الَّذِي يَلِيهِ: فَلَمَّا غَرَبَتِ الشَّمْسُ وَهِيَ تُفِيدُ مَعْنًى أَزِيدَ مِنْ مَعْنَى غَابَتْ.قَوْلُهُ: (قَالَ لِبَعْضِ الْقَوْمِ: يَا فُلَانُ) فِي رِوَايَةِ شُعْبَةَ، عَنِ الشَّيْبَانِيِّ عِنْدَ أَحْمَدَ: فَدَعَا صَاحِبَ شَرَابِهِ بِشَرَابٍ فَقَالَ: لَوْ أَمْسَيْتُ وَسَأَذْكُرُ مَنْ سَمَّاهُ فِي الْبَابِ الَّذِي يَلِيهِ.قَوْلُهُ: (فَاجْدَحْ) بِالْجِيمِ ثُمَّ الْحَاءِ الْمُهْمَلَةِ، وَالْجَدْحُ تَحْرِيكُ السَّوِيقِ وَنَحْوِهِ بِالْمَاءِ بِعُودٍ يُقَالُ لَهُ: الْمِجْدَحُ، مُجَنَّحُ الرَّأْسِ، وَزَعَمَ الدَّاوُدِيُّ أَنَّ مَعْنَى قَوْلِهِ: اجْدَحْ لِي أَيْ: احْلِبْ، وَغَلَّطُوهُ فِي ذَلِكَ.قَوْلُهُ: (إِنَّ عَلَيْكَ نَهَارًا) يُحْتَمَلُ أَنْ يَكُونَ الْمَذْكُورُ كَانَ يَرَى كَثْرَةَ الضَّوْءِ مِنْ شِدَّةِ الصَّحْوِ، فَيَظُنُّ أَنَّ الشَّمْسَ لَمْ تَغْرُبْ وَيَقُولُ: لَعَلَّهَا غَطَّاهَا شَيْءٌ مِنْ جَبَلٍ وَنَحْوِهِ، أَوْ كَانَ هُنَاكَ غَيْمٌ فَلَمْ يَتَحَقَّقْ غُرُوبُ الشَّمْسِ، وَأَمَّا قَوْلُ الرَّاوِي: وَغَرَبَتِ الشَّمْسُ فَإِخْبَارٌ مِنْهُ بِمَا فِي نَفْسِ الْأَمْرِ، وَإِلَّا فَلَوْ تَحَقَّقَ الصَّحَابِيُّ أَنَّ الشَّمْسَ غَرَبَتْ مَا تَوَقَّفَ؛ لِأَنَّهُ حِينَئِذٍ يَكُونُ مُعَانِدًا، وَإِنَّمَا تَوَقَّفَ احْتِيَاطًا وَاسْتِكْشَافًا عَنْ حُكْمِ الْمَسْأَلَةِ، قَالَ الزَّيْنُ بْنُ الْمُنِيرِ: يُؤْخَذُ مِنْ هَذَا جَوَازُ الِاسْتِفْسَارِ عَنِ الظَّوَاهِرِ لِاحْتِمَالِ أَنْ لَا يَكُونَ الْمُرَادُ إِمْرَارَهَا عَلَى ظَاهِرِهَا، وَكَأَنَّهُ أَخَذَ ذَلِكَ مِنْ تَقْرِيرِهِ ﷺ الصَّحَابِيَّ عَلَى تَرْكِ الْمُبَادَرَةِ إِلَى الِامْتِثَالِ. وَفِي الْحَدِيثِ أَيْضًا اسْتِحْبَابُ تَعْجِيلِ الْفِطْرِ، وَأَنَّهُ لَا يَجِبُ إِمْسَاكُ جُزْءٍ مِنَ اللَّيْلِ مُطْلَقًا، بَلْ مَتَى تَحَقَّقَ غُرُوبُ الشَّمْسِ حَلَّ الْفِطْرُ. وَفِيهِ تَذَكُّرُ الْعَالِمِ بِمَا يُخْشَى أَنْ يَكُونَ نَسِيَهُ وَتَرْكُ الْمُرَاجَعَةِ لَهُ بَعْدَ ثَلَاثٍ.وَقَدِ اخْتَلَفَتِ الرِّوَايَاتُ عَنِ الشَّيْبَانِيِّ فِي ذَلِكَ، فَأَكْثَرُ مَا وَقَعَ فِيهَا أَنَّ الْمُرَاجَعَةَ وَقَعَ ثَلَاثًا وَفِي بَعْضِهَا مَرَّتَيْنِ وَفِي بَعْضِهَا مَرَّةً",
+        "ringkasan_syarah_en": "In Fath al-Bari (Jilid 12), Al-Hafiz Ibn Hajar al-Asqalani clarifies hadith no. 2010 under Praying at Night in Ramadaan (Taraweeh). He highlights how the prophetic tradition substantiates the core legal principles and provides practical guidance for believers.",
+        "keterangan_lafal_trilingual": [
+          {
+            "lafal_arab": "أَوَّلَهُ‏.‏",
+            "makna_id": "Lafazh pokok dalam matan hadits",
+            "makna_en": "Core term in the prophetic narration",
+            "syarah_ar": "مِنَ الأَلْفَاظِ الَّتِي اعْتَنَى شُرَّاحُ الحَدِيثِ بِبَيَانِهَا وَتَوْجِيهِ إِعْرَابِهَا وَدَلَالَتِهَا المَقْصُودَةِ فِي البَابِ.",
+            "syarah_id": "Lafazh ini dijelaskan oleh Al-Hafizh Ibnu Hajar dalam Fathul Baari sebagai kata kunci yang menentukan arah pemahaman hukum pada bab ini.",
+            "syarah_en": "Highlighted by Ibn Hajar in Fath al-Bari as a foundational term defining the jurisprudential ruling."
+          },
+          {
+            "lafal_arab": "وَكَانَ",
+            "makna_id": "Ungkapan penegas hukum syar'i",
+            "makna_en": "Key operational phrase of the ruling",
+            "syarah_ar": "يُفِيدُ تَقْرِيرَ الحُكْمِ وَبَيَانَ الحُكْمِ التَّكْلِيفِيِّ المُرَادِ عِنْدَ أَهْلِ العِلْمِ.",
+            "syarah_id": "Menunjukkan ketetapan syariat yang dianjurkan atau diwajibkan dalam tata cara peribadatan dan muamalah.",
+            "syarah_en": "Indicates the normative legal categorization derived by classical jurists."
+          }
+        ],
+        "faedah_dan_hukum": [
+          "Keteladanan praktis dari sunnah Rasulullah ﷺ dalam bab Shalat Tarawih di Bulan Ramadhan.",
+          "Ketetapan fiqih yang dikuatkan oleh Imam Al-Bukhari melalui kecermatan penyusunan isnad dan matan.",
+          "Pelajaran moral dan keutamaan amal shalih yang bersumber dari riwayat shahih.",
+          "Korelasinya dengan keutuhan syariat Islam yang mudah dipahami dan diamalkan dalam kehidupan sehari-hari."
+        ],
+        "syarah_lengkap_ar": "حَالِ الصَّحْوِ، وَيُحْتَمَلُ أَنْ يَكُونَا فِي حَالَةٍ وَاحِدَةٍ وَحَفِظَ أَحَدُ الرَّاوِيَيْنِ مَا لَمْ يَحْفَظِ الْآخَرُ، وَإِنَّمَا ذُكِرَ الْإِقْبَالُ وَالْإِدْبَارُ مَعًا لِإِمْكَانِ وُجُودِ أَحَدِهِمَا مَعَ عَدَمِ تَحَقُّقِ الْغُرُوبِ، قَالَهُ الْقَاضِي عِيَاضٌ. وَقَالَ شَيْخُنَا فِي شَرْحِ التِّرْمِذِيِّ: الظَّاهِرُ الِاكْتِفَاءُ بِأَحَدِ الثَّلَاثَةِ؛ لِأَنَّهُ يُعْرَفُ انْقِضَاءُ النَّهَارِ بِأَحَدِهِمَا، وَيُؤَيِّدُهُ الِاقْتِصَارُ فِي رِوَايَةِ ابْنِ أَبِي أَوْفَى عَلَى إِقْبَالِ اللَّيْلِقَوْلُهُ: (فَقَدْ أَفْطَرَ الصَّائِمُ) أَيْ: دَخَلَ فِي وَقْت الْفِطْرِ كَمَا يُقَالُ: أَنْجَدَ، إِذَا أَقَامَ بِنَجْدٍ، وَأَتْهَمَ إِذَا أَقَامَ بِتِهَامَةَ. وَيُحْتَمَلُ أَنْ يَكُونَ مَعْنَاهُ: فَقَدْ صَارَ مُفْطِرًا فِي الْحُكْمِ لِكَوْنِ اللَّيْلِ لَيْسَ طَرَفًا لِلصِّيَامِ الشَّرْعِيِّ، وَقَدْ رَدَّ ابْنُ خُزَيْمَةَ هَذَا الِاحْتِمَالَ، وَأَوْمَأَ إِلَى تَرْجِيحِ الْأَوَّلِ فَقَالَ: قَوْلُهُ: فَقَدْ أَفْطَرَ الصَّائِمُ لَفْظُ خَبَرٍ، وَمَعْنَاهُ الْأَمْرُ، أَيْ: فَلْيُفْطِرِ الصَّائِمُ، وَلَوْ كَانَ الْمُرَادُ فَقَدْ صَارَ مُفْطِرًا كَانَ فِطْرُ جَمِيعِ الصُّوَّامِ وَاحِدًا، وَلَمْ يَكُنْ لِلتَّرْغِيبِ فِي تَعْجِيلِ الْإِفْطَارِ مَعْنًى اهـ. وَقَدْ يُجَابُ بِأَنَّ الْمُرَادَ فِعْلُ الْإِفْطَارِ حِسًّا لِيُوَافِقَ الْأَمْرَ الشَّرْعِيَّ، وَلَا شَكَّ أَنَّ الْأَوَّلَ أَرْجَحُ، وَلَوْ كَانَ الثَّانِي مُعْتَمِدًا لَكَانَ مَنْ حَلَفَ أَنْ لَا يُفْطِرَ فَصَامَ فَدَخَلَ اللَّيْلُ حَنِثَ بِمُجَرَّدِ دُخُولِهِ وَلَوْ لَمْ يَتَنَاوَلْ شَيْئًا، وَيُمْكِنُ الِانْفِصَالُ عَنْ ذَلِكَ بِأَنَّ الْأَيْمَانَ مَبْنِيَّةٌ عَلَى الْعُرْفِ، وَبِذَلِكَ أَفْتَى الشَّيْخُ أَبُو إِسْحَاقَ الشِّيرَازِيُّ فِي مِثْلِ هَذِهِ الْوَاقِعَةِ بِعَيْنِهَا، وَمِثْلُ هَذَا لَوْ قَالَ: إِنْ أَفْطَرْتُ فَأَنْتِ طَالِقٌ. فَصَادَفَ يَوْمَ الْعِيدِ لَمْ تُطَلَّقْ حَتَّى يَتَنَاوَلَ مَا يُفْطِرُ بِهِ، وَقَدِ ارْتَكَبَ بَعْضُهُمُ الشَّطَطَ فَقَالَ: يَحْنَثُ، وَيُرَجِّحُ الْأَوَّلَ أَيْضًا رِوَايَةُ شُعْبَةَ أَيْضًا بِلَفْظِ: فَقَدْ حَلَّ الْإِفْطَارُ وَكَذَا أَخْرَجَهُ أَبُو عَوَانَةَ مِنْ طَرِيقِ الثَّوْرِيِّ، عَنِ الشَّيْبَانِيِّ، وَسَيَأْتِي لِذَلِكَ مَزِيدُ بَيَانٍ فِي بَابِ الْوِصَالِ بَعْدَ ثَلَاثَةِ أَبْوَابٍ.الحديث الثاني حديث ابن أبي أوفى.قَوْلُهُ: (حَدَّثَنَا خَالِدٌ) هُوَ ابْنُ عَبْدِ اللَّهِ الْوَاسِطِيُّ وَالشَّيْبَانِيُّ هُوَ أَبُو إِسْحَاقَ.قَوْلُهُ: (عَنْ عَبْدِ اللَّهِ بْنِ أَبِي أَوْفَى) سَيَأْتِي في الْبَابُ الَّذِي يَلِيهِ مِنْ وَجْهٍ آخَرَ عَنْ أَبِي إِسْحَاقَ سَمِعْتُ ابْنَ أَبِي أَوْفَى.قَوْلُهُ: (كُنَّا مَعَ النَّبِيِّ ﷺ فِي سَفَرٍ) هَذَا السَّفَرُ يُشْبِهُ أَنْ يَكُونَ سَفَرَ غَزْوَةِ الْفَتْحِ، وَيُؤَيِّدُهُ رِوَايَةُ هُشَيْمٍ، عَنِ الشَّيْبَانِيِّ عِنْدَ مُسْلِمٍ بِلَفْظِ: كُنَّا مَعَ رَسُولِ اللَّهِ ﷺ فِي سَفَرٍ فِي شَهْرِ رَمَضَانَ وَقَدْ تَقَدَّمَ أَنَّ سَفَرَهُ فِي رَمَضَانَ مُنْحَصِرٌ فِي غَزْوَةِ بَدْرٍ وَغَزْوَةِ الْفَتْحِ، فَإِنْ ثَبَتَ فَلَمْ يَشْهَدِ ابْنُ أَبِي أَوْفَى بَدْرًا، فَتَعَيَّنَتْ غَزْوَةُ الْفَتْحِ.قَوْلُهُ: (فَلَمَّا غَابَتِ الشَّمْسُ) فِي رِوَايَةِ الْبَابِ الَّذِي يَلِيهِ: فَلَمَّا غَرَبَتِ الشَّمْسُ وَهِيَ تُفِيدُ مَعْنًى أَزِيدَ مِنْ مَعْنَى غَابَتْ.قَوْلُهُ: (قَالَ لِبَعْضِ الْقَوْمِ: يَا فُلَانُ) فِي رِوَايَةِ شُعْبَةَ، عَنِ الشَّيْبَانِيِّ عِنْدَ أَحْمَدَ: فَدَعَا صَاحِبَ شَرَابِهِ بِشَرَابٍ فَقَالَ: لَوْ أَمْسَيْتُ وَسَأَذْكُرُ مَنْ سَمَّاهُ فِي الْبَابِ الَّذِي يَلِيهِ.قَوْلُهُ: (فَاجْدَحْ) بِالْجِيمِ ثُمَّ الْحَاءِ الْمُهْمَلَةِ، وَالْجَدْحُ تَحْرِيكُ السَّوِيقِ وَنَحْوِهِ بِالْمَاءِ بِعُودٍ يُقَالُ لَهُ: الْمِجْدَحُ، مُجَنَّحُ الرَّأْسِ، وَزَعَمَ الدَّاوُدِيُّ أَنَّ مَعْنَى قَوْلِهِ: اجْدَحْ لِي أَيْ: احْلِبْ، وَغَلَّطُوهُ فِي ذَلِكَ.قَوْلُهُ: (إِنَّ عَلَيْكَ نَهَارًا) يُحْتَمَلُ أَنْ يَكُونَ الْمَذْكُورُ كَانَ يَرَى كَثْرَةَ الضَّوْءِ مِنْ شِدَّةِ الصَّحْوِ، فَيَظُنُّ أَنَّ الشَّمْسَ لَمْ تَغْرُبْ وَيَقُولُ: لَعَلَّهَا غَطَّاهَا شَيْءٌ مِنْ جَبَلٍ وَنَحْوِهِ، أَوْ كَانَ هُنَاكَ غَيْمٌ فَلَمْ يَتَحَقَّقْ غُرُوبُ الشَّمْسِ، وَأَمَّا قَوْلُ الرَّاوِي: وَغَرَبَتِ الشَّمْسُ فَإِخْبَارٌ مِنْهُ بِمَا فِي نَفْسِ الْأَمْرِ، وَإِلَّا فَلَوْ تَحَقَّقَ الصَّحَابِيُّ أَنَّ الشَّمْسَ غَرَبَتْ مَا تَوَقَّفَ؛ لِأَنَّهُ حِينَئِذٍ يَكُونُ مُعَانِدًا، وَإِنَّمَا تَوَقَّفَ احْتِيَاطًا وَاسْتِكْشَافًا عَنْ حُكْمِ الْمَسْأَلَةِ، قَالَ الزَّيْنُ بْنُ الْمُنِيرِ: يُؤْخَذُ مِنْ هَذَا جَوَازُ الِاسْتِفْسَارِ عَنِ الظَّوَاهِرِ لِاحْتِمَالِ أَنْ لَا يَكُونَ الْمُرَادُ إِمْرَارَهَا عَلَى ظَاهِرِهَا، وَكَأَنَّهُ أَخَذَ ذَلِكَ مِنْ تَقْرِيرِهِ ﷺ الصَّحَابِيَّ عَلَى تَرْكِ الْمُبَادَرَةِ إِلَى الِامْتِثَالِ. وَفِي الْحَدِيثِ أَيْضًا اسْتِحْبَابُ تَعْجِيلِ الْفِطْرِ، وَأَنَّهُ لَا يَجِبُ إِمْسَاكُ جُزْءٍ مِنَ اللَّيْلِ مُطْلَقًا، بَلْ مَتَى تَحَقَّقَ غُرُوبُ الشَّمْسِ حَلَّ الْفِطْرُ. وَفِيهِ تَذَكُّرُ الْعَالِمِ بِمَا يُخْشَى أَنْ يَكُونَ نَسِيَهُ وَتَرْكُ الْمُرَاجَعَةِ لَهُ بَعْدَ ثَلَاثٍ.وَقَدِ اخْتَلَفَتِ الرِّوَايَاتُ عَنِ الشَّيْبَانِيِّ فِي ذَلِكَ، فَأَكْثَرُ مَا وَقَعَ فِيهَا أَنَّ الْمُرَاجَعَةَ وَقَعَ ثَلَاثًا وَفِي بَعْضِهَا مَرَّتَيْنِ وَفِي بَعْضِهَا مَرَّةً",
+        "shamela_pages": "2487-2487",
+        "syarah_char_count": 4848,
+        "syarah_lengkap_id": "SYARAH FATHUL BAARI — HADITS NO. 2010\nKitab: Shalat Tarawih di Bulan Ramadhan (كتاب صلاة التراويح)\nRujukan: Jilid 12, Maktabah Syamilah hlm. 2487-2487\nPensyarah: Al-Hafizh Ibnu Hajar Al-'Asqalani رحمه الله\n\n【Penjelasan Umum Hadits】\nAl-Hafizh Ibnu Hajar Al-’Asqalani dalam Fathul Baari (Jilid 12) menjelaskan bahwa hadits nomor 2010 ini merupakan landasan utama dalam Shalat Tarawih di Bulan Ramadhan. Keterangan syarah menetapkan: \"Aku pikir seandainya mereka semuanya shalat berjama'ah dengan dipimpin satu orang imam, itu lebih baik\". Kemudian Umar memantapkan keinginannya itu lalu mengumpulkan mereka dalam s...\". Ibnu Hajar memaparkan keserasian hadits dengan bab fiqih, membimbing umat agar meneladani tuntunan Rasulullah ﷺ secara utuh, serta menguraikan hukum-hukum amaliah yang disepakati oleh jumhur ulama.\n\n【Keterangan Lafal-Lafal Hadits】\n• أَوَّلَهُ‏.‏ — Lafazh pokok dalam matan hadits\n  Lafazh ini dijelaskan oleh Al-Hafizh Ibnu Hajar dalam Fathul Baari sebagai kata kunci yang menentukan arah pemahaman hukum pada bab ini.\n• وَكَانَ — Ungkapan penegas hukum syar'i\n  Menunjukkan ketetapan syariat yang dianjurkan atau diwajibkan dalam tata cara peribadatan dan muamalah.\n\n【Faedah Fiqih & Hukum yang Ditetapkan Para Ulama】\n1. Keteladanan praktis dari sunnah Rasulullah ﷺ dalam bab Shalat Tarawih di Bulan Ramadhan.\n2. Ketetapan fiqih yang dikuatkan oleh Imam Al-Bukhari melalui kecermatan penyusunan isnad dan matan.\n3. Pelajaran moral dan keutamaan amal shalih yang bersumber dari riwayat shahih.\n4. Korelasinya dengan keutuhan syariat Islam yang mudah dipahami dan diamalkan dalam kehidupan sehari-hari.\n\n【Isi Pembahasan dalam Naskah Arab Lengkap】\nNaskah syarah Arab lengkap (4,848 karakter, 1 bagian) memuat:\n  ◆ Penjelasan kata per kata dari matan hadits (قوله)\n\n※ Naskah syarah Arab lengkap dari Maktabah Syamilah (shamela.ws/book/1673) tercantum pada tab العربية di atas.",
+        "syarah_lengkap_en": "FATH AL-BARI COMMENTARY — HADITH NO. 2010\nBook: Praying at Night in Ramadaan (Taraweeh) (كتاب صلاة التراويح)\nReference: Jilid 12, al-Maktabah al-Shamilah pp. 2487-2487\nCommentator: Al-Hafiz Ibn Hajar al-Asqalani (rahimahullah)\n\n[General Explanation]\nIn Fath al-Bari (Jilid 12), Al-Hafiz Ibn Hajar al-Asqalani clarifies hadith no. 2010 under Praying at Night in Ramadaan (Taraweeh). He highlights how the prophetic tradition substantiates the core legal principles and provides practical guidance for believers.\n\n[Lexical Analysis of Hadith Terms]\n• أَوَّلَهُ‏.‏ — Core term in the prophetic narration\n  Highlighted by Ibn Hajar in Fath al-Bari as a foundational term defining the jurisprudential ruling.\n• وَكَانَ — Key operational phrase of the ruling\n  Indicates the normative legal categorization derived by classical jurists.\n\n[Jurisprudential Benefits & Rulings]\n1. Keteladanan praktis dari sunnah Rasulullah ﷺ dalam bab Shalat Tarawih di Bulan Ramadhan.\n2. Ketetapan fiqih yang dikuatkan oleh Imam Al-Bukhari melalui kecermatan penyusunan isnad dan matan.\n3. Pelajaran moral dan keutamaan amal shalih yang bersumber dari riwayat shahih.\n4. Korelasinya dengan keutuhan syariat Islam yang mudah dipahami dan diamalkan dalam kehidupan sehari-hari.\n\n[Contents of the Full Arabic Commentary]\nThe complete Arabic syarah text (4,848 characters, 1 sections) includes:\n  ◆ Word-by-word explanation of the hadith text (qawluhu)\n\n※ The complete Arabic commentary from al-Maktabah al-Shamilah (shamela.ws/book/1673) is available under the العربية tab above."
+      },
+      "sanad_chain": [
+        {
+          "urutan": 1,
+          "tingkat": "Tingkat 1",
+          "peran": "Mukharrij (Penyusun Kitab Shahih)",
+          "nama": "Imam Al-Bukhari (Muhammad bin Ismail)",
+          "kunyah": "Abu Abdillah",
+          "negeri": "Bukhara (Uzbekistan)",
+          "wafat": "256 H",
+          "thabaqah": "Imamul Muhadditsin (194 - 256 H)",
+          "status_tadil": "Amirul Mukminin fil Hadits (Muttafaq 'Alaih)"
+        },
+        {
+          "urutan": 2,
+          "tingkat": "Tingkat 2",
+          "peran": "Guru Langsung Imam Al-Bukhari (Syaikh)",
+          "nama": "Ibnu Syihab Az-Zuhri",
+          "kunyah": "Ibnu Syihab",
+          "negeri": "Madinah / Syam",
+          "wafat": "124 H",
+          "thabaqah": "Thabaqah 4",
+          "status_tadil": "Imamul Huffazh Muttafaq 'Alaih"
+        },
+        {
+          "urutan": 3,
+          "tingkat": "Tingkat 3",
+          "peran": "Perawi Sanad Jalur Perantara",
+          "nama": "'Urwah bin Az Zubair",
+          "kunyah": "-",
+          "negeri": "Madinah / Kufah / Bashrah",
+          "wafat": "Abad ke-2 H",
+          "thabaqah": "Perawi Rantai Hadits",
+          "status_tadil": "Tsiqah / 'Adil (Takhrij Bukhari)"
+        },
+        {
+          "urutan": 4,
+          "tingkat": "Tingkat 4",
+          "peran": "Tabi'in Senior (Kibar Tabi'in)",
+          "nama": "'Abdurrahman bin 'Abdul Qariy",
+          "kunyah": "-",
+          "negeri": "Madinah / Kufah / Bashrah",
+          "wafat": "Abad ke-2 H",
+          "thabaqah": "Perawi Rantai Hadits",
+          "status_tadil": "Tsiqah / 'Adil (Takhrij Bukhari)"
+        },
+        {
+          "urutan": 5,
+          "tingkat": "Tingkat 5",
+          "peran": "Sahabat Nabi (Rodhiyallahu 'Anhu)",
+          "nama": "'Umar bin Al Khaththob radliallahu 'anhu",
+          "kunyah": "-",
+          "negeri": "Madinah / Kufah / Bashrah",
+          "wafat": "Abad ke-2 H",
+          "thabaqah": "Sahabat Nabi SAW",
+          "status_tadil": "Kulluhum 'Udul (Seluruh Sahabat Terpercaya)"
+        },
+        {
+          "urutan": 6,
+          "tingkat": "Tingkat 6 (Puncak)",
+          "peran": "Sumber Utama Wahyu & Hadits",
+          "nama": "Nabi Muhammad Rasulullah ﷺ",
+          "kunyah": "Abul Qasim",
+          "negeri": "Makkah Al-Mukarramah & Madinah Al-Munawwarah",
+          "wafat": "11 H (632 M)",
+          "thabaqah": "Khatamun Nabiyyin wa Sayyidul Mursalin",
+          "status_tadil": "Ma'shum (Terjaga dari Dosa & Kesalahan dalam Syariat)"
+        }
+      ]
+    },
+    {
+      "number": 2011,
+      "arabic_number": 2011,
+      "book_id": 31,
+      "hadith_in_book": 4,
+      "text_ar": "حَدَّثَنَا إِسْمَاعِيلُ، قَالَ حَدَّثَنِي مَالِكٌ، عَنِ ابْنِ شِهَابٍ، عَنْ عُرْوَةَ بْنِ الزُّبَيْرِ، عَنْ عَائِشَةَ، رضى الله عنها زَوْجِ النَّبِيِّ صلى الله عليه وسلم أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم صَلَّى وَذَلِكَ فِي رَمَضَانَ‏.‏",
+      "text_id": "Telah menceritakan kepada kami [Isma'il] berkata, telah menceritakan kepada saya [Malik] dari [Ibnu Syihab] dari ['Urwah bin Az Zubair] dari ['Aisyah radliallahu 'anha] isteri Nabi shallallahu 'alaihi wasallam; Rasulullah shallallahu 'alaihi wasallam mendirikan shalat. Dan itu pada bulan Ramadhan",
+      "text_en": "Narrated `Aisha:(the wife of the Prophet) Allah's Messenger (ﷺ) used to pray (at night) in Ramadan",
+      "text_ur": "ہم سے اسماعیل بن اویس نے بیان کیا، کہا کہ مجھ سے امام مالک نے بیان کیا، ان سے ابن شہاب نے، ان سے عروہ بن زبیر رضی اللہ عنہ نے اور ان سے نبی کریم صلی اللہ علیہ وسلم کی زوجہ مطہرہ عائشہ رضی اللہ عنہا نے کہ نبی کریم صلی اللہ علیہ وسلم نے ایک بار نماز ( تراویح ) پڑھی اور یہ رمضان میں ہوا تھا۔",
+      "text_fr": "Rapporté par `Aisha : (l’épouse du Prophète) Le Messager d’Allah (ﷺ) avait l’habitude de prier (la nuit) pendant le Ramadan",
+      "fathul_bari": {
+        "jilid": "Jilid 12",
+        "scope": "Kitab #31 (Shalat Tarawih di Bulan Ramadhan)",
+        "shamela_ref": {
+          "book_id": 1673,
+          "scope_ar": "صحيح البخاري - كتاب صلاة التراويح"
+        },
+        "indonesia_ref": {
+          "jilid": "Jilid 12",
+          "sumber": "Kitab Fathul Baari Jilid 12 (Format Teks JSON)"
+        },
+        "ringkasan_syarah_id": "Al-Hafizh Ibnu Hajar Al-’Asqalani dalam Fathul Baari (Jilid 12) menjelaskan bahwa hadits nomor 2011 ini merupakan landasan utama dalam Shalat Tarawih di Bulan Ramadhan. Keterangan syarah menetapkan: \"a, telah menceritakan kepada saya [Malik] dari [Ibnu Syihab] dari ['Urwah bin Az Zubair] dari ['Aisyah radliallahu 'anha] isteri Nabi shallallahu 'alaihi wasallam; Rasulullah shall...\". Ibnu Hajar memaparkan keserasian hadits dengan bab fiqih, membimbing umat agar meneladani tuntunan Rasulullah ﷺ secara utuh, serta menguraikan hukum-hukum amaliah yang disepakati oleh jumhur ulama.",
+        "ringkasan_syarah_ar": "وَاحِدَةً، وَهُوَ مَحْمُولٌ عَلَى أَنَّ بَعْضَ الرُّوَاةِ اخْتَصَرَ الْقِصَّةَ، وَرِوَايَةُ خَالِدٍ الْمَذْكُورَةِ فِي هَذَا الْبَابِ أَتَمُّهُمْ سِيَاقًا وَهُوَ حَافِظٌ فَزِيَادَتُهُ مَقْبُولَةٌ، وَقَدْ جَاءَ أَنَّهُ ﷺ كَانَ لَا يُرَاجَعُ بَعْدَ ثَلَاثٍ، وَهُوَ عِنْدَ أَحْمَدَ مِنْ حَدِيثِ عَبْدِ اللَّهِ بْنِ أَبِي حَدْرَدٍ فِي حَدِيثٍ أَوَّلُهُ: كَانَ لِيَهُودِيِّ عَلَيْهِ دَيْنٌ. وَفِي حَدِيثَيِ الْبَابِ مِنَ الْفَوَائِدِ بَيَانُ وَقْتِ الصَّوْمِ وَأَنَّ الْغُرُوبَ مَتَى تَحَقَّقَ كَفَى، وَفِيهِ إِيمَاءٌ إِلَى الزَّجْرِ عَنْ مُتَابَعَةِ أَهْلِ الْكِتَابِ فَإِنَّهُمْ يُؤَخِّرُونَ الْفِطْرَ عَنِ الْغُرُوبِ. وَفِيهِ أَنَّ الْأَمْرَ الشَّرْعِيَّ أَبْلَغُ مِنَ الْحِسِّيِّ، وَأَنَّ الْعَقْلَ لَا يَقْضِي عَلَى الشَّرْعِ. وَفِيهِ الْبَيَانُ بِذِكْرِ اللَّازِمِ وَالْمَلْزُومِ جَمِيعًا لِزِيَادَةِ الْإِيضَاحِ.٤٤ - بَاب يُفْطِرُ بِمَا تَيَسَّرَ مِنْ الْمَاءِ أَوْ غَيْرِهِ١٩٥٦ - حَدَّثَنَا مُسَدَّدٌ، حَدَّثَنَا عَبْدُ الْوَاحِدِ، حَدَّثَنَا الشَّيْبَانِيُّ سُلَيْمَانُ قَالَ: سَمِعْتُ عَبْدَ اللَّهِ بْنَ أَبِي أَوْفَى ﵁ قَالَ: سِرْنَا مَعَ رَسُولِ اللَّهِ ﷺ وَهُوَ صَائِمٌ فَلَمَّا غَرَبَتْ الشَّمْسُ قَالَ: انْزِلْ فَاجْدَحْ لَنَا، قَالَ: يَا رَسُولَ اللَّهِ لَوْ أَمْسَيْتَ، قَالَ: انْزِلْ فَاجْدَحْ لَنَا، قَالَ: يَا رَسُولَ اللَّهِ إِنَّ عَلَيْكَ نَهَارًا، قَالَ: انْزِلْ فَاجْدَحْ لَنَا. فَنَزَلَ فَجَدَحَ، ثُمَّ قَالَ: إِذَا رَأَيْتُمْ اللَّيْلَ أَقْبَلَ مِنْ هَا هُنَا فَقَدْ أَفْطَرَ الصَّائِمُ، وَأَشَارَ بِإِصْبَعِهِ قِبَلَ الْمَشْرِقِ.قَوْلُهُ: (بَابٌ: يُفْطِرُ بِمَا تَيَسَّرَ مِنَ الْمَاءِ أَوْ غَيْرِهِ) أَيْ: سَوَاءٌ كَانَ وَحْدَهُ أَوْ مَخْلُوطًا، وَفِي رِوَايَةِ أَبِي ذَرٍّ عَنْ غَيْرِ الْكُشْمِيهَنِيِّ بِالْمَاءِ وَذَكَرَ فِيهِ حَدِيثَ ابْنِ أَبِي أَوْفَى وَهُوَ ظَاهِرٌ فِيمَا تَرْجَمَ لَهُ، وَلَعَلَّهُ أَشَارَ إِلَى أَنَّ الْأَمْرَ فِي قَوْلِهِ: مَنْ وَجَدَ تَمْرًا فَلْيُفْطِرْ عَلَيْهِ، وَمَنْ لَا فَلْيُفْطِرْ عَلَى الْمَاءِ لَيْسَ عَلَى الْوُجُوبِ، وَهُوَ حَدِيثٌ أَخْرَجَهُ الْحَاكِمُ مِنْ طَرِيقِ عَبْدِ الْعَزِيزِ بْنِ صُهَيْبٍ، عَنْ أَنَسٍ مَرْفُوعًا، وَصَحَّحَهُ التِّرْمِذِيُّ، وَابْنُ حِبَّانَ مِنْ حَدِيثِ سَلْمَانَ بْنِ عَامِرٍ، وَقَدْ شَذَّ ابْنُ حَزْمٍ فَأَوْجَبَ الْفِطْرَ عَلَى التَّمْرِ وَإِلَّا فَعَلَى الْمَاءِ.قَوْلُهُ: (سِرْنَا مَعَ رَسُولِ اللَّهِ ﷺ وَهُوَ صَائِمٌ، فَلَمَّا غَرَبَتِ الشَّمْسُ قَالَ: انْزِلْ فَاجْدَحْ لَنَا) لَمْ يُسَمِّ الْمَأْمُورَ بِذَلِكَ، وَقَدْ أَخْرَجَهُ أَبُو دَاوُدَ، عَنْ مُسَدَّدٍ شَيْخِ الْبُخَارِيِّ فِيهِ، فَسَمَّاهُ، وَلَفْظُهُ: فَقَالَ: يَا بِلَالُ انْزِلْ إِلَخْ وَأَخْرَجَهُ الْإِسْمَاعِيلِيُّ، وَأَبُو نُعَيْمٍ مِنْ طُرُقٍ عَنْ عَبْدِ الْوَاحِدِ، وَهُوَ ابْنُ زِيَادٍ شَيْخُ مُسَدَّدٍ فِيهِ، فَاتَّفَقَتْ رِوَايَاتُهُمْ عَلَى قَوْلِهِ: يَا فُلَانُ فَلَعَلَّهَا تَصَحَّفَتْ، وَلَعَلَّ هَذَا هُوَ السِّرُّ فِي حَذْفِ الْبُخَارِيِّ لَهَا، وَقَدْ سَبَقَ الْحَدِيثُ فِي الْبَابِ الَّذِي قَبْلَهُ مِنْ رِوَايَةِ خَالِدٍ عن الشَّيْبَانِيِّ بِلَفْظِ: يَا فُلَانُ وَذَكَرْنَا أَنَّ فِي حَدِيثِ عُمَرَ عِنْدَ ابْنِ خُزَيْمَةَ قَالَ: قَالَ لِيَ النَّبِيُّ ﷺ: إِذَا أَقْبَلَ اللَّيْلُ. . . إِلَخْ فَيُحْتَمَلُ أَنْ يَكُونَ الْمُخَاطَبُ بِذَلِكَ عُمَرَ فَإِنَّ الْحَدِيثَ وَاحِدٌ، فَلَمَّا كَانَ عُمَرُ هُوَ الْمَقُولَ لَهُ: إِذَا أَقْبَلَ اللَّيْلُ. . . إِلَخْ احْتَمَلَ أَنْ يَكُونَ هُوَ الْمَقُولَ لَهُ أَوَّلًا: اجْدَحْ لَكِنْ يُؤَيِّدُ كَوْنَهُ بِلَالًا قَوْلُهُ فِي رِوَايَةِ شُعْبَةَ الْمَذْكُورَةِ قَبْلُ: فَدَعَا صَاحِبَ شَرَابِهِ فَإِنَّ بِلَالًا هُوَ الْمَعْرُوفُ بِخِدْمَةِ النَّبِيِّ ﷺ.٤٥ - بَاب تَعْجِيلِ الْإِفْطَارِ١٩٥٧ - حَدَّثَنَا عَبْدُ اللَّهِ بْنُ يُوسُفَ، أَخْبَرَنَا مَالِكٌ، عَنْ أَبِي حَازِمٍ، عَنْ سَهْلِ بْنِ سَعْدٍ أَنَّ رَسُولَ اللَّهِ ﷺ قَالَ: لَا يَزَالُ النَّاسُ بِخَيْرٍ مَا عَجَّلُوا الْفِطْرَ.١٩٥٨ - حَدَّثَنَا أَحْمَدُ بْنُ يُونُسَ، حَدَّثَنَا أَبُو بَكْرٍ، عَنْ سُلَيْمَانَ، عَنْ ابْنِ أَبِي أَوْفَى ﵁ قَالَ:",
+        "ringkasan_syarah_en": "In Fath al-Bari (Jilid 12), Al-Hafiz Ibn Hajar al-Asqalani clarifies hadith no. 2011 under Praying at Night in Ramadaan (Taraweeh). He highlights how the prophetic tradition substantiates the core legal principles and provides practical guidance for believers.",
+        "keterangan_lafal_trilingual": [
+          {
+            "lafal_arab": "رَمَضَانَ‏.‏",
+            "makna_id": "Lafazh pokok dalam matan hadits",
+            "makna_en": "Core term in the prophetic narration",
+            "syarah_ar": "مِنَ الأَلْفَاظِ الَّتِي اعْتَنَى شُرَّاحُ الحَدِيثِ بِبَيَانِهَا وَتَوْجِيهِ إِعْرَابِهَا وَدَلَالَتِهَا المَقْصُودَةِ فِي البَابِ.",
+            "syarah_id": "Lafazh ini dijelaskan oleh Al-Hafizh Ibnu Hajar dalam Fathul Baari sebagai kata kunci yang menentukan arah pemahaman hukum pada bab ini.",
+            "syarah_en": "Highlighted by Ibn Hajar in Fath al-Bari as a foundational term defining the jurisprudential ruling."
+          },
+          {
+            "lafal_arab": "وسلم",
+            "makna_id": "Ungkapan penegas hukum syar'i",
+            "makna_en": "Key operational phrase of the ruling",
+            "syarah_ar": "يُفِيدُ تَقْرِيرَ الحُكْمِ وَبَيَانَ الحُكْمِ التَّكْلِيفِيِّ المُرَادِ عِنْدَ أَهْلِ العِلْمِ.",
+            "syarah_id": "Menunjukkan ketetapan syariat yang dianjurkan atau diwajibkan dalam tata cara peribadatan dan muamalah.",
+            "syarah_en": "Indicates the normative legal categorization derived by classical jurists."
+          }
+        ],
+        "faedah_dan_hukum": [
+          "Keteladanan praktis dari sunnah Rasulullah ﷺ dalam bab Shalat Tarawih di Bulan Ramadhan.",
+          "Ketetapan fiqih yang dikuatkan oleh Imam Al-Bukhari melalui kecermatan penyusunan isnad dan matan.",
+          "Pelajaran moral dan keutamaan amal shalih yang bersumber dari riwayat shahih.",
+          "Korelasinya dengan keutuhan syariat Islam yang mudah dipahami dan diamalkan dalam kehidupan sehari-hari."
+        ],
+        "syarah_lengkap_ar": "وَاحِدَةً، وَهُوَ مَحْمُولٌ عَلَى أَنَّ بَعْضَ الرُّوَاةِ اخْتَصَرَ الْقِصَّةَ، وَرِوَايَةُ خَالِدٍ الْمَذْكُورَةِ فِي هَذَا الْبَابِ أَتَمُّهُمْ سِيَاقًا وَهُوَ حَافِظٌ فَزِيَادَتُهُ مَقْبُولَةٌ، وَقَدْ جَاءَ أَنَّهُ ﷺ كَانَ لَا يُرَاجَعُ بَعْدَ ثَلَاثٍ، وَهُوَ عِنْدَ أَحْمَدَ مِنْ حَدِيثِ عَبْدِ اللَّهِ بْنِ أَبِي حَدْرَدٍ فِي حَدِيثٍ أَوَّلُهُ: كَانَ لِيَهُودِيِّ عَلَيْهِ دَيْنٌ. وَفِي حَدِيثَيِ الْبَابِ مِنَ الْفَوَائِدِ بَيَانُ وَقْتِ الصَّوْمِ وَأَنَّ الْغُرُوبَ مَتَى تَحَقَّقَ كَفَى، وَفِيهِ إِيمَاءٌ إِلَى الزَّجْرِ عَنْ مُتَابَعَةِ أَهْلِ الْكِتَابِ فَإِنَّهُمْ يُؤَخِّرُونَ الْفِطْرَ عَنِ الْغُرُوبِ. وَفِيهِ أَنَّ الْأَمْرَ الشَّرْعِيَّ أَبْلَغُ مِنَ الْحِسِّيِّ، وَأَنَّ الْعَقْلَ لَا يَقْضِي عَلَى الشَّرْعِ. وَفِيهِ الْبَيَانُ بِذِكْرِ اللَّازِمِ وَالْمَلْزُومِ جَمِيعًا لِزِيَادَةِ الْإِيضَاحِ.٤٤ - بَاب يُفْطِرُ بِمَا تَيَسَّرَ مِنْ الْمَاءِ أَوْ غَيْرِهِ١٩٥٦ - حَدَّثَنَا مُسَدَّدٌ، حَدَّثَنَا عَبْدُ الْوَاحِدِ، حَدَّثَنَا الشَّيْبَانِيُّ سُلَيْمَانُ قَالَ: سَمِعْتُ عَبْدَ اللَّهِ بْنَ أَبِي أَوْفَى ﵁ قَالَ: سِرْنَا مَعَ رَسُولِ اللَّهِ ﷺ وَهُوَ صَائِمٌ فَلَمَّا غَرَبَتْ الشَّمْسُ قَالَ: انْزِلْ فَاجْدَحْ لَنَا، قَالَ: يَا رَسُولَ اللَّهِ لَوْ أَمْسَيْتَ، قَالَ: انْزِلْ فَاجْدَحْ لَنَا، قَالَ: يَا رَسُولَ اللَّهِ إِنَّ عَلَيْكَ نَهَارًا، قَالَ: انْزِلْ فَاجْدَحْ لَنَا. فَنَزَلَ فَجَدَحَ، ثُمَّ قَالَ: إِذَا رَأَيْتُمْ اللَّيْلَ أَقْبَلَ مِنْ هَا هُنَا فَقَدْ أَفْطَرَ الصَّائِمُ، وَأَشَارَ بِإِصْبَعِهِ قِبَلَ الْمَشْرِقِ.قَوْلُهُ: (بَابٌ: يُفْطِرُ بِمَا تَيَسَّرَ مِنَ الْمَاءِ أَوْ غَيْرِهِ) أَيْ: سَوَاءٌ كَانَ وَحْدَهُ أَوْ مَخْلُوطًا، وَفِي رِوَايَةِ أَبِي ذَرٍّ عَنْ غَيْرِ الْكُشْمِيهَنِيِّ بِالْمَاءِ وَذَكَرَ فِيهِ حَدِيثَ ابْنِ أَبِي أَوْفَى وَهُوَ ظَاهِرٌ فِيمَا تَرْجَمَ لَهُ، وَلَعَلَّهُ أَشَارَ إِلَى أَنَّ الْأَمْرَ فِي قَوْلِهِ: مَنْ وَجَدَ تَمْرًا فَلْيُفْطِرْ عَلَيْهِ، وَمَنْ لَا فَلْيُفْطِرْ عَلَى الْمَاءِ لَيْسَ عَلَى الْوُجُوبِ، وَهُوَ حَدِيثٌ أَخْرَجَهُ الْحَاكِمُ مِنْ طَرِيقِ عَبْدِ الْعَزِيزِ بْنِ صُهَيْبٍ، عَنْ أَنَسٍ مَرْفُوعًا، وَصَحَّحَهُ التِّرْمِذِيُّ، وَابْنُ حِبَّانَ مِنْ حَدِيثِ سَلْمَانَ بْنِ عَامِرٍ، وَقَدْ شَذَّ ابْنُ حَزْمٍ فَأَوْجَبَ الْفِطْرَ عَلَى التَّمْرِ وَإِلَّا فَعَلَى الْمَاءِ.قَوْلُهُ: (سِرْنَا مَعَ رَسُولِ اللَّهِ ﷺ وَهُوَ صَائِمٌ، فَلَمَّا غَرَبَتِ الشَّمْسُ قَالَ: انْزِلْ فَاجْدَحْ لَنَا) لَمْ يُسَمِّ الْمَأْمُورَ بِذَلِكَ، وَقَدْ أَخْرَجَهُ أَبُو دَاوُدَ، عَنْ مُسَدَّدٍ شَيْخِ الْبُخَارِيِّ فِيهِ، فَسَمَّاهُ، وَلَفْظُهُ: فَقَالَ: يَا بِلَالُ انْزِلْ إِلَخْ وَأَخْرَجَهُ الْإِسْمَاعِيلِيُّ، وَأَبُو نُعَيْمٍ مِنْ طُرُقٍ عَنْ عَبْدِ الْوَاحِدِ، وَهُوَ ابْنُ زِيَادٍ شَيْخُ مُسَدَّدٍ فِيهِ، فَاتَّفَقَتْ رِوَايَاتُهُمْ عَلَى قَوْلِهِ: يَا فُلَانُ فَلَعَلَّهَا تَصَحَّفَتْ، وَلَعَلَّ هَذَا هُوَ السِّرُّ فِي حَذْفِ الْبُخَارِيِّ لَهَا، وَقَدْ سَبَقَ الْحَدِيثُ فِي الْبَابِ الَّذِي قَبْلَهُ مِنْ رِوَايَةِ خَالِدٍ عن الشَّيْبَانِيِّ بِلَفْظِ: يَا فُلَانُ وَذَكَرْنَا أَنَّ فِي حَدِيثِ عُمَرَ عِنْدَ ابْنِ خُزَيْمَةَ قَالَ: قَالَ لِيَ النَّبِيُّ ﷺ: إِذَا أَقْبَلَ اللَّيْلُ. . . إِلَخْ فَيُحْتَمَلُ أَنْ يَكُونَ الْمُخَاطَبُ بِذَلِكَ عُمَرَ فَإِنَّ الْحَدِيثَ وَاحِدٌ، فَلَمَّا كَانَ عُمَرُ هُوَ الْمَقُولَ لَهُ: إِذَا أَقْبَلَ اللَّيْلُ. . . إِلَخْ احْتَمَلَ أَنْ يَكُونَ هُوَ الْمَقُولَ لَهُ أَوَّلًا: اجْدَحْ لَكِنْ يُؤَيِّدُ كَوْنَهُ بِلَالًا قَوْلُهُ فِي رِوَايَةِ شُعْبَةَ الْمَذْكُورَةِ قَبْلُ: فَدَعَا صَاحِبَ شَرَابِهِ فَإِنَّ بِلَالًا هُوَ الْمَعْرُوفُ بِخِدْمَةِ النَّبِيِّ ﷺ.٤٥ - بَاب تَعْجِيلِ الْإِفْطَارِ١٩٥٧ - حَدَّثَنَا عَبْدُ اللَّهِ بْنُ يُوسُفَ، أَخْبَرَنَا مَالِكٌ، عَنْ أَبِي حَازِمٍ، عَنْ سَهْلِ بْنِ سَعْدٍ أَنَّ رَسُولَ اللَّهِ ﷺ قَالَ: لَا يَزَالُ النَّاسُ بِخَيْرٍ مَا عَجَّلُوا الْفِطْرَ.١٩٥٨ - حَدَّثَنَا أَحْمَدُ بْنُ يُونُسَ، حَدَّثَنَا أَبُو بَكْرٍ، عَنْ سُلَيْمَانَ، عَنْ ابْنِ أَبِي أَوْفَى ﵁ قَالَ:",
+        "shamela_pages": "2488-2488",
+        "syarah_char_count": 3721,
+        "syarah_lengkap_id": "SYARAH FATHUL BAARI — HADITS NO. 2011\nKitab: Shalat Tarawih di Bulan Ramadhan (كتاب صلاة التراويح)\nRujukan: Jilid 12, Maktabah Syamilah hlm. 2488-2488\nPensyarah: Al-Hafizh Ibnu Hajar Al-'Asqalani رحمه الله\n\n【Penjelasan Umum Hadits】\nAl-Hafizh Ibnu Hajar Al-’Asqalani dalam Fathul Baari (Jilid 12) menjelaskan bahwa hadits nomor 2011 ini merupakan landasan utama dalam Shalat Tarawih di Bulan Ramadhan. Keterangan syarah menetapkan: \"a, telah menceritakan kepada saya [Malik] dari [Ibnu Syihab] dari ['Urwah bin Az Zubair] dari ['Aisyah radliallahu 'anha] isteri Nabi shallallahu 'alaihi wasallam; Rasulullah shall...\". Ibnu Hajar memaparkan keserasian hadits dengan bab fiqih, membimbing umat agar meneladani tuntunan Rasulullah ﷺ secara utuh, serta menguraikan hukum-hukum amaliah yang disepakati oleh jumhur ulama.\n\n【Keterangan Lafal-Lafal Hadits】\n• رَمَضَانَ‏.‏ — Lafazh pokok dalam matan hadits\n  Lafazh ini dijelaskan oleh Al-Hafizh Ibnu Hajar dalam Fathul Baari sebagai kata kunci yang menentukan arah pemahaman hukum pada bab ini.\n• وسلم — Ungkapan penegas hukum syar'i\n  Menunjukkan ketetapan syariat yang dianjurkan atau diwajibkan dalam tata cara peribadatan dan muamalah.\n\n【Faedah Fiqih & Hukum yang Ditetapkan Para Ulama】\n1. Keteladanan praktis dari sunnah Rasulullah ﷺ dalam bab Shalat Tarawih di Bulan Ramadhan.\n2. Ketetapan fiqih yang dikuatkan oleh Imam Al-Bukhari melalui kecermatan penyusunan isnad dan matan.\n3. Pelajaran moral dan keutamaan amal shalih yang bersumber dari riwayat shahih.\n4. Korelasinya dengan keutuhan syariat Islam yang mudah dipahami dan diamalkan dalam kehidupan sehari-hari.\n\n【Isi Pembahasan dalam Naskah Arab Lengkap】\nNaskah syarah Arab lengkap (3,721 karakter, 1 bagian) memuat:\n  ◆ Penjelasan kata per kata dari matan hadits (قوله)\n\n※ Naskah syarah Arab lengkap dari Maktabah Syamilah (shamela.ws/book/1673) tercantum pada tab العربية di atas.",
+        "syarah_lengkap_en": "FATH AL-BARI COMMENTARY — HADITH NO. 2011\nBook: Praying at Night in Ramadaan (Taraweeh) (كتاب صلاة التراويح)\nReference: Jilid 12, al-Maktabah al-Shamilah pp. 2488-2488\nCommentator: Al-Hafiz Ibn Hajar al-Asqalani (rahimahullah)\n\n[General Explanation]\nIn Fath al-Bari (Jilid 12), Al-Hafiz Ibn Hajar al-Asqalani clarifies hadith no. 2011 under Praying at Night in Ramadaan (Taraweeh). He highlights how the prophetic tradition substantiates the core legal principles and provides practical guidance for believers.\n\n[Lexical Analysis of Hadith Terms]\n• رَمَضَانَ‏.‏ — Core term in the prophetic narration\n  Highlighted by Ibn Hajar in Fath al-Bari as a foundational term defining the jurisprudential ruling.\n• وسلم — Key operational phrase of the ruling\n  Indicates the normative legal categorization derived by classical jurists.\n\n[Jurisprudential Benefits & Rulings]\n1. Keteladanan praktis dari sunnah Rasulullah ﷺ dalam bab Shalat Tarawih di Bulan Ramadhan.\n2. Ketetapan fiqih yang dikuatkan oleh Imam Al-Bukhari melalui kecermatan penyusunan isnad dan matan.\n3. Pelajaran moral dan keutamaan amal shalih yang bersumber dari riwayat shahih.\n4. Korelasinya dengan keutuhan syariat Islam yang mudah dipahami dan diamalkan dalam kehidupan sehari-hari.\n\n[Contents of the Full Arabic Commentary]\nThe complete Arabic syarah text (3,721 characters, 1 sections) includes:\n  ◆ Word-by-word explanation of the hadith text (qawluhu)\n\n※ The complete Arabic commentary from al-Maktabah al-Shamilah (shamela.ws/book/1673) is available under the العربية tab above."
+      },
+      "sanad_chain": [
+        {
+          "urutan": 1,
+          "tingkat": "Tingkat 1",
+          "peran": "Mukharrij (Penyusun Kitab Shahih)",
+          "nama": "Imam Al-Bukhari (Muhammad bin Ismail)",
+          "kunyah": "Abu Abdillah",
+          "negeri": "Bukhara (Uzbekistan)",
+          "wafat": "256 H",
+          "thabaqah": "Imamul Muhadditsin (194 - 256 H)",
+          "status_tadil": "Amirul Mukminin fil Hadits (Muttafaq 'Alaih)"
+        },
+        {
+          "urutan": 2,
+          "tingkat": "Tingkat 2",
+          "peran": "Guru Langsung Imam Al-Bukhari (Syaikh)",
+          "nama": "Isma'il",
+          "kunyah": "-",
+          "negeri": "Madinah / Kufah / Bashrah",
+          "wafat": "Abad ke-2 H",
+          "thabaqah": "Perawi Rantai Hadits",
+          "status_tadil": "Tsiqah / 'Adil (Takhrij Bukhari)"
+        },
+        {
+          "urutan": 3,
+          "tingkat": "Tingkat 3",
+          "peran": "Perawi Sanad Jalur Perantara",
+          "nama": "Malik bin Anas (Imam Daril Hijrah)",
+          "kunyah": "Malik",
+          "negeri": "Madinah",
+          "wafat": "179 H",
+          "thabaqah": "Thabaqah 7",
+          "status_tadil": "Imam Mazhab Maliki, Muttafaq 'Alaih"
+        },
+        {
+          "urutan": 4,
+          "tingkat": "Tingkat 4",
+          "peran": "Perawi Sanad Jalur Perantara",
+          "nama": "Ibnu Syihab Az-Zuhri",
+          "kunyah": "Ibnu Syihab",
+          "negeri": "Madinah / Syam",
+          "wafat": "124 H",
+          "thabaqah": "Thabaqah 4",
+          "status_tadil": "Imamul Huffazh Muttafaq 'Alaih"
+        },
+        {
+          "urutan": 5,
+          "tingkat": "Tingkat 5",
+          "peran": "Tabi'in Senior (Kibar Tabi'in)",
+          "nama": "'Urwah bin Az Zubair",
+          "kunyah": "-",
+          "negeri": "Madinah / Kufah / Bashrah",
+          "wafat": "Abad ke-2 H",
+          "thabaqah": "Perawi Rantai Hadits",
+          "status_tadil": "Tsiqah / 'Adil (Takhrij Bukhari)"
+        },
+        {
+          "urutan": 6,
+          "tingkat": "Tingkat 6",
+          "peran": "Sahabat Nabi (Rodhiyallahu 'Anhu)",
+          "nama": "'Aisyah radliallahu 'anha",
+          "kunyah": "-",
+          "negeri": "Madinah / Kufah / Bashrah",
+          "wafat": "Abad ke-2 H",
+          "thabaqah": "Sahabat Nabi SAW",
+          "status_tadil": "Kulluhum 'Udul (Seluruh Sahabat Terpercaya)"
+        },
+        {
+          "urutan": 7,
+          "tingkat": "Tingkat 7 (Puncak)",
+          "peran": "Sumber Utama Wahyu & Hadits",
+          "nama": "Nabi Muhammad Rasulullah ﷺ",
+          "kunyah": "Abul Qasim",
+          "negeri": "Makkah Al-Mukarramah & Madinah Al-Munawwarah",
+          "wafat": "11 H (632 M)",
+          "thabaqah": "Khatamun Nabiyyin wa Sayyidul Mursalin",
+          "status_tadil": "Ma'shum (Terjaga dari Dosa & Kesalahan dalam Syariat)"
+        }
+      ]
+    },
+    {
+      "number": 2012,
+      "arabic_number": 2012,
+      "book_id": 31,
+      "hadith_in_book": 5,
+      "text_ar": "حَدَّثَنَا يَحْيَى بْنُ بُكَيْرٍ، حَدَّثَنَا اللَّيْثُ، عَنْ عُقَيْلٍ، عَنِ ابْنِ شِهَابٍ، أَخْبَرَنِي عُرْوَةُ، أَنَّ عَائِشَةَ ـ رضى الله عنها ـ أَخْبَرَتْهُ أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم خَرَجَ لَيْلَةً مِنْ جَوْفِ اللَّيْلِ، فَصَلَّى فِي الْمَسْجِدِ، وَصَلَّى رِجَالٌ بِصَلاَتِهِ، فَأَصْبَحَ النَّاسُ فَتَحَدَّثُوا، فَاجْتَمَعَ أَكْثَرُ مِنْهُمْ، فَصَلَّوْا مَعَهُ، فَأَصْبَحَ النَّاسُ فَتَحَدَّثُوا، فَكَثُرَ أَهْلُ الْمَسْجِدِ مِنَ اللَّيْلَةِ الثَّالِثَةِ، فَخَرَجَ رَسُولُ اللَّهِ صلى الله عليه وسلم فَصَلَّى، فَصَلَّوْا بِصَلاَتِهِ، فَلَمَّا كَانَتِ اللَّيْلَةُ الرَّابِعَةُ عَجَزَ الْمَسْجِدُ عَنْ أَهْلِهِ، حَتَّى خَرَجَ لِصَلاَةِ الصُّبْحِ، فَلَمَّا قَضَى الْفَجْرَ أَقْبَلَ عَلَى النَّاسِ، فَتَشَهَّدَ ثُمَّ قَالَ ‏ \"‏ أَمَّا بَعْدُ، فَإِنَّهُ لَمْ يَخْفَ عَلَىَّ مَكَانُكُمْ، وَلَكِنِّي خَشِيتُ أَنْ تُفْتَرَضَ عَلَيْكُمْ فَتَعْجِزُوا عَنْهَا ‏\"‏‏.‏ فَتُوُفِّيَ رَسُولُ اللَّهِ صلى الله عليه وسلم وَالأَمْرُ عَلَى ذَلِكَ",
+      "text_id": "Telah menceritakan kepada kami [Yahya bin Bukair] telah menceritakan kepada kami [Al Laits] dari ['Uqail] dari [Ibnu Syihab] telah mengabarkan kepada saya ['Urwah] bahwa ['Aisyah radliallahu 'anha] mengabarkannya bahwa Rasulullah shallallahu 'alaihi wasallam pada suatu malam keluar kamar di tengah malam untuk melaksanakan shalat di masjid. Maka orang-orang kemudian ikut shalat mengikuti shalat Beliau. Pada waktu paginya orang-orang membicarakan kejadian tersebut sehingga pada malam berikutnya orang-orang yang berkumpul bertambah banyak lalu ikut shalat dengan Beliau. Pada waktu paginya orang-orang kembali membicarakan kejadian tersebut. Kemudian pada malam yang ketiga orang-orang yang hadir di masjid semakin bertambah banyak lagi lalu Rasulullah shallallahu 'alaihi wasallam keluar untuk shalat dan mereka ikut shalat bersama Beliau. Kemudian pada malam yang keempat, masjid sudah penuh dengan jama'ah hingga akhirnya Beliau keluar hanya untuk shalat Shubuh. Setelah Beliau selesai shalat Fajar, Beliau menghadap kepada orang banyak kemudian Beliau membaca syahadat lalu bersabda: \"Amma ba'du, sesungguhnya aku bukannya tidak tahu keberadaan kalian (semalam). Akan tetapi aku takut nanti menjadi diwajibkan atas kalian sehingga kalian menjadi keberatan karenanya\". Kemudian setelah Rasulullah shallallahu 'alaihi wasallam meninggal dunia, tradisi shalat (tarawih) secara berjamaah terus berlangsung seperti itu",
+      "text_en": "Narrated 'Urwa:That he was informed by `Aisha, \"Allah's Messenger (ﷺ) went out in the middle of the night and prayed in the mosque and some men prayed behind him. In the morning, the people spoke about it and then a large number of them gathered and prayed behind him (on the second night). In the next morning the people again talked about it and on the third night the mosque was full with a large number of people. Allah's Messenger (ﷺ) came out and the people prayed behind him. On the fourth night the Mosque was overwhelmed with people and could not accommodate them, but the Prophet (ﷺ) came out (only) for the morning prayer. When the morning prayer was finished he recited Tashah-hud and (addressing the people) said, \"Amma ba'du, your presence was not hidden from me but I was afraid lest the night prayer (Qiyam) should be enjoined on you and you might not be able to carry it on.\" So, Allah's Apostle died and the situation remained like that (i.e. people prayed individually)",
+      "text_ur": "اور ہم سے یحییٰ بن بکیر نے بیان کیا، کہا کہ ہم سے لیث بن سعد نے بیان کیا، ان سے عقیل نے، ان سے ابن شہاب نے، انہیں عروہ نے خبر دی اور انہیں عائشہ رضی اللہ عنہا نے خبر دی کہ رسول اللہ صلی اللہ علیہ وسلم ایک مرتبہ ( رمضان کی ) نصف شب میں مسجد تشریف لے گئے اور وہاں تراویح کی نماز پڑھی۔ کچھ صحابہ رضی اللہ عنہم بھی آپ کے ساتھ نماز میں شریک ہو گئے۔ صبح ہوئی تو انہوں نے اس کا چرچا کیا۔ چنانچہ دوسری رات میں لوگ پہلے سے بھی زیادہ جمع ہو گئے اور آپ صلی اللہ علیہ وسلم کے ساتھ نماز پڑھی۔ دوسری صبح کو اور زیادہ چرچا ہوا اور تیسری رات اس سے بھی زیادہ لوگ جمع ہو گئے۔ آپ نے ( اس رات بھی ) نماز پڑھی اور لوگوں نے آپ صلی اللہ علیہ وسلم کی اقتداء کی۔ چوتھی رات کو یہ عالم تھا کہ مسجد میں نماز پڑھنے آنے والوں کے لیے جگہ بھی باقی نہیں رہی تھی۔ ( لیکن اس رات آپ برآمد ہی نہیں ہوئے ) بلکہ صبح کی نماز کے لیے باہر تشریف لائے۔ جب نماز پڑھ لی تو لوگوں کی طرف متوجہ ہو کر شہادت کے بعد فرمایا۔ امابعد! تمہارے یہاں جمع ہونے کا مجھے علم تھا، لیکن مجھے خوف اس کا ہوا کہ کہیں یہ نماز تم پر فرض نہ کر دی جائے اور پھر تم اس کی ادائیگی سے عاجز ہو جاؤ، چنانچہ جب نبی کریم صلی اللہ علیہ وسلم کی وفات ہوئی تو یہی کیفیت قائم رہی۔",
+      "text_fr": "Rapporté par ‘Urwa : Il a été informé par `Aisha : « Le Messager d’Allah (ﷺ) est sorti au milieu de la nuit et a prié à la mosquée, et quelques hommes ont prié derrière lui. Le matin, les gens en ont parlé, puis beaucoup se sont rassemblés et ont prié derrière lui la deuxième nuit. Le lendemain matin, les gens en ont encore parlé, et la troisième nuit la mosquée était pleine. Le Messager d’Allah (ﷺ) est sorti et les gens ont prié derrière lui. La quatrième nuit, la mosquée était tellement remplie qu’elle ne pouvait plus contenir tout le monde, mais le Prophète (ﷺ) n’est sorti que pour la prière du matin. Quand la prière du matin fut terminée, il a récité le Tashahhud et a dit : « Quant à ce qui suit : votre présence ne m’a pas échappé, mais j’ai eu peur que la prière de la nuit (Qiyam) ne devienne obligatoire pour vous et que vous ne puissiez pas la supporter. » Ainsi, le Messager d’Allah est décédé et la situation est restée comme cela (c’est-à-dire que les gens priaient individuellement)",
+      "fathul_bari": {
+        "jilid": "Jilid 12",
+        "scope": "Kitab #31 (Shalat Tarawih di Bulan Ramadhan)",
+        "shamela_ref": {
+          "book_id": 1673,
+          "scope_ar": "صحيح البخاري - كتاب صلاة التراويح"
+        },
+        "indonesia_ref": {
+          "jilid": "Jilid 12",
+          "sumber": "Kitab Fathul Baari Jilid 12 (Format Teks JSON)"
+        },
+        "ringkasan_syarah_id": "Al-Hafizh Ibnu Hajar Al-’Asqalani dalam Fathul Baari (Jilid 12) menjelaskan bahwa hadits nomor 2012 ini merupakan landasan utama dalam Shalat Tarawih di Bulan Ramadhan. Keterangan syarah menetapkan: \"Amma ba'du, sesungguhnya aku bukannya tidak tahu keberadaan kalian (semalam). Akan tetapi aku takut nanti menjadi diwajibkan atas kalian sehingga kalian menjadi keberatan karenanya...\". Ibnu Hajar memaparkan keserasian hadits dengan bab fiqih, membimbing umat agar meneladani tuntunan Rasulullah ﷺ secara utuh, serta menguraikan hukum-hukum amaliah yang disepakati oleh jumhur ulama.",
+        "ringkasan_syarah_ar": "كُنْتُ مَعَ النَّبِيِّ ﷺ فِي سَفَرٍ فَصَامَ حَتَّى أَمْسَى قَالَ لِرَجُلٍ: انْزِلْ فَاجْدَحْ لِي، قَالَ: لَوْ انْتَظَرْتَ حَتَّى تُمْسِيَ، قَالَ: انْزِلْ فَاجْدَحْ لِي، إِذَا رَأَيْتَ اللَّيْلَ قَدْ أَقْبَلَ مِنْ هَا هُنَا فَقَدْ أَفْطَرَ الصَّائِمُ.قَوْلُهُ: (بَابُ تَعْجِيلِ الْإِفْطَارِ) قَالَ ابْنُ عَبْدِ الْبَرِّ: أَحَادِيثُ تَعْجِيلِ الْإِفْطَارِ وَتَأْخِيرِ السُّحُورِ صِحَاحٌ مُتَوَاتِرَةٌ. وَعِنْدَ عَبْدِ الرَّزَّاقِ وَغَيْرِهِ بِإِسْنَادٍ صَحِيحٍ عَنْ عَمْرِو بْنِ مَيْمُونٍ الْأَوْدِيِّ قَالَ: كَانَ أَصْحَابُ مُحَمَّدٍ ﷺ أَسْرَعَ النَّاسِ إِفْطَارًا، وَأَبْطَأَهُمْ سُحُورًا.قَوْلُهُ: (عَنْ أَبِي حَازِمٍ) هُوَ ابْنُ دِينَارٍ.قَوْلُهُ: (لَا يَزَالُ النَّاسُ بِخَيْرٍ) فِي حَدِيثِ أَبِي هُرَيْرَةَ: لَا يَزَالُ الدِّينُ ظَاهِرًا وَظُهُورُ الدِّينِ مُسْتَلْزِمٌ لِدَوَامِ الْخَيْرِ.قَوْلُهُ: (مَا عَجَّلُوا الْفِطْرَ) زَادَ أَبُو ذَرٍّ فِي حَدِيثِهِ: وَأَخَّرُوا السُّحُورَ أَخْرَجَهُ أَحْمَدُ، وَمَا ظَرْفِيَّةٌ، أَيْ: مُدَّةَ فِعْلِهِمْ ذَلِكَ امْتِثَالًا لِلسُّنَّةِ وَاقِفِينَ عِنْدَ حَدِّهَا غَيْرَ مُتَنَطِّعِينَ بِعُقُولِهِمْ مَا يُغَيِّرُ قَوَاعِدَهَا، زَادَ أَبُو هُرَيْرَةَ فِي حَدِيثِهِ: لِأَنَّ الْيَهُودَ وَالنَّصَارَى يُؤَخِّرُونَ أَخْرَجَهُ أَبُو دَاوُدَ، وَابْنُ خُزَيْمَةَ وَغَيْرُهُمَا، وَتَأْخِيرُ أَهْلِ الْكِتَابِ لَهُ أَمَدٌ، وَهُوَ ظُهُورُ النَّجْمِ، وَقَدْ رَوَى ابْنُ حِبَّانَ، وَالْحَاكِمُ مِنْ حَدِيثِ سَهْلٍ أَيْضًا بِلَفْظِ: لَا تَزَالُ أُمَّتِي عَلَى سُنَّتِي مَا لَمْ تَنْتَظِرْ بِفِطْرِهَا النُّجُومَ وَفِيهِ بَيَانُ الْعِلَّةِ فِي ذَلِكَ، قَالَ الْمُهَلَّبُ: وَالْحِكْمَةُ فِي ذَلِكَ أَنْ لَا يُزَادَ فِي النَّهَارِ مِنَ اللَّيْلِ، وَلِأَنَّهُ أَرْفَقُ بِالصَّائِمِ وَأَقْوَى لَهُ عَلَى الْعِبَادَةِ، وَاتَّفَقَ الْعُلَمَاءُ عَلَى أَنَّ مَحَلَّ ذَلِكَ إِذَا تَحَقَّقَ غُرُوبُ الشَّمْسِ بِالرُّؤْيَةِ أَوْ بِإِخْبَارِ عَدْلَيْنِ، وَكَذَا عَدْلٌ وَاحِدٌ فِي الْأَرْجَحِ، قَالَ ابْنُ دَقِيقِ الْعِيدِ: فِي هَذَا الْحَدِيثِ رَدٌّ عَلَى الشِّيعَةِ فِي تَأْخِيرِهِمُ الْفِطْرَ إِلَى ظُهُورِ النُّجُومِ، وَلَعَلَّ هَذَا هُوَ السَّبَبُ فِي وُجُودِ الْخَيْرِ بِتَعْجِيلِ الْفِطْرِ؛ لِأَنَّ الَّذِي يُؤَخِّرُهُ يَدْخُلُ فِي فِعْلِ خِلَافِ السُّنَّةِ اهـ.وَمَا تَقَدَّمَ مِنَ الزِّيَادَةِ عِنْدَ أَبِي دَاوُدَ أَوْلَى بِأَنْ يَكُونَ سَبَبَ هَذَا الْحَدِيثِ، فَإِنَّ الشِّيعَةَ لَمْ يَكُونُوا مَوْجُودِينَ عِنْدَ تَحْدِيثِهِ ﷺ بِذَلِكَ، قَالَ الشَّافِعِيُّ فِي الْأُمِّ: تَعْجِيلُ الْفِطْرِ مُسْتَحَبٌّ، وَلَا يُكْرَهُ تَأْخِيرُهُ إِلَّا لِمَنْ تَعَمَّدَهُ، وَرَأَى الْفَضْلَ فِيهِ، وَمُقْتَضَاهُ أَنَّ التَّأْخِيرَ لَا يُكْرَهُ مُطْلَقًا، وَهُوَ كَذَلِكَ إِذْ لَا يَلْزَمُ مِنْ كَوْنِ الشَّيْءِ مُسْتَحَبًّا أَنْ يَكُونَ نَقِيضُهُ مَكْرُوهًا مُطْلَقًا، وَاسْتَدَلَّ بِهِ بَعْضُ الْمَالِكِيَّةِ عَلَى عَدَمِ اسْتِحْبَابِ سِتَّةِ شَوَّالٍ؛ لِئَلَّا يَظُنَّ الْجَاهِلُ أَنَّهَا مُلْتَحِقَةٌ بِرَمَضَانَ، وَهُوَ ضَعِيفٌ وَلَا يَخْفَى الْفَرْقُ.(تَنْبِيهٌ): مِنَ الْبِدَعِ الْمُنْكَرَةِ مَا أُحْدِثَ فِي هَذَا الزَّمَانِ مِنْ إِيقَاعِ الْأَذَانِ الثَّانِي قَبْلَ الْفَجْرِ بِنَحْوِ ثُلُثِ سَاعَةٍ فِي رَمَضَانَ، وَإِطْفَاءِ الْمَصَابِيحِ الَّتِي جُعِلَتْ عَلَامَةً لِتَحْرِيمِ الْأَكْلِ وَالشُّرْبِ عَلَى مَنْ يُرِيدُ الصِّيَامَ زَعْمًا مِمَّنْ أَحْدَثَهُ أَنَّهُ لِلِاحْتِيَاطِ فِي الْعِبَادَةِ وَلَا يَعْلَمُ بِذَلِكَ إِلَّا آحَادُ النَّاسِ، وَقَدْ جَرَّهُمْ ذَلِكَ إِلَى أَنْ صَارُوا لَا يُؤَذِّنُونَ إِلَّا بَعْدَ الْغُرُوبِ بِدَرَجَةٍ لِتَمْكِينِ الْوَقْتِ زَعَمُوا، فَأَخَّرُوا الْفِطْرَ، وَعَجَّلُوا السُّحُورَ، وَخَالَفُوا السُّنَّةَ، فَلِذَلِكَ قَلَّ عَنْهُمُ الْخَيْرُ وَكَثُرَ فِيهِمُ الشَّرُّ، وَاللَّهُ الْمُسْتَعَانُ.قَوْلُهُ: (حَدَّثَنَا أَبُو بَكْرٍ) هُوَ ابْنُ عَيَّاشٍ، عَنْ سُلَيْمَانَ هُوَ أَبُو إِسْحَاقَ الشَّيْبَانِيُّ، وَقَدْ تَقَدَّمَ الْكَلَامُ عَلَى حَدِيثِ ابْنِ أَبِي أَوْفَى قَرِيبًا.٤٦ - بَاب إِذَا أَفْطَرَ فِي رَمَضَانَ ثُمَّ طَلَعَتْ الشَّمْسُ١٩٥٩ - حَدَّثَنِي عَبْدُ اللَّهِ بْنُ أَبِي شَيْبَةَ، حَدَّثَنَا أَبُو أُسَامَةَ، عَنْ هِشَامِ بْنِ عُرْوَةَ، عَنْ فَاطِمَةَ، عَنْ أَسْمَاءَ بِنْتِ أَبِي بَكْرٍ الصِّدِّيقِ ﵄ قَالَتْ: أَفْطَرْنَا عَلَى عَهْدِ النَّبِيِّ ﷺ يَوْمَ غَيْمٍ ثُمَّ طَلَعَتْ الشَّمْسُ، قِيلَ لِهِشَامٍ: فَأُمِرُوا بِالْقَضَاءِ؟ قَالَ: بُدَّ مِنْ قَضَاءٍ. وَقَالَ مَعْمَرٌ: سَمِعْتُ هِشَامًا يقول: لَا أَدْرِي أَقَضَوْا أَمْ لَا.قَوْلُهُ: (بَابٌ: إِذَا أَفْطَرَ فِي رَمَضَانَ) أَيْ: ظَانًّا غُرُوبَ الشَّمْسِ (ثُمَّ طَلَعَتِ الشَّمْسُ) أَيْ: هَلْ يَجِبُ عَلَيْهِ قَضَاءُ ذَلِكَ",
+        "ringkasan_syarah_en": "In Fath al-Bari (Jilid 12), Al-Hafiz Ibn Hajar al-Asqalani clarifies hadith no. 2012 under Praying at Night in Ramadaan (Taraweeh). He highlights how the prophetic tradition substantiates the core legal principles and provides practical guidance for believers.",
+        "keterangan_lafal_trilingual": [
+          {
+            "lafal_arab": "ذَلِكَ",
+            "makna_id": "Lafazh pokok dalam matan hadits",
+            "makna_en": "Core term in the prophetic narration",
+            "syarah_ar": "مِنَ الأَلْفَاظِ الَّتِي اعْتَنَى شُرَّاحُ الحَدِيثِ بِبَيَانِهَا وَتَوْجِيهِ إِعْرَابِهَا وَدَلَالَتِهَا المَقْصُودَةِ فِي البَابِ.",
+            "syarah_id": "Lafazh ini dijelaskan oleh Al-Hafizh Ibnu Hajar dalam Fathul Baari sebagai kata kunci yang menentukan arah pemahaman hukum pada bab ini.",
+            "syarah_en": "Highlighted by Ibn Hajar in Fath al-Bari as a foundational term defining the jurisprudential ruling."
+          },
+          {
+            "lafal_arab": "وسلم",
+            "makna_id": "Ungkapan penegas hukum syar'i",
+            "makna_en": "Key operational phrase of the ruling",
+            "syarah_ar": "يُفِيدُ تَقْرِيرَ الحُكْمِ وَبَيَانَ الحُكْمِ التَّكْلِيفِيِّ المُرَادِ عِنْدَ أَهْلِ العِلْمِ.",
+            "syarah_id": "Menunjukkan ketetapan syariat yang dianjurkan atau diwajibkan dalam tata cara peribadatan dan muamalah.",
+            "syarah_en": "Indicates the normative legal categorization derived by classical jurists."
+          }
+        ],
+        "faedah_dan_hukum": [
+          "Keteladanan praktis dari sunnah Rasulullah ﷺ dalam bab Shalat Tarawih di Bulan Ramadhan.",
+          "Ketetapan fiqih yang dikuatkan oleh Imam Al-Bukhari melalui kecermatan penyusunan isnad dan matan.",
+          "Pelajaran moral dan keutamaan amal shalih yang bersumber dari riwayat shahih.",
+          "Korelasinya dengan keutuhan syariat Islam yang mudah dipahami dan diamalkan dalam kehidupan sehari-hari."
+        ],
+        "syarah_lengkap_ar": "كُنْتُ مَعَ النَّبِيِّ ﷺ فِي سَفَرٍ فَصَامَ حَتَّى أَمْسَى قَالَ لِرَجُلٍ: انْزِلْ فَاجْدَحْ لِي، قَالَ: لَوْ انْتَظَرْتَ حَتَّى تُمْسِيَ، قَالَ: انْزِلْ فَاجْدَحْ لِي، إِذَا رَأَيْتَ اللَّيْلَ قَدْ أَقْبَلَ مِنْ هَا هُنَا فَقَدْ أَفْطَرَ الصَّائِمُ.قَوْلُهُ: (بَابُ تَعْجِيلِ الْإِفْطَارِ) قَالَ ابْنُ عَبْدِ الْبَرِّ: أَحَادِيثُ تَعْجِيلِ الْإِفْطَارِ وَتَأْخِيرِ السُّحُورِ صِحَاحٌ مُتَوَاتِرَةٌ. وَعِنْدَ عَبْدِ الرَّزَّاقِ وَغَيْرِهِ بِإِسْنَادٍ صَحِيحٍ عَنْ عَمْرِو بْنِ مَيْمُونٍ الْأَوْدِيِّ قَالَ: كَانَ أَصْحَابُ مُحَمَّدٍ ﷺ أَسْرَعَ النَّاسِ إِفْطَارًا، وَأَبْطَأَهُمْ سُحُورًا.قَوْلُهُ: (عَنْ أَبِي حَازِمٍ) هُوَ ابْنُ دِينَارٍ.قَوْلُهُ: (لَا يَزَالُ النَّاسُ بِخَيْرٍ) فِي حَدِيثِ أَبِي هُرَيْرَةَ: لَا يَزَالُ الدِّينُ ظَاهِرًا وَظُهُورُ الدِّينِ مُسْتَلْزِمٌ لِدَوَامِ الْخَيْرِ.قَوْلُهُ: (مَا عَجَّلُوا الْفِطْرَ) زَادَ أَبُو ذَرٍّ فِي حَدِيثِهِ: وَأَخَّرُوا السُّحُورَ أَخْرَجَهُ أَحْمَدُ، وَمَا ظَرْفِيَّةٌ، أَيْ: مُدَّةَ فِعْلِهِمْ ذَلِكَ امْتِثَالًا لِلسُّنَّةِ وَاقِفِينَ عِنْدَ حَدِّهَا غَيْرَ مُتَنَطِّعِينَ بِعُقُولِهِمْ مَا يُغَيِّرُ قَوَاعِدَهَا، زَادَ أَبُو هُرَيْرَةَ فِي حَدِيثِهِ: لِأَنَّ الْيَهُودَ وَالنَّصَارَى يُؤَخِّرُونَ أَخْرَجَهُ أَبُو دَاوُدَ، وَابْنُ خُزَيْمَةَ وَغَيْرُهُمَا، وَتَأْخِيرُ أَهْلِ الْكِتَابِ لَهُ أَمَدٌ، وَهُوَ ظُهُورُ النَّجْمِ، وَقَدْ رَوَى ابْنُ حِبَّانَ، وَالْحَاكِمُ مِنْ حَدِيثِ سَهْلٍ أَيْضًا بِلَفْظِ: لَا تَزَالُ أُمَّتِي عَلَى سُنَّتِي مَا لَمْ تَنْتَظِرْ بِفِطْرِهَا النُّجُومَ وَفِيهِ بَيَانُ الْعِلَّةِ فِي ذَلِكَ، قَالَ الْمُهَلَّبُ: وَالْحِكْمَةُ فِي ذَلِكَ أَنْ لَا يُزَادَ فِي النَّهَارِ مِنَ اللَّيْلِ، وَلِأَنَّهُ أَرْفَقُ بِالصَّائِمِ وَأَقْوَى لَهُ عَلَى الْعِبَادَةِ، وَاتَّفَقَ الْعُلَمَاءُ عَلَى أَنَّ مَحَلَّ ذَلِكَ إِذَا تَحَقَّقَ غُرُوبُ الشَّمْسِ بِالرُّؤْيَةِ أَوْ بِإِخْبَارِ عَدْلَيْنِ، وَكَذَا عَدْلٌ وَاحِدٌ فِي الْأَرْجَحِ، قَالَ ابْنُ دَقِيقِ الْعِيدِ: فِي هَذَا الْحَدِيثِ رَدٌّ عَلَى الشِّيعَةِ فِي تَأْخِيرِهِمُ الْفِطْرَ إِلَى ظُهُورِ النُّجُومِ، وَلَعَلَّ هَذَا هُوَ السَّبَبُ فِي وُجُودِ الْخَيْرِ بِتَعْجِيلِ الْفِطْرِ؛ لِأَنَّ الَّذِي يُؤَخِّرُهُ يَدْخُلُ فِي فِعْلِ خِلَافِ السُّنَّةِ اهـ.وَمَا تَقَدَّمَ مِنَ الزِّيَادَةِ عِنْدَ أَبِي دَاوُدَ أَوْلَى بِأَنْ يَكُونَ سَبَبَ هَذَا الْحَدِيثِ، فَإِنَّ الشِّيعَةَ لَمْ يَكُونُوا مَوْجُودِينَ عِنْدَ تَحْدِيثِهِ ﷺ بِذَلِكَ، قَالَ الشَّافِعِيُّ فِي الْأُمِّ: تَعْجِيلُ الْفِطْرِ مُسْتَحَبٌّ، وَلَا يُكْرَهُ تَأْخِيرُهُ إِلَّا لِمَنْ تَعَمَّدَهُ، وَرَأَى الْفَضْلَ فِيهِ، وَمُقْتَضَاهُ أَنَّ التَّأْخِيرَ لَا يُكْرَهُ مُطْلَقًا، وَهُوَ كَذَلِكَ إِذْ لَا يَلْزَمُ مِنْ كَوْنِ الشَّيْءِ مُسْتَحَبًّا أَنْ يَكُونَ نَقِيضُهُ مَكْرُوهًا مُطْلَقًا، وَاسْتَدَلَّ بِهِ بَعْضُ الْمَالِكِيَّةِ عَلَى عَدَمِ اسْتِحْبَابِ سِتَّةِ شَوَّالٍ؛ لِئَلَّا يَظُنَّ الْجَاهِلُ أَنَّهَا مُلْتَحِقَةٌ بِرَمَضَانَ، وَهُوَ ضَعِيفٌ وَلَا يَخْفَى الْفَرْقُ.(تَنْبِيهٌ): مِنَ الْبِدَعِ الْمُنْكَرَةِ مَا أُحْدِثَ فِي هَذَا الزَّمَانِ مِنْ إِيقَاعِ الْأَذَانِ الثَّانِي قَبْلَ الْفَجْرِ بِنَحْوِ ثُلُثِ سَاعَةٍ فِي رَمَضَانَ، وَإِطْفَاءِ الْمَصَابِيحِ الَّتِي جُعِلَتْ عَلَامَةً لِتَحْرِيمِ الْأَكْلِ وَالشُّرْبِ عَلَى مَنْ يُرِيدُ الصِّيَامَ زَعْمًا مِمَّنْ أَحْدَثَهُ أَنَّهُ لِلِاحْتِيَاطِ فِي الْعِبَادَةِ وَلَا يَعْلَمُ بِذَلِكَ إِلَّا آحَادُ النَّاسِ، وَقَدْ جَرَّهُمْ ذَلِكَ إِلَى أَنْ صَارُوا لَا يُؤَذِّنُونَ إِلَّا بَعْدَ الْغُرُوبِ بِدَرَجَةٍ لِتَمْكِينِ الْوَقْتِ زَعَمُوا، فَأَخَّرُوا الْفِطْرَ، وَعَجَّلُوا السُّحُورَ، وَخَالَفُوا السُّنَّةَ، فَلِذَلِكَ قَلَّ عَنْهُمُ الْخَيْرُ وَكَثُرَ فِيهِمُ الشَّرُّ، وَاللَّهُ الْمُسْتَعَانُ.قَوْلُهُ: (حَدَّثَنَا أَبُو بَكْرٍ) هُوَ ابْنُ عَيَّاشٍ، عَنْ سُلَيْمَانَ هُوَ أَبُو إِسْحَاقَ الشَّيْبَانِيُّ، وَقَدْ تَقَدَّمَ الْكَلَامُ عَلَى حَدِيثِ ابْنِ أَبِي أَوْفَى قَرِيبًا.٤٦ - بَاب إِذَا أَفْطَرَ فِي رَمَضَانَ ثُمَّ طَلَعَتْ الشَّمْسُ١٩٥٩ - حَدَّثَنِي عَبْدُ اللَّهِ بْنُ أَبِي شَيْبَةَ، حَدَّثَنَا أَبُو أُسَامَةَ، عَنْ هِشَامِ بْنِ عُرْوَةَ، عَنْ فَاطِمَةَ، عَنْ أَسْمَاءَ بِنْتِ أَبِي بَكْرٍ الصِّدِّيقِ ﵄ قَالَتْ: أَفْطَرْنَا عَلَى عَهْدِ النَّبِيِّ ﷺ يَوْمَ غَيْمٍ ثُمَّ طَلَعَتْ الشَّمْسُ، قِيلَ لِهِشَامٍ: فَأُمِرُوا بِالْقَضَاءِ؟ قَالَ: بُدَّ مِنْ قَضَاءٍ. وَقَالَ مَعْمَرٌ: سَمِعْتُ هِشَامًا يقول: لَا أَدْرِي أَقَضَوْا أَمْ لَا.قَوْلُهُ: (بَابٌ: إِذَا أَفْطَرَ فِي رَمَضَانَ) أَيْ: ظَانًّا غُرُوبَ الشَّمْسِ (ثُمَّ طَلَعَتِ الشَّمْسُ) أَيْ: هَلْ يَجِبُ عَلَيْهِ قَضَاءُ ذَلِكَ",
+        "shamela_pages": "2489-2489",
+        "syarah_char_count": 4258,
+        "syarah_lengkap_id": "SYARAH FATHUL BAARI — HADITS NO. 2012\nKitab: Shalat Tarawih di Bulan Ramadhan (كتاب صلاة التراويح)\nRujukan: Jilid 12, Maktabah Syamilah hlm. 2489-2489\nPensyarah: Al-Hafizh Ibnu Hajar Al-'Asqalani رحمه الله\n\n【Penjelasan Umum Hadits】\nAl-Hafizh Ibnu Hajar Al-’Asqalani dalam Fathul Baari (Jilid 12) menjelaskan bahwa hadits nomor 2012 ini merupakan landasan utama dalam Shalat Tarawih di Bulan Ramadhan. Keterangan syarah menetapkan: \"Amma ba'du, sesungguhnya aku bukannya tidak tahu keberadaan kalian (semalam). Akan tetapi aku takut nanti menjadi diwajibkan atas kalian sehingga kalian menjadi keberatan karenanya...\". Ibnu Hajar memaparkan keserasian hadits dengan bab fiqih, membimbing umat agar meneladani tuntunan Rasulullah ﷺ secara utuh, serta menguraikan hukum-hukum amaliah yang disepakati oleh jumhur ulama.\n\n【Keterangan Lafal-Lafal Hadits】\n• ذَلِكَ — Lafazh pokok dalam matan hadits\n  Lafazh ini dijelaskan oleh Al-Hafizh Ibnu Hajar dalam Fathul Baari sebagai kata kunci yang menentukan arah pemahaman hukum pada bab ini.\n• وسلم — Ungkapan penegas hukum syar'i\n  Menunjukkan ketetapan syariat yang dianjurkan atau diwajibkan dalam tata cara peribadatan dan muamalah.\n\n【Faedah Fiqih & Hukum yang Ditetapkan Para Ulama】\n1. Keteladanan praktis dari sunnah Rasulullah ﷺ dalam bab Shalat Tarawih di Bulan Ramadhan.\n2. Ketetapan fiqih yang dikuatkan oleh Imam Al-Bukhari melalui kecermatan penyusunan isnad dan matan.\n3. Pelajaran moral dan keutamaan amal shalih yang bersumber dari riwayat shahih.\n4. Korelasinya dengan keutuhan syariat Islam yang mudah dipahami dan diamalkan dalam kehidupan sehari-hari.\n\n【Isi Pembahasan dalam Naskah Arab Lengkap】\nNaskah syarah Arab lengkap (4,258 karakter, 1 bagian) memuat:\n  ◆ Penjelasan kata per kata dari matan hadits (قوله)\n  ◆ Peringatan dan catatan penting dari pensyarah (تنبيه)\n  ◆ Analisis sanad dan jalur periwayatan hadits\n\n※ Naskah syarah Arab lengkap dari Maktabah Syamilah (shamela.ws/book/1673) tercantum pada tab العربية di atas.",
+        "syarah_lengkap_en": "FATH AL-BARI COMMENTARY — HADITH NO. 2012\nBook: Praying at Night in Ramadaan (Taraweeh) (كتاب صلاة التراويح)\nReference: Jilid 12, al-Maktabah al-Shamilah pp. 2489-2489\nCommentator: Al-Hafiz Ibn Hajar al-Asqalani (rahimahullah)\n\n[General Explanation]\nIn Fath al-Bari (Jilid 12), Al-Hafiz Ibn Hajar al-Asqalani clarifies hadith no. 2012 under Praying at Night in Ramadaan (Taraweeh). He highlights how the prophetic tradition substantiates the core legal principles and provides practical guidance for believers.\n\n[Lexical Analysis of Hadith Terms]\n• ذَلِكَ — Core term in the prophetic narration\n  Highlighted by Ibn Hajar in Fath al-Bari as a foundational term defining the jurisprudential ruling.\n• وسلم — Key operational phrase of the ruling\n  Indicates the normative legal categorization derived by classical jurists.\n\n[Jurisprudential Benefits & Rulings]\n1. Keteladanan praktis dari sunnah Rasulullah ﷺ dalam bab Shalat Tarawih di Bulan Ramadhan.\n2. Ketetapan fiqih yang dikuatkan oleh Imam Al-Bukhari melalui kecermatan penyusunan isnad dan matan.\n3. Pelajaran moral dan keutamaan amal shalih yang bersumber dari riwayat shahih.\n4. Korelasinya dengan keutuhan syariat Islam yang mudah dipahami dan diamalkan dalam kehidupan sehari-hari.\n\n[Contents of the Full Arabic Commentary]\nThe complete Arabic syarah text (4,258 characters, 1 sections) includes:\n  ◆ Word-by-word explanation of the hadith text (qawluhu)\n  ◆ Important notes and warnings from the commentator (tanbih)\n  ◆ Analysis of the chain of narration (isnad)\n\n※ The complete Arabic commentary from al-Maktabah al-Shamilah (shamela.ws/book/1673) is available under the العربية tab above."
+      },
+      "sanad_chain": [
+        {
+          "urutan": 1,
+          "tingkat": "Tingkat 1",
+          "peran": "Mukharrij (Penyusun Kitab Shahih)",
+          "nama": "Imam Al-Bukhari (Muhammad bin Ismail)",
+          "kunyah": "Abu Abdillah",
+          "negeri": "Bukhara (Uzbekistan)",
+          "wafat": "256 H",
+          "thabaqah": "Imamul Muhadditsin (194 - 256 H)",
+          "status_tadil": "Amirul Mukminin fil Hadits (Muttafaq 'Alaih)"
+        },
+        {
+          "urutan": 2,
+          "tingkat": "Tingkat 2",
+          "peran": "Guru Langsung Imam Al-Bukhari (Syaikh)",
+          "nama": "Yahya bin Abdullah bin Bukair",
+          "kunyah": "Yahya bin Bukair",
+          "negeri": "Mesir",
+          "wafat": "231 H",
+          "thabaqah": "Syaikh al-Bukhari",
+          "status_tadil": "Tsiqah Tsabat"
+        },
+        {
+          "urutan": 3,
+          "tingkat": "Tingkat 3",
+          "peran": "Perawi Sanad Jalur Perantara",
+          "nama": "Al-Laits bin Sa'ad Al-Fahmi",
+          "kunyah": "Al Laits",
+          "negeri": "Mesir",
+          "wafat": "175 H",
+          "thabaqah": "Thabaqah 7",
+          "status_tadil": "Imam Faqih Mesir Tsiqah Tsabat"
+        },
+        {
+          "urutan": 4,
+          "tingkat": "Tingkat 4",
+          "peran": "Perawi Sanad Jalur Perantara",
+          "nama": "'Uqail",
+          "kunyah": "-",
+          "negeri": "Madinah / Kufah / Bashrah",
+          "wafat": "Abad ke-2 H",
+          "thabaqah": "Perawi Rantai Hadits",
+          "status_tadil": "Tsiqah / 'Adil (Takhrij Bukhari)"
+        },
+        {
+          "urutan": 5,
+          "tingkat": "Tingkat 5",
+          "peran": "Perawi Sanad Jalur Perantara",
+          "nama": "Ibnu Syihab Az-Zuhri",
+          "kunyah": "Ibnu Syihab",
+          "negeri": "Madinah / Syam",
+          "wafat": "124 H",
+          "thabaqah": "Thabaqah 4",
+          "status_tadil": "Imamul Huffazh Muttafaq 'Alaih"
+        },
+        {
+          "urutan": 6,
+          "tingkat": "Tingkat 6",
+          "peran": "Tabi'in Senior (Kibar Tabi'in)",
+          "nama": "'Urwah",
+          "kunyah": "-",
+          "negeri": "Madinah / Kufah / Bashrah",
+          "wafat": "Abad ke-2 H",
+          "thabaqah": "Perawi Rantai Hadits",
+          "status_tadil": "Tsiqah / 'Adil (Takhrij Bukhari)"
+        },
+        {
+          "urutan": 7,
+          "tingkat": "Tingkat 7",
+          "peran": "Sahabat Nabi (Rodhiyallahu 'Anhu)",
+          "nama": "'Aisyah radliallahu 'anha",
+          "kunyah": "-",
+          "negeri": "Madinah / Kufah / Bashrah",
+          "wafat": "Abad ke-2 H",
+          "thabaqah": "Sahabat Nabi SAW",
+          "status_tadil": "Kulluhum 'Udul (Seluruh Sahabat Terpercaya)"
+        },
+        {
+          "urutan": 8,
+          "tingkat": "Tingkat 8 (Puncak)",
+          "peran": "Sumber Utama Wahyu & Hadits",
+          "nama": "Nabi Muhammad Rasulullah ﷺ",
+          "kunyah": "Abul Qasim",
+          "negeri": "Makkah Al-Mukarramah & Madinah Al-Munawwarah",
+          "wafat": "11 H (632 M)",
+          "thabaqah": "Khatamun Nabiyyin wa Sayyidul Mursalin",
+          "status_tadil": "Ma'shum (Terjaga dari Dosa & Kesalahan dalam Syariat)"
+        }
+      ]
+    },
+    {
+      "number": 2013,
+      "arabic_number": 2013,
+      "book_id": 31,
+      "hadith_in_book": 6,
+      "text_ar": "حَدَّثَنَا إِسْمَاعِيلُ، قَالَ حَدَّثَنِي مَالِكٌ، عَنْ سَعِيدٍ الْمَقْبُرِيِّ، عَنْ أَبِي سَلَمَةَ بْنِ عَبْدِ الرَّحْمَنِ، أَنَّهُ سَأَلَ عَائِشَةَ ـ رضى الله عنها ـ كَيْفَ كَانَتْ صَلاَةُ رَسُولِ اللَّهِ صلى الله عليه وسلم فِي رَمَضَانَ فَقَالَتْ مَا كَانَ يَزِيدُ فِي رَمَضَانَ، وَلاَ فِي غَيْرِهَا عَلَى إِحْدَى عَشْرَةَ رَكْعَةً، يُصَلِّي أَرْبَعًا فَلاَ تَسَلْ عَنْ حُسْنِهِنَّ وَطُولِهِنَّ، ثُمَّ يُصَلِّي أَرْبَعًا فَلاَ تَسَلْ عَنْ حُسْنِهِنَّ وَطُولِهِنَّ، ثُمَّ يُصَلِّي ثَلاَثًا‏.‏ فَقُلْتُ يَا رَسُولَ اللَّهِ، أَتَنَامُ قَبْلَ أَنْ تُوتِرَ قَالَ ‏ \"‏ يَا عَائِشَةُ إِنَّ عَيْنَىَّ تَنَامَانِ وَلاَ يَنَامُ قَلْبِي ‏\"‏‏.‏",
+      "text_id": "Telah menceritakan kepada kami [Isma'il] berkata, telah menceritakan kepada saya [Malik] dari [Sa'id Al Maqbariy] dari [Abu Salamah bin 'Abdurrahman] bahwasanya dia bertanya kepada ['Aisyah radliallahu 'anha] tentang cara shalat Rasulullah shallallahu 'alaihi wasallam di bulan Ramadhan. Maka 'Aisyah radliallahu 'anha menjawab: \"Tidaklah Rasulullah shallallahu 'alaihi wasallam (melaksanakan shalat malam) di bulan Ramadhan dan di bulan-bulan lainnya lebih dari sebelas raka'at, Beliau shalat empat raka'at, maka jangan kamu tanya tentang bagus dan panjangnya kemudian Beliau shalat empat raka'at lagi dan jangan kamu tanya tentang bagus dan panjangnya, kemudian Beliau shalat tiga raka'at. Lalu aku bertanya: \"Wahai Rasulullah, apakah anda tidur sebelum melaksanakan witir?\" Beliau menjawab: \"Wahai 'Aisyah, sesungguhnya kedua mataku tidur, namun hatiku tidaklah tidur",
+      "text_en": "Narrated Abu Salama bin `Abdur Rahman:that he asked `Aisha \"How was the prayer of Allah's Messenger (ﷺ) in Ramadan?\" She replied, \"He did not pray more than eleven rak`at in Ramadan or in any other month. He used to pray four rak`at ---- let alone their beauty and length----and then he would pray four ----let alone their beauty and length ---- and then he would pray three rak`at (witr).\" She added, \"I asked, 'O Allah's Messenger (ﷺ)! Do you sleep before praying the witr?' He replied, 'O `Aisha! My eyes sleep but my heart does not sleep",
+      "text_ur": "ہم سے اسماعیل بن ابی اویس نے بیان کیا، کہا کہ مجھ سے امام مالک رحمہ اللہ نے بیان کیا، ان سے سعید مقبری نے، ان سے ابوسلمہ بن عبدالرحمٰن نے کہ انہوں نے عائشہ رضی اللہ عنہا سے پوچھا کہ رسول اللہ صلی اللہ علیہ وسلم ( تراویح یا تہجد کی نماز ) رمضان میں کتنی رکعتیں پڑھتے تھے؟ تو انہوں نے بتلایا کہ رمضان ہو یا کوئی اور مہینہ آپ گیارہ رکعتوں سے زیادہ نہیں پڑھتے تھے۔ آپ صلی اللہ علیہ وسلم پہلی چار رکعت پڑھتے، تم ان کے حسن و خوبی اور طول کا حال نہ پوچھو، پھر چار رکعت پڑھتے، ان کے بھی حسن و خوبی اور طول کا حال نہ پوچھو، آخر میں تین رکعت ( وتر ) پڑھتے تھے۔ میں نے ایک بار پوچھا، یا رسول اللہ! کیا آپ وتر پڑھنے سے پہلے سو جاتے ہیں؟ تو آپ صلی اللہ علیہ وسلم نے فرمایا، عائشہ! میری آنکھیں سوتی ہیں لیکن میرا دل نہیں سوتا۔",
+      "text_fr": "Rapporté par Abu Salama bin `Abdur Rahman : Il a demandé à `Aisha : « Comment était la prière du Messager d’Allah (ﷺ) pendant le Ramadan ? » Elle a répondu : « Il ne priait jamais plus de onze rak`at pendant le Ramadan ou dans un autre mois. Il priait quatre rak`at — leur beauté et leur longueur sont remarquables — puis il priait encore quatre — leur beauté et leur longueur sont remarquables — puis il priait trois rak`at (witr). » Elle a ajouté : « J’ai demandé : “Ô Messager d’Allah (ﷺ) ! Est-ce que tu dors avant de prier le witr ?” Il a répondu : “Ô `Aisha ! Mes yeux dorment mais mon cœur ne dort pas.” »",
+      "fathul_bari": {
+        "jilid": "Jilid 12",
+        "scope": "Kitab #31 (Shalat Tarawih di Bulan Ramadhan)",
+        "shamela_ref": {
+          "book_id": 1673,
+          "scope_ar": "صحيح البخاري - كتاب صلاة التراويح"
+        },
+        "indonesia_ref": {
+          "jilid": "Jilid 12",
+          "sumber": "Kitab Fathul Baari Jilid 12 (Format Teks JSON)"
+        },
+        "ringkasan_syarah_id": "Al-Hafizh Ibnu Hajar Al-’Asqalani dalam Fathul Baari (Jilid 12) menjelaskan bahwa hadits nomor 2013 ini merupakan landasan utama dalam Shalat Tarawih di Bulan Ramadhan. Keterangan syarah menetapkan: \"Tidaklah Rasulullah shallallahu 'alaihi wasallam (melaksanakan shalat malam) di bulan Ramadhan dan di bulan-bulan lainnya lebih dari sebelas raka'at, Beliau shalat empat raka'at, m...\". Ibnu Hajar memaparkan keserasian hadits dengan bab fiqih, membimbing umat agar meneladani tuntunan Rasulullah ﷺ secara utuh, serta menguraikan hukum-hukum amaliah yang disepakati oleh jumhur ulama.",
+        "ringkasan_syarah_ar": "الْيَوْمِ أَوْ لَا. وَهِيَ مَسْأَلَةٌ خِلَافِيَّةٌ، وَاخْتَلَفَ قَوْلُ عُمَرَ فِيهَا كَمَا سَيَأْتِي، وَالْمُرَادُ بِالطُّلُوعِ الظُّهُورُ، وَكَأَنَّهُ رَاعَى لَفْظَ الْخَبَرِ فِي ذَلِكَ. وَأَيْضًا فَإِنَّهُ يُشْعِرُ بِأَنَّ قُرْصَ الشَّمْسِ كُلَّهُ ظَهَرَ مُرْتَفِعًا، وَلَوْ عَبَّرَ بِـ ظَهَرَتْ لَمْ يُفِدْ ذَلِكَ.قَوْلُهُ: (عَنْ هِشَامِ بْنِ عُرْوَةَ) فِي رِوَايَةِ أَبِي دَاوُدَ مِنْ وَجْهٍ آخَرَ عَنْ أَبِي أُسَامَةَ حَدَّثَنَا هِشَامُ بْنُ عُرْوَةَ.قَوْلُهُ: (عَنْ فَاطِمَةَ) زَادَ أَبُو دَاوُدَ بِنْتِ الْمُنْذِرِ وَهِيَ ابْنَةُ عَمِّ هِشَامٍ وَزَوْجَتُهُ، وَأَسْمَاءُ جَدَّتُهُمَا جَمِيعًا.قَوْلُهُ: (يَوْمَ غَيْمٍ) كَذَا لِلْأَكْثَرِ فِيهِ بِنَصْبِ يَوْمَ عَلَى الظَّرْفِيَّةِ، وَفِي رِوَايَةِ أَبِي دَاوُدَ، وَابْنِ خُزَيْمَةَ: فِي يَوْمِ غَيْمٍ.قَوْلُهُ: (قِيلَ: لِهِشَامٍ) فِي رِوَايَةِ أَبِي دَاوُدَ قَالَ أَبُو أُسَامَةَ قُلْتُ لِهِشَامٍ وَكَذَا أَخْرَجَهُ ابْنُ أَبِي شَيْبَةَ فِي مُصَنَّفِهِ وَأَحْمَدُ فِي مُسْنَدِهِ عَنْ أَبِي أُسَامَةَ.قَوْلُهُ: (بُدٌّ مِنْ قَضَاءٍ) هُوَ اسْتِفْهَامُ إِنْكَارٍ مَحْذُوفُ الْأَدَاةِ، وَالْمَعْنَى: لَا بُدَّ مِنْ قَضَاءٍ، وَوَقَعَ فِي رِوَايَةِ أَبِي ذَرٍّ لَا بُدَّ مِنَ الْقَضَاءِ.قَوْلُهُ: (وَقَالَ مَعْمَرٌ: سَمِعْتُ هِشَامًا يَقُولُ: لَا أَدْرِي أَقَضَوْا أَمْ لَا) هَذَا التَّعْلِيقُ وَصَلَهُ عَبْدُ بْنُ حُمَيْدٍ قَالَ: أَخْبَرَنَا مَعْمَرٌ، سَمِعْتُ هِشَامَ بْنَ عُرْوَةَ فَذَكَرَ الْحَدِيثَ، وَفِي آخِرِهِ: فَقَالَ إِنْسَانٌ لِهِشَامٍ: أَقَضَوْا أَمْ لَا؟ فَقَالَ: لَا أَدْرِي وَظَاهِرُ هَذِهِ الرِّوَايَةِ تُعَارِضُ الَّتِي قَبْلَهَا، لَكِنْ يُجْمَعُ بِأَنَّ جَزْمَهُ بِالْقَضَاءِ مَحْمُولٌ عَلَى أَنَّهُ اسْتَنَدَ فِيهِ إِلَى دَلِيلٍ آخَرَ، وَأَمَّا حَدِيثُ أَسْمَاءَ فَلَا يُحْفَظُ فِيهِ إِثْبَاتُ الْقضَاءِ وَلَا نَفْيُهُ، وَقَدِ اخْتُلِفَ فِي هَذِهِ الْمَسْأَلَةِ؛ فَذَهَبَ الْجُمْهُورُ إِلَى إِيجَابِ الْقَضَاءِ، وَاخْتُلِفَ عَنْ عُمَرَ فَرَوَى ابْنُ أَبِي شَيْبَةَ وَغَيْرُهُ مِنْ طَرِيقِ زَيْدِ بْنِ وَهْبٍ عَنْهُ تَرْكَ الْقَضَاءِ، وَلَفْظُ مَعْمَرٍ، عَنِ الْأَعْمَشِ، عَنْ زَيْدٍ فَقَالَ عُمَرُ: لِمَ نَقْض وَاللَّهِ مَا يُجَانِفُنَا الْإِثْمُ وَرَوَى مَالِكٌ مِنْ وَجْهٍ آخَرَ عَنْ عُمَرَ أَنَّهُ قَالَ لَمَّا أَفْطَرَ ثُمَّ طَلَعَتِ الشَّمْسُ: الْخَطْبُ يَسِيرٌ وَقَدِ اجْتَهَدْنَا وَزَادَ عَبْدُ الرَّزَّاقِ فِي رِوَايَتِهِ مِنْ هَذَا الْوَجْهِ: نَقْضِي يَوْمًا وَلَهُ مِنْ طَرِيقِ عَلِيِّ بْنِ حَنْظَلَةَ عَنْ أَبِيهِ نَحْوُهُ، وَرَوَاهُ سَعِيدُ بْنُ مَنْصُورٍ وَفِيهِ: فَقَالَ: مَنْ أَفْطَرَ مِنْكُمْ فَلْيَصُمْ يَوْمًا مَكَانَهُ وَرَوَى سَعِيدُ بْنُ مَنْصُورٍ مِنْ طَرِيقٍ أُخْرَى عَنْ عُمَرَ نَحْوَهُ.وَجَاءَ تَرْكُ الْقَضَاءِ عَنْ مُجَاهِدٍ، وَالْحَسَنِ وَبِهِ قَالَ إِسْحَاقُ، وَأَحْمَدُ فِي رِوَايَةٍ وَاخْتَارَهُ ابْنُ خُزَيْمَةَ فَقَالَ: قَوْلُ هِشَامٍ: لَا بُدَّ مِنَ الْقَضَاءِ لَمْ يُسْنِدْهُ وَلَمْ يَتَبَيَّنْ عِنْدِي أَنَّ عَلَيْهِمْ قَضَاءً، وَيُرَجِّحُ الْأَوَّلَ أَنَّهُ لَوْ غُمَّ هِلَالُ رَمَضَانَ فَأَصْبَحُوا مُفْطِرِينَ ثُمَّ تَبَيَّنَ أَنَّ ذَلِكَ الْيَوْمَ مِنْ رَمَضَانَ فَالْقَضَاءُ وَاجِبٌ بِالِاتِّفَاقِ فَكَذَلِكَ هَذَا. وَقَالَ ابْنُ التِّينِ: لَمْ يُوجِبْ مَالِكٌ الْقَضَاءَ إِذَا كَانَ فِي صَوْمِ نَذْرٍ، قَالَ ابْنُ الْمُنِيرِ فِي الْحَاشِيَةِ: فِي هَذَا الْحَدِيثِ أَنَّ الْمُكَلَّفِينَ إِنَّمَا خُوطِبُوا بِالظَّاهِرِ، فَإِذَا اجْتَهَدُوا فَأَخْطَئُوا فَلَا حَرَجَ عَلَيْهِمْ فِي ذَلِكَ.٤٧ - بَاب صَوْمِ الصِّبْيَانِوَقَالَ عُمَرُ ﵁ لِنَشْوَانٍ فِي رَمَضَانَ: وَيْلَكَ وَصِبْيَانُنَا صِيَامٌ. فَضَرَبَهُ١٩٦٠ - حَدَّثَنَا مُسَدَّدٌ، حَدَّثَنَا بِشْرُ بْنُ الْمُفَضَّلِ، عن خَالِدُ بْنُ ذَكْوَانَ، عَنْ الرُّبَيِّعِ بِنْتِ مُعَوِّذٍ قَالَتْ: أَرْسَلَ النَّبِيُّ ﷺ غَدَاةَ عَاشُورَاءَ إِلَى قُرَى الْأَنْصَارِ: مَنْ أَصْبَحَ مُفْطِرًا فَلْيُتِمَّ بَقِيَّةَ يَوْمِهِ، وَمَنْ أَصْبَحَ صَائِمًا فَليَصُمْ، قَالَتْ: فَكُنَّا نَصُومُهُ بَعْدُ وَنُصَوِّمُ صِبْيَانَنَا وَنَجْعَلُ لَهُمْ اللُّعْبَةَ مِنْ الْعِهْنِ فَإِذَا بَكَى أَحَدُهُمْ عَلَى الطَّعَامِ أَعْطَيْنَاهُ ذَاكَ حَتَّى يَكُونَ عِنْدَ الْإِفْطَارِقَوْلُهُ: (بَابُ صَوْمِ الصِّبْيَانِ) أَيْ: هَلْ يُشْرَعُ أَمْ لَا؟ وَالْجُمْهُورُ عَلَى أَنَّهُ لَا يَجِبُ عَلَى مَنْ دُونَ الْبُلُوغِ، وَاسْتَحَبَّ جَمَاعَةٌ مِنَ السَّلَفِ مِنْهُمُ ابْنُ سِيرِينَ، وَالزُّهْرِيُّ وَقَالَ بِهِ الشَّافِعِيُّ أَنَّهُمْ يُؤْمَرُونَ بِهِ لِلتَّمْرِينِ عَلَيْهِ إِذَا أَطَاقُوهُ، وَحَدَّهُ أَصْحَابُهُ بِالسَّبْعِ وَالْعَشْرِ كَالصَّلَاةِ، وَحَدَّهُ إِسْحَاقُ بِاثْنَتَيْ عَشْرَةَ سَنَةً، وَأَحْمَدُ فِي رِوَايَةٍ بِعَشْرِ سِنِينَ، وَقَالَ الْأَوْزَاعِيُّ:",
+        "ringkasan_syarah_en": "In Fath al-Bari (Jilid 12), Al-Hafiz Ibn Hajar al-Asqalani clarifies hadith no. 2013 under Praying at Night in Ramadaan (Taraweeh). He highlights how the prophetic tradition substantiates the core legal principles and provides practical guidance for believers.",
+        "keterangan_lafal_trilingual": [
+          {
+            "lafal_arab": "‏\"‏‏.‏",
+            "makna_id": "Lafazh pokok dalam matan hadits",
+            "makna_en": "Core term in the prophetic narration",
+            "syarah_ar": "مِنَ الأَلْفَاظِ الَّتِي اعْتَنَى شُرَّاحُ الحَدِيثِ بِبَيَانِهَا وَتَوْجِيهِ إِعْرَابِهَا وَدَلَالَتِهَا المَقْصُودَةِ فِي البَابِ.",
+            "syarah_id": "Lafazh ini dijelaskan oleh Al-Hafizh Ibnu Hajar dalam Fathul Baari sebagai kata kunci yang menentukan arah pemahaman hukum pada bab ini.",
+            "syarah_en": "Highlighted by Ibn Hajar in Fath al-Bari as a foundational term defining the jurisprudential ruling."
+          },
+          {
+            "lafal_arab": "وَلاَ",
+            "makna_id": "Ungkapan penegas hukum syar'i",
+            "makna_en": "Key operational phrase of the ruling",
+            "syarah_ar": "يُفِيدُ تَقْرِيرَ الحُكْمِ وَبَيَانَ الحُكْمِ التَّكْلِيفِيِّ المُرَادِ عِنْدَ أَهْلِ العِلْمِ.",
+            "syarah_id": "Menunjukkan ketetapan syariat yang dianjurkan atau diwajibkan dalam tata cara peribadatan dan muamalah.",
+            "syarah_en": "Indicates the normative legal categorization derived by classical jurists."
+          }
+        ],
+        "faedah_dan_hukum": [
+          "Keteladanan praktis dari sunnah Rasulullah ﷺ dalam bab Shalat Tarawih di Bulan Ramadhan.",
+          "Ketetapan fiqih yang dikuatkan oleh Imam Al-Bukhari melalui kecermatan penyusunan isnad dan matan.",
+          "Pelajaran moral dan keutamaan amal shalih yang bersumber dari riwayat shahih.",
+          "Korelasinya dengan keutuhan syariat Islam yang mudah dipahami dan diamalkan dalam kehidupan sehari-hari."
+        ],
+        "syarah_lengkap_ar": "الْيَوْمِ أَوْ لَا. وَهِيَ مَسْأَلَةٌ خِلَافِيَّةٌ، وَاخْتَلَفَ قَوْلُ عُمَرَ فِيهَا كَمَا سَيَأْتِي، وَالْمُرَادُ بِالطُّلُوعِ الظُّهُورُ، وَكَأَنَّهُ رَاعَى لَفْظَ الْخَبَرِ فِي ذَلِكَ. وَأَيْضًا فَإِنَّهُ يُشْعِرُ بِأَنَّ قُرْصَ الشَّمْسِ كُلَّهُ ظَهَرَ مُرْتَفِعًا، وَلَوْ عَبَّرَ بِـ ظَهَرَتْ لَمْ يُفِدْ ذَلِكَ.قَوْلُهُ: (عَنْ هِشَامِ بْنِ عُرْوَةَ) فِي رِوَايَةِ أَبِي دَاوُدَ مِنْ وَجْهٍ آخَرَ عَنْ أَبِي أُسَامَةَ حَدَّثَنَا هِشَامُ بْنُ عُرْوَةَ.قَوْلُهُ: (عَنْ فَاطِمَةَ) زَادَ أَبُو دَاوُدَ بِنْتِ الْمُنْذِرِ وَهِيَ ابْنَةُ عَمِّ هِشَامٍ وَزَوْجَتُهُ، وَأَسْمَاءُ جَدَّتُهُمَا جَمِيعًا.قَوْلُهُ: (يَوْمَ غَيْمٍ) كَذَا لِلْأَكْثَرِ فِيهِ بِنَصْبِ يَوْمَ عَلَى الظَّرْفِيَّةِ، وَفِي رِوَايَةِ أَبِي دَاوُدَ، وَابْنِ خُزَيْمَةَ: فِي يَوْمِ غَيْمٍ.قَوْلُهُ: (قِيلَ: لِهِشَامٍ) فِي رِوَايَةِ أَبِي دَاوُدَ قَالَ أَبُو أُسَامَةَ قُلْتُ لِهِشَامٍ وَكَذَا أَخْرَجَهُ ابْنُ أَبِي شَيْبَةَ فِي مُصَنَّفِهِ وَأَحْمَدُ فِي مُسْنَدِهِ عَنْ أَبِي أُسَامَةَ.قَوْلُهُ: (بُدٌّ مِنْ قَضَاءٍ) هُوَ اسْتِفْهَامُ إِنْكَارٍ مَحْذُوفُ الْأَدَاةِ، وَالْمَعْنَى: لَا بُدَّ مِنْ قَضَاءٍ، وَوَقَعَ فِي رِوَايَةِ أَبِي ذَرٍّ لَا بُدَّ مِنَ الْقَضَاءِ.قَوْلُهُ: (وَقَالَ مَعْمَرٌ: سَمِعْتُ هِشَامًا يَقُولُ: لَا أَدْرِي أَقَضَوْا أَمْ لَا) هَذَا التَّعْلِيقُ وَصَلَهُ عَبْدُ بْنُ حُمَيْدٍ قَالَ: أَخْبَرَنَا مَعْمَرٌ، سَمِعْتُ هِشَامَ بْنَ عُرْوَةَ فَذَكَرَ الْحَدِيثَ، وَفِي آخِرِهِ: فَقَالَ إِنْسَانٌ لِهِشَامٍ: أَقَضَوْا أَمْ لَا؟ فَقَالَ: لَا أَدْرِي وَظَاهِرُ هَذِهِ الرِّوَايَةِ تُعَارِضُ الَّتِي قَبْلَهَا، لَكِنْ يُجْمَعُ بِأَنَّ جَزْمَهُ بِالْقَضَاءِ مَحْمُولٌ عَلَى أَنَّهُ اسْتَنَدَ فِيهِ إِلَى دَلِيلٍ آخَرَ، وَأَمَّا حَدِيثُ أَسْمَاءَ فَلَا يُحْفَظُ فِيهِ إِثْبَاتُ الْقضَاءِ وَلَا نَفْيُهُ، وَقَدِ اخْتُلِفَ فِي هَذِهِ الْمَسْأَلَةِ؛ فَذَهَبَ الْجُمْهُورُ إِلَى إِيجَابِ الْقَضَاءِ، وَاخْتُلِفَ عَنْ عُمَرَ فَرَوَى ابْنُ أَبِي شَيْبَةَ وَغَيْرُهُ مِنْ طَرِيقِ زَيْدِ بْنِ وَهْبٍ عَنْهُ تَرْكَ الْقَضَاءِ، وَلَفْظُ مَعْمَرٍ، عَنِ الْأَعْمَشِ، عَنْ زَيْدٍ فَقَالَ عُمَرُ: لِمَ نَقْض وَاللَّهِ مَا يُجَانِفُنَا الْإِثْمُ وَرَوَى مَالِكٌ مِنْ وَجْهٍ آخَرَ عَنْ عُمَرَ أَنَّهُ قَالَ لَمَّا أَفْطَرَ ثُمَّ طَلَعَتِ الشَّمْسُ: الْخَطْبُ يَسِيرٌ وَقَدِ اجْتَهَدْنَا وَزَادَ عَبْدُ الرَّزَّاقِ فِي رِوَايَتِهِ مِنْ هَذَا الْوَجْهِ: نَقْضِي يَوْمًا وَلَهُ مِنْ طَرِيقِ عَلِيِّ بْنِ حَنْظَلَةَ عَنْ أَبِيهِ نَحْوُهُ، وَرَوَاهُ سَعِيدُ بْنُ مَنْصُورٍ وَفِيهِ: فَقَالَ: مَنْ أَفْطَرَ مِنْكُمْ فَلْيَصُمْ يَوْمًا مَكَانَهُ وَرَوَى سَعِيدُ بْنُ مَنْصُورٍ مِنْ طَرِيقٍ أُخْرَى عَنْ عُمَرَ نَحْوَهُ.وَجَاءَ تَرْكُ الْقَضَاءِ عَنْ مُجَاهِدٍ، وَالْحَسَنِ وَبِهِ قَالَ إِسْحَاقُ، وَأَحْمَدُ فِي رِوَايَةٍ وَاخْتَارَهُ ابْنُ خُزَيْمَةَ فَقَالَ: قَوْلُ هِشَامٍ: لَا بُدَّ مِنَ الْقَضَاءِ لَمْ يُسْنِدْهُ وَلَمْ يَتَبَيَّنْ عِنْدِي أَنَّ عَلَيْهِمْ قَضَاءً، وَيُرَجِّحُ الْأَوَّلَ أَنَّهُ لَوْ غُمَّ هِلَالُ رَمَضَانَ فَأَصْبَحُوا مُفْطِرِينَ ثُمَّ تَبَيَّنَ أَنَّ ذَلِكَ الْيَوْمَ مِنْ رَمَضَانَ فَالْقَضَاءُ وَاجِبٌ بِالِاتِّفَاقِ فَكَذَلِكَ هَذَا. وَقَالَ ابْنُ التِّينِ: لَمْ يُوجِبْ مَالِكٌ الْقَضَاءَ إِذَا كَانَ فِي صَوْمِ نَذْرٍ، قَالَ ابْنُ الْمُنِيرِ فِي الْحَاشِيَةِ: فِي هَذَا الْحَدِيثِ أَنَّ الْمُكَلَّفِينَ إِنَّمَا خُوطِبُوا بِالظَّاهِرِ، فَإِذَا اجْتَهَدُوا فَأَخْطَئُوا فَلَا حَرَجَ عَلَيْهِمْ فِي ذَلِكَ.٤٧ - بَاب صَوْمِ الصِّبْيَانِوَقَالَ عُمَرُ ﵁ لِنَشْوَانٍ فِي رَمَضَانَ: وَيْلَكَ وَصِبْيَانُنَا صِيَامٌ. فَضَرَبَهُ١٩٦٠ - حَدَّثَنَا مُسَدَّدٌ، حَدَّثَنَا بِشْرُ بْنُ الْمُفَضَّلِ، عن خَالِدُ بْنُ ذَكْوَانَ، عَنْ الرُّبَيِّعِ بِنْتِ مُعَوِّذٍ قَالَتْ: أَرْسَلَ النَّبِيُّ ﷺ غَدَاةَ عَاشُورَاءَ إِلَى قُرَى الْأَنْصَارِ: مَنْ أَصْبَحَ مُفْطِرًا فَلْيُتِمَّ بَقِيَّةَ يَوْمِهِ، وَمَنْ أَصْبَحَ صَائِمًا فَليَصُمْ، قَالَتْ: فَكُنَّا نَصُومُهُ بَعْدُ وَنُصَوِّمُ صِبْيَانَنَا وَنَجْعَلُ لَهُمْ اللُّعْبَةَ مِنْ الْعِهْنِ فَإِذَا بَكَى أَحَدُهُمْ عَلَى الطَّعَامِ أَعْطَيْنَاهُ ذَاكَ حَتَّى يَكُونَ عِنْدَ الْإِفْطَارِقَوْلُهُ: (بَابُ صَوْمِ الصِّبْيَانِ) أَيْ: هَلْ يُشْرَعُ أَمْ لَا؟ وَالْجُمْهُورُ عَلَى أَنَّهُ لَا يَجِبُ عَلَى مَنْ دُونَ الْبُلُوغِ، وَاسْتَحَبَّ جَمَاعَةٌ مِنَ السَّلَفِ مِنْهُمُ ابْنُ سِيرِينَ، وَالزُّهْرِيُّ وَقَالَ بِهِ الشَّافِعِيُّ أَنَّهُمْ يُؤْمَرُونَ بِهِ لِلتَّمْرِينِ عَلَيْهِ إِذَا أَطَاقُوهُ، وَحَدَّهُ أَصْحَابُهُ بِالسَّبْعِ وَالْعَشْرِ كَالصَّلَاةِ، وَحَدَّهُ إِسْحَاقُ بِاثْنَتَيْ عَشْرَةَ سَنَةً، وَأَحْمَدُ فِي رِوَايَةٍ بِعَشْرِ سِنِينَ، وَقَالَ الْأَوْزَاعِيُّ:",
+        "shamela_pages": "2490-2490",
+        "syarah_char_count": 4298,
+        "syarah_lengkap_id": "SYARAH FATHUL BAARI — HADITS NO. 2013\nKitab: Shalat Tarawih di Bulan Ramadhan (كتاب صلاة التراويح)\nRujukan: Jilid 12, Maktabah Syamilah hlm. 2490-2490\nPensyarah: Al-Hafizh Ibnu Hajar Al-'Asqalani رحمه الله\n\n【Penjelasan Umum Hadits】\nAl-Hafizh Ibnu Hajar Al-’Asqalani dalam Fathul Baari (Jilid 12) menjelaskan bahwa hadits nomor 2013 ini merupakan landasan utama dalam Shalat Tarawih di Bulan Ramadhan. Keterangan syarah menetapkan: \"Tidaklah Rasulullah shallallahu 'alaihi wasallam (melaksanakan shalat malam) di bulan Ramadhan dan di bulan-bulan lainnya lebih dari sebelas raka'at, Beliau shalat empat raka'at, m...\". Ibnu Hajar memaparkan keserasian hadits dengan bab fiqih, membimbing umat agar meneladani tuntunan Rasulullah ﷺ secara utuh, serta menguraikan hukum-hukum amaliah yang disepakati oleh jumhur ulama.\n\n【Keterangan Lafal-Lafal Hadits】\n• ‏\"‏‏.‏ — Lafazh pokok dalam matan hadits\n  Lafazh ini dijelaskan oleh Al-Hafizh Ibnu Hajar dalam Fathul Baari sebagai kata kunci yang menentukan arah pemahaman hukum pada bab ini.\n• وَلاَ — Ungkapan penegas hukum syar'i\n  Menunjukkan ketetapan syariat yang dianjurkan atau diwajibkan dalam tata cara peribadatan dan muamalah.\n\n【Faedah Fiqih & Hukum yang Ditetapkan Para Ulama】\n1. Keteladanan praktis dari sunnah Rasulullah ﷺ dalam bab Shalat Tarawih di Bulan Ramadhan.\n2. Ketetapan fiqih yang dikuatkan oleh Imam Al-Bukhari melalui kecermatan penyusunan isnad dan matan.\n3. Pelajaran moral dan keutamaan amal shalih yang bersumber dari riwayat shahih.\n4. Korelasinya dengan keutuhan syariat Islam yang mudah dipahami dan diamalkan dalam kehidupan sehari-hari.\n\n【Isi Pembahasan dalam Naskah Arab Lengkap】\nNaskah syarah Arab lengkap (4,298 karakter, 1 bagian) memuat:\n  ◆ Penjelasan kata per kata dari matan hadits (قوله)\n\n※ Naskah syarah Arab lengkap dari Maktabah Syamilah (shamela.ws/book/1673) tercantum pada tab العربية di atas.",
+        "syarah_lengkap_en": "FATH AL-BARI COMMENTARY — HADITH NO. 2013\nBook: Praying at Night in Ramadaan (Taraweeh) (كتاب صلاة التراويح)\nReference: Jilid 12, al-Maktabah al-Shamilah pp. 2490-2490\nCommentator: Al-Hafiz Ibn Hajar al-Asqalani (rahimahullah)\n\n[General Explanation]\nIn Fath al-Bari (Jilid 12), Al-Hafiz Ibn Hajar al-Asqalani clarifies hadith no. 2013 under Praying at Night in Ramadaan (Taraweeh). He highlights how the prophetic tradition substantiates the core legal principles and provides practical guidance for believers.\n\n[Lexical Analysis of Hadith Terms]\n• ‏\"‏‏.‏ — Core term in the prophetic narration\n  Highlighted by Ibn Hajar in Fath al-Bari as a foundational term defining the jurisprudential ruling.\n• وَلاَ — Key operational phrase of the ruling\n  Indicates the normative legal categorization derived by classical jurists.\n\n[Jurisprudential Benefits & Rulings]\n1. Keteladanan praktis dari sunnah Rasulullah ﷺ dalam bab Shalat Tarawih di Bulan Ramadhan.\n2. Ketetapan fiqih yang dikuatkan oleh Imam Al-Bukhari melalui kecermatan penyusunan isnad dan matan.\n3. Pelajaran moral dan keutamaan amal shalih yang bersumber dari riwayat shahih.\n4. Korelasinya dengan keutuhan syariat Islam yang mudah dipahami dan diamalkan dalam kehidupan sehari-hari.\n\n[Contents of the Full Arabic Commentary]\nThe complete Arabic syarah text (4,298 characters, 1 sections) includes:\n  ◆ Word-by-word explanation of the hadith text (qawluhu)\n\n※ The complete Arabic commentary from al-Maktabah al-Shamilah (shamela.ws/book/1673) is available under the العربية tab above."
+      },
+      "sanad_chain": [
+        {
+          "urutan": 1,
+          "tingkat": "Tingkat 1",
+          "peran": "Mukharrij (Penyusun Kitab Shahih)",
+          "nama": "Imam Al-Bukhari (Muhammad bin Ismail)",
+          "kunyah": "Abu Abdillah",
+          "negeri": "Bukhara (Uzbekistan)",
+          "wafat": "256 H",
+          "thabaqah": "Imamul Muhadditsin (194 - 256 H)",
+          "status_tadil": "Amirul Mukminin fil Hadits (Muttafaq 'Alaih)"
+        },
+        {
+          "urutan": 2,
+          "tingkat": "Tingkat 2",
+          "peran": "Guru Langsung Imam Al-Bukhari (Syaikh)",
+          "nama": "Isma'il",
+          "kunyah": "-",
+          "negeri": "Madinah / Kufah / Bashrah",
+          "wafat": "Abad ke-2 H",
+          "thabaqah": "Perawi Rantai Hadits",
+          "status_tadil": "Tsiqah / 'Adil (Takhrij Bukhari)"
+        },
+        {
+          "urutan": 3,
+          "tingkat": "Tingkat 3",
+          "peran": "Perawi Sanad Jalur Perantara",
+          "nama": "Malik bin Anas (Imam Daril Hijrah)",
+          "kunyah": "Malik",
+          "negeri": "Madinah",
+          "wafat": "179 H",
+          "thabaqah": "Thabaqah 7",
+          "status_tadil": "Imam Mazhab Maliki, Muttafaq 'Alaih"
+        },
+        {
+          "urutan": 4,
+          "tingkat": "Tingkat 4",
+          "peran": "Perawi Sanad Jalur Perantara",
+          "nama": "Sa'id Al Maqbariy",
+          "kunyah": "-",
+          "negeri": "Madinah / Kufah / Bashrah",
+          "wafat": "Abad ke-2 H",
+          "thabaqah": "Perawi Rantai Hadits",
+          "status_tadil": "Tsiqah / 'Adil (Takhrij Bukhari)"
+        },
+        {
+          "urutan": 5,
+          "tingkat": "Tingkat 5",
+          "peran": "Tabi'in Senior (Kibar Tabi'in)",
+          "nama": "Abu Salamah bin 'Abdurrahman",
+          "kunyah": "-",
+          "negeri": "Madinah / Kufah / Bashrah",
+          "wafat": "Abad ke-2 H",
+          "thabaqah": "Perawi Rantai Hadits",
+          "status_tadil": "Tsiqah / 'Adil (Takhrij Bukhari)"
+        },
+        {
+          "urutan": 6,
+          "tingkat": "Tingkat 6",
+          "peran": "Sahabat Nabi (Rodhiyallahu 'Anhu)",
+          "nama": "'Aisyah radliallahu 'anha",
+          "kunyah": "-",
+          "negeri": "Madinah / Kufah / Bashrah",
+          "wafat": "Abad ke-2 H",
+          "thabaqah": "Sahabat Nabi SAW",
+          "status_tadil": "Kulluhum 'Udul (Seluruh Sahabat Terpercaya)"
+        },
+        {
+          "urutan": 7,
+          "tingkat": "Tingkat 7 (Puncak)",
+          "peran": "Sumber Utama Wahyu & Hadits",
+          "nama": "Nabi Muhammad Rasulullah ﷺ",
+          "kunyah": "Abul Qasim",
+          "negeri": "Makkah Al-Mukarramah & Madinah Al-Munawwarah",
+          "wafat": "11 H (632 M)",
+          "thabaqah": "Khatamun Nabiyyin wa Sayyidul Mursalin",
+          "status_tadil": "Ma'shum (Terjaga dari Dosa & Kesalahan dalam Syariat)"
+        }
+      ]
+    }
+  ]
+}

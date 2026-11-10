@@ -1,0 +1,277 @@
+{
+  "metadata": {
+    "judul_kitab": "Fathul Baari Syarah Shahih Al-Bukhari",
+    "jilid": 1,
+    "pengarang": "Al Imam Al Hafizh Ibnu Hajar Al Asqalani (773 - 852 H)",
+    "penerbit_indonesia": "Pustaka Azzam",
+    "penerjemah": "Ghazirah Abdi Ummah",
+    "total_halaman_pdf": 440,
+    "cakupan_kitab": "Kitab 1 (Permulaan Wahyu), Kitab 2 (Iman), Kitab 3 (Ilmu)",
+    "creator": "Digitab Team"
+  },
+  "syarah_hadits": [
+    {
+      "nomor_hadits": 1,
+      "kitab_id": 1,
+      "kitab_nama": "Permulaan Turunnya Wahyu (كتاب بدء الوحي)",
+      "bab_nomor": 1,
+      "bab_nama": "Cara Permulaan Turunnya Wahyu Kepada Rasulullah SAW",
+      "halaman_buku": "18 - 28",
+      "halaman_pdf": "9 - 19",
+      "matan_terjemahan": "Dari 'Alqamah bin Waqqash Al-Laitsi bahwa ia berkata, 'Aku mendengar Umar bin Khaththab RA berkata di atas mimbar, 'Aku mendengar Rasulullah SAW bersabda, 'Tiap-tiap amal perbuatan harus disertai dengan niat, balasan bagi setiap amal manusia sesuai dengan apa yang diniatkan. Barangsiapa yang berhijrah untuk mengharapkan dunia atau seorang perempuan untuk dinikahi, maka hijrahnya sesuai dengan apa yang diniatkan.''",
+      "keterangan_lafal": [
+        {
+          "lafal_arab": "عَلَى الْمِنْبَرِ",
+          "makna": "Di atas mimbar",
+          "penjelasan": "Yaitu mimbar masjid Nabawi di Madinah. Khutbah di atas mimbar menunjukkan bahwa masalah niat merupakan perkara yang sangat fundamental dan disiarkan secara terbuka kepada kaum muslimin."
+        },
+        {
+          "lafal_arab": "إِنَّمَا الأَعْمَالُ بِالنِّيَّاتِ",
+          "makna": "Tiap-tiap amal perbuatan harus disertai dengan niat",
+          "penjelasan": "Lafazh 'Innama' berfungsi sebagai hashr (pembatasan/penegasan). Setiap perbuatan yang diperhitungkan secara syar'i harus dilandasi niat yang tulus. Lafadz 'an-niyyat' menggunakan bentuk jamak untuk mencakup seluruh perbuatan lahiriah manusia yang beraneka ragam."
+        },
+        {
+          "lafal_arab": "وَإِنَّمَا لِكُلِّ امْرِئٍ مَا نَوَى",
+          "makna": "Dan sesungguhnya setiap orang akan mendapatkan sesuai apa yang ia niatkan",
+          "penjelasan": "Kalimat kedua ini bukan sekadar pengulangan (taukid), melainkan faedah penetapan (ta'sis), bahwa ganjaran pahala atau dosa dari suatu amalan bergantung penuh pada orientasi niat orang yang melakukannya."
+        },
+        {
+          "lafal_arab": "فَمَنْ كَانَتْ هِجْرَتُهُ إِلَى اللَّهِ وَرَسُولِهِ",
+          "makna": "Maka barangsiapa hijrahnya menuju Allah dan Rasul-Nya",
+          "penjelasan": "Secara bahasa hijrah berarti meninggalkan. Dalam konteks syariat saat itu adalah meninggalkan negeri kafir (Makkah) menuju Madinah demi memperkuat Islam dan menaati perintah Rasulullah SAW."
+        },
+        {
+          "lafal_arab": "إِلَى دُنْيَا يُصِيبُهَا أَوْ امْرَأَةٍ يَنْكِحُهَا",
+          "makna": "Untuk mengharapkan dunia atau seorang perempuan untuk dinikahi",
+          "penjelasan": "Penyebutan kata 'wanita' secara khusus setelah kata 'dunia' yang sifatnya umum adalah untuk menekankan besarnya fitnah dan godaan wanita. Terdapat riwayat mengenai kisah 'Muhajir Ummu Qais', seorang laki-laki yang berhijrah hanya demi menikahi seorang wanita bernama Ummu Qais."
+        }
+      ],
+      "faedah_dan_hukum": [
+        "Hadits ini merupakan sepertiga dari poros ajaran Islam, karena amalan hamba bersumber dari hati, lisan, dan anggota badan, sementara niat adalah amalan hati yang mendasari segalanya.",
+        "Niat membedakan antara perbuatan ibadah murni dengan kebiasaan (adat) sehari-hari, serta membedakan tingkatan ibadah wajib dan sunnah.",
+        "Ikhlas semata-mata karena Allah adalah syarat mutlak diterimanya setiap amal kebajikan.",
+        "Peringatan keras agar tidak menyamarkan tujuan duniawi atau syahwat di balik amalan agama."
+      ],
+      "kesimpulan_pensyarah": "Imam Bukhari sengaja meletakkan hadits ini di gerbang pertama kitab Shahih-nya sebagai pengingat abadi bagi penuntut ilmu dan pembaca agar selalu meluruskan niat hanya karena Allah SWT dalam setiap amal dan penulisan karya."
+    },
+    {
+      "nomor_hadits": 2,
+      "kitab_id": 1,
+      "kitab_nama": "Permulaan Turunnya Wahyu (كتاب بدء الوحي)",
+      "bab_nomor": 2,
+      "bab_nama": "Bagaimana Cara Wahyu Turun",
+      "halaman_buku": "31 - 35",
+      "halaman_pdf": "22 - 26",
+      "matan_terjemahan": "Dari 'Aisyah Ummul Mukminin RA, bahwa Harits bin Hisyam RA bertanya kepada Nabi Muhammad SAW: 'Ya Rasulullah, bagaimana caranya wahyu turun kepada anda?' Rasulullah menjawab: 'Kadang-kadang wahyu itu datang kepadaku seperti bunyi lonceng. Itulah yang paling berat bagiku. Setelah bunyi itu berhenti, aku baru mengerti apa yang disampaikannya. Dan kadang-kadang malaikat menjelma seperti seorang laki-laki menyampaikan kepadaku dan aku mengerti apa yang disampaikannya.' 'Aisyah berkata: 'Aku pernah melihat Nabi ketika turunnya wahyu kepadanya pada suatu hari yang amat dingin, setelah wahyu itu berhenti turun, kelihatan dahi beliau bersimbah peluh.'",
+      "keterangan_lafal": [
+        {
+          "lafal_arab": "مِثْلَ صَلْصَلَةِ الْجَرَسِ",
+          "makna": "Seperti bunyi gemerincing genta/lonceng",
+          "penjelasan": "Shalshalah adalah suara benturan besi atau tembaga yang terdengar berkesinambungan. Bunyi ini melambangkan suara kepakan sayap malaikat atau kedahsyatan firman Allah yang menggetarkan pendengaran batiniah Nabi sehingga beliau memusatkan seluruh konsentrasi ruhani."
+        },
+        {
+          "lafal_arab": "وَهُوَ أَشَدُّهُ عَلَيَّ",
+          "makna": "Itulah yang paling berat bagiku",
+          "penjelasan": "Keadaan ini sangat berat karena adanya peralihan sifat manusiawi (basyariyah) menuju alam malakut tingkat tinggi untuk menerima kalam Rabbul 'Alamin secara langsung."
+        },
+        {
+          "lafal_arab": "فَيَتَمَثَّلُ لِيَ الْمَلَكُ رَجُلاً",
+          "makna": "Malaikat menjelma kepadaku sebagai seorang laki-laki",
+          "penjelasan": "Cara kedua ini lebih ringan bagi Rasulullah SAW karena Malaikat Jibril yang menyesuaikan diri dalam wujud manusia (seringkali menyerupai sahabat tampan bernama Dihyah Al-Kalbi RA)."
+        },
+        {
+          "lafal_arab": "وَإِنَّ جَبِينَهُ لَيَتَفَصَّدُ عَرَقًا",
+          "makna": "Kelihatan dahi beliau bersimbah peluh",
+          "penjelasan": "Keluarnya keringat deras di dahi Nabi pada hari yang sangat dingin membuktikan betapa dahsyatnya beban ruhani dan fisik saat menampung wahyu ilahi."
+        }
+      ],
+      "faedah_dan_hukum": [
+        "Keagungan Al-Qur'an dan firman Allah yang diturunkan dengan proses yang penuh keagungan.",
+        "Tingkatan wahyu: ada yang melalui suara gaib yang dahsyat, dan ada yang melalui penjelmaan wujud manusia.",
+        "Ketinggian derajat ketabahan dan kekuatan fisik serta ruhani Baginda Rasulullah SAW dalam memikul amanah risalah."
+      ],
+      "kesimpulan_pensyarah": "Al-Hafizh Ibnu Hajar menjelaskan bahwa hadits ini membantah tuduhan orang kafir yang mengira wahyu hanyalah halusinasi, karena terdapat tanda fisik yang nyata disaksikan para sahabat seperti keringat yang membanjiri dahi."
+    },
+    {
+      "nomor_hadits": 3,
+      "kitab_id": 1,
+      "kitab_nama": "Permulaan Turunnya Wahyu (كتاب بدء الوحي)",
+      "bab_nomor": 3,
+      "bab_nama": "Peristiwa Gua Hira, Iqra', dan Waraqah bin Naufal",
+      "halaman_buku": "36 - 43",
+      "halaman_pdf": "27 - 34",
+      "matan_terjemahan": "Dari 'Aisyah Ummul Mukminin bahwa ia berkata: Permulaan wahyu yang datang kepada Rasulullah SAW adalah mimpi yang benar di dalam tidur. Beliau tidak melihat suatu mimpi melainkan datang terang seperti cahaya subuh. Kemudian beliau gemar menyendiri di Gua Hira beribadah (tahannuts) selama beberapa malam... hingga datanglah kebenaran ketika beliau di Gua Hira. Malaikat datang dan berkata: 'Bacalah!' Beliau menjawab: 'Aku tidak bisa membaca.' Malaikat merangkul dan mendekapku hingga kepayahan, lalu melepaskanku... 'Bacalah dengan menyebut nama Tuhanmu Yang Menciptakan'... Lalu beliau pulang dalam keadaan gemetar menemui Khadijah seraya berseru: 'Selimutilah aku! Selimutilah aku!'...",
+      "keterangan_lafal": [
+        {
+          "lafal_arab": "الرُّؤْيَا الصَّالِحَةُ فِي النَّوْمِ",
+          "makna": "Mimpi yang benar dalam tidur",
+          "penjelasan": "Mimpi para Nabi adalah wahyu yang haq. Periode mimpi yang benar ini berlangsung selama enam bulan sebagai masa transisi pengkondisian batin sebelum menerima wahyu Al-Qur'an secara sadar."
+        },
+        {
+          "lafal_arab": "حُبِّبَ إِلَيْهِ الْخَلاَءُ",
+          "makna": "Dianugerahi kesukaan untuk menyendiri",
+          "penjelasan": "Menyendiri (khalwah) di Gua Hira di atas Jabal Nur bertujuan mengosongkan hati dari kesibukan dunia dan kesyirikan kaum musyrikin Makkah guna berkontemplasi."
+        },
+        {
+          "lafal_arab": "يَتَحَنَّثُ فِيهِ",
+          "makna": "Beribadah di dalamnya",
+          "penjelasan": "Tahannuts bermakna menjauhi dosa (hanits) dan mengikuti ajaran tauhid Nabi Ibrahim AS dengan shalat, tafakkur, dan memberi makan orang-orang miskin."
+        },
+        {
+          "lafal_arab": "زَمِّلُونِي زَمِّلُونِي",
+          "makna": "Selimutilah aku! Selimutilah aku!",
+          "penjelasan": "Permintaan diselimuti timbul karena rasa dingin dan guncangan fisik yang luar biasa setelah didekap oleh Malaikat Jibril dan menerima firman Allah yang maha agung."
+        },
+        {
+          "lafal_arab": "هَذَا النَّامُوسُ الَّذِي نَزَّلَ اللَّهُ عَلَى مُوسَى",
+          "makna": "Ini adalah Namus (malaikat pembawa rahasia) yang pernah diturunkan Allah kepada Musa",
+          "penjelasan": "Perkataan Waraqah bin Naufal menegaskan kesinambungan nubuwah. An-Namus adalah istilah khusus untuk Malaikat Jibril yang membawa wahyu syariat bagi para rasul Ulul 'Azmi."
+        }
+      ],
+      "faedah_dan_hukum": [
+        "Keutamaan Ummul Mukminin Khadijah binti Khuwailid RA yang memiliki kecerdasan luar biasa, keteguhan iman, dan menjadi penenang sejati bagi Rasulullah SAW.",
+        "Dalil hukum bahwa orang yang berakhlak mulia, menyambung tali silaturrahim, menolong orang lemah, dan memuliakan tamu tidak akan disia-siakan oleh Allah SWT.",
+        "Hikmah dekapan Malaikat Jibril adalah menyadarkan Rasulullah SAW bahwa peristiwa tersebut terjadi dalam alam sadar nyata, bukan mimpi atau bayangan."
+      ],
+      "kesimpulan_pensyarah": "Hadits ini adalah tonggak sejarah lahirnya risalah kenabian akhir zaman dan menjadi dalil sahih turunnya Surah Al-'Alaq ayat 1-5 sebagai wahyu pertama."
+    },
+    {
+      "nomor_hadits": 4,
+      "kitab_id": 1,
+      "kitab_nama": "Permulaan Turunnya Wahyu (كتاب بدء الوحي)",
+      "bab_nomor": 4,
+      "bab_nama": "Masa Terputusnya Wahyu dan Turunnya Surah Al-Muddatstsir",
+      "halaman_buku": "44 - 46",
+      "halaman_pdf": "35 - 37",
+      "matan_terjemahan": "Dari Jabir bin Abdullah Al-Anshari RA, ketika membicarakan tentang terputusnya wahyu: 'Ketika aku sedang berjalan, tiba-tiba aku mendengar suara dari langit. Aku mengarahkan pandanganku ke langit, ternyata malaikat yang pernah mendatangiku di Gua Hira duduk di atas kursi antara langit dan bumi. Aku merasa sangat takut hingga tersungkur ke tanah. Lalu aku pulang dan berkata: Selimutilah aku! Selimutilah aku! Maka Allah menurunkan ayat: 'Hai orang yang berselimut! Bangunlah, lalu berilah peringatan!' Hingga firman-Nya: 'Dan perbuatan dosa tinggalkanlah!' Setelah itu wahyu turun berturut-turut tanpa terputus.'",
+      "keterangan_lafal": [
+        {
+          "lafal_arab": "فَتْرَةِ الْوَحْيِ",
+          "makna": "Masa jeda / terputusnya wahyu",
+          "penjelasan": "Masa jeda ini terjadi selama beberapa waktu agar rasa guncangan Nabi reda dan berganti dengan kerinduan mendalam untuk menerima wahyu kembali."
+        },
+        {
+          "lafal_arab": "دَثِّرُونِي دَثِّرُونِي",
+          "makna": "Selimutilah aku! Selimutilah aku!",
+          "penjelasan": "Datsar adalah selimut tebal luar yang dipakai saat berbaring istirahat menahan rasa dingin dan gemetar."
+        },
+        {
+          "lafal_arab": "يَا أَيُّهَا الْمُدَّثِّرُ قُمْ فَأَنْذِرْ",
+          "makna": "Wahai orang yang berselimut! Bangunlah lalu berilah peringatan!",
+          "penjelasan": "Ayat ini merupakan pelantikan resmi Baginda Nabi Muhammad SAW dari martabat Nabi (lewat ayat Iqra') menjadi martabat Rasul yang wajib berdakwah secara terang-terangan."
+        }
+      ],
+      "faedah_dan_hukum": [
+        "Perbedaan antara kenabian (Nubuwwah) yang dimulai dengan Surah Al-'Alaq (Iqra') dan kerasulan (Risalah) yang dimulai dengan Surah Al-Muddatstsir.",
+        "Kewajiban mensucikan pakaian lahiriah dan batiniah dari segala bentuk kotoran maksiat dan berhala.",
+        "Setelah turunnya Surah Al-Muddatstsir, wahyu terus mengalir deras (fataabi'a al-wahyu) memandu seluruh tatanan kehidupan umat Islam."
+      ],
+      "kesimpulan_pensyarah": "Al-Hafizh Ibnu Hajar menegaskan bahwa masa fatrah (jeda wahyu) memiliki hikmah tarbiyah ilahiyyah yang sangat tinggi untuk mengobati kerinduan ruhani sang Nabi."
+    },
+    {
+      "nomor_hadits": 5,
+      "kitab_id": 1,
+      "kitab_nama": "Permulaan Turunnya Wahyu (كتاب بدء الوحي)",
+      "bab_nomor": 5,
+      "bab_nama": "Adab Menerima Wahyu dan Jaminan Allah atas Hafalan Al-Qur'an",
+      "halaman_buku": "47 - 52",
+      "halaman_pdf": "38 - 43",
+      "matan_terjemahan": "Dari Ibnu Abbas mengenai firman Allah: 'Jangan kamu gerakkan lidahmu untuk membaca Al-Qur'an karena hendak cepat-cepat menguasainya.' Ibnu Abbas berkata: Rasulullah SAW berusaha sangat keras ketika menerima wahyu dengan menggerak-gerakkan kedua bibirnya karena khawatir lupa. Maka Allah menurunkan ayat: 'Jangan kamu gerakkan lidahmu... Sesungguhnya atas tanggungan Kamilah mengumpulkannya di dadamu dan membuatmu pandai membacanya. Apabila Kami telah selesai membacakannya maka ikutilah bacaannya itu. Kemudian, sesungguhnya atas tanggungan Kamilah penjelasannya.' Maka sejak saat itu bila Malaikat Jibril datang, Rasulullah SAW mendengarkan dengan seksama, dan jika Jibril telah pergi, beliau membacanya persis seperti yang dibacakan Jibril.",
+      "keterangan_lafal": [
+        {
+          "lafal_arab": "لاَ تُحَرِّكْ بِهِ لِسَانَكَ لِتَعْجَلَ بِهِ",
+          "makna": "Jangan gerakkan lidahmu karena hendak tergesa-gesa",
+          "penjelasan": "Larangan ini merupakan bimbingan ilahi agar Nabi tidak membebani dirinya mengulangi lafadz di sela-sela Jibril membaca karena cemas luput satu huruf pun."
+        },
+        {
+          "lafal_arab": "إِنَّ عَلَيْنَا جَمْعَهُ وَقُرْآنَهُ",
+          "makna": "Sesungguhnya tanggungan Kamilah mengumpulkannya dan membacakannya",
+          "penjelasan": "Jaminan mukjizat bahwa Allah SWT yang menanamkan teks dan makna Al-Qur'an secara sempurna ke dalam dada suci Nabi tanpa ada yang tercecer sedikitpun."
+        },
+        {
+          "lafal_arab": "فَإِذَا قَرَأْنَاهُ فَاتَّبِعْ قُرْآنَهُ",
+          "makna": "Apabila Kami telah membacakannya maka ikutilah bacaannya",
+          "penjelasan": "Perintah untuk menyimak secara saksama hingga Jibril menyelesaikan bacaannya, baru kemudian beliau membacanya kembali."
+        }
+      ],
+      "faedah_dan_hukum": [
+        "Adab utama seorang penuntut ilmu adalah mendengarkan guru secara tuntas terlebih dahulu sebelum bertanya atau memotong pembicaraan.",
+        "Kekuatan hafalan Rasulullah SAW merupakan mukjizat ilahi yang dijamin langsung oleh Allah Rabbul 'Alamin.",
+        "Asal-usul metode talaqqi dan sima'i (mendengarkan secara langsung) yang menjadi fondasi ilmu Al-Qur'an dan ilmu Hadits."
+      ],
+      "kesimpulan_pensyarah": "Hadits ini memberikan kepastian qath'i bahwa Al-Qur'an terpelihara dari segala bentuk kekurangan, kekeliruan, atau kelupaan semenjak lafalnya pertama kali keluar dari Malaikat Jibril."
+    },
+    {
+      "nomor_hadits": 6,
+      "kitab_id": 1,
+      "kitab_nama": "Permulaan Turunnya Wahyu (كتاب بدء الوحي)",
+      "bab_nomor": 6,
+      "bab_nama": "Kedermawanan Rasulullah SAW dan Tadarus Al-Qur'an Bersama Jibril",
+      "halaman_buku": "53 - 56",
+      "halaman_pdf": "44 - 47",
+      "matan_terjemahan": "Dari Ibnu Abbas RA berkata: Rasulullah SAW adalah manusia yang paling dermawan dalam kebaikan, dan beliau berada dalam puncak kedermawanannya pada bulan Ramadhan ketika Malaikat Jibril menemuinya. Jibril menemuinya pada setiap malam di bulan Ramadhan untuk mudarasah (tadarus) Al-Qur'an bersama beliau. Sungguh Rasulullah SAW lebih dermawan dalam memberikan kebaikan daripada angin yang berhembus kencang.",
+      "keterangan_lafal": [
+        {
+          "lafal_arab": "كَانَ أَجْوَدَ النَّاسِ",
+          "makna": "Beliau adalah orang yang paling dermawan",
+          "penjelasan": "Al-Juud bermakna memberikan apa yang pantas diberikan tanpa mengharapkan balasan materi, mencakup pengorbanan jiwa, raga, ilmu, dan harta."
+        },
+        {
+          "lafal_arab": "فَيُدَارِسُهُ الْقُرْآنَ",
+          "makna": "Maka Jibril mengajarkan dan mengulang bacaan Al-Qur'an bersama beliau",
+          "penjelasan": "Mudarasah adalah tadarus timbal-balik di mana salah seorang membaca dan yang lain menyimak secara teliti, memastikan ketepatan setiap makhraj dan harakat."
+        },
+        {
+          "lafal_arab": "أَجْوَدُ بِالْخَيْرِ مِنَ الرِّيحِ الْمُرْسَلَةِ",
+          "makna": "Lebih cepat berbuat kebajikan daripada angin yang berhembus",
+          "penjelasan": "Tamsil (permisalan) dengan angin yang membawa awan hujan berkah; merata ke seluruh lapisan masyarakat, berhembus cepat tanpa henti dan memberi kehidupan bagi bumi yang gersang."
+        }
+      ],
+      "faedah_dan_hukum": [
+        "Keutamaan melipatgandakan sedekah, kedermawanan, dan amal sosial di bulan suci Ramadhan.",
+        "Disyariatkannya mudarasah (tadarus) Al-Qur'an di malam-malam Ramadhan.",
+        "Berinteraksi erat dengan Al-Qur'an dan para ulama saleh akan melahirkan kelapangan jiwa dan ketajaman akhlak karimah."
+      ],
+      "kesimpulan_pensyarah": "Al-Hafizh Ibnu Hajar menggarisbawahi korelasi antara tilawah Al-Qur'an dengan kedermawanan: barangsiapa yang meresapi kalam ilahi, maka dunia akan menjadi kecil di matanya dan tangannya akan ringan berbagi."
+    },
+    {
+      "nomor_hadits": 7,
+      "kitab_id": 1,
+      "kitab_nama": "Permulaan Turunnya Wahyu (كتاب بدء الوحي)",
+      "bab_nomor": 7,
+      "bab_nama": "Surat Rasulullah SAW kepada Kaisar Heraklius dan Dialog Uji Kenabian",
+      "halaman_buku": "57 - 74",
+      "halaman_pdf": "48 - 65",
+      "matan_terjemahan": "Dari Ibnu Abbas RA bahwa Abu Sufyan bin Harb menceritakan kepadanya bahwa Kaisar Heraklius memanggilnya saat ia memimpin rombongan kafilah dagang Quraisy di Syam... Heraklius mengajukan 10 pertanyaan mendasar untuk menguji tanda-tanda kenabian Nabi Muhammad SAW: nasab beliau, keadaan pengikutnya, kejujurannya, amanahnya, dan ajaran yang dibawanya. Abu Sufyan mengakui bahwa beliau berketurunan bangsawan mulia, pengikutnya adalah kaum lemah yang setia dan bertambah banyak, belum pernah berdusta seumur hidupnya, dan menyeru untuk hanya menyembah Allah semata, mendirikan shalat, bersikap jujur, memelihara kehormatan ('iffah), serta menyambung silaturrahim. Heraklius berkata: 'Jika yang engkau katakan ini benar, maka kelak ia akan menguasai tempat di mana kedua telapak kakiku ini berpijak!'...",
+      "keterangan_lafal": [
+        {
+          "lafal_arab": "فَمَاذَا يَأْمُرُكُمْ؟",
+          "makna": "Lalu apa yang beliau perintahkan kepada kalian?",
+          "penjelasan": "Heraklius ingin menguji apakah isi dakwah beliau selaras dengan ajaran para nabi Bani Israil terdahulu."
+        },
+        {
+          "lafal_arab": "اعْبُدُوا اللَّهَ وَحْدَهُ وَلاَ تُشْرِكُوا بِهِ شَيْئًا",
+          "makna": "Sembahlah Allah semata dan jangan mempersekutukan-Nya dengan sesuatupun",
+          "penjelasan": "Tauhid murni adalah intisari dari seruan seluruh nabi dan rasul semenjak Nabi Adam AS hingga Nabi Muhammad SAW."
+        },
+        {
+          "lafal_arab": "بِالصَّلاَةِ وَالصِّدْقِ وَالْعَفَافِ وَالصِّلَةِ",
+          "makna": "Dengan shalat, kejujuran, memelihara kehormatan diri, dan menyambung silaturrahim",
+          "penjelasan": "Empat pilar akhlak dan syariat: hubungan dengan Allah (shalat), integritas lisan (kejujuran), kemurnian moral syahwat ('afaf), dan keharmonisan sosial kekeluargaan (shilah)."
+        },
+        {
+          "lafal_arab": "مَا جَرَّبْنَا عَلَيْهِ كَذِبًا",
+          "makna": "Kami tidak pernah mendapati beliau berdusta",
+          "penjelasan": "Kesaksian musuh bebuyutan (Abu Sufyan saat masih musyrik) yang diakui Heraklius: 'Tidaklah mungkin seseorang yang tidak pernah berdusta kepada sesama manusia, lalu tiba-tiba berani berdusta atas nama Allah!'"
+        }
+      ],
+      "faedah_dan_hukum": [
+        "Tanda-tanda kenabian yang hakiki terbukti dari konsistensi akhlak, kejujuran yang diakui bahkan oleh lawan, dan kemurnian ajaran tauhid.",
+        "Kebiasaan para pengikut rasul pada awal dakwah selalu berasal dari kalangan mustadh'afin (orang-orang lemah dan tertindas) yang tulus hatinya.",
+        "Keutamaan mengirim surat dakwah kepada para pemimpin dan penguasa dunia dengan bahasa santun namun tegas dalam mengajak kepada Islam.",
+        "Ramalan Kaisar Heraklius terbukti nyata: beberapa dekade kemudian wilayah Syam dan Baitul Maqdis berhasil dibebaskan di bawah naungan panji Islam."
+      ],
+      "kesimpulan_pensyarah": "Imam Bukhari menutup Kitab Permulaan Wahyu dengan hadits Heraklius yang agung ini untuk menunjukkan bahwa nubuwah Nabi Muhammad SAW telah diakui oleh kitab-kitab samawi terdahulu dan oleh para raja imperium terbesar di zamannya."
+    }
+  ]
+}
